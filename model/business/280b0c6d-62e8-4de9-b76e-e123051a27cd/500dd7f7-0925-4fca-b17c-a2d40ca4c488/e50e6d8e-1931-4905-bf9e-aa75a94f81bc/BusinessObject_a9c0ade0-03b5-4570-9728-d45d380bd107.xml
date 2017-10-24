@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccountTaxExemption"
+    id="a9c0ade0-03b5-4570-9728-d45d380bd107"
+    documentation="Justification that a particular CustomerAccount is not required to pay taxes imposed by a taxing jurisdiction."/>

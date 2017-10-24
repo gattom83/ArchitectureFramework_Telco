@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingCreditBalance"
+    id="8be5fdc9-bb4c-4320-9f8d-4f162e06b8ed"
+    documentation="A remaining or outstanding credit for a CustomerAccount."/>

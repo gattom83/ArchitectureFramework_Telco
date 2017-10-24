@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicAppliedCustomerBillingRate"
+    id="667e9c52-2370-4129-8511-a77e2dfc50e1"
+    documentation="A single charge or a credit."/>

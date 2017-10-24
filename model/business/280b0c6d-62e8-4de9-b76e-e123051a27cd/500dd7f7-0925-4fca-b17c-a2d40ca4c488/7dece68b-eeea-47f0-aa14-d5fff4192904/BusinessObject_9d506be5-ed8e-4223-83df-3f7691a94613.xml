@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerInvoiceInquiry"
+    id="9d506be5-ed8e-4223-83df-3f7691a94613"
+    documentation="A request for information about a written record of goods or services provided and the amount charged for them, sent to a Customer as a request for payment."/>

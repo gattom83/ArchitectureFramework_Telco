@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAllowance"
+    id="bdb97b90-42b1-4d28-b6fa-bce33015c594"
+    documentation="Money (typically) deducted from the selling price of a Product a service provider as a discount or in exchange for something. An example of allowance is 500 free minutes of domestic calls granted to new customers by AllowanceProdPriceAlteration. While a customer uses the service the available allowance is gradually reduced. The AvaliableCustomerAllowance represents available not yet used allowance."/>

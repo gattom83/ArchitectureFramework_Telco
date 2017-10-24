@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerProblem"
+    id="3944aabb-77ef-4ec2-b9f3-49ca1b168173"
+    documentation="Represents a problem which affects the Customer experience. CustomerProblem can be raised by the Customer (a complaint) or by the CSP (typically through some analytics system)"/>

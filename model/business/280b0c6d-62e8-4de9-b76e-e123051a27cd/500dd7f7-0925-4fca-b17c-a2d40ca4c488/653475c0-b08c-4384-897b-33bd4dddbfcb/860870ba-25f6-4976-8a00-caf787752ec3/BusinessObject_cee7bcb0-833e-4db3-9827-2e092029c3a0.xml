@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerPayment"
+    id="cee7bcb0-833e-4db3-9827-2e092029c3a0"
+    documentation="CustomerPayment represents the transfer of wealth from a customer for a product or usage of product."/>

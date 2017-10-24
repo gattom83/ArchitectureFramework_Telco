@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChurnRetentionStatistic"
+    id="8a6b4499-ec88-4afd-babe-09f5730ab7cf"
+    documentation="A meaure of Customer churn (turnover of Customers) or Customer retention (keeping Customers)."/>

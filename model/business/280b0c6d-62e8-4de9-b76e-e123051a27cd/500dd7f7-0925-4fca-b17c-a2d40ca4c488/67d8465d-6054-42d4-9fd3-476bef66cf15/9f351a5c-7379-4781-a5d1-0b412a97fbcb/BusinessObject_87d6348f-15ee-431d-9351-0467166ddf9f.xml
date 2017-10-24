@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChargeAmountThreshold"
+    id="87d6348f-15ee-431d-9351-0467166ddf9f"
+    documentation="ChargeAmountThreshold constrains relationship between product charges and CustomerAccount(s) by specifying a limited amount beyond which product charges will not be affordable by associated CustomerAccount."/>

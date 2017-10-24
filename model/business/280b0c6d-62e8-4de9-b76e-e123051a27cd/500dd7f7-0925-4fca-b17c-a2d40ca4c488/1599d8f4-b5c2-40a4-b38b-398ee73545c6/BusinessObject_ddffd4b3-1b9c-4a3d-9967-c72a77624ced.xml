@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FinancialChargeSpec"
+    id="ddffd4b3-1b9c-4a3d-9967-c72a77624ced"
+    documentation="FinancialChargeSpec defines one specification for certain kind(s) of FinancialCharge. FinancialChargeSpec could be applied to BalanceUsageRule to help to describe specification of FinancialCharge and relate them to the sharing information and the private usage information."/>

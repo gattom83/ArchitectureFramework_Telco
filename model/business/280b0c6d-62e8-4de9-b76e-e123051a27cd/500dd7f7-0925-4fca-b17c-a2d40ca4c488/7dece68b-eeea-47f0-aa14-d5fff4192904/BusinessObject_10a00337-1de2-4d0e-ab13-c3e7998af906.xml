@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerDisputedAmount"
+    id="10a00337-1de2-4d0e-ab13-c3e7998af906"
+    documentation="CustomerDisputedAmount is a type of DisputedAmount which represents an amount of money in dispute between the enterprise and one of its customers "/>

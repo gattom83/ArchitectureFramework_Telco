@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer"
-    id="8bca74ac-31aa-4b05-811b-d3448dd83f64"/>
+    id="8bca74ac-31aa-4b05-811b-d3448dd83f64"
+    documentation="A person or organization that buys products and services from the enterprise or receives free offers or services. This is modeled as a Party playing the role of Customer. A Customer is a type of PartyRole. Customers can also be other service providers who resell the enterprises products, other service providers that lease the enterprise's resources for utilization by the other service provider's products and services, and so forth."/>

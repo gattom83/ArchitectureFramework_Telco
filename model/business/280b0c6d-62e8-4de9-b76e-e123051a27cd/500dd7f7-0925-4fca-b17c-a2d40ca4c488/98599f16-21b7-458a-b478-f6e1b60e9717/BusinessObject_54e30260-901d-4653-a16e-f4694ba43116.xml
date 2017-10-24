@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerOrderItem"
+    id="54e30260-901d-4653-a16e-f4694ba43116"
+    documentation="The purpose for the Customer Order expressed in terms of a Product Offering or a Product (for a change order) inherited from BusinessInteractionItem."/>

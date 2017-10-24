@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChargeSplittingRule"
+    id="297af10a-c7d1-4107-813e-b89908559605"
+    documentation="ChargeSplittingRule is charge-level/account-level rule information describing which product charge should be directed to which CustomerAccounts. It can base on time and/or percentage."/>

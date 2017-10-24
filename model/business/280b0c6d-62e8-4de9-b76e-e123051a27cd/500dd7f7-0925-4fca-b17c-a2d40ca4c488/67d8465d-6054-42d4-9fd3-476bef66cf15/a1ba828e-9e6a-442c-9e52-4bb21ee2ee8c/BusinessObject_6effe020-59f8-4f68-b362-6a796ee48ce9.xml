@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingStatistic"
+    id="6effe020-59f8-4f68-b362-6a796ee48ce9"
+    documentation="Collected data derived from CustomerBills. It is defined by CustomerBillingStatisticSpecification."/>

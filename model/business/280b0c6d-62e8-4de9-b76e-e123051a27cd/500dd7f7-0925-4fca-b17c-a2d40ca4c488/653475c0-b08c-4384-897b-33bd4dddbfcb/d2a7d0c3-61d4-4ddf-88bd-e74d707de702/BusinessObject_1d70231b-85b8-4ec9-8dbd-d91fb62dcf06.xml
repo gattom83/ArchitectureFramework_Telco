@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningCase"
+    id="1d70231b-85b8-4ec9-8dbd-d91fb62dcf06"
+    documentation="The DunningCase represents a type of cases open for a customer. Whenever a customer enters the dunning process, a dunning case is linked to his customer account debt and it contains all details pertaining to the debt, such as dunning case rules, interactions… The status of a dunning case evolves according to internal or external events (payments made by the customer, payment schedule granted…)."/>

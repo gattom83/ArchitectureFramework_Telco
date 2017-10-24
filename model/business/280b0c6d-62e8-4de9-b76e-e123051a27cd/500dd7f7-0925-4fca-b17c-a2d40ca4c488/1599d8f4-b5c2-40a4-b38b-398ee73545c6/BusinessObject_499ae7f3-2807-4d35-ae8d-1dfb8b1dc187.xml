@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerBillingProductAlteration"
+    id="499ae7f3-2807-4d35-ae8d-1dfb8b1dc187"
+    documentation="A credit that is applied in order to reduce the associated charge."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerQuote"
+    id="5ddaf7f2-0401-4bf1-ac0c-6b1d22f2c3c1"
+    documentation="An price estimate (quote) or a presentation for sale (offer) of product offerings to a party playing a role."/>

@@ -1,0 +1,34 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DirectoryServiceRequest"
+    id="c0f77468-5732-449c-a7aa-5fe52d94fa68"
+    documentation="A Directory Service Requests contains the administrative, billing, contact details and listing or directory delivery information for a directory service. The Ordering and Billing Forum (OBF) defines and publishes directory service ordering guidelines.">
+  <properties
+      key="Attribute name"
+      value="customerOrderType :: CustomerOrder"/>
+  <properties
+      key="Attribute name"
+      value="purchaseOrderNumber&#x9; :: CustomerOrder"/>
+  <properties
+      key="Attribute name"
+      value="assignedPriority :: CustomerOrder"/>
+  <properties
+      key="Attribute name"
+      value="assignedResponseDate :: CustomerOrder"/>
+  <properties
+      key="Attribute name"
+      value="dueDate :: CustomerOrder"/>
+  <properties
+      key="Attribute name"
+      value="ID :: BusinessInteraction"/>
+  <properties
+      key="Attribute name"
+      value="interactionDate :: BusinessInteraction"/>
+  <properties
+      key="Attribute name"
+      value="description :: BusinessInteraction"/>
+  <properties
+      key="Attribute name"/>
+  <properties
+      key="Attribute name"/>
+</archimate:BusinessObject>

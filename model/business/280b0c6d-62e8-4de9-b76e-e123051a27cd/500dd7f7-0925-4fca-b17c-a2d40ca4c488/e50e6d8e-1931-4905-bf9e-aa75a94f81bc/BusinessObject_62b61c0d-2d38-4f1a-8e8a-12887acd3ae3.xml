@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustCreditProfileReference"
+    id="62b61c0d-2d38-4f1a-8e8a-12887acd3ae3"
+    documentation="A source of information that helps define a Customer's credit worthiness."/>

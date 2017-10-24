@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Service Level Agreement Abe"
-    id="ca747dae-985a-4b32-b034-1af429d452b6"/>
+    id="ca747dae-985a-4b32-b034-1af429d452b6"
+    documentation="The Customer SLA ABE is a special case of the Service Level Agreement ABE where an involved party in the agreement is a Customer. See the Agreement ABE in the Engaged Party Domain for details. "/>

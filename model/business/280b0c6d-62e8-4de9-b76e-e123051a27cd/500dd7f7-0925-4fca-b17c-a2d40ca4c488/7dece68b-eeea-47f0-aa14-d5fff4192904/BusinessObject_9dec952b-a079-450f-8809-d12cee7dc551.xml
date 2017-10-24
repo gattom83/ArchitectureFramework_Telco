@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerInquiry"
+    id="9dec952b-a079-450f-8809-d12cee7dc551"
+    documentation="A request for information from a Customer."/>

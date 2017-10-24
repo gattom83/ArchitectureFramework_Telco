@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingStatisticSpec"
+    id="b225895d-e1a2-448d-95c8-fd8a8a033251"
+    documentation="A detailed description of a collection of statistical data derived from CustomerBills (for example, customer account charge sum over a certain period of time). Statistical data are typically collected during rating and billing processes. A specification may be implemented using a rules engine or a policy to determine collection rules."/>

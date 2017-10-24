@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccountChargeSumSpec"
+    id="83a72cd0-6efe-408c-96e1-f5c8713397f8"
+    documentation="A detailed description of the aggregation of all charges applied to a CustomerAccount."/>

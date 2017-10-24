@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerBillingTaxRate"
+    id="0e4f9c90-df88-45b6-898c-2e70fc303b72"
+    documentation="An amount of money levied on the price of a Product by a legislative body."/>

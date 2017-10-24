@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerPenaltyCharge"
+    id="603ea381-3c8c-446d-a23a-5ea49418f154"
+    documentation="The AppliedCustomerPenaltyCharge is a type of AppliedCustomerBillingCharge. &#xA;It represents penalty charges such as late fees, payment rejection fees, interests, that could be applied, linked to dunning of a due amount, in order to bill the customer according to contractual terms and conditions."/>

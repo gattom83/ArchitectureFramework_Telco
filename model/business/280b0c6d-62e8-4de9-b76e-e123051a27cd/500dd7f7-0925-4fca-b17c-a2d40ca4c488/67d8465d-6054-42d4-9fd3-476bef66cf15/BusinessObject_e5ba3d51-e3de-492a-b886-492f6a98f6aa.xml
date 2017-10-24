@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillPresentationMedia"
+    id="e5ba3d51-e3de-492a-b886-492f6a98f6aa"
+    documentation="A means of communicating a CustomerBill, supported by the associated bill format. For example, post mail, email, web page."/>

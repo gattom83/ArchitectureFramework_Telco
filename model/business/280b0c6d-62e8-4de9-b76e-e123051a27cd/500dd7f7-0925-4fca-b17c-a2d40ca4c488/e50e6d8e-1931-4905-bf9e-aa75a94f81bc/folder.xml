@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Abe"
-    id="e50e6d8e-1931-4905-bf9e-aa75a94f81bc"/>
+    id="e50e6d8e-1931-4905-bf9e-aa75a94f81bc"
+    documentation="The Customer Interaction ABE represents communications with customers, and the translation of customer requests and inquiries into appropriate “events” such as the creation of an customer order, the creation of a customer bill inquiry, or the creation of a customer problem. "/>

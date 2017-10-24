@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillSpec"
+    id="8216648c-6b80-4f2f-8db6-b81d9ef45108"
+    documentation="A detailed description of a customer's bill structure. The current version of this class is serving as a placeholder. It will be further developed in the next version of this document."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeAppliedCustomerBillingRate"
+    id="1be87b21-4294-4314-a211-f7ba97878af9"
+    documentation="A sum of one or more other AppliedCustomerBillingRates formed by aggregating other AppliedCustomerBillingRates, which may be either Composite or Atomic AppliedCustomerBillingRates."/>

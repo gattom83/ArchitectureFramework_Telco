@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerBillingDiscount"
+    id="4071e8ac-1581-4c2e-9106-5dcea8ab349a"
+    documentation="AppliedCustomerBillingDiscount&#xA;A reduction in the price of a Product that is applied to reduce the associated charge."/>

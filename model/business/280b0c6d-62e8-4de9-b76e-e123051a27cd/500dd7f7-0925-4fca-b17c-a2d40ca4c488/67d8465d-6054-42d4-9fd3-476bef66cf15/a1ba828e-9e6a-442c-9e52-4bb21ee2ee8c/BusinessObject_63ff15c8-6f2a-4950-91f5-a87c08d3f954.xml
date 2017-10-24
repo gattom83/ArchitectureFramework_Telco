@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingProductChargeSum"
+    id="63ff15c8-6f2a-4950-91f5-a87c08d3f954"
+    documentation="A total of all CustomerAccount charges applied to a Product."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningNotification"
+    id="7e92df16-92d8-4f1e-b1d2-472201d7af26"
+    documentation="A DunningNotification is a communication or joint activity from the Telecommunication Operator to the customer to ask for a CustomerPayment or negotiate a PaymentPlan. &#xA;The relation resulting from a DunningCaseRule might be &#xA;• either only from the telecommunication operator to the customer (Ex: send a SMS) &#xA;• or in both ways (Ex: a CSR call the customer to negotiate a PaymentPlan)."/>

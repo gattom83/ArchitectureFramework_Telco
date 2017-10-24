@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingCredit"
+    id="22ce9df2-842c-4c8b-aae9-97c5c686d272"
+    documentation="The amount of a deduction that can be applied against an amount charged for a Product on a CustomerBill. Billing credits are typically governed by ProductPriceRule(s) and ProductPriceAlteration(s)."/>

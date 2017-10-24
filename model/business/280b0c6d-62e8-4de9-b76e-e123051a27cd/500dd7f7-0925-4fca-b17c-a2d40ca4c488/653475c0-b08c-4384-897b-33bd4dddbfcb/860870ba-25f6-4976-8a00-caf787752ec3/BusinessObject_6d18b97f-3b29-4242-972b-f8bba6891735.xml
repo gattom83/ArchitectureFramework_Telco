@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerPaymentItem"
+    id="6d18b97f-3b29-4242-972b-f8bba6891735"
+    documentation="CustomerPaymentItem is the application of CustomerPayment. CustomerPaymentItem is applied to CustomerBill or AppliedCustomerBillingRate."/>

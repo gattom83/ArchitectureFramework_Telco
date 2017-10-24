@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccount"
+    id="5691fc7c-885d-47ca-8115-82b44633291e"
+    documentation="An arrangement that a customer has with an enterprise that provides products to the customer and collects AppliedCustomerBillingRate that are used to produce CustomerBill."/>

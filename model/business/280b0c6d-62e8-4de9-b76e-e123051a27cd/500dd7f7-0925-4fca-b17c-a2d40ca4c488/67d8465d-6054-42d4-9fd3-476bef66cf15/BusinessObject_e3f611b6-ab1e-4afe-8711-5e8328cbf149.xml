@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingCycleSpecification"
+    id="e3f611b6-ab1e-4afe-8711-5e8328cbf149"
+    documentation="A detailed description of when to initiate a billing cycle and the various sub steps of a billing cycle."/>

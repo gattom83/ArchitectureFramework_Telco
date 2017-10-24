@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingStatisticBalance"
+    id="a6b17558-9338-4ff6-81d0-e5b167edf36d"
+    documentation="The balance of collected statistical data."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalServiceRequest"
+    id="c568b720-bd7f-438f-aa85-dea4c3569844"
+    documentation="An Local Service Request (LSR) contains information pertaining to the administrative, billing, service and contact details for a local service order as mandated in Ordering and Billing Forum (OBF) guidelines."/>

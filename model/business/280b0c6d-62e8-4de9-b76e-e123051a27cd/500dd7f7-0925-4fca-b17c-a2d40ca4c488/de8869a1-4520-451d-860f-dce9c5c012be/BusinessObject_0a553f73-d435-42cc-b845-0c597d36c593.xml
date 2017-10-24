@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KnownProblemDescription"
+    id="0a553f73-d435-42cc-b845-0c597d36c593"
+    documentation="A description of a known problem, optionally with some known workarounds. It may be shared by multiple CustomerProblems."/>

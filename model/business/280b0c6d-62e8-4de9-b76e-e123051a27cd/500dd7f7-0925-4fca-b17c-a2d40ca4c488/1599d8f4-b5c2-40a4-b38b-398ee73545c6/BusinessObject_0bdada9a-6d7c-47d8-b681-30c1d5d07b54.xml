@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductFinancialAccountRelationship"
+    id="0bdada9a-6d7c-47d8-b681-30c1d5d07b54"
+    documentation="ProductChargeAccountRelationship entity relates product charge to one or more CustomerAccount(s) via which associated charging information is maintained. ProductChargeAccountRelationship uses rule information(from ChargeSplittingRule and ChargeAmountThreshold) and charge information held by FinancialChargeSpec and AtomicAppliedCustomerBillingRate to decide the charge relationship, such as which charge from one product usage should be directed to which CustomerAccount(s) and the charge amount."/>

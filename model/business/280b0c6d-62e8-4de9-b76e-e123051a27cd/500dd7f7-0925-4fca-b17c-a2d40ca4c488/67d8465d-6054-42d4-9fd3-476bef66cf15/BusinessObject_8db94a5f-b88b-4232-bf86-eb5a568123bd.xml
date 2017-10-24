@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBill"
+    id="8db94a5f-b88b-4232-bf86-eb5a568123bd"
+    documentation="A total amount due from a CustomerAccount for all products during the billing period."/>

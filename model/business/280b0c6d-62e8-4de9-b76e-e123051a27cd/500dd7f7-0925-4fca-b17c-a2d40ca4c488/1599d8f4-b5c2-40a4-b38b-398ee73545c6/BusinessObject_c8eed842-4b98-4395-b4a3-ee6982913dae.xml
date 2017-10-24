@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerBillingCredit"
+    id="c8eed842-4b98-4395-b4a3-ee6982913dae"
+    documentation="A credit assigned to the customer's account in the course or for the purpose of the billing process"/>

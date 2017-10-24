@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageCharacteristicSumBalance"
+    id="a69ff598-a2f3-414d-833d-7d03c310a3e1"
+    documentation="A balance of the aggregation of UsageCharacteristic'Values."/>

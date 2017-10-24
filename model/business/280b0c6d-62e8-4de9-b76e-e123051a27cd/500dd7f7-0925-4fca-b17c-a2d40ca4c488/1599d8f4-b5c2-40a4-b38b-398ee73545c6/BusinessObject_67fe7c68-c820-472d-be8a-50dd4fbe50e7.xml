@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FinancialCharge"
+    id="67fe7c68-c820-472d-be8a-50dd4fbe50e7"
+    documentation="FinancialCharge represent a normalized aggregation of AtomicAppliedCustomerBillingRate so every AtomicAppliedCustomerBillingRate appears in exactly one FinancialCharge. This is critical for financial reporting."/>

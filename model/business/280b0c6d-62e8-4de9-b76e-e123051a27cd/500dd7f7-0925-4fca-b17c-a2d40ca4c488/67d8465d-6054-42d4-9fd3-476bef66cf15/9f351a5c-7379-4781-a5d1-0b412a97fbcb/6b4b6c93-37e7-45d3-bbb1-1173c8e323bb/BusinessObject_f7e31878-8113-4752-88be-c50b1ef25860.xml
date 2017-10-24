@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccountBalanceType"
+    id="f7e31878-8113-4752-88be-c50b1ef25860"
+    documentation="CustomerAccountBalanceTypeSpec describes and defines certain type of CustomerAccountBalance."/>

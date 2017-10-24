@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OffCycleCustomerBill"
+    id="9b9d049e-7908-422d-a9ba-2ce9891e1c38"
+    documentation="This entity represents a CustomerBill which was generated as a result of an event different from cycle run (such as &#xA;customer request or an account close) "/>

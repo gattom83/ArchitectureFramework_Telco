@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccountContact"
+    id="70e680aa-a671-4ba2-a043-23ea737416b4"
+    documentation="An individual or organization used as a contact point for a CustomerAccount and accessed via some contact medium. The contact may be a member of the customer’s organization or a member of some other enterprise, such as the provider who services the customer account."/>

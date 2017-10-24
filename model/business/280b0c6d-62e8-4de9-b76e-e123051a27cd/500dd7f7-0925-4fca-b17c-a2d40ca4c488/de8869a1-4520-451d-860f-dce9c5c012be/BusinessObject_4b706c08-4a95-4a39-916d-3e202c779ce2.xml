@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerProblemTask"
+    id="4b706c08-4a95-4a39-916d-3e202c779ce2"
+    documentation="A trackable task delegated from the CustomerProblem with a specified due date"/>

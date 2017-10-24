@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02- Customer Domain"
-    id="500dd7f7-0925-4fca-b17c-a2d40ca4c488"/>
+    id="500dd7f7-0925-4fca-b17c-a2d40ca4c488"
+    documentation="The Customer Domain includes all data and contract operations associated with individuals or organizations that obtain products from an enterprise, such as a service provider. It represents of all types of contact with the customer, the management of the relationship, and the administration of customer data. The Customer Domain also includes data and contract operations related to the customer bills for products, collection of payment, overdue accounts, and the billing inquiries and adjustments made as a result of inquiries."/>

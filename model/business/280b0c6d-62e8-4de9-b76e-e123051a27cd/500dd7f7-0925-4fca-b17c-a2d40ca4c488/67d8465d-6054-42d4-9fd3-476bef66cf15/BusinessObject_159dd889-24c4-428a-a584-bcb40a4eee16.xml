@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OnCycleCustomerBill"
+    id="159dd889-24c4-428a-a584-bcb40a4eee16"
+    documentation="This entity represents a CustomerBill which was generated as a result of a cycle run"/>

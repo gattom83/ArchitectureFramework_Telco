@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerDiscountBalance"
+    id="c58ed162-d85a-4156-ae30-71b457ec083f"
+    documentation="A remaining or outstanding customer discount."/>

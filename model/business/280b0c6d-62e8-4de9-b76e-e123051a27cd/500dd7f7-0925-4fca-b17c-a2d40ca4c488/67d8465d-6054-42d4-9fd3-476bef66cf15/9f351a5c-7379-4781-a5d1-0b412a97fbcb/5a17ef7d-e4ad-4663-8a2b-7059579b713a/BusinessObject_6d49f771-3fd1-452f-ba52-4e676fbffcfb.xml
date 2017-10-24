@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerDiscount"
+    id="6d49f771-3fd1-452f-ba52-4e676fbffcfb"
+    documentation="A reduction to a CustomerBill that can be used by a CustomerAccount. An example of discount is $100 off granted by DiscountProdPriceAlteration. While customer is using the service the available discount is gradually reduced."/>

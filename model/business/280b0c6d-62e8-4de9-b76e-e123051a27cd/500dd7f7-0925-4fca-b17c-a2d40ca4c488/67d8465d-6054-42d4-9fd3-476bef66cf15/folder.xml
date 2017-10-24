@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Bill Abe"
-    id="67d8465d-6054-42d4-9fd3-476bef66cf15"/>
+    id="67d8465d-6054-42d4-9fd3-476bef66cf15"
+    documentation="The Customer Billng ABE hjndles real-time and non-real-time Call Detail Records (CDRs) and other sources of data that result in invoice items. The Customer Bill ABE also represents the format of a bill, schedule the production of bills, customer invoicing profiles, all the financial calculations necessary to deter¬mine the total of the bill (except for rating and rating discounts), and credits and adjustments to bills."/>
