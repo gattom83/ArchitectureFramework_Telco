@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceConfiguration"
+    id="a3eadb27-c354-4190-a849-33577fcc0e40"
+    documentation="A representation of how a Service operates or functions in terms of characteristics and related Resource(s) and Service(s)."/>

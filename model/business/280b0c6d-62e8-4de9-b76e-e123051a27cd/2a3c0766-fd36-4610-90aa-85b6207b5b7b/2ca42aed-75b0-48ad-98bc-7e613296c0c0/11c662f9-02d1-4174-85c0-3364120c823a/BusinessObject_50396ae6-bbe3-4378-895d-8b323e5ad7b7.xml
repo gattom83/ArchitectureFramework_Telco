@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BandwidthService"
+    id="50396ae6-bbe3-4378-895d-8b323e5ad7b7"
+    documentation="This class represents a generic specification for defining the characteristics of a Bandwidth Service. Such a Service could be part of a ResourceFacingService. For example, a Provider might have a 150M pipe that is being allocated to multiple customers, where each Customer gets a prescribed amount of bandwidth. This class is the base class for representing such features.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ForwardingGraph"
+    id="17627b26-943e-4224-bc5a-d560bd16a15f"
+    documentation="An Adjacency Graph expressing the adjacency requirements between the Connection points of the Network Functions composing a Network Service."/>

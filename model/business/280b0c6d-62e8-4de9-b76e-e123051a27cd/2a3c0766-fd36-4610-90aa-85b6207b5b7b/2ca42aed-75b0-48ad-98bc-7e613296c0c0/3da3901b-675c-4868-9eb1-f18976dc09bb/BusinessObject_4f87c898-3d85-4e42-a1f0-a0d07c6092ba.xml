@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkServiceAtomic"
+    id="4f87c898-3d85-4e42-a1f0-a0d07c6092ba"
+    documentation="A NetworkServiceAtomic is a Network Service that is not further decomposed into finer grained Network Services."/>

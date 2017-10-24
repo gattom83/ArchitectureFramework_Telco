@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PreambleMarkerService"
+    id="32f5c249-30bf-425e-8281-e24d0c7e3ac6"
+    documentation="This type of MarkerService is used to model the storing of traffic-conditioning results in a packet preamble. The results are stored as an array of , pairs."/>

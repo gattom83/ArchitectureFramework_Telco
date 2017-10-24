@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WeightedRoundRobinSchedulingService"
+    id="82daeb10-ec01-4834-a7f2-49e4796e3362"
+    documentation="This algorithm uses weighting to make up for the inability of a RoundRobinScheduler to accommodate variable packet sizes. Most WeightedRoundRobinSchedulers also have the ability to prioritize their treatment of certain special Queues. For example, an instance of this Scheduler may control multiple Queues, where some are dedicated for serving real-time traffic and others are to be used for all other types of traffic. The simplest way to accommodate this is to use a priority and a weight."/>

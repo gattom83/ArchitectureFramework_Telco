@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REDServiceElement"
+    id="2f9692e8-e503-4b86-a63e-3a7b2a7c85a0"
+    documentation="This class defines the drop probability, weighting, and other important parameters for distinguishing one traffic type from another traffic type for applying different dropping behavior. This is usually tied to supporting different classes of service. The class identifies traffic using a set mechanism, such as its DSCP or ToS value, through the MarkingUsedForDropping association.&#xA;&#xA;The REDDropper class (and its subclasses) associate one or more REDServiceElements (for each different type of traffic) using the DefinesCoSDropProbability association. If the algorithm used is RED, then by definition there is only one instance of this (the REDServiceElement) class.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecCharacteristic"
+    id="0b5f7763-f04b-44dc-92e8-3b33c2bd9172"
+    documentation="This is an abstract base class that represents the key features of this ServiceSpecification. For example, bandwidth is characteristic of many different types of services; if bandwidth is important (e.g., from the point-of-view of a Customer obtaining this Service via a Product) then bandwidth would be a ServiceCharacteristic for that particular Service.&#xA;&#xA;Note that in this example, bandwidth would have to be defined as an invariant feature that multiple Services use. Otherwise, it should be defined as a ServiceCharacteristic."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServCatalogServCandidate"
+    id="a96deada-cf9f-42df-866c-1d8545bdde7d"
+    documentation="The appearance of a ServiceCandidate in a ServiceCatalog."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TemplateServiceLevelSpec"
+    id="9ef173ed-0129-4e77-8e54-59169093cf0f"
+    documentation="A pre-defined set of service level objectives, and consequences that occur, if the objectives are not met."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoundRobinSchedulingService"
+    id="229f16ed-cc45-4765-9708-02f22f507653"
+    documentation="This is a popular type of Scheduler, mainly because it is relatively easy to implement in hardware. Basically, it serves each active Queue, one after another. A Queue is defined to be active if it has any packets that are enqueued.&#xA;&#xA;This scheduler provides fair distribution for packets that are fixed-size. However, it doesn't provide fair behavior if there are variable-size packets."/>

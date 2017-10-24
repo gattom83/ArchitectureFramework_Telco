@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNServiceSpecification"
+    id="91745cf2-bb92-42e2-99cc-9dad0c67607c"
+    documentation="This class is the abstract base class for defining all types of VPNServiceSpecifications. It contains basic invariant attributes, methods, relationships and constraints for defining a VPNService without specifying the specific type and technology used (e.g., IPsec vs. MPLS) to implement the VPNService.&#xA;&#xA;For example, this class will specify the SLS that governs its performance requirements, as well as other behavior that is independent of the VPN type. The subclasses of this VPNServiceSpecification will specify additional attributes, methods, relationships, and constraints that are specific to the type of VPN being implemented."/>

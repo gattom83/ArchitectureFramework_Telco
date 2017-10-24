@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPsecVPNServiceSpecification"
+    id="d5887163-a67c-4f5e-bf2b-6b4076c882df"
+    documentation="This class represents a generic specification for implementing an IPsec VPN Service.&#xA;&#xA;Please see the DEN-ng MPLS VPN model for more details.&#xA;"/>

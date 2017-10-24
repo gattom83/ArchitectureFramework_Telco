@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BronzePackageSpec"
+    id="82b2add8-0a3e-4980-a4da-259e2553f831"
+    documentation="This class defines the Bronze Service class, which provides traffic conditioning, access, and other sub-services to a set of applications that are assigned Bronze Service.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

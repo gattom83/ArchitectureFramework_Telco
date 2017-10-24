@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EFService"
+    id="7a57f3a7-7bf2-446d-8315-8e3d04a76565"
+    documentation="This class defines how to forward network traffic by adding specific semantics that characterize the operation of the Expedited Forwarding (EF) Service (RFC3246 and RFC3247).&#xA;&#xA;The recommended DSCP for defining EF is 101110. called expedited forwarding (EF). The EF PHB can be used to build a low loss, low latency, low jitter, assured bandwidth, end-to-end service through DiffServ-compliant domains. Such a service appears to the endpoints like a point-to-point connection or a &quot;virtual leased line&quot;.&#xA;&#xA;The PHB for this class and its DSCP value come from DiffServService. However, this class defines attributes that can be used as &quot;implementation hints&quot; to the rest of the network to ensure that interoperability is achieved even if heterogeneous devices are being used.&#xA;"/>

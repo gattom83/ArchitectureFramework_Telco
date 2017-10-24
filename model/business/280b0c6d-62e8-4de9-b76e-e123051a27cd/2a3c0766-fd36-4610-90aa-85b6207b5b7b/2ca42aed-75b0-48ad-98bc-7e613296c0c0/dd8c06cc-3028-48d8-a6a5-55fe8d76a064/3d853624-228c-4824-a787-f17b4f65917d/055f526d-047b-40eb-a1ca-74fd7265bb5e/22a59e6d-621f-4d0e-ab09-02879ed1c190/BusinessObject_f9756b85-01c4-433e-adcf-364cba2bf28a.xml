@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SchedulingServiceComposite"
+    id="f9756b85-01c4-433e-adcf-364cba2bf28a"
+    documentation="A SchedulingServiceComposite object models a SchedulingService as a set of coordinated SchedulingServices. This is fundamentally different than the SchedulingServiceAtomic object, which is used to model a SchedulingService as a stand-alone TrafficConditioningService."/>

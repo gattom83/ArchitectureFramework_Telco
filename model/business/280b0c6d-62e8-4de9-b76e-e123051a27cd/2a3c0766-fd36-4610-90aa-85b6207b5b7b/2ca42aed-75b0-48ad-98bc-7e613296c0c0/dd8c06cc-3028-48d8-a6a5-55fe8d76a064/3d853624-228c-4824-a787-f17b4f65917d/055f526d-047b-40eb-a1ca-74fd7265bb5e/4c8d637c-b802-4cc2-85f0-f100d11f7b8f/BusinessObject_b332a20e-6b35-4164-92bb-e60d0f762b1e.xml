@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ClassBasedWeightedFairQueuingService"
+    id="b332a20e-6b35-4164-92bb-e60d0f762b1e"
+    documentation="CBWFQ is a class-based algorithm that schedules packets in queues and guarantees a certain transmission rate. If a queue is not in use, the bandwidth is made available to other queues. &#xA;&#xA;CBWFQ sorts traffic into flows, or classes, and then allocates bandwidth to those flows or classes via sophisticated packet scheduling. The weight assignments drive the bandwidth allocation. Each class can have its own dropping, policing and/or shaping mechanisms, which in effect enables each class to be tied to a particular SLA.&#xA;&#xA;Thus, CBWFQ is more than a queuing scheme. It is also a QoS scheme that identifies different types of traffic and queues the traffic according to predefined parameters.&#xA;"/>

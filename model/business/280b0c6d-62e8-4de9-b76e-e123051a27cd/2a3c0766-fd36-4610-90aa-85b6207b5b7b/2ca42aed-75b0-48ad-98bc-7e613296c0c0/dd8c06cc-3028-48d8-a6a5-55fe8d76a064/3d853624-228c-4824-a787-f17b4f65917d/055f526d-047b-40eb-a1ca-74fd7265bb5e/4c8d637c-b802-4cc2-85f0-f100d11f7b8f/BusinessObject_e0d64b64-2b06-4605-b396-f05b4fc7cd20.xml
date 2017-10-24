@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FairQueuingService"
+    id="e0d64b64-2b06-4605-b396-f05b4fc7cd20"
+    documentation="This method helps solve the problem where some Queues may not get serviced because high-priority Queues are being serviced. A round-robin approach is used to service all Queues in a fair way. This prevents any one source from overusing its share of network capacity. Ultimately, the goal of this algorithm is to ensure that each Queue receives a fair share of the set of applicable metrics (e.g., bandwidth) that are divided among the different Queue instances.&#xA;&#xA;Problems can occur when packets are variable in length and each Queue is allowed to release one packet at a time. Some Queues will take more time. A byte-oriented scheme may be used to equalize the Queues. In addition, some Queues may be fuller than others and naturally need more service, but a strict, fair Queuing scheme will service each queue equally.&#xA;&#xA;A better alternative is most likely one of its derivative algorithms, such as weighted fair queuing or possibly class-based weighted fair queuing."/>

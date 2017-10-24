@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrafficIdentificationService"
+    id="48e2adbb-b3c2-49d1-aedb-18315e9cb983"
+    documentation="A TrafficIdentificationService is a fundamental QoS building block. &#xA;&#xA;A TrafficIdentificationService is an abstract base class that is the parent for different types of traffic identification services defined in the DEN-ng Service model. TrafficIdentificationServices are one example of a ResourceFacingService, in that the Customer is not able to control them. In fact, the Customer doesn't even have to be aware that they exist! However, they must be implemented in order for different CoSs to be differentiated from each other, and hence for different Customers to receive different CoSs.&#xA;&#xA;TrafficIdentificationServices control how packets and flows are identified and distinguished from other packets and flows in the system. Without these services, traffic conditioning cannot work.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

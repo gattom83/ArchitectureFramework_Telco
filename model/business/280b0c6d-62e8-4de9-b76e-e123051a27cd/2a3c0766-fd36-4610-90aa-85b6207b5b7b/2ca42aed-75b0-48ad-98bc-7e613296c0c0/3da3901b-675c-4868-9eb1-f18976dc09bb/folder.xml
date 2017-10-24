@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkService ABE"
+    id="3da3901b-675c-4868-9eb1-f18976dc09bb"
+    documentation="The Network Service ABE contains entities that are used to represent the set of Network Functions required to support a particular Service."/>

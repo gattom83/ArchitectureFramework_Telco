@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdaptiveREDDropperService"
+    id="901ed283-a68f-4e95-a043-2ba20d5b624f"
+    documentation="This is an experimental variation of RED that tries to adapt to changing traffic patterns by varying its probability function. This will be completed soon."/>

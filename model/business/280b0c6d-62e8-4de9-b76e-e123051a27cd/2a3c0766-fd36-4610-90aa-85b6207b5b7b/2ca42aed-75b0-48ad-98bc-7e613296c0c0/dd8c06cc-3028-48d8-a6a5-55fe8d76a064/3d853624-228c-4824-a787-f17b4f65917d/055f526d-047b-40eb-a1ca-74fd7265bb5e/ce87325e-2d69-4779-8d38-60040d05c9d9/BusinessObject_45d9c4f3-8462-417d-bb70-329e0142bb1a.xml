@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ShaperService"
+    id="45d9c4f3-8462-417d-bb70-329e0142bb1a"
+    documentation="A ShaperService is a CompoundConditioningElement. Its purpose is to regulate traffic flow to an average bit rate, taking into account any bursting capability that is desired.&#xA;&#xA;Normally, a ShaperService includes buffering. This means that any packets that cannot be transmitted are queued."/>

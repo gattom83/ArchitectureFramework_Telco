@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StrictSchedulingService"
+    id="0dd284c4-ef0d-4558-b8ab-79e0bce70b82"
+    documentation="The simplest type of Scheduler is a Priority scheduler. This type of Scheduler assigns each Queue a priority, and then visits each Queue in priority order. However, as long as a Queue of a higher priority has traffic enqueued, Queues of lower priority are starved.&#xA;&#xA;Still, there are advantages to this type of Scheduler, especially when dealing with voice traffic.&#xA;&#xA;Other types of Schedulers that provide strict rules about Queue servicing can be derived from this class."/>

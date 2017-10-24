@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServicePackageSpecComposite"
+    id="13d43dd3-6ecf-4a15-95e6-219b0fc99a1a"
+    documentation="This models different packages as the combination of other existing ServicePackages (as well as providing its own extensions). This is fundamentally different than ServicePackageAtomic, which models different ServicePackages as a set of different instances."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QoSServiceSpecType"
+    id="9535d0a9-50e0-4d70-9d2d-9aef0e22e336"
+    documentation="This class represents a generic specification for defining the different types of Sub-Services that are required to implement different types of QoS.&#xA;&#xA;Please see the DEN-ng Service model for more details."/>

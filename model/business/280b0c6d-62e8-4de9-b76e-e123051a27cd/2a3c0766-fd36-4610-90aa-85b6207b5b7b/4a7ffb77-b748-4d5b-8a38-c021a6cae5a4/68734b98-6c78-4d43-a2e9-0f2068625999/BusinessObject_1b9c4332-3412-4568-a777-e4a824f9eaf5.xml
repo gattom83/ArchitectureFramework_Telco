@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceLevelSpecParameter"
+    id="1b9c4332-3412-4568-a777-e4a824f9eaf5"
+    documentation="A variable whose value is used to determine compliance with a ServiceLevelObjective."/>

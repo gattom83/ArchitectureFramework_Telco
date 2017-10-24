@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceSpecAtomic"
+    id="ca94b597-1b4f-4c69-abc4-3a77b8790aa2"
+    documentation="This is an abstract base class for defining CustomerFacingServiceSpecifications that do not have any subordinate CustomerFacingServiceSpecifications. In other words, a CustomerFacingServiceSpecAtomic is a stand-alone CustomerFacingServiceSpecification, and doesn't require any supporting CustomerFacingServiceSpecifications to define the invariant characteristics (i.e., non-changing attributes, methods, relationships, and constraints) of any CustomerFacingServices that it serves as a template for.&#xA;&#xA;Please see the DEN-ng Service Model whitepaper for more information and examples.&#xA;"/>

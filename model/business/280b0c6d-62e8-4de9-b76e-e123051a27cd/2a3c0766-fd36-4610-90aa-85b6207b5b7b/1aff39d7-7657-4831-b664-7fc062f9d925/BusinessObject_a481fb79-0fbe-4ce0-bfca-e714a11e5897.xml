@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecCharRelationship"
+    id="a481fb79-0fbe-4ce0-bfca-e714a11e5897"
+    documentation="A categorization of the relationship, such as aggregation, migration, substitution, dependency, exclusivity."/>

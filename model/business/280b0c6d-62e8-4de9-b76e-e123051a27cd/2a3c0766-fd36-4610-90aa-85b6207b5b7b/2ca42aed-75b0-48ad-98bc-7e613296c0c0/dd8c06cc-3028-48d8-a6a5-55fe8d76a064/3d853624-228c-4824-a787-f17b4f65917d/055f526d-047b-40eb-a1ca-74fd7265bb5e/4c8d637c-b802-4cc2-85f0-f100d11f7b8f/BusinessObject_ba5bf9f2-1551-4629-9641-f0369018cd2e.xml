@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RelatedQueueDetails"
+    id="ba5bf9f2-1551-4629-9641-f0369018cd2e"
+    documentation="This class implements the details of the RelatedQueue aggregation. This enables different Queue instances to be treated as a single atomic QueuingService.This association defines the set of Queues that make up a QueueService. Note that for complicated mechanisms, different types of Queues (e.g., Priority and CBWFQ) can be combined to form a higher-level Queue Service.&#xA;&#xA;The semantics of this class are implemented by the RelatedQueueDetails association class."/>

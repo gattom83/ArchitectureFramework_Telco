@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GoldPackageSpec"
+    id="87750d1d-37b7-410a-99f6-cd3f679876cd"
+    documentation="This class defines the Gold Service class, which provides traffic conditioning, access, and other sub-services to a set of applications that are assigned Gold Service. In this bundle, users of the GoldPackage get &quot;better&quot; service than users of the SilverPackage or BronzePackage.&#xA;&#xA;Please see the DEN-ng Service model for more details."/>

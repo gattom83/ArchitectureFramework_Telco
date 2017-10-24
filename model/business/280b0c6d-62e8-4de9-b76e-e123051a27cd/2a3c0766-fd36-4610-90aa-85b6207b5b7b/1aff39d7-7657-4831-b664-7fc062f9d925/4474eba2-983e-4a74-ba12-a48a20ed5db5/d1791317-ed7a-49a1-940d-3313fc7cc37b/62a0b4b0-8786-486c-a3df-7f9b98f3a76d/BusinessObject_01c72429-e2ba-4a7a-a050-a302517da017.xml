@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PlatinumPackageSpec"
+    id="01c72429-e2ba-4a7a-a050-a302517da017"
+    documentation="This class defines the Platinum Service class, which provides traffic conditioning, access, and other sub-services to a set of applications that are assigned Platinum Service.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

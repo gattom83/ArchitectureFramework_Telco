@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Specification ABE"
-    id="1aff39d7-7657-4831-b664-7fc062f9d925"/>
+    id="1aff39d7-7657-4831-b664-7fc062f9d925"
+    documentation="The Service Specification ABE contains entities that define the invariant characteristics and behavior of both types of Service entities. This enables multiple instances to be derived from a single specification entity. In this derivation, each instance will use the invariant characteristics and behavior defined in its associated template.&#xA;&#xA;This ABE includes a third type of Service Specification entity: that of a ServiceLevelSpecification. This type of specification templatizes Services that are bound to a Service Level Agreement.&#xA;&#xA;Entities in this ABE focus on adherence to standards, distinguishing features of a Service, dependencies (both physical and logical, as well as on other services), quality, and cost. In general, entities in this ABE enable Services to be bound to Products and run using Resources.&#xA;&#xA;Network services are one example of Services that can be built. Additional examples include installation, maintenance, monitoring, and content authentication, authorization, accounting, and auditing functions.&#xA;"/>

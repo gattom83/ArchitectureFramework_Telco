@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceUsageSpec"
+    id="1de0b7b6-f6a6-4acd-8eab-dffc5f06a89b"
+    documentation="A detailed description of a service usage event (for example, a purchase or a usage of a service)."/>

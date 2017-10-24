@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FirewallServiceSpecRole"
+    id="a906b392-f448-4c66-9cff-22d9ac505fa9"
+    documentation="This class defines the invariant characteristics of the different types of firewall services that will be provided for this CustomerFacingService as a set of ServiceSpecificationRoles.&#xA;&#xA;Please see the DEN-ng Service model for more details."/>

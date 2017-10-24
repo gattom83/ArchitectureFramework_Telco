@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FlowREDDropperService"
+    id="fc02fdaf-2192-49d1-92d6-ddb31f67fc16"
+    documentation="Extension of WRED Penalize flows that do not respond to drops (e.g., UDP) Flow-WRED ensures that no single flow can hog all the buffer resources&#xA;Adaptive flows get fair share of resources&#xA;Minimum release 12.0(3)T not VIP&#xA;"/>

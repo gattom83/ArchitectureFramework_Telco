@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkService"
+    id="147476f3-5dd4-49b8-804d-7df4b4250124"
+    documentation="A Network Service is a composition of Network Functions and defined by its functional and behavioural specification. &#xA; &#xA;Note: a CFS can be supported by a combination of RFSs and NSs but it should be supported by at least one. "/>

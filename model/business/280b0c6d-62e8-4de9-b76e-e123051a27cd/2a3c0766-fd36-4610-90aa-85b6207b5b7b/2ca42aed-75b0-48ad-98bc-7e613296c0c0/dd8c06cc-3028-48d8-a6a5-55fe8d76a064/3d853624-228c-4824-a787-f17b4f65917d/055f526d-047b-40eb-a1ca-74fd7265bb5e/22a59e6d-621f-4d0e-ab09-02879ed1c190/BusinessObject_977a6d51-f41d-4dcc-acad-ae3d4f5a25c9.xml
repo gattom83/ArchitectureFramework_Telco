@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SchedulingServiceAtomic"
+    id="977a6d51-f41d-4dcc-acad-ae3d4f5a25c9"
+    documentation="A SchedulingServiceAtomic object models a SchedulingService as an independent (i.e., stand-alone) TrafficConditioningService. This is fundamentally different than the SchedulingServiceComposite object, which is used to model a SchedulingService as the combination of other existing SchedulingServices (as well as providing its own extensions).&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNTopologyServiceSpecRole"
+    id="8fe723ba-6c5b-4eb2-87f2-d9390be826a1"
+    documentation="This class defines the specific type of topology that is required to implement a particular CustomerFacingVPNService in terms of ResourceFacingServiceSpecRoles. Thus, it represents all of the invariant characteristics necessary to build a VPNTopologyService, abstracted in terms of ServiceSpecificationRoles.&#xA;&#xA;Please see the DEN-ng MPLS VPN model for more details."/>

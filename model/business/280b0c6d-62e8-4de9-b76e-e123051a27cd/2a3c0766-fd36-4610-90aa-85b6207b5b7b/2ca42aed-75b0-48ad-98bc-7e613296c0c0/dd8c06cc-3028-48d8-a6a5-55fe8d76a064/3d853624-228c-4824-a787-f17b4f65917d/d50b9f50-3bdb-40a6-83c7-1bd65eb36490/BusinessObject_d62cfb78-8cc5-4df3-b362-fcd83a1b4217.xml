@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrafficMatchCriteria"
+    id="d62cfb78-8cc5-4df3-b362-fcd83a1b4217"
+    documentation="The definition of which flows can be separated by the ClassifierService into which aggregates is defined using the TrafficMatchCriteria class. The purpose of this class is to formally define selection criteria for the ClassifierService to use so that the ClassifierService can separate ingress traffic into sets of flows. This class contains data, metadata, and links to PolicyRules to govern the selection criteria. This is described in the DEN-ng system view.&#xA;&#xA;The ClassifierUsesCriteria association binds a specific ClassifierService to one or more TrafficMatchCriteria classes.&#xA;"/>

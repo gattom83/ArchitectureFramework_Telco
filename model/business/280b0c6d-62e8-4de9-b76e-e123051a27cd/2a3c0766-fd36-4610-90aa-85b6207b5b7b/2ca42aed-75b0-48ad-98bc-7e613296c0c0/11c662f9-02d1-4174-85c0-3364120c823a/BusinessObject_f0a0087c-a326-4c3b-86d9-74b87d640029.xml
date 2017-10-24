@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceComposite"
+    id="f0a0087c-a326-4c3b-86d9-74b87d640029"
+    documentation="This is an abstract base class that defines an integrated set of ResourceFacingServices that collectively meets the needs of a CustomerFacingService. For example, the Customer may have requested &quot;GoldService&quot;, which is a ServicePackage that defines a set of ServiceBundles, each of which has its own QoS. A set of ResourceFacingServiceProducts can then be defined, one for each different ServiceBundle instance, that provides the required QoS for each ServiceBundle instance.&#xA;&#xA;Please see the DEN-ng Service Model whitepaper for more information and examples."/>

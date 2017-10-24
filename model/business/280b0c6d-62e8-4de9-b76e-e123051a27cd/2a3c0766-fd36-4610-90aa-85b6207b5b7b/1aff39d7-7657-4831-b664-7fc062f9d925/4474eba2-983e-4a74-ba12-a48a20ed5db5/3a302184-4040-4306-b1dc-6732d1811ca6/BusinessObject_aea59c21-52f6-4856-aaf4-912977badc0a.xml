@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceCatalog"
+    id="aea59c21-52f6-4856-aaf4-912977badc0a"
+    documentation="A ServiceCatalog is a collection of ServiceCandidates representing ServiceSpecifications. ServiceCandidates define the underlying services that support a ProductOffering. ServiceCandidates are exposed to one or more Product Catalogs to be utilized to configure one or more ProductOfferings. ServiceCandidates can be exposed to one or more Service Catalogs to be utilized or incorporated in one or more ServiceCandidates. A collection may consist of similar ServiceCandidates, such as a collection of broadband ServiceCatalogCandidates or a collection of wireless ServiceCatalogCandidates. A Service Catalog contents can expose a collection of ServiceCandidates to be utilized internal/external to an enterprise."/>

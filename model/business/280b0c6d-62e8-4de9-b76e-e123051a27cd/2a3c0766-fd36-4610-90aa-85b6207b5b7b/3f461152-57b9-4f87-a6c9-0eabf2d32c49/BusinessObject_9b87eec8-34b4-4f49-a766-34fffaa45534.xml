@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceTest"
+    id="9b87eec8-34b4-4f49-a766-34fffaa45534"
+    documentation="An entity that exists for a controlled test invocation on a service. The service test is executed according to a schedule. and contains service test configuration parameters that are to be applied at execution time, and service test measures that result. &#xA; "/>

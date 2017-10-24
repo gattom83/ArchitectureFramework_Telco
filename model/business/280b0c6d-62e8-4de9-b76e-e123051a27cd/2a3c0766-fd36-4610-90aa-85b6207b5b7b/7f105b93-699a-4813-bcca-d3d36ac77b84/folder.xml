@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Configuration ABE"
-    id="7f105b93-699a-4813-bcca-d3d36ac77b84"/>
+    id="7f105b93-699a-4813-bcca-d3d36ac77b84"
+    documentation="The definition of how a Service operates or functions in terms of CharacteristicSpecification(s) and related ResourceSpec(s) and ServiceSpec(s) as well as a representation of how a Product operates or functions in terms of characteristics and related Resource(s) and Service(s)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceSpecRole"
+    id="0ffb5225-643a-484a-b6f4-a8888ae9dce9"
+    documentation="This class defines a ServiceSpecification, in terms of a set of ServiceSpecificationRoles, for a ResourceFacingService.&#xA;&#xA;This is the base class for defining ServiceSpecificationRoles that are used to represent the invariant characteristics of a ResourceFacingService. This enables the ResourceFacingService to be managed abstractly using ServiceSpecificationRoles. It also helps define the ServiceSpecification in terms of the functions that it has or provides.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PriorityQueuingService"
+    id="a9ee71fc-5ff2-4d51-95f5-4c47c53b9f76"
+    documentation="This technique uses multiple queues, but queues are serviced with different levels of priority, with the highest priority queues being serviced first. Packets are classified and placed into queues according to information in the packets. When congestion occurs, packets are dropped from lower-priority queues in order to service higher-priority queues.&#xA;&#xA;The main problem with this method is that lower-priority queues may not get serviced at all if high-priority traffic is excessive. Therefore, the use of Admission Control mechanisms to monitor PriorityQueues and ensure that they are used properly is recommended by the DEN-ng QoS model."/>

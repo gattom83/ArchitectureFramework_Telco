@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNSecurityServiceRole"
+    id="099f98c8-92ec-4557-ad0c-ab9203af7eb4"
+    documentation="This class defines the specific type of security that is required to implement a particular CustomerFacingVPNService in terms of ResourceFacingServiceRoles. Thus, it represents all of the variable characteristics necessary to build a VPNSecurityService, abstracted in terms of ServiceRoles."/>

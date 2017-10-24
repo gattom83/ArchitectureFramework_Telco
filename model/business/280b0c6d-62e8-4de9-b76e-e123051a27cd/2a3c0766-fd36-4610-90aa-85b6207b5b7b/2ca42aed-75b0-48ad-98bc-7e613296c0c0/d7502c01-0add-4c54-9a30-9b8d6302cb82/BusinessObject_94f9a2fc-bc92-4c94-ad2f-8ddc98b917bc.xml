@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingService"
+    id="94f9a2fc-bc92-4c94-ad2f-8ddc98b917bc"
+    documentation="A CustomerFacingService defines the properties of a particular related Service that represents a realization of a Product within an organization's infrastructure; This is in direct contrast to ResourceFacingServices, which support the network/infrastructure facing part of the service. For example, a VPN is an example of a CustomerFacingService, while the sub-services that perform different types of routing between network devices making up the VPN are examples of ResourceFacingServices. &#xA;&#xA;CustomerFacingServices are directly related to Products as well as to ResourceFacingServices. ResourceFacingServices are indirectly related to Products through the relationship between Product and CustomerFacingServices. This enforces the relationship to Products while keeping Services that are not directly realized by Products (i.e., ResourceFacingServices) separated from Products."/>

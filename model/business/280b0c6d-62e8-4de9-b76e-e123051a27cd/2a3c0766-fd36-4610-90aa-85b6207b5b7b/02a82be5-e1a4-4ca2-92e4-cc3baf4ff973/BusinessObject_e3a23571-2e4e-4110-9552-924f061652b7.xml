@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SapSpecification"
+    id="e3a23571-2e4e-4110-9552-924f061652b7"
+    documentation="Defines a set of attributes and (optionally) associated values that may be applied to one or more service access points."/>

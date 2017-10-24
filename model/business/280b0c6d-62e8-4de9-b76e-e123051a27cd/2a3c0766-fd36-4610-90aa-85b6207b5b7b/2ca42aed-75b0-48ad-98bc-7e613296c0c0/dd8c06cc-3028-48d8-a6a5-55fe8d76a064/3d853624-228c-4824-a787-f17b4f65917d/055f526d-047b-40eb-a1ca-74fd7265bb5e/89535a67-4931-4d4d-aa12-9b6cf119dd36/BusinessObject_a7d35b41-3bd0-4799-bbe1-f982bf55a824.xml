@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HeadTailDropperService"
+    id="a7d35b41-3bd0-4799-bbe1-f982bf55a824"
+    documentation="The HeadTailDropper class models the behavior of either a head or tail dropper (e.g., a dropper which drops from the head or tail of its queue, respectively). The inherited attribute typeOfDropper indicates whether a particular instance of this class is a head dropper or a tail dropper.&#xA;&#xA;If this instance is a &quot;HeadDropper&quot;, then all newly arriving traffic (which arrives at the head of the queue) will be dropped. In contrast, if this instance is a &quot;TailDropper&quot;, then newly arriving traffic will be enqueued, and old traffic at the end of the queue will be dropped to make room for it.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkServiceComposite"
+    id="940c73cb-2af0-4cb5-a889-fabae5332849"
+    documentation="A NetworkServiceComposite is collection of Atomic and Composite Network Services."/>

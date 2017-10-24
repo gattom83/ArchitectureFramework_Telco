@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KeyQualityIndicatorSLSParm"
+    id="68b999c1-2d2a-4f94-ae6c-bfddc7104107"
+    documentation="A measure of a specific aspect of the performance of a product (ProductSpecification, ProductOffering, or Product) or a service (ServiceSpecification or Service). A KQI draws its data from a number of sources, including KPIs."/>

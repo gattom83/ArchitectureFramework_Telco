@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MeterProfile"
+    id="972261d0-96bd-4dbd-9f8e-fce3ea378379"
+    documentation="The MeterProfile class defines a traffic profile that the MeterService can use to compare traffic against. The MeterProfile will define what levels of traffic pass through the MeterService unaltered, what levels get delayed, what levels get dropped, and what levels get further analyzed.&#xA;&#xA;The purpose of the MeterProfile class is to formally define these four different traffic levels. This requires data and metadata. Furthermore, the application of a particular MeterProfile is goverened by PolicyRules. This is described in the DEN-ng system view.&#xA;&#xA;The UsesMeterProfile association binds a specific MeterService to one or more MeterProfile classes.&#xA;"/>

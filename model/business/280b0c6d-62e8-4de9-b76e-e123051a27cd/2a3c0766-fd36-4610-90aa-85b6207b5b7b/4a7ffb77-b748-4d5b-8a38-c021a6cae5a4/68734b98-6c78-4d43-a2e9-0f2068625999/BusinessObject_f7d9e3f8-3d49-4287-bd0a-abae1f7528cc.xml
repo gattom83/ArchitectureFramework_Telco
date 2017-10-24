@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceLevelSpecApplicability"
+    id="f7d9e3f8-3d49-4287-bd0a-abae1f7528cc"
+    documentation="The time of day or days during which a ServiceLevelSpecification, ServiceLevelObjective, or ServiceLevelSpecConsequence is relent or not."/>

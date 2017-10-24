@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SchedulingService"
+    id="e9fb6546-a383-45f7-9dbf-910fac41a262"
+    documentation="A Scheduler is used in the network forwarding path to determine how output queues are serviced. This service uses the QueuingService to store packets and then services these queues according to a pre-defined algorithm.&#xA;&#xA;Note that when there is no congestion, the net effect is simply FIFO. However, when there is congestion, scheduling is the primary QoS action component.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceLevelSpecConsequence"
+    id="3dd2c218-c929-4523-9ffd-7be1b6fc9c89"
+    documentation="An action that takes place in the event that a ServiceLevelObjective is not met."/>

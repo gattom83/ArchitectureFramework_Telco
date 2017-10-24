@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrafficConditioningService"
+    id="c3c8a6d0-1132-4670-8ecd-9168f7ccb155"
+    documentation="A TrafficConditioningService is a fundamental QoS building block.&#xA;&#xA;A TrafficConditioningService is an abstract base class that is the parent for different types of traffic conditioning services defined in the DEN-ng Service model. TrafficConditioningServices are one example of a ResourceFacingService, n that the Customer is not able to control them. In fact, the Customer doesn't even have to be aware that they exist! However, they must be implemented in order for different CoSs to be differentiated from each other, and hence for different Customers to receive different CoSs.&#xA;&#xA;TrafficConditioningServices control how packets and flows are treated compared to other packets and flows in the system.&#xA;&#xA;Please see the DEN-ng Service model for more details."/>

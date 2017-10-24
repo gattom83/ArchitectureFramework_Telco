@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarkerPool"
+    id="03330a07-fe06-45af-89fc-457adabcc2a6"
+    documentation="A MarkerPool object represents a set of markings that can be used by one or more MarkerServices. For example, different MarkerPools could be defined for different Customers as well as for different technologies. Since MarkerPool objects can be designed independently of MarkerServices, the cardinality of the UsesMarkerPool association is 0..n on the MarkerService side. However, since a MarkerService must have at least one or more MarkerPool objects to function correctly, the cardinality of the UsesMarkerPool association is 1..n on the MarkerPool side."/>

@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04- Service Domain"
-    id="2a3c0766-fd36-4610-90aa-85b6207b5b7b"/>
+    id="2a3c0766-fd36-4610-90aa-85b6207b5b7b"
+    documentation="The Service Domain consists of a set of layered ABEs that are used to manage the definition, development, and operational aspects of Services provided by an NGOSS system. Entities in this domain support various eTOM processes that deal with the definition, development and management of services offered by an enterprise. This includes Service Level Agreements, deployment and configuration of Services, management of problems in Service installation, deployment, usage, or performance, quality analysis, and rating. Finally, this domain also includes entities to perform planning for future offerings, service enhancement or retirement, and capacity ."/>

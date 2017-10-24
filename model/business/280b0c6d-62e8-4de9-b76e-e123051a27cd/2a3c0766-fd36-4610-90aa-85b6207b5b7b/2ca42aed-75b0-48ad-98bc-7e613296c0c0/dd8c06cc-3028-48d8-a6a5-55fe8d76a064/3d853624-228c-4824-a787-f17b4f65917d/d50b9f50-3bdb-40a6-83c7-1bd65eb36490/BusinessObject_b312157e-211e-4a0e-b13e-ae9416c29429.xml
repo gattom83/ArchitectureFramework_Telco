@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StandardMarkerService"
+    id="b312157e-211e-4a0e-b13e-ae9416c29429"
+    documentation="This subclass defines the most common type of marker, which sets existing bits in specific fields of a packet or frame. The marking is done via the two attributes of this class. The first value is used to define the type of marker (e.g., ToS vs. DSCP), while the second attribute contains the actual value to be marked."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecCharValueUse"
+    id="d76eafb2-4a24-4612-9aa5-5f6c4876a42b"
+    documentation="This association defines the allowed set of values (represented as instances of theServiceSpecCharacteristicValue object) that a specific ServiceSpecification can have when that ServiceSpecification object is instantiated."/>

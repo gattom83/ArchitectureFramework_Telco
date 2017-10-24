@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceBundleSpec"
+    id="81f4337f-2c21-4e57-b65c-4ad1f9c63da1"
+    documentation="A ServiceBundleSpec is the base class for defining the different classes of bundled ResourceFacingServiceSpecs.&#xA;&#xA;Conceptually, a ServiceBundleSpec is thought of as a collection to enable the needs of different sets of ResourceFacingServiceSpecs to be grouped together. The &quot;bundle&quot; conveys the concept of grouped ServiceSpecs that are related. Since these are ResoureFacingSpecifications, they define reusable templates for implementing the ResourceFacingServices that are required by a particular CustomerFacingService (as represented by a ServicePackage).&#xA;&#xA; &#xA;&#xA;Therefore, a ServiceBundleSpec templatizes the invariant characteristics and behavior of this service bundling."/>

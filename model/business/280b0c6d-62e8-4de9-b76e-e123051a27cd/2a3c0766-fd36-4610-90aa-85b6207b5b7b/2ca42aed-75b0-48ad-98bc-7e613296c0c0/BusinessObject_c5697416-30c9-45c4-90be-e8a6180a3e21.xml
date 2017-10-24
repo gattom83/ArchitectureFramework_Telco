@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceUtilizationDetails"
+    id="c5697416-30c9-45c4-90be-e8a6180a3e21"
+    documentation="This is an associationClass defined in the DEN-ng Service model. It represents the semantics (e.g., exists, uses, and other relationships) that exist when a PhysicalResource is used to help supply or support a particular Service."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SilverPackageSpec"
+    id="fe351e66-67dd-454f-b85f-d23dfd394c83"
+    documentation="This class defines the Silver Service class, which provides traffic conditioning, access, and other sub-services to a set of applications that are assigned Silver Service.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

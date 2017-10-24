@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceSpec"
+    id="39d24e20-f35e-43bc-8780-f462c8bc6a74"
+    documentation="This is an abstract base class for defining different types of ResourceFacingServiceSpecs. A ResourceFacingServiceSpec is an abstraction that defines the invariant characteristics and behavior of a particular ResourceFacingService. The invariant portion serves as a single common basis to build a set of variable ResourceFacingServices that all use this common ResourceFacingServiceSpec.&#xA;&#xA; &#xA;&#xA;This class can be thought of as a template, which represents a generic specification for implementing a particular type of Service. A ServiceSpecification may consist of other ServiceSpecifications supplied together as a collection. Members of the collection may be offered individually or collectively. ServiceSpecifications may also exist within groupings, such as within a Product. ServiceSpecification inherits from Specification, which inherits from ManagedEntity."/>

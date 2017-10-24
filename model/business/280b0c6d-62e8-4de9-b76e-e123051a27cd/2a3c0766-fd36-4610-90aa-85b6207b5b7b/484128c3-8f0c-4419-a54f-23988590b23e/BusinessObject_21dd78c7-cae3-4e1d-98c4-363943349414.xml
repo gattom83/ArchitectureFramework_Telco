@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceProblem"
+    id="21dd78c7-cae3-4e1d-98c4-363943349414"
+    documentation="A Service Problem is an indication that a service is no longer functioning according to the agreement with its client(s)."/>

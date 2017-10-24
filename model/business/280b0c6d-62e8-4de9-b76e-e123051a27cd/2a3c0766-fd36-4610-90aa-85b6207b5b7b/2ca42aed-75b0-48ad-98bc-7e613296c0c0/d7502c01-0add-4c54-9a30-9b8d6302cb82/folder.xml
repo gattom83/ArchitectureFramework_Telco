@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacing Service ABE"
+    id="d7502c01-0add-4c54-9a30-9b8d6302cb82"
+    documentation="The Service ABE contains entities that are used to represent two fundamentally different types of Services, called CustomerFacingServices and ResourceFacingServices.&#xA;&#xA;A CustomerFacingService defines the characteristics and behavior of a particular Service as seen by the Customer or other appropriate PartyRole. In contrast, a ResourceFacingService is an abstraction that defines the characteristics and behavior of a particular Service that is not directly seen or purchased by the PartyRole. ResourceFacingServices are &quot;internal&quot; Services that are required to support a CustomerFacingService.&#xA;&#xA;Entities in this ABE provide different views to examine, analyze, configure, monitor and repair Services of all types. Entities in this ABE are derived from Service Specification entities.&#xA;"/>

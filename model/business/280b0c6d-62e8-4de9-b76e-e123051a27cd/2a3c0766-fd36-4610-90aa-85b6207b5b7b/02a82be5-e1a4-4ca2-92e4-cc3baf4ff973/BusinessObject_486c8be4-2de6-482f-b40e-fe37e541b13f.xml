@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceAccessPoint"
+    id="486c8be4-2de6-482f-b40e-fe37e541b13f"
+    documentation="Represents a set of parameters associated (directly or indirectly) with a unique (logical and/or physical) resource where the Service can be accessed."/>

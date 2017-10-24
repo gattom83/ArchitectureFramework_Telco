@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceTestSpec"
+    id="cbc8523b-99ae-4263-9d67-2ac04ff85415"
+    documentation="The service test specification describes the service test in terms of parameters to be configured and measures to be taken."/>

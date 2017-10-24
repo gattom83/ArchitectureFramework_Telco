@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceOrder"
+    id="0ebde01d-b420-422e-8702-afcedff60532"
+    documentation="A type of Request that represents a Customer Order's products decomposed into the services through which the products are realized."/>

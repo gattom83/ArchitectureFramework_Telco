@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNSecurityServiceSpecRole"
+    id="c914d792-f5dc-42f6-8c1a-087d4115f67c"
+    documentation="This class defines the specific type of security that is required to implement a particular CustomerFacingVPNService in terms of ResourceFacingServiceSpecRoles. Thus, it represents all of the invariant characteristics necessary to build a VPNSecurityService, abstracted in terms of ServiceSpecificationRoles.&#xA;&#xA;Please see the DEN-ng MPLS VPN model for more details.&#xA;"/>

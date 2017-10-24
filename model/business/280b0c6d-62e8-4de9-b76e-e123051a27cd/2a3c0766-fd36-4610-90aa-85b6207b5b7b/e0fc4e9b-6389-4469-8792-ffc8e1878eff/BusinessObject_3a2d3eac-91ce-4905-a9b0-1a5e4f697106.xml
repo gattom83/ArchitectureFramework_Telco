@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceUsage"
+    id="3a2d3eac-91ce-4905-a9b0-1a5e4f697106"
+    documentation="An occurrence of employing a Service for its intended purpose."/>

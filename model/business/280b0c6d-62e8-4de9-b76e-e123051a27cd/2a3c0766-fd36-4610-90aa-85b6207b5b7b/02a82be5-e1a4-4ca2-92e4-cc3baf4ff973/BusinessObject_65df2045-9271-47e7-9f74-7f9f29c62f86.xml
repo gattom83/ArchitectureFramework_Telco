@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceTemplate"
+    id="65df2045-9271-47e7-9f74-7f9f29c62f86"
+    documentation="Represents a type of Service Specification introduced for the purposes of Service Fulfillment. It defines specific ServiceSpecCharacteristicsValues for the globally set ServiceSpecCharacteristics that can be dynamically referenced by multiple Service instances during their lifecycle span. A ServiceTemplate is checked against its associated ServiceDefinition by verifying the presence of the ServiceSpecCharacteristics and the validity of the corresponding assigned ServiceSpecCharacteristicsValues."/>

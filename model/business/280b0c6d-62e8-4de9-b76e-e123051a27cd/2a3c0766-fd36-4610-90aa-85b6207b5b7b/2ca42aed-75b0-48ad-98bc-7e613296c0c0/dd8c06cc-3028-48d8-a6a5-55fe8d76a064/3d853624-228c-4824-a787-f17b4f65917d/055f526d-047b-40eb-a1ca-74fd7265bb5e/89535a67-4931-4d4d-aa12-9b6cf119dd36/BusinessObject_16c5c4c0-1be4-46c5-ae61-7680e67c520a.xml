@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DropperService"
+    id="16c5c4c0-1be4-46c5-ae61-7680e67c520a"
+    documentation="A DropperService is a basic traffic conditioning building block. A DropperService represents the ability to selectively drop network packets or even flows. This is NOT the same as denying the forwarding of a packet or flow; rather, this represents the conscious act to discard a packet (or possibly even a flow). Compound traffic conditioning elements, such as Policers and Shapers, will implicitly use DropperServices.&#xA;&#xA;Droppers are distinguished by the algorithm that they use to drop traffic. The semantics of these algorithms are different enough to warrant their modeling by using subclasses.&#xA;&#xA;Please see the system view of the DEN-ng QoS model for their definition."/>

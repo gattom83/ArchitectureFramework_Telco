@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DropProbabilityDetails"
+    id="0e2309b4-2b84-45d7-bde0-d9e1cbefd532"
+    documentation="This aggregation is used to define different drop probabilities for each CoS. For example, a different drop probability can be used for individual or group ToS and DSCP values.&#xA;&#xA;If this instance is a simple RED instance, then there will only be a single REDServiceElement. If this instance is a WRED instance, then there will be a set of REDServiceElements, one for each type of traffic that is treated differently.&#xA;"/>

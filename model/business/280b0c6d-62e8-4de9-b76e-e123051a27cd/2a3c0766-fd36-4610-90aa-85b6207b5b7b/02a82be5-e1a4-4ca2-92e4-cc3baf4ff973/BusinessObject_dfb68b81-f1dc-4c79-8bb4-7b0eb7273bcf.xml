@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommonServiceInfo"
+    id="dfb68b81-f1dc-4c79-8bb4-7b0eb7273bcf"
+    documentation="Common Service Info is a generalization of Common Object Info. It contains common attributes associated to the following classes: Service ServiceSpecCharacteristic ServiceAccessPoint"/>

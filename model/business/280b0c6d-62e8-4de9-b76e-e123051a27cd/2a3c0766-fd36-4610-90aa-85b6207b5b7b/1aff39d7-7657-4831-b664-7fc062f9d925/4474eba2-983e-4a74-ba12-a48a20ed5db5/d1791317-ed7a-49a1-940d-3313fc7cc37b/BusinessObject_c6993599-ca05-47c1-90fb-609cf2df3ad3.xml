@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AccessServiceSpecRole"
+    id="c6993599-ca05-47c1-90fb-609cf2df3ad3"
+    documentation="This class defines the invariant characteristics of the different types of access services that will be provided for this CustomerFacingService as a set of ServiceSpecificationRoles.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

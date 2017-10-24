@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Strategy &amp; Plan ABE"
-    id="b40a1cc8-9e90-4d39-9c48-98b2aeb61fa5"/>
+    id="b40a1cc8-9e90-4d39-9c48-98b2aeb61fa5"
+    documentation="The Service Strategy and Plan ABE contains entities that are used to address the need for enhanced or new Services, as well as the retirement of existing Services, by the enterprise. These entities have a strong dependency to both entities in the Resource and Product domains. Resulting efforts, such as deciding what Resources to use to host a Service, or what Services are used to support new Product Specifications, are also supported, as are service demand forecasts."/>

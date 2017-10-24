@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicerService"
+    id="51b0c49c-0a02-4dce-b68b-b371c81490b2"
+    documentation="A PolicierService is a CompoundConditioningElement. Its purpose is to limit traffic flow to a configured bit rate with limited bursting capability.&#xA;&#xA;A standard PolicerService has no buffering, meaning that packets that cannot be transmitted are simply dropped."/>

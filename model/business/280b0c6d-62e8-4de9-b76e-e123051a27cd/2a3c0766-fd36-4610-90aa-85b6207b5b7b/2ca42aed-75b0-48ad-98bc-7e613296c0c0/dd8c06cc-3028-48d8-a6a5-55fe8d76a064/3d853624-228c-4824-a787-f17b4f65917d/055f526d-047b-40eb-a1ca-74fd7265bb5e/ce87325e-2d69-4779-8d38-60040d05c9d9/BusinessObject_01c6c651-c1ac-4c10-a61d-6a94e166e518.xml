@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundConditioningElement"
+    id="01c6c651-c1ac-4c10-a61d-6a94e166e518"
+    documentation="This is an abstract base class that defines &quot;compound&quot; traffic conditioning elements. Such elements are made up of two or more TrafficConditioningServices. For example, a Policer can be modeled as a Dropper and a Marker that feeds a Queue.&#xA;&#xA;The advantage of this class is that objects and relationships can be defined once with it that its subclasses inherit. For example, both a policer and a shaper can use a TokenBucket to define the traffic profile that they will police or shape against. Without this class, two different associations would have to be defined.&#xA;&#xA;A second advantage of this class is that it mirrors user-programmable features of modern network devices, and hence enables the DEN-ng model to better and more closely represent what the user programs."/>

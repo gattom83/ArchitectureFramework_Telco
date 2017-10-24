@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KeyPerformanceIndicatorSLSParm"
+    id="a51a106a-0895-4795-90cb-dc439d5cbe18"
+    documentation="A measure of a specific aspect of the performance of a ServiceResource (network or non-network) or a group of ServiceResources of the same type."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DiffServService"
+    id="4f9b6a20-3e30-4f2c-92e3-aae509a7f919"
+    documentation="DiffServService contains semantics that define how traffic is forwarded based on the value of the DSCP (DiffServ Code Point) of a packet.&#xA;&#xA;This class is used to enable different types of QoSServices, such as 802Service and DiffServService, to exchange traffic with each other. Each of these different types of QoSServices has its own means of indicating that one type of traffic should be treated in a different manner from other types of traffic. Thus, without the ability to define mappings between these different marking methods, interoperability is not possible.&#xA;"/>

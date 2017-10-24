@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AFService"
+    id="504b879c-ee33-4175-bf00-7a031bb69804"
+    documentation="This class defines how to forward network traffic by adding specific semantics that characterize the operation of the Assured Forwarding (AF) Service (RFC2597).&#xA;&#xA;This RFC defines four different AF classes to represent four different treatments of traffic (e.g., a different amount of forwarding resources, such as buffer space and bandwidth, are allocated). This RFC defines three different drop probabilities for each AF class, though clearly additional drop probabilities can be defined.&#xA;&#xA;The idea of AFService is to mark IP packets with one of three possible drop precedence values. The drop precedence of a packet determines the relative importance of that packet compared to other packets within the same AF class if congestion occurs. A congested interface will try to avoid dropping packets with a lower drop precedence value by instead discarding packets with a higher drop precedence value. Of course, if there is no congestion on the DeviceInterface, then nothing will happen."/>

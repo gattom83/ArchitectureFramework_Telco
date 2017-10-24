@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AccessServiceRole"
+    id="98ef1d83-983d-4b4e-b395-6ff73308cd66"
+    documentation="This class defines the variable characteristics of the different types of access services that will be provided for this CustomerFacingService as a set of ServiceRoles.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

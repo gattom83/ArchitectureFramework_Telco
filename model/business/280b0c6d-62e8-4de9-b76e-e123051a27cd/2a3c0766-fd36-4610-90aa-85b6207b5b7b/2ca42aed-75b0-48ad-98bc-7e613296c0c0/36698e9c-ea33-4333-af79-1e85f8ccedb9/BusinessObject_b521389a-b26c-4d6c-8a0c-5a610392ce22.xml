@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceOrderItem"
+    id="b521389a-b26c-4d6c-8a0c-5a610392ce22"
+    documentation="The purpose for the ServiceOrder expressed in terms of a ServiceSpecification or a Service."/>

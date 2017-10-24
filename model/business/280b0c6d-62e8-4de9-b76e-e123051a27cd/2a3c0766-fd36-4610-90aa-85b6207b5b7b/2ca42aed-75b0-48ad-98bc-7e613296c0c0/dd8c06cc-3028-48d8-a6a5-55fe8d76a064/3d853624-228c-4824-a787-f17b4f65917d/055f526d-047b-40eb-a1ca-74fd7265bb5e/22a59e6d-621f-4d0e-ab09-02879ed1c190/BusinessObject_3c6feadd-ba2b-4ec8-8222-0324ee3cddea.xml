@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeficitRoundRobinSchedulingService"
+    id="3c6feadd-ba2b-4ec8-8222-0324ee3cddea"
+    documentation="This scheduling algorithm is designed to address the limitations of WRR and WFQ. Its main goal is to provide weighted fair distribution of bandwidth for multiple Queues that contain variable-length packets."/>

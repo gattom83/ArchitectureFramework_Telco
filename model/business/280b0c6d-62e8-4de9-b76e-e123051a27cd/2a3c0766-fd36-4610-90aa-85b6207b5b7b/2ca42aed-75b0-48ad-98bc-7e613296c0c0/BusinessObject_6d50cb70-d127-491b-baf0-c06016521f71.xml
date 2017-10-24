@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceCharacteristicValue"
+    id="6d50cb70-d127-491b-baf0-c06016521f71"
+    documentation="A ServiceCharacteristicValue object is used to define a set of attributes, each of which can be assigned to a corresponding set of attributes in a ServiceCharacteristic object. The values of the attributes in the ServiceCharacteristicValue object describe the values of the attributes that a corresponding ServiceCharacteristic object can take on."/>

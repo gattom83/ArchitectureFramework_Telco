@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceSpec"
+    id="183ea099-2e01-418a-9efa-11150e2ac431"
+    documentation="A CustomerFacingServiceSpec defines the properties (attributes) common to a particular CustomerFacingService used to realize the associated Product(s). This entity serves as a common basis to build any set of CustomerFacingServices that the service provider needs."/>

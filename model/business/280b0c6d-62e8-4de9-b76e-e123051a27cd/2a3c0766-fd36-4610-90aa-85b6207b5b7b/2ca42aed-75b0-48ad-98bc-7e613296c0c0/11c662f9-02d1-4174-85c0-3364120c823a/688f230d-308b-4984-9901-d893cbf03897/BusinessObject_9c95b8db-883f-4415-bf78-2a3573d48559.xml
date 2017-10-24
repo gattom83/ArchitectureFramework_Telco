@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNTopologyServiceRole"
+    id="9c95b8db-883f-4415-bf78-2a3573d48559"
+    documentation="This class defines the specific type of topology that is required to implement a particular CustomerFacingVPNService in terms of ResourceFacingServiceRoles. Thus, it represents all of the variable characteristics necessary to build a VPNTopologyService, abstracted in terms of ServiceRoles."/>

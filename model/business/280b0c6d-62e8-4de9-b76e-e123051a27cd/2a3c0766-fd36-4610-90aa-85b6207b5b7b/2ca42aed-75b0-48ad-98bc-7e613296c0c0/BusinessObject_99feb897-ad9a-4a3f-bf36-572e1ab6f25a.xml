@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceBusinessActor"
+    id="99feb897-ad9a-4a3f-bf36-572e1ab6f25a"
+    documentation="This is an associationClass defined in the DEN-ng Service model. It represents the semantics (e.g., owns, uses, and other relationships) of a BusinessActor using a particular Service.&#xA;&#xA;A Service is a realization of a Product in terms of operational capabilities.&#xA;&#xA;Please see the DEN-ng Service model for more details."/>

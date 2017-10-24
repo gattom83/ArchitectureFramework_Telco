@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PreambleMarkingDetails"
+    id="aa529a43-c460-419e-8052-ec24dd2ba3ca"
+    documentation="This class implements the semantics of the MarksPreambleWithConditioningResult association. The purpose of this class is to enable application- and vendor-specific implementations of preamble marking to be more easily modeled in DEN-ng.&#xA;&#xA;Further details of this class will be provided in the next release of DEN-ng.&#xA;This association defines which type of TrafficConditioningServices are used to mark the preamble of a packet with. The semantics of this association are defined by the PreambleMarkingDetails association class."/>

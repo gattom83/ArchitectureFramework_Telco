@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ToSService"
+    id="f632918b-42bd-4d88-939d-9ac14a841b64"
+    documentation="ToSService contains semantics that define how traffic is forwarded based on the value of the ToS byte of a packet.&#xA;&#xA;This class is used to enable different types of QoSServices, such as 802Service and DiffServService, to exchange traffic with each other. Each of these different types of QoSServices has its own means of indicating that one type of traffic should be treated in a different manner from other types of traffic. Thus, without the ability to define mappings between these different marking methods, interoperability is not possible."/>

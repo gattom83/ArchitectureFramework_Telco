@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceCatalogSpecification"
+    id="989c399b-455f-4fd7-a86f-d2dddd7645ec"
+    documentation="A ServiceCatalogSpecification defines attributes shared by all instances of related ServiceCatalogs."/>

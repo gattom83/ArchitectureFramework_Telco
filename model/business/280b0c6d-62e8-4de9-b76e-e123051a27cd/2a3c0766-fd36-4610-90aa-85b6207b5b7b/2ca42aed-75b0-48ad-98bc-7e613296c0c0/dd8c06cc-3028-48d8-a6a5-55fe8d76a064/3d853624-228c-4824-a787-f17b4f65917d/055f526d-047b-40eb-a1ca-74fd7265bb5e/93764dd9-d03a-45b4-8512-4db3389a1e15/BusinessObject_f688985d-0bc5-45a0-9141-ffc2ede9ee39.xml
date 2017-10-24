@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MeterService"
+    id="f688985d-0bc5-45a0-9141-ffc2ede9ee39"
+    documentation="A meter is a basic traffic conditioning building block. A meter determines the level of conformance of each packet or flow with respect to a pre-established traffic profile by monitoring a metric of a packet or flow (e.g., its arrival time). A meter has the ability to invoke different TrafficConditioningServices for conforming vs. other (e.g., partially - and non-conforming) traffic.&#xA;&#xA;The definition of which metric(s) are monitored to serve as input for the metering decision is defined by attributes in this class. However, the definition of the traffic profile that is used to make the metering decision is defined using the MeterProfile class.&#xA;"/>

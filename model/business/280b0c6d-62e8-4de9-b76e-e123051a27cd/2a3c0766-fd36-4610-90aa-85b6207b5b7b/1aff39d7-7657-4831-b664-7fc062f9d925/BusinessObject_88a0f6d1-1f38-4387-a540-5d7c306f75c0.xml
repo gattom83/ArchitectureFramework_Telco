@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecificationRole"
+    id="88a0f6d1-1f38-4387-a540-5d7c306f75c0"
+    documentation="This is an abstract base class that defines a ServiceSpecification in terms of a set of roles. The roles are then used to characterize the invariant functionality of the Service, regardless of whether it is a resource- or a customer-facing service.&#xA;&#xA;ServiceSpecificationRoles represent the invariant functionality of a Service. Representing a Service in terms of ServiceSpecificationRoles enables the functionality of the Service to be defined independently of BusinessActor, PhysicalResource, LogicalResource, or other Services.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;"/>

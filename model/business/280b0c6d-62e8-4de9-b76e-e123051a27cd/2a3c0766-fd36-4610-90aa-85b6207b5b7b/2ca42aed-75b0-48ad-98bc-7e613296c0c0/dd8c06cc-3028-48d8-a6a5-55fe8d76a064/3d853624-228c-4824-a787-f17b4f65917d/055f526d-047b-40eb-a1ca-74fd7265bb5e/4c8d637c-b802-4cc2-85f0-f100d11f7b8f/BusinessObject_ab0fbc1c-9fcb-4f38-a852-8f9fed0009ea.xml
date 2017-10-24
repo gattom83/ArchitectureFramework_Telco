@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomQueuingService"
+    id="ab0fbc1c-9fcb-4f38-a852-8f9fed0009ea"
+    documentation="Custom Queueing enables the designer to specify a particular number of bytes, packets, or flows to forward from a specific Queue each time the Queue is serviced. This is most often used to enable network resources (e.g., bandwidth) to be shared among applications with specific minimum requirements for that metric (or set of metrics)."/>
