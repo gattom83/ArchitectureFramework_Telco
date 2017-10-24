@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompetitorIntelCharacteristicValue"
+    id="2fc34ace-bc49-424a-a298-ed82b21c042f"
+    documentation="A number or text that can be assigned to a CompIntelCharacteristic."/>

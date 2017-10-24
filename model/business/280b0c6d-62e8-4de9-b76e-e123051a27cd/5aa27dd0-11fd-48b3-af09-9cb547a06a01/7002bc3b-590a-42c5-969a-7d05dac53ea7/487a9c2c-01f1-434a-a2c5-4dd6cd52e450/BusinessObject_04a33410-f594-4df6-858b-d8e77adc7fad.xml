@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeCompIntelCharacteristic"
+    id="04a33410-f594-4df6-858b-d8e77adc7fad"
+    documentation="A type of CompIntelCharacteristic that is formed by aggregating other CompIntelCharacteristic, which may be Composite or Atomic CompIntelCharacteristic."/>

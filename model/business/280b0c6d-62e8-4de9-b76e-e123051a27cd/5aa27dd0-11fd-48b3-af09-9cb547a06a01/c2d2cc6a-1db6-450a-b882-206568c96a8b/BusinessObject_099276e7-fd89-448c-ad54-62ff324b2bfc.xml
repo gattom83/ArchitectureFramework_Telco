@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicMarketingCampaignCharacteristic"
+    id="099276e7-fd89-448c-ad54-62ff324b2bfc"
+    documentation="A type of MarketingCampaignCharacteristic that does not have any subordinate MarketingCampaignCharacteristics, that is, an AtomicMarketingCampaignCharacteristic is a leaf-level MarketingCampaignCharacteristic."/>

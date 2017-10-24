@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompetitiveTier"
+    id="2d930716-c830-4d27-8ba0-34b170d2e66c"
+    documentation="A classification of a Competitor, such as by size, product lines offered, and so forth."/>

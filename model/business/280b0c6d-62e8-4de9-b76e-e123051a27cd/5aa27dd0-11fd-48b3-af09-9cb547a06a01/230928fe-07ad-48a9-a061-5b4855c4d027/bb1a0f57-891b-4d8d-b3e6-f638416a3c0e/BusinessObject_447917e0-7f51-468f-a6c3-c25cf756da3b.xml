@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarketStatistic"
+    id="447917e0-7f51-468f-a6c3-c25cf756da3b"
+    documentation="A categorization of performance measures by MarketSegment. Performance is measured for the ServiceProvider and a ServiceProvider's Competitors in the market place."/>

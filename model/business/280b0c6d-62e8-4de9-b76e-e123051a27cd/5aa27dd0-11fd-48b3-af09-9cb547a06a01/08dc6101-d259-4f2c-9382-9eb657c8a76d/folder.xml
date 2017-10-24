@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contact Lead Prospect ABE"
-    id="08dc6101-d259-4f2c-9382-9eb657c8a76d"/>
+    id="08dc6101-d259-4f2c-9382-9eb657c8a76d"
+    documentation="Provides the ability to track sales leads through their life cycle up until the time the leads become customers, including lead and contact infor¬mation, sales prospects, proposals made to potential customers, and the amount of potential revenue the leads represent in the form of a sales pipeline."/>

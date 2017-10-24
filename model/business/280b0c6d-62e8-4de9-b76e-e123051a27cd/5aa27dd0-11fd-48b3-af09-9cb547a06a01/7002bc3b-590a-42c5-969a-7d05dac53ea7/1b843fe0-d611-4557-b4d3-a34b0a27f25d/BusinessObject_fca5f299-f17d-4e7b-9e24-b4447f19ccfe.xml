@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicCompProdCorrelationCharacteristic"
+    id="fca5f299-f17d-4e7b-9e24-b4447f19ccfe"
+    documentation="A type of CompetitorProducutCharacteristic that does not have any subordinate CompetitorProductCharacteristics, that is, an AtomicCompProdCorrelationCharacteristic is a leaf-level CompProdCorrelationCharacteristic."/>

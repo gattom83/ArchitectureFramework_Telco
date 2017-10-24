@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Media"
+    id="2440ca9f-c87a-4610-9dcc-bb9c1acefe63"
+    documentation="A mechanism by which MarketingCampaigns, ProductPromotions, and ProductPlacements can be launched into the marketplace. It describes such mechanisms as the press, radio, trade shows, internet, and so forth. It is also used to advertise other provider ProductPromotions and ProductPlacements."/>

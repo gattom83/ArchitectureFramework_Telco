@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Competitor"
+    id="ee95367e-377a-4f81-ae8e-f39dff2fa1ee"
+    documentation="A Party playing a PartyRole that offers ProductOfferings similar to the enterprise's ProductOfferings in a MarketSegment."/>

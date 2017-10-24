@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerBillingInquiry"
+    id="c937b2bc-8680-4b69-b7ad-686e4dc741ea"
+    documentation="A request for information about a statement of money owed by a customer."/>

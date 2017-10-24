@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicCompIntelCharacteristic"
+    id="d85fd04e-67f8-46dc-a544-82d47593d433"
+    documentation="A type of CompIntelCharacteristic that does not have any subordinate CompIntelCharacteristics, that is, an AtomicCompIntelCharacteristic is a leaf-level CompIntelCharacteristic."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarketSegmentCharacteristicValue"
+    id="af40478d-f3a8-4b23-ab35-0e4e776384a2"
+    documentation="A number or text that can be assigned to a MarketSegmentCharacteristic."/>

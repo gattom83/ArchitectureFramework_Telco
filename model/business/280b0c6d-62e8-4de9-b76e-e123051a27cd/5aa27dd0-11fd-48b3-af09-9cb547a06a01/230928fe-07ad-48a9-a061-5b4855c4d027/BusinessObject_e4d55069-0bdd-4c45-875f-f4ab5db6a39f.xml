@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarketSegmentCharacteristic"
+    id="e4d55069-0bdd-4c45-875f-f4ab5db6a39f"
+    documentation="A characteristic quality or distinctive feature of a MarketSegment. The characteristic can be take on a discrete value, such as sex, can take on a range of values, (for example, household income of $50,000 - $100,000), or can be derived from a formula (for example, number of households = number of customer party roles)."/>

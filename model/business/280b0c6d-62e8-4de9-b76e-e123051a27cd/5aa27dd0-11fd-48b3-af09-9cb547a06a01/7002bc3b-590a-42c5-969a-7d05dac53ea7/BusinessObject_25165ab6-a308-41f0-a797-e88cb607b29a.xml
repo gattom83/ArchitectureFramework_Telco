@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompetitorMarketSegment"
+    id="25165ab6-a308-41f0-a797-e88cb607b29a"
+    documentation="A MarketSegment served by a Competitor."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompetitorIntelligence"
+    id="dcb6b717-e678-4310-b933-ef2f62a2dc5a"
+    documentation="Facts gathered about a Competitor's plans and activities. These facts can be used to perform Competitor SWOT analysis in order to better understand a Competitor."/>

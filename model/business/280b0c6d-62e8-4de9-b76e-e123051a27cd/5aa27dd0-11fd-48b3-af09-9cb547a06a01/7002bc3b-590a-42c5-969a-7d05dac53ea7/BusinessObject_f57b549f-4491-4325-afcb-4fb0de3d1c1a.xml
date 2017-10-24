@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompetitorTier"
+    id="f57b549f-4491-4325-afcb-4fb0de3d1c1a"
+    documentation="A hierarchical level into which a Competitor is placed."/>

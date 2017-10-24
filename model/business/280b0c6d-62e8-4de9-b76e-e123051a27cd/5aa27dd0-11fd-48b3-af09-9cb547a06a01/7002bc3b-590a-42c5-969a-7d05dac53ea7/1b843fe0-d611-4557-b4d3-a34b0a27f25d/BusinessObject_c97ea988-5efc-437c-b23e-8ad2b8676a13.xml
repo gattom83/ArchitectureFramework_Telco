@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompProdCorCharacteristicValue"
+    id="c97ea988-5efc-437c-b23e-8ad2b8676a13"
+    documentation="A number or text that can be assigned to a CompProdCorrelationCharacteristic."/>

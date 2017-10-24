@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicMarketSegment"
+    id="d9d7d1c0-22ff-4d82-b79b-0215fc221e37"
+    documentation="A type of MarketSegment that does not have any subordinate MarketSegments, that is, an AtomicMarketSegment is a leaf-level MarketSegment."/>

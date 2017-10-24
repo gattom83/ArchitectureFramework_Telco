@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarketingCampaignCharacteristicValue"
+    id="cdf2fbee-5a12-4cc1-8648-e3c15dd187b6"
+    documentation="A number or text that can be assigned to a MarketingCampaignCharacteristic."/>

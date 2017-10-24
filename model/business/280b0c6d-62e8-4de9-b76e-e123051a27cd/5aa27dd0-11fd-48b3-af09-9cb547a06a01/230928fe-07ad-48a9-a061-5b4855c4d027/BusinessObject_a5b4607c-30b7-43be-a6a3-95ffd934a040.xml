@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeMarketSegment"
+    id="a5b4607c-30b7-43be-a6a3-95ffd934a040"
+    documentation="A type of MarketSegment that is formed by aggregating other MarketSegments, which may be Composite or Atomic MarketSegments."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MarketingCampaignCharacteristic"
+    id="3d0a9942-4008-4b5c-833a-ed46bab734f0"
+    documentation="A characteristic quality or distinctive feature of a MarketingCampaign. The characteristic can be take on a discrete value, such as number of press releases, can take on a range of values, (for example, number of prospects reached 50,000 - 100,000), or can be derived from a formula (for example, number of brokerage house pickups = sum of all brokerage house instance characteristics)."/>

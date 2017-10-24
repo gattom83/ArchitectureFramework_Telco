@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeCompProdCorrelationCharacteristic"
+    id="e78e80ad-0a23-40e9-b304-12fb5d103b0b"
+    documentation="A type of CompetitorProductCorrelation that is formed by aggregating other CompetitorProductCorrelations, which may be Composite or Atomic CompetitorProductCorrelations."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicMarketStatistic"
+    id="4c7deff7-7f6d-4174-affa-e2c4399ef842"
+    documentation="A type of MarketStatistic that does not have any subordinate MarketStatistics, that is, an AtomicMarketStatistic is a leaf-level MarketStatistic."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeMarketingCampaignCharacteristic"
+    id="3eb9a0bb-a4fb-4a52-a3eb-d5db66a7e84d"
+    documentation="A type of MarketingCampaignCharacteristic that is formed by aggregating other MarketingCampaignCharacteristic, which may be Composite or Atomic MarketingCampaignCharacteristic."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicMarketSegmentCharacteristic"
+    id="4fd59e3a-81b3-4767-ba74-e73f30edac97"
+    documentation="A type of MarketSegmentCharacteristic that does not have any subordinate MarketSegmentCharacteristics, that is, an AtomicMarketSegmentCharacteristic is a leaf-level MarketSegmentCharacteristic."/>
