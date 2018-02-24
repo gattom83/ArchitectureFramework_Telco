@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductUsage"
+    id="1d11e196-b9db-4d33-9956-7543bb8c4a92"
+    documentation="An occurrence of employing a Product for its intended purpose."/>

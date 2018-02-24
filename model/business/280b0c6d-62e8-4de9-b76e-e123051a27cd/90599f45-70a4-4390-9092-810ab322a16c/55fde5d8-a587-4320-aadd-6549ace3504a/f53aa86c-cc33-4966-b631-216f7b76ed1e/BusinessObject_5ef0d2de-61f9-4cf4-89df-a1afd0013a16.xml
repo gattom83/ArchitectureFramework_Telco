@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AllowanceProdOfferPriceAlteration"
+    id="5ef0d2de-61f9-4cf4-89df-a1afd0013a16"
+    documentation="An allowance is a number of something allowed before charging begins. 300 free minutes per month is an example of an allowance. Another example would be a minimum monthly charge, where a ten dollar per month recurring charge would be combined with a ten dollar allowance. The product offer price contains attributes that describe what the allowed unit is (i.e. minutes, dollars), the number of units as well as the period (per month, per call). Note: the unit and number are represented by the composite attribute quantity."/>

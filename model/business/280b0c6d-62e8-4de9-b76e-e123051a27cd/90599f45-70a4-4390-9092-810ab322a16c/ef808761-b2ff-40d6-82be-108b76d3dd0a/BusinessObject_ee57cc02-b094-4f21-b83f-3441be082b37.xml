@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductComponent"
+    id="ee57cc02-b094-4f21-b83f-3441be082b37"
+    documentation="A ProductComponent is an instantiation of SimpleProductOffering which keeps the business terms under which the customer purchased the product (using a SimpleProductOffering)."/>

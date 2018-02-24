@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleProductOffering"
+    id="7d6dcc7b-d540-483a-8b28-38acf01dac9e"
+    documentation="A type of ProductOffering that does not have any subordinate ProductOfferings, that is, an SimpleProductOffering is a leaf-level ProductOffering."/>

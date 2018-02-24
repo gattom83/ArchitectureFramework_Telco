@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AlternateProdOfferPriceCharge"
+    id="c15e0680-d0a5-47e1-ae89-38c9f91404b3"
+    documentation="A price charged in lieu of another price. For example, purchasing two of a single product offering may result in a discounted price for both."/>

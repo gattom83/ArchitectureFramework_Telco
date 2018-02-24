@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductPricePartyRole"
+    id="7ecaaebf-6510-4766-8693-26c9909d3cf0"
+    documentation="A Party playing a PartyRole that is involved in the pricing/charging of a Product. For example, a parent's usage results in free SMS messaging being allocated to a child of the parent."/>

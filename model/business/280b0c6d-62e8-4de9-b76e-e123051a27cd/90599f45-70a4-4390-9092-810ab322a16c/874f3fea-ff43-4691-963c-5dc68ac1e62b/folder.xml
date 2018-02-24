@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Loyalty ABE "
-    id="874f3fea-ff43-4691-963c-5dc68ac1e62b"/>
+    id="874f3fea-ff43-4691-963c-5dc68ac1e62b"
+    documentation="&quot;A loyalty program is one of the tools used by the loyalty process to retain customers. &#xA;The Loyalty ABE contains all entities useful to specify and instantiate loyalty programs. &#xA;A LoyaltyProgramProdSpec defines the LoyaltyRules that have to be checked in order to identify the actions to apply. &#xA;Depending on the type of LoyaltyRules a LoyaltyAccount might be needed to collect gains or not. &#xA;A LoyaltyProgramProduct is a type of ProductComponent and described by a LoyaltyProgramProdSpec.&quot;"/>

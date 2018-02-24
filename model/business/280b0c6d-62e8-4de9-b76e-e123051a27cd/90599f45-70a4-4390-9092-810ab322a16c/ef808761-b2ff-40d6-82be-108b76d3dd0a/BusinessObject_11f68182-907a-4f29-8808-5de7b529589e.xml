@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductCharacteristicValue"
+    id="11f68182-907a-4f29-8808-5de7b529589e"
+    documentation="A value of a ProductSpecCharacteristic chosen for a Product that further defines what the Product is."/>

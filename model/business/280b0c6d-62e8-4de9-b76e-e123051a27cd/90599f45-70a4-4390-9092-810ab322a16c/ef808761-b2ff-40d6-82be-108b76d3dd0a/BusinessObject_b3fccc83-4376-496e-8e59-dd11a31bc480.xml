@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductBundle"
+    id="b3fccc83-4376-496e-8e59-dd11a31bc480"
+    documentation="A ProductBundle is an instantiation of BundledProductOffering which keeps the business terms under which the customer purchased the product bundle (using a BundledProductOffering)."/>

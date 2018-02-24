@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AllowanceProdPriceAlteration"
+    id="6f3c5943-81b7-4c51-b3c0-c06d960dd66e"
+    documentation="An allowance (a number of something allowed before charging begins) for a Product."/>

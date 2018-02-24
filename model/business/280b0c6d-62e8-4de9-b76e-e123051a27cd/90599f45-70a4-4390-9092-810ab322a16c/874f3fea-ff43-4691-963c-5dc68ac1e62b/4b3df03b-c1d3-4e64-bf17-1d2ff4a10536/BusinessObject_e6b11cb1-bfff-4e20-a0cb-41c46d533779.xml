@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyProgramProduct"
+    id="e6b11cb1-bfff-4e20-a0cb-41c46d533779"
+    documentation="&quot;A LoyaltyProgramProduct is a type of ProductComponent. &#xA;It is described by a LoyaltyProgramProdSpec.&quot;"/>

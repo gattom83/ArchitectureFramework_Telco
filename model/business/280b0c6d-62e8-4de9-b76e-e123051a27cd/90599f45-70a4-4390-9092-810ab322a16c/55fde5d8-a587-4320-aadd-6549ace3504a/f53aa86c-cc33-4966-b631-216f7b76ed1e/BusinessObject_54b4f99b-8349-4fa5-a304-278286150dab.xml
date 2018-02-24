@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RecurringChargeProdOfferPriceCharge"
+    id="54b4f99b-8349-4fa5-a304-278286150dab"
+    documentation="A charge that is levied repeatedly. It has a period, such as monthly, quarterly, or yearly. An example would be a monthly charge for long distance."/>

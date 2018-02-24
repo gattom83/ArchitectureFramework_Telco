@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeProdOfferPrice"
+    id="f806059b-60f1-46b8-a0bb-cab28c627d7f"
+    documentation="A ProductOfferingPrice that is made up of parts. The parts may be other CompositeProdOfferPrices or ComponentProdOfferPrices."/>

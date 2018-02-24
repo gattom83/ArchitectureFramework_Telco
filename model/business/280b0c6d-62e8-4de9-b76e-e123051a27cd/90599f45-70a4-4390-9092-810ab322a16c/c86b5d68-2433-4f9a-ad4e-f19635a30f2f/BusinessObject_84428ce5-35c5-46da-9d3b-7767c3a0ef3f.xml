@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductComponentUsage"
+    id="84428ce5-35c5-46da-9d3b-7767c3a0ef3f"
+    documentation="A detailed product component usage event."/>

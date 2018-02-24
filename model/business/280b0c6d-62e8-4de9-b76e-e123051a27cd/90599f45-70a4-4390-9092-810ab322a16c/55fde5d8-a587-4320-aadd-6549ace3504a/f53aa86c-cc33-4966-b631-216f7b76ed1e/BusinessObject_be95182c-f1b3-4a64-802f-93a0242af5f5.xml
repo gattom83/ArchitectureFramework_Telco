@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FeeProdOfferingPrice"
+    id="be95182c-f1b3-4a64-802f-93a0242af5f5"
+    documentation="A category that describes the price, such as recurring, discount, allowance, penalty, and so forth."/>

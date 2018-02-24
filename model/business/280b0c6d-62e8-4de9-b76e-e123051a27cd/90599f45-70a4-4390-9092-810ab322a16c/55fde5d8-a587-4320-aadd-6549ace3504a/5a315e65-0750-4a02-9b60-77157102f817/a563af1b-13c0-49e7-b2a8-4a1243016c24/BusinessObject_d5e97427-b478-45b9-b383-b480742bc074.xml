@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixSpecDimension"
+    id="d5e97427-b478-45b9-b383-b480742bc074"
+    documentation="A specification of a single dimension of MatrixCharacteristic. Each dimension is defined by a single CharacteristicSpecification or ProductSpecCharacteristic which specifies the legal values for this dimension."/>

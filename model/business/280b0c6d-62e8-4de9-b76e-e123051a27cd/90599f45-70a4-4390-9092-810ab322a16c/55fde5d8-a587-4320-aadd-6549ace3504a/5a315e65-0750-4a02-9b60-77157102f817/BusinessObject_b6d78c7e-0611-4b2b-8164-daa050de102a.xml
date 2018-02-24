@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixCellCharValue"
+    id="b6d78c7e-0611-4b2b-8164-daa050de102a"
+    documentation="&quot;&#xA;Holds the value of a single cell of MarixCharacteristic and associations to the indices of this value in the matrix&quot;"/>

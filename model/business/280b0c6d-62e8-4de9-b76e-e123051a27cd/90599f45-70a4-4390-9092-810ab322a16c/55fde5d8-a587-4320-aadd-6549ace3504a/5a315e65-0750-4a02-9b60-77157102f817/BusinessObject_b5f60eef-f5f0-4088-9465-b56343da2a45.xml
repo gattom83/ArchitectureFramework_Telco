@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixCharValue"
+    id="b5f60eef-f5f0-4088-9465-b56343da2a45"
+    documentation="Holds the list of scalar values of MarixCharacteristic. In addition it includes the indices of the dimansions of the matrix."/>

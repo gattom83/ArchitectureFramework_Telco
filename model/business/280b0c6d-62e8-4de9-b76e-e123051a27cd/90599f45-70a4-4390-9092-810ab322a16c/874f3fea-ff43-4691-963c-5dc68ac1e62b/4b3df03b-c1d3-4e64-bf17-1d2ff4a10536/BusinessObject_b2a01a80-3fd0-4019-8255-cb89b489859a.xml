@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyBalance"
+    id="b2a01a80-3fd0-4019-8255-cb89b489859a"
+    documentation="A LoyaltyBalance is credited by LoyaltyEarns and debited by LoyaltyBurns."/>

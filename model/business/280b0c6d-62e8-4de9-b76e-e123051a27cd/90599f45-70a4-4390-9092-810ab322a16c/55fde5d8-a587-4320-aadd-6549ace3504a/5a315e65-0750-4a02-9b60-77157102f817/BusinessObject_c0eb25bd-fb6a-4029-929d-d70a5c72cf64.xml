@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixCharValueIndex"
+    id="c0eb25bd-fb6a-4029-929d-d70a5c72cf64"
+    documentation="Holds the value of a single index into a dimension of MatrixCharValue."/>

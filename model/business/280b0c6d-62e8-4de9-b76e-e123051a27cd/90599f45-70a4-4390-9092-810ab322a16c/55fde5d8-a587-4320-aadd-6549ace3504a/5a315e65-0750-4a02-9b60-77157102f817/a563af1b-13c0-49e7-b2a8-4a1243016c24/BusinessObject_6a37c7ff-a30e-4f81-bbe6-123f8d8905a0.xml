@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsagePLASpec"
+    id="6a37c7ff-a30e-4f81-bbe6-123f8d8905a0"
+    documentation="Interface specification for a function that rates usage events."/>

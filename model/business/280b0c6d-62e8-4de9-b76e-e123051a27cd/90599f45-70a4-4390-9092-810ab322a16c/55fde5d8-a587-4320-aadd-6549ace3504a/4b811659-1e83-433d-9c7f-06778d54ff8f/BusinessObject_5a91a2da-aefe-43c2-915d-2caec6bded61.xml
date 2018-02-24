@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProdOfferPricePolicyVariable"
+    id="5a91a2da-aefe-43c2-915d-2caec6bded61"
+    documentation="A type of PolicyVariable that represents a ProductOffering, ProductOfferingPrice, or ProductSpecificationType."/>

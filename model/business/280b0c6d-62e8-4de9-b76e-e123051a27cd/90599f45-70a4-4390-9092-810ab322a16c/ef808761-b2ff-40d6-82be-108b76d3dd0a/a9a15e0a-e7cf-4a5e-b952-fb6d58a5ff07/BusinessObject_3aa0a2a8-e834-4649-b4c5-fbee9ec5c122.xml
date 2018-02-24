@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DiscountProdPriceAlteration"
+    id="3aa0a2a8-e834-4649-b4c5-fbee9ec5c122"
+    documentation="A discount (a reduction of price) for a Product."/>

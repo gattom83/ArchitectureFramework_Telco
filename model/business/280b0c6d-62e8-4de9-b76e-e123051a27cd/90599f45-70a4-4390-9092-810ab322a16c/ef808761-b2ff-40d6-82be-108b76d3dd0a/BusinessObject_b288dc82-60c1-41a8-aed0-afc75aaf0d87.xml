@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductInvolvementRole"
+    id="b288dc82-60c1-41a8-aed0-afc75aaf0d87"
+    documentation="A role a business entity (such as PartyRole, ResourceRole or CustomerAccount) plays in the relationship for a Product. For example: user, owner, payer and so forth."/>

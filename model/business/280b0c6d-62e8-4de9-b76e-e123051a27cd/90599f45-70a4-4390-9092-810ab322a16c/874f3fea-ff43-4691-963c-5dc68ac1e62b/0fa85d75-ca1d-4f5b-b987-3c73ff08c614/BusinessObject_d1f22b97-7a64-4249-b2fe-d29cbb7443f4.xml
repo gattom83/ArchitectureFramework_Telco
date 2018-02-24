@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyAction"
+    id="d1f22b97-7a64-4249-b2fe-d29cbb7443f4"
+    documentation="A LoyaltyAction may correspond either to a CustomerOrder (Ex: 100 SMS free), or to an Interaction (Ex: a SMS notifying the 100 SMS free) or to a LoyaltyEarn (Ex: 100 points on the LoyaltyAccount)"/>

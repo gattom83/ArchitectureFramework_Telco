@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductUsageSpec"
+    id="ab9a5939-677d-4c82-a7d0-07de01d8158e"
+    documentation="A detailed description of a product usage event. It represents customer's transaction as a whole or its autonomously billable part."/>

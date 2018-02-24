@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyExecutionPoint"
+    id="cd6d8652-787d-4197-a078-87fc0d5d84e7"
+    documentation="&quot;A LoyaltyExecutionPoint is a type of PolicyExecutionPoint. &#xA;A LoyaltyExecutionPoint tracks the application of a LoyaltyAction and may trigger BusinessInteraction, CustomerOrder or LoyaltyEarn.&quot;"/>

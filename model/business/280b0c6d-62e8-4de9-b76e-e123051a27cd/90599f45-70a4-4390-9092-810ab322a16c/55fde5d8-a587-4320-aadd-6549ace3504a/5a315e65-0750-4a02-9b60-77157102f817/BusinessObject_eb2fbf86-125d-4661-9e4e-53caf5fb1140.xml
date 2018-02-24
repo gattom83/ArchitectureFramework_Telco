@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OneTimeRatingPLA"
+    id="eb2fbf86-125d-4661-9e4e-53caf5fb1140"
+    documentation="PLA that rates One Time events and generates type of AppliedCustomerBillingProductCharge"/>

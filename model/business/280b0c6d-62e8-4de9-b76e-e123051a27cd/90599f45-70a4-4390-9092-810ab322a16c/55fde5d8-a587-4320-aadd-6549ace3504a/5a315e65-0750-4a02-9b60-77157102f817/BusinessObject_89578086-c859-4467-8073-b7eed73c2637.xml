@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageRatingPLA"
+    id="89578086-c859-4467-8073-b7eed73c2637"
+    documentation="PLA that rates ProductUsage events and generates type of AppliedCustomerBillingProductUsageRate"/>

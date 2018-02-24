@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product Performance ABE "
-    id="526b1619-1009-4868-8aec-97e194991692"/>
+    id="526b1619-1009-4868-8aec-97e194991692"
+    documentation="The Product Performance ABE handles product performance goals, the results of end-to-end product performance assessments, and the comparison of assessments against goals. The results may include the identification of potential capacity issues."/>

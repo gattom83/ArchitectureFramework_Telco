@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyEarn"
+    id="506ef0d8-41b1-4a8f-a65a-08ed1cd1601c"
+    documentation="A LoyaltyEarn represents a gain credited on a LoyaltyBalance."/>

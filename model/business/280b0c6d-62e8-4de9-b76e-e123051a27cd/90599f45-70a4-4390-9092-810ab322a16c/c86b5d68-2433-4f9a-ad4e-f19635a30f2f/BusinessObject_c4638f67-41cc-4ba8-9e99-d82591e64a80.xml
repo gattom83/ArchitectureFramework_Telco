@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductBundleUsage"
+    id="c4638f67-41cc-4ba8-9e99-d82591e64a80"
+    documentation="A detailed product bundle usage event, It is comprised of other ProductUsage(s), that may be either ProductBundleUsage(s) or ProductComponentUsage(s)."/>

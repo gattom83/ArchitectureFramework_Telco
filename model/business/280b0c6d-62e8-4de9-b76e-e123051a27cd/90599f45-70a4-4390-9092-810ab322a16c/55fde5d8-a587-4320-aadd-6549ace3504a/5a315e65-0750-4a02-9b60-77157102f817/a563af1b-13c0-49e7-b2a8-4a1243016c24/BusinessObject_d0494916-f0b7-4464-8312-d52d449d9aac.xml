@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OneTimePLASpec"
+    id="d0494916-f0b7-4464-8312-d52d449d9aac"
+    documentation="Interface specification for a function that rates one time events."/>

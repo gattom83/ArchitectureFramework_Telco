@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductOfferingTerm"
+    id="47805726-c9ab-40f4-a371-d5254baf6a07"
+    documentation="A condition under which a ProductOffering is made available to Customers. ProductOfferingTerm include ProductOfferingFinancialTerm, which includes such things as acceptable methods of payment, ShipmentTerm, and ServiceTerm."/>

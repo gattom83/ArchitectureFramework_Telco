@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyProgramProdSpec"
+    id="854afb70-6bb3-49c1-aa7b-7b4a93344ee9"
+    documentation="&quot;A LoyaltyProgramProdSpec is a type of AtomicProductSpecification, is packaged through ProductOffering and is instantiated in the same manner in the installed base (LoyaltyProgramProduct that is a type of ProductComponent). &#xA;A LoyaltyProgramProdSpec defines one or more LoyaltyRules that have to be checked in order to identify the actions to apply.&quot;"/>

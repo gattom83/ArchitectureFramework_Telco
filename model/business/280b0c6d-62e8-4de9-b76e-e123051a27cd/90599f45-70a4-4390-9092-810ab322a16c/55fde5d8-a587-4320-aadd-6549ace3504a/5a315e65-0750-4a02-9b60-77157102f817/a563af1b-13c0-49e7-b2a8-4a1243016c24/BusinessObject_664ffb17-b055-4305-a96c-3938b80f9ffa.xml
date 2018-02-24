@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixCharacteristicSpec"
+    id="664ffb17-b055-4305-a96c-3938b80f9ffa"
+    documentation="This entity specifies a characteristic which is not a scalar value but rather n-dimensional matrix."/>

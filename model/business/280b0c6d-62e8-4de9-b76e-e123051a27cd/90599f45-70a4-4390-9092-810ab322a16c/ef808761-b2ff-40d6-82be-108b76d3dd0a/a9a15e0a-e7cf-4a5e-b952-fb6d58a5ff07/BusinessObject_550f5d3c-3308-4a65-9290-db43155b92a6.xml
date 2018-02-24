@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProdPriceAlteration"
+    id="550f5d3c-3308-4a65-9290-db43155b92a6"
+    documentation="An amount, usually of money, that modifies the price charged for a Product."/>

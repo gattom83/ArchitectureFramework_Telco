@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RecurringPLASpec"
+    id="9e8c1653-c41f-4cac-83a0-4cd4bdbcfe4a"
+    documentation="Interface specification for a function that rates recurring events."/>

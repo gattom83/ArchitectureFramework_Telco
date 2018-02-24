@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProdPriceCharge"
+    id="a156fafd-119b-4dd6-80fe-a35381190ac7"
+    documentation="An amount, usually of money, that is asked for when a Product is bought, rented, or leased."/>

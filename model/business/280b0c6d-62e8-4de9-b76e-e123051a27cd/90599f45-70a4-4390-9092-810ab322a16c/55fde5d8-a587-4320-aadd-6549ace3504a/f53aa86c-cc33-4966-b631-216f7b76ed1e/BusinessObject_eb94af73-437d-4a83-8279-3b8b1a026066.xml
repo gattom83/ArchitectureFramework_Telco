@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleUsageProdOfferPriceCharge"
+    id="eb94af73-437d-4a83-8279-3b8b1a026066"
+    documentation="A rate where the charge is the same for all events. A 10 cents a minute for long distance plan is one example."/>

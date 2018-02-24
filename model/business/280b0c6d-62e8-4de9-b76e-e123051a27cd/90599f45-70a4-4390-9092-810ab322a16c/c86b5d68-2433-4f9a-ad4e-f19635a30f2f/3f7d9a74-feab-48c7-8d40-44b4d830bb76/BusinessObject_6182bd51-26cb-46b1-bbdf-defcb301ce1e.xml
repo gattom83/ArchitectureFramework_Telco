@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeProductUsageSpec"
+    id="6182bd51-26cb-46b1-bbdf-defcb301ce1e"
+    documentation="A detailed description of the usage of a Product, specified by CompositeProductSpecification. It is formed by aggregating other ProductUsageSpec(s), which may be either Composite or Atomic ProductUsageSpec(s) or Atomic ProductUsageSpec(s)."/>

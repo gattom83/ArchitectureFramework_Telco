@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductCatalogSpecification"
+    id="020d8bf2-46fd-42ef-8b29-b105786cc1fa"
+    documentation="A ProductCatalogSpecification defines the invariant characteristics of a ProductCatalog."/>

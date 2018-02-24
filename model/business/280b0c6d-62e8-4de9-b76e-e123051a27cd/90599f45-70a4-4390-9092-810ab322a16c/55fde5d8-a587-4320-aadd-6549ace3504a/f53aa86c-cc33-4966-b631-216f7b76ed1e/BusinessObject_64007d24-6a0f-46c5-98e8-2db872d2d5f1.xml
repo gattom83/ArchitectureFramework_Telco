@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DiscountProdOfferPriceAlteration"
+    id="64007d24-6a0f-46c5-98e8-2db872d2d5f1"
+    documentation="A discount is a reduction in price. It could be a flat fee such as 10 dollars or a percentage, such as 50% off. A discount always applies to, and thus is associated with, one or more other ProdOfferPriceComponents. So a discount would be 10 dollars off the installation fee or 50% off the per-minute rate."/>

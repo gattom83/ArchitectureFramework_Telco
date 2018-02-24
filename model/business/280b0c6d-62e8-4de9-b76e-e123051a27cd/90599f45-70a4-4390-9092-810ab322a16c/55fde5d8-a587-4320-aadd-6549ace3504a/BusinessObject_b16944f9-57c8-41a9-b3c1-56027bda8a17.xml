@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DistChannelProdOffer"
+    id="b16944f9-57c8-41a9-b3c1-56027bda8a17"
+    documentation="The ability of a distribution channel to distribute a product that has been ordered (as a product offering)."/>

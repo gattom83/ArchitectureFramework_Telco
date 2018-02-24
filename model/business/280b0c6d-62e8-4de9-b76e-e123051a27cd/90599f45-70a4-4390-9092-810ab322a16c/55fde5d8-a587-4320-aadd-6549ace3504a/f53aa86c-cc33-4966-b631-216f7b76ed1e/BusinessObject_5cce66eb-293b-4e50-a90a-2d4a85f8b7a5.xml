@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TariffUsageProdOfferPriceCharge"
+    id="5cce66eb-293b-4e50-a90a-2d4a85f8b7a5"
+    documentation="A rate where there are different charges for different types of events. This could include plans, which have different prices for evening minutes and anytime minutes. This usage aggregates a number of simple usages."/>

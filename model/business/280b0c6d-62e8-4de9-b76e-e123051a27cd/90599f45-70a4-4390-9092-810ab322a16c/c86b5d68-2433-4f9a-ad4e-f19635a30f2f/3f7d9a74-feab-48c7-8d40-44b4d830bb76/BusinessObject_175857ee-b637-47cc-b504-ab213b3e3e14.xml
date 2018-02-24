@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicProductUsageSpec"
+    id="175857ee-b637-47cc-b504-ab213b3e3e14"
+    documentation="A detailed description of the usage of a product, described by AtomicProductSpecification"/>

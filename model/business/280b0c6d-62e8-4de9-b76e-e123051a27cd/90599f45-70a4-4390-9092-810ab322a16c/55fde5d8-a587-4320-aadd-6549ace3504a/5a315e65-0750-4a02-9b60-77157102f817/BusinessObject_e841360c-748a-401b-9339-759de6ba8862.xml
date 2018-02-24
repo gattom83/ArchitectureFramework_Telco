@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RecurringRatingPLA"
+    id="e841360c-748a-401b-9339-759de6ba8862"
+    documentation="PLA that rates Recurring events and generates type of AppliedCustomerBillingProductCharge"/>

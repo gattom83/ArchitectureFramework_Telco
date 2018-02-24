@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProdCatProdOffer"
+    id="e7893951-49f5-4064-8f90-6d9d920261c8"
+    documentation="A collection of entities that represent the specification of ProductCatalogs and catalogs described by them that contain ProductOfferings and their associated ProductOfferingPrices."/>

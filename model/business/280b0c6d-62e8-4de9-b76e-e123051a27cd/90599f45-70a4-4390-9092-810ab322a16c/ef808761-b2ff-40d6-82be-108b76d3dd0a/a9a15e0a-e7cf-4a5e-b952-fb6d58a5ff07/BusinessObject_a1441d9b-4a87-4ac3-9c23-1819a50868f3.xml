@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComponentProdPrice"
+    id="a1441d9b-4a87-4ac3-9c23-1819a50868f3"
+    documentation="Part of a ProductPrice representing a single element of the price."/>

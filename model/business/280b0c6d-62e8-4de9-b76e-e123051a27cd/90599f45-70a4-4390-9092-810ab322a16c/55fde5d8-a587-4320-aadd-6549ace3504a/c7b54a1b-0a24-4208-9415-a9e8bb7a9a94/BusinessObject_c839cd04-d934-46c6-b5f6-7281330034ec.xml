@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductPlacement"
+    id="c839cd04-d934-46c6-b5f6-7281330034ec"
+    documentation="A description of how ProductOfferings are marketed, such as via direct mail. A ProductPlacement contains qualitative statements, or assessments that describe such things as market penetration, product strategy, and so forth."/>

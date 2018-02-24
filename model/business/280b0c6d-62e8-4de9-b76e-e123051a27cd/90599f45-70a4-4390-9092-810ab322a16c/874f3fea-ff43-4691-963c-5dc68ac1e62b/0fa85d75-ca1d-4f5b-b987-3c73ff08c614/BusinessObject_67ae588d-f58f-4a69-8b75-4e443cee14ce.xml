@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyCondition"
+    id="67ae588d-f58f-4a69-8b75-4e443cee14ce"
+    documentation="A LoyaltyCondition specifies the condition that has to be evaluated to decide if the LoyaltyAction(s) from the LoyaltyRule have to be done."/>

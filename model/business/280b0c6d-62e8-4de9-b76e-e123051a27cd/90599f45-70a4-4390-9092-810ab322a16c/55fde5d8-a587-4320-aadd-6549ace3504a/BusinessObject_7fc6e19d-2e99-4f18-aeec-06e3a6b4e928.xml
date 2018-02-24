@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BundledProdOfferOption"
+    id="7fc6e19d-2e99-4f18-aeec-06e3a6b4e928"
+    documentation="&quot;A set of numbers that specifies the lower and upper limits for a ProductOffering that can be procured as part of the related BundledProductOffering.&#xA;&#xA;Values can range from 0 to unbounded.&#xA;&quot;"/>
