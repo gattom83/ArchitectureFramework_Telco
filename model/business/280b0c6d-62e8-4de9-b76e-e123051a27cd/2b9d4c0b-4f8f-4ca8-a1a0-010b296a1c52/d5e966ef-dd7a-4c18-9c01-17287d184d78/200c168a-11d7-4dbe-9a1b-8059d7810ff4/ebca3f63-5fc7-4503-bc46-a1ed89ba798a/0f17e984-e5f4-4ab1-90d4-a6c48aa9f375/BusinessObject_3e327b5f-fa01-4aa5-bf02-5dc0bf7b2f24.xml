@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommandComposite"
+    id="3e327b5f-fa01-4aa5-bf02-5dc0bf7b2f24"
+    documentation="This is a concrete base class for representing command sets. Each command set can be represented and managed as its own entity, but also contains one or more sub-ordinate commands or command sets. In other words, this entity is not a stand-alone command; rather, it represents an aggregation of commands. Each command within this aggregation can be individually managed."/>

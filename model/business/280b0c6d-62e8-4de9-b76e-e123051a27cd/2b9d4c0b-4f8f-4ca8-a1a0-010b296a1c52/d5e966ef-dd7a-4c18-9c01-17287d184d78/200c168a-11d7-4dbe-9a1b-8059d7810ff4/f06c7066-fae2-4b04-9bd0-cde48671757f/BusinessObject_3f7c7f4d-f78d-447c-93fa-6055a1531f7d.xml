@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrafficMappingTableRow"
+    id="3f7c7f4d-f78d-447c-93fa-6055a1531f7d"
+    documentation="The TrafficMappingTableRow provides a specific rule for one manipulation, of a set of manipulations, of one or more components flows within the flow dealt with by the instance of LayerTermination."/>

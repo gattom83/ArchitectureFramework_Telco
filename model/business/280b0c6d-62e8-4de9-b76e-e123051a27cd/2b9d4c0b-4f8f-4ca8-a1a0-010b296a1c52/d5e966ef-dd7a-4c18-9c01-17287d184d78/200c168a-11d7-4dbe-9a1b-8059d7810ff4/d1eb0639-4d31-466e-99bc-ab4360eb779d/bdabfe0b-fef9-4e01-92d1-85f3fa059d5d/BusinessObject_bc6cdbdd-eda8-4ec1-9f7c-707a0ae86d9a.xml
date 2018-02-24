@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrafficConditioningProfile"
+    id="bc6cdbdd-eda8-4ec1-9f7c-707a0ae86d9a"
+    documentation="&quot;This object class represents a collection of attributes, which are used to define the traffic conditioning parameters (e.g., bandwidth characteristics) on a Termination Point (TP). &#xA;See R_TMF518_NRF_I_0052, R_TMF518_NRF_I_0053 and R_TMF518_NRF_I_0054.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundResourceSpec"
+    id="e5664cca-d17e-4d50-a15c-ce7be2c0bbec"
+    documentation="&quot;This is the abstract base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a CompoundResource.&#xA;&#xA;The key difference between a CompoundResourceSpec and either a PhysicalResourceSpec and a LogicalResourceSpec is that a PhysicalResourceSpec and LogicalResourceSpec define templates for specifying the invariant characteristics and behavior of PhysicalResources and LogicalResources, respectively. In contrast, a CompoundResourceSpec is used to describe templates that contain at least one PhysicalResourceSpec and at least one LogicalResourceSpec. Optionally, one or more CompoundResourceSpecs may also be specified.&#xA;&#xA;Thus, a CompoundResourceSpec is in effect a &quot;&quot;shorthand notation&quot;&quot; for specifying complementary PhysicalResourceSpecs and LogicalResourceSpecs.&#xA;&quot;"/>

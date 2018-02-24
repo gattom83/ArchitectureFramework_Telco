@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceSpecAtomic"
+    id="9ae97ae9-e3d7-4a14-83a6-8c621e739b89"
+    documentation="&quot;A PhysicalResourceSpecAtomic class is a concrete class for describing specific attributes, behavior, relationships, constraints, and semantics for building PhysicalResource objects. The purpose of this class is to be able to track PhysicalResourceSpecifications separately from other types of ResourceSpecifications. Note that this class inherits the SpecifiesResource aggregation, and therefore can be used with the corresponding PhysicalResource class.&#xA;&#xA;The difference between this class and the PhysicalResourceSpecComposite class is that this class represents stand-alone PhysicalResourceSpecifications. The PhysicalResourceSpecComposite class represents a specification that is in reality made up of a set (usually a hierarchy) of PhysicalResourceSpecifications.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route"
+    id="140223de-f248-4d4f-a879-42103c6a317f"
+    documentation="&quot;This object class represents a partially ordered list of Cross-Connects defining the route for a Subnetwork Connection. &#xA;See R_TMF518_NRF_I_0035 and R_TMF518_NRF_I_0036.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FlowDomainFragment"
+    id="a10e6cad-f17a-4210-8a33-a6ccd7635cc9"
+    documentation="This object class is a logical entity that represents a transparent end-to-end connectivity between two or more Flow Points."/>

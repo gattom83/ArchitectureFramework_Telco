@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ExcludedPortsDetail"
+    id="d0f9ddb0-5390-4f0f-b000-5d3200301d48"
+    documentation="The attribute exclusionFunction is designed to be populated from an external management system, and represents the criteria for excluding one or more ResourcePorts. Note that a predefined exclusion function is to limit the role that a ResourcePort plays to an edge role. However, this class enables additional functions to be used to exclude ResourcePorts."/>

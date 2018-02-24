@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutingProtocol"
+    id="6f6ca28c-7a95-417a-abc6-30f02b62aba6"
+    documentation="&quot;This is an abstract base class for representing different types of routing protocols that can be managed. Routing protocols are used to determine how information is routed (e.g., how it traverses an intermediate system). This class represents a convenient aggregation point for defining how routing protocols are managed and used.&#xA;&#xA;The DEN-ng model defines LinkStateRoutingProtocols (e.g., OSPF and IS-IS), DistanceVectorRoutingProtocols (e.g., RIP and IGRP), PathVectorRoutingProtocols (e.g., BGP) and HybridRoutingProtocols (e.g., EIGRP) as examples of subclasses of this class.&#xA;&quot;"/>

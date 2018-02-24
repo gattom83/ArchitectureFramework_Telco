@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PLogicalDeviceRole"
+    id="0e3785f7-c82d-4c36-ad6e-f1f4c17ac60a"
+    documentation="&quot;This class defines required logical features to implement the specific role of a P (Provider Core) device, as used in a Product or Service.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&quot;"/>

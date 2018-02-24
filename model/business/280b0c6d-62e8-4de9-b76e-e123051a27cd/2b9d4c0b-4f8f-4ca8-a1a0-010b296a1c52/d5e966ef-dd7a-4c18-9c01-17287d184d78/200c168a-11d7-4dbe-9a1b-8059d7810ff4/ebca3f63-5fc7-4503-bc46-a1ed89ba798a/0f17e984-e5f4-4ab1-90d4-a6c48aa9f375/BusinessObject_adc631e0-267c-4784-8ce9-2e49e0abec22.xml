@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommandConfigDetails"
+    id="adc631e0-267c-4784-8ce9-2e49e0abec22"
+    documentation="This is an aggregation class, and is used to specify the semantics of how different Command classes are used to build up a configuration or a change to a configuration.This aggregation defines the set of commands that are used to either make up a configuration or to change a configuration. The semantics of this change is conveyed using the CommandConfigDetails aggregation class."/>

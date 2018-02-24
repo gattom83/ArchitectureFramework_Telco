@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPSubnet"
+    id="281f99e3-55d6-4ccb-a74e-e7884653168b"
+    documentation="&quot;A portion of a network that shares a common address component. On TCP/IP networks, subnets are defined as all devices whose IP addresses have the same prefix. For example, all devices with IP addresses that start with 100.100.100 would be part of the same subnet.&#xA;&#xA;In DEN-ng, a Subnet represents a group of related logical endpoints, each of which is uniquely identified by a logical address, that can communicate with each other directly using a particular type of IP protocol.&#xA;&quot;"/>

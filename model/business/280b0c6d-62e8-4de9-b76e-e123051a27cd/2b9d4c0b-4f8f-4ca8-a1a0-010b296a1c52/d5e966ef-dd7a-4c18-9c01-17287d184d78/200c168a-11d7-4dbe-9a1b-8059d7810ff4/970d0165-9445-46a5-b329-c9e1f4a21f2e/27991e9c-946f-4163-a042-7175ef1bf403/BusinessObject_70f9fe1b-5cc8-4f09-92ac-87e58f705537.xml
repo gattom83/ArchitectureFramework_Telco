@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareAtomic"
+    id="70f9fe1b-5cc8-4f09-92ac-87e58f705537"
+    documentation="&quot;This is an abstract class for representing atomic units of Software that are individually manageable and do NOT form composite, or nested, software units. &#xA; &#xA;From a finite state machine view, each SoftwareAtomic element is not just individually manageable, but is also installable, executable, and runnable. In addition, each SoftwareAtomic element can be a FRU. &#xA; &#xA;This is the super-class for creating concrete subclasses that define particular functionality (e.g., a device driver, or software that implements MPLS as part of a larger routing software package). &#xA;&quot;"/>

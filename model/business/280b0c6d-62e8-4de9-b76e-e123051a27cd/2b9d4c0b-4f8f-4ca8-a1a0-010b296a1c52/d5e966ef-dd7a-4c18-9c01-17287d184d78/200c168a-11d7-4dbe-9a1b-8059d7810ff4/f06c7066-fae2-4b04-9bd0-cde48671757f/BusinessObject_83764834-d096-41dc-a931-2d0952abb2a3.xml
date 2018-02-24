@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LayerTermination"
+    id="83764834-d096-41dc-a931-2d0952abb2a3"
+    documentation="&quot;The LayerTermination_ (LT) encapsulates the functions and points associated with one instance of a layer. The functions include the adapter functions, the termination functions and the connection points of that layer. In this case the term layer is essentially synonymous with the term protocol as use by other standards. All functions encapsulated have the same signal granularity, closely associated characteristic type and essential rate. A specific LayerTermination may be equipped with a subset of capabilities. Where the TPE is semi-transparent the layers encapsulated by a TPE are exposed by the LayerTermination_ set that it contains. &#xA;The LayerTermination_ provides the relevant layer parameters for the semi-transparent TPE cases. &#xA;The LayerTermination_ allows for detailed layer description of a TPE (potentially representing a port) and for precise association of the TPE with a TopologicalLink_ (or other representatives of forwarding relationship).&quot;"/>

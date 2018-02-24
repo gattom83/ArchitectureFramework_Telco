@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecification"
+    id="2db52f0b-d4d5-4c38-92b3-b3fd0cbe9052"
+    documentation="This is an abstract base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a ManagedResource."/>

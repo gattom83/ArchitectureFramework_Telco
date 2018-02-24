@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommandAtomic"
+    id="ec000b2d-8ae7-41cb-ae33-04a547ad2260"
+    documentation="This is a concrete base class for representing commands that can be managed as their own atomic entities. That is, these commands are self-describing and operate in a stand-alone manner, and do not contain any sub-commands."/>

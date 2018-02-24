@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceDVRoutingDetails"
+    id="39def4c4-cc21-457d-a834-c25ce4a02d26"
+    documentation="&quot;This association defines the set of DistanceVectorRoutingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a DistanceVectorRoutingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceDVRoutingDetails association class.&#xA;&quot;"/>

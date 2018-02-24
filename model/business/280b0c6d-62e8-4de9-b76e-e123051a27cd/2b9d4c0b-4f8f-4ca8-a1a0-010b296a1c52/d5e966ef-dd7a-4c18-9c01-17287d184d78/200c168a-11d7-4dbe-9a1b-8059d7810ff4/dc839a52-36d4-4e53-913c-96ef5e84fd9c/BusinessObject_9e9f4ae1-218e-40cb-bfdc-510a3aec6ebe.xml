@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SiteInterfaceRole"
+    id="9e9f4ae1-218e-40cb-bfdc-510a3aec6ebe"
+    documentation="This role defines a Customer Site - that is, an interface to a set of Customers. The objective of this role is to enable the definition of Policies such that all Customers in this Site can receive the same Services (e.g., routing announcements, traffic marking, etc.)."/>

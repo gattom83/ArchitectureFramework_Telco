@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareSpecConstraintRelationship"
+    id="d3f73e63-bee1-4bfe-9b86-72f5b76e6026"
+    documentation="The specfication of additional constraints to be defined for the related SoftwareResourceSpecifications."/>

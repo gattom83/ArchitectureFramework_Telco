@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TransparentBridging"
+    id="642915a7-7fbe-4e8f-920c-2e0e6edccb00"
+    documentation="Transparent bridges are used almost exclusively in Ethernet networks. They are so named because their presence and operation are transparent to the network hosts. This type of bridge learns host locations by analyzing the source address of incoming frames from all attached networks, and then uses this information to forward traffic. If a bridge receives a frame to which no association is found, it floods all ports except the inbound port."/>

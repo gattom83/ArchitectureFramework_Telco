@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TerminationPointPool"
+    id="bfcfa3c8-b27f-4b00-9f06-6def59ce82d0"
+    documentation="&quot;This object class represents a set of Termination Points or Group Termination Points that are grouped. Properties that are common for all the TPs/GTPs in the TPPool are identified in the multiple associated commonTransmissionParameters. &#xA;See R_TMF518_NRF_I_0014 and R_TMF518_NRF_I_0015.&quot;"/>

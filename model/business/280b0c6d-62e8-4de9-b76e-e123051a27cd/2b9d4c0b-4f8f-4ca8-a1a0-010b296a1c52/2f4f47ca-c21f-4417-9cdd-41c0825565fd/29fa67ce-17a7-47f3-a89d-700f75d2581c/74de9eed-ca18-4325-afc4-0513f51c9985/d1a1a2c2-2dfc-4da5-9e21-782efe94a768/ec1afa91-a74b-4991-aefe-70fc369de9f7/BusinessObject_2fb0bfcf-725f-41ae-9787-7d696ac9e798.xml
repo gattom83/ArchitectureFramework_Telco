@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareSpecAlternativeRelationship"
+    id="2fb0bfcf-725f-41ae-9787-7d696ac9e798"
+    documentation="The specification of an association between SoftwareResourceSpecifications that are alternates of each other."/>

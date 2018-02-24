@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalDeviceAtomic"
+    id="77d77701-2997-44f7-981a-6dcaa91c03de"
+    documentation="&quot;This is a concrete base class for representing logical concepts and services that can be managed which are associated with the device as a whole. This class represents a convenient aggregation point for combining different aspects of a device (e.g., software contained in the device, protocols that the devices runs, the set of services that it offers, and so forth). It also enables the device itself to have a single logical manifestation.&#xA;&#xA;This class represents all logical devices that are atomic in nature (e.g., not made up of multiple distinct logical devices that can be separately managed).&#xA;&quot;"/>

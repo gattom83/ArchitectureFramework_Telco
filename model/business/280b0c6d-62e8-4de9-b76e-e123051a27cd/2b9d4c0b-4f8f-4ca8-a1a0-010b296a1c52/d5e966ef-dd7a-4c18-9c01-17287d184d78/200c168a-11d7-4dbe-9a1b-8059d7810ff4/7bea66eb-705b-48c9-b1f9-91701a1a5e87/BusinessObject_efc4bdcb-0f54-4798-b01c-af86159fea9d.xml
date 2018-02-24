@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connection"
+    id="efc4bdcb-0f54-4798-b01c-af86159fea9d"
+    documentation="&quot;This is a class of managed objects responsible for the transparent transfer of information between ConnectionTerminationPoints. A Connection is a component of a Trail.&#xA;&#xA;Several connections can be bundled into a higher rate trail. A sequence of one or more Connections are linked together to form a Trail. A Connection may be either uni- or bi-directional.&#xA;&#xA;This object is taken from M.3100. DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with IETF managed objects.&#xA;&quot;"/>

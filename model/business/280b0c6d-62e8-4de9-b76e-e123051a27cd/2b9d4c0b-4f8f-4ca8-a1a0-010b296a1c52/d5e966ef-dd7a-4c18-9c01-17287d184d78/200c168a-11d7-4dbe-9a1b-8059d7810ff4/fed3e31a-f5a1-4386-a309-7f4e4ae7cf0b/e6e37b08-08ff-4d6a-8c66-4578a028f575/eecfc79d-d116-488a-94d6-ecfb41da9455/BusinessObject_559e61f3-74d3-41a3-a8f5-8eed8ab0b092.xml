@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="__SNPP"
+    id="559e61f3-74d3-41a3-a8f5-8eed8ab0b092"
+    documentation="&quot;The TPE can be used to represent all forms of MTNM/MTOSI SNPP. &#xA; &#xA;This represents a usage example. It is not intended that the TPE be subclassed in this way. The TPE should not be sub-classed.&quot;"/>

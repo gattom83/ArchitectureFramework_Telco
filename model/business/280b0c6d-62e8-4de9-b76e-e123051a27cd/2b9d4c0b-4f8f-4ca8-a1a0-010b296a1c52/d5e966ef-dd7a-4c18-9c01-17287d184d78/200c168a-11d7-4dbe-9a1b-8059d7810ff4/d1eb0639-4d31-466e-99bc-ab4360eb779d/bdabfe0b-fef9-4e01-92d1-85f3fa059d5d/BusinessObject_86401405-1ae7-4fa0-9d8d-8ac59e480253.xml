@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiLayerSubNetwork"
+    id="86401405-1ae7-4fa0-9d8d-8ac59e480253"
+    documentation="&quot;This object class is an abstraction of the topology provided by the target OS which describes the potential for SubNetwork Connections. Top-level Multi Layer Subnetworks are subnetworks contained directly under either the target OS or a Management Domain. &#xA;See R_TMF518_NRF_I_0021 and R_TMF518_NRF_I_0021.&quot;"/>

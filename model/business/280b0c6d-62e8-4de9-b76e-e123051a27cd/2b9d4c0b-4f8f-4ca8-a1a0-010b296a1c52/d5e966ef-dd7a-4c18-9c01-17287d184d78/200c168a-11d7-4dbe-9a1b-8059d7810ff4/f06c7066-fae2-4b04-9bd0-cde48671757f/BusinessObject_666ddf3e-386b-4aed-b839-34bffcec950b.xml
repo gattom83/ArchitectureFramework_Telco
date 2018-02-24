@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FreProtection"
+    id="666ddf3e-386b-4aed-b839-34bffcec950b"
+    documentation="Package of attributes that relate to internal resilience of the FRE."/>

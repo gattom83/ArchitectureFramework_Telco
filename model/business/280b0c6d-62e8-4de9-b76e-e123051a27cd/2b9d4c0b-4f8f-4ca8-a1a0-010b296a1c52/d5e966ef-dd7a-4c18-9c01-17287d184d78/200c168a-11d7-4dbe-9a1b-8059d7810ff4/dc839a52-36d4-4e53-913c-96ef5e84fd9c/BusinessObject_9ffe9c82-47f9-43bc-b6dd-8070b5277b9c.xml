@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SwitchingRole"
+    id="9ffe9c82-47f9-43bc-b6dd-8070b5277b9c"
+    documentation="This class abstracts the different routing capabilities necessary for a LogicalDevice to have. This helps simplify the modeling of (especially) network devices, which have many different sets of capabilities. For example, most routers can do routing, forwarding, and firewalling of traffic. By modeling these capabilities as three roles, switch functionality is both abstracted as well as categorized, so that the differences between forwarding traffic done by a router and forwarding traffic done by a L3 switch can be differentiated."/>

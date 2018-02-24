@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TL1Method"
+    id="094e2b81-9631-4f99-bc95-6098cf58be58"
+    documentation="This is an abstract base class for defining different types of TL1 methods to perform various FCAPS functions."/>

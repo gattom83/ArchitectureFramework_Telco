@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pipe"
+    id="2c81679c-7530-4331-8497-61d4c233b272"
+    documentation="&quot;The Pipe object class is a class of managed objects which ensures the transfer of information between two TerminationPoints. This is derived from the m.3100 specification.&#xA;&#xA;The Pipe object class is not instantiable because the transfer is effected via the client-server relationship of trail and connection. Connectivity direction is determined by the directionality of the a and z termination points.&#xA;&#xA;If an instance of this class is bidirectional, the a- and z-termination points shall also be bidirectional. If an instance of this class is unidirectional, the a-point shall be the source TP and the z-termination point shall be the sink TP.&#xA;&#xA;This object is taken from M.3100. DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with IETF managed objects.&#xA;&quot;"/>

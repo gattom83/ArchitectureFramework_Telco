@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResourceRoleSpec"
+    id="2ab7f16c-aee6-4eeb-8d30-ed8417d1da3e"
+    documentation="This is a concrete base class for all LogicalResourceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion. It is used to define the invariant attributes, methods, relationships, and constraints of various types of roles associated with LogicalResources in the DEN-ng model."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TransmissionDescriptor"
+    id="40fca95f-6f44-43ce-a0a8-076ebc031284"
+    documentation="&quot;This object class is a collection of attributes which are used to define multi-layered transmission parameters and additional info parameters on a resource; e.g., a TP. &#xA;See R_TMF518_NRF_I_0042 and R_TMF518_NRF_I_0043.&quot;"/>

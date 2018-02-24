@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trail"
+    id="3c936550-1d1b-4231-b669-2092fe91e078"
+    documentation="&quot;Trail is a class of managed objects in layer networks which is responsible for the integrity of transfer of characteristic information from one or more other layer networks. A Trail is composed of two TrailTerminationPoints and one or more Connections and associated ConnectionTerminationPoints.&#xA;&#xA;This object is taken from M.3100. DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with IETF managed objects.&#xA;&quot;"/>

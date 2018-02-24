@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceStateInfo"
+    id="d7eee820-f705-40db-8e58-2d210ed05163"
+    documentation="&quot;ResourceStateInfo is an abstract base class for representing different types of management information that describes the state of a particular Resource.&#xA;&#xA;DEN-ng uses a Finite State Machine management model to represent the lifecycle of a managed entity. This class represents one state of that Finite State Machine. (Note that the DEN-ng Finite State Machine is derived from the UML Metamodel State Machine metaclass.)&#xA;&#xA;Subclasses of this class include classes to represent Faults, Outages, Alarms, the usage of this Resource, and its current operational state.&#xA;&quot;"/>

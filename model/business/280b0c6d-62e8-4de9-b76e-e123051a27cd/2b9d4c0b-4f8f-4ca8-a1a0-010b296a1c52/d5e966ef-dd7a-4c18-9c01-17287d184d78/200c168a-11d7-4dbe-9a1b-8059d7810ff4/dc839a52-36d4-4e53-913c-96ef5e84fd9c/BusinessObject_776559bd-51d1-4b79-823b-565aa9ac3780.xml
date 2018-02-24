@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EdgeInterface"
+    id="776559bd-51d1-4b79-823b-565aa9ac3780"
+    documentation="This role defines a DeviceInterface that functions as an EdgeInterface - that is, an interface on the edge of the network. The objective of this role is to enable the definition of Policies such that all EdgeInterfaces in a particular Domain can receive the same common configuration commands."/>

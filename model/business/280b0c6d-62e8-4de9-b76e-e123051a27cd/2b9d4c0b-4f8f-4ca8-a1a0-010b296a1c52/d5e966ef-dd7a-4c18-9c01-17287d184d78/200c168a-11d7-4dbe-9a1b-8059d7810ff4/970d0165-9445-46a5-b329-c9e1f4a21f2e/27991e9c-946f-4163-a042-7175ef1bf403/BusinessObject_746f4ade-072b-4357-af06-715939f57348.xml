@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareCommand"
+    id="746f4ade-072b-4357-af06-715939f57348"
+    documentation="&quot;SoftwareCommands describe the sets of features that are programmable by a particular PartyRole (e.g., a Developer, or NetworkOperator, and in rare cases, an EndUser).&#xA;&#xA;This should not be confused with Capabilities. Capabilities define what features and functions are available at a given moment for the Resource. Thus, SoftwareCommands represent the specific commands that are available in a device, whereas Capabilities represent higher-level generic functions available in a Resource. For exampe, the ability to perform BGP routing is a Capability, whereas the actual commands used to implement BGP routing are SoftwareCommands. &#xA;&quot;"/>

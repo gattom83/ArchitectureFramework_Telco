@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSPF"
+    id="0495ce84-a698-4535-895b-eabd0922d9f7"
+    documentation="&quot;This is the base class for representing the OSPF protocol. This class represents a convenient aggregation point for defining how the OSPF protocol is managed, configured and used.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;&quot;"/>

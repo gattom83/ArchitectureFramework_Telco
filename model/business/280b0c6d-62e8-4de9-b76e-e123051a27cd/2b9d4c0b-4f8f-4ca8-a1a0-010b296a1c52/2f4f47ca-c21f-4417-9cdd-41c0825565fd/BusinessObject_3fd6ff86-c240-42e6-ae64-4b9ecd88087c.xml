@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecificationPerfRole"
+    id="3fd6ff86-c240-42e6-ae64-4b9ecd88087c"
+    documentation="A role that a ResourceSpecification plays in defining a PerformanceSpecification."/>

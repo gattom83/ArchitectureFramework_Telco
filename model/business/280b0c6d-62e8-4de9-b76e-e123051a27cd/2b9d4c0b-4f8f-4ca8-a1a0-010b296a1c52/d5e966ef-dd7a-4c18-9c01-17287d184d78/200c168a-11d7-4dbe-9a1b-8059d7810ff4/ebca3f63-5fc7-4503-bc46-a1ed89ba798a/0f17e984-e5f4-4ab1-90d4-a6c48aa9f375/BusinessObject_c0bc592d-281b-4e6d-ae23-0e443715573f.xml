@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command"
+    id="c0bc592d-281b-4e6d-ae23-0e443715573f"
+    documentation="This is an abstract base class for representing configuration commands that can be managed."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceUsage"
+    id="c4c99930-1a18-4187-9de8-240564241cfe"
+    documentation="An occurrence of employing a Resource for its intended purpose."/>

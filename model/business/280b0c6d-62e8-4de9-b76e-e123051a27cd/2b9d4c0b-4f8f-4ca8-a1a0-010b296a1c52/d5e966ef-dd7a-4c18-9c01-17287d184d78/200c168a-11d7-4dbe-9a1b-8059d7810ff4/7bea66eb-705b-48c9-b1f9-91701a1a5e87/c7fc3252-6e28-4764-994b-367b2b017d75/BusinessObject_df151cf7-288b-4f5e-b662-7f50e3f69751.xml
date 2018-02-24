@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConnectionTerminationPoint"
+    id="df151cf7-288b-4f5e-b662-7f50e3f69751"
+    documentation="&quot;This is an actual or potential end point of a Network connection. For example, this can represent a logical channel or a timeslot on a physical link.&#xA;&#xA;All PhysicalPorts connect to at least one type of CTP.&#xA;&#xA;This object is derived from MTNM (see TMF 608). DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with managed objects defined by the TMF, IETF, and other fora.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityInfo"
+    id="6b89c1fa-b29d-4db3-ba5b-519ec1364829"
+    documentation="&quot;SecurityInfo is the base class for all security classes. Different types of security settings and semantics are associated with a particular Resource or Service using the DescribedByMgmtInfo aggregation. Subclasses of this class define the detailed characteristics and behavior of this class. Examples of security subclasses include AuthenticationEntity, AuthorizationEntity, and AuditingEntity.&#xA;&#xA;Security settings are implemented and reported on by associating the parent of this class, ManagementInfo, with the ManagementMethodEntity class through a combination of the DescribedByMgmtInfo and the MgmtInfoObtainedBy aggregation.&#xA;&quot;"/>

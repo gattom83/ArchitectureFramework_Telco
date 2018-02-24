@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TokenRingInterface"
+    id="74074f82-a7f1-4f6c-ac64-029707588c34"
+    documentation="This is a concrete class that refines the concept of a DeviceInterface into a TokenRingDeviceInterface."/>

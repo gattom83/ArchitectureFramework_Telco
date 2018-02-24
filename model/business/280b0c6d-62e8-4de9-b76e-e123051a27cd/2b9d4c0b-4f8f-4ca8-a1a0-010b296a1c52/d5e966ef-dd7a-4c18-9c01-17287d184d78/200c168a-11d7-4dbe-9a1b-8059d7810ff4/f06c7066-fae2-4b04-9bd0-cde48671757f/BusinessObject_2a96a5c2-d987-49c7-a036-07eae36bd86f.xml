@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FreControlPlane"
+    id="2a96a5c2-d987-49c7-a036-07eae36bd86f"
+    documentation="Package of attributes that relate to delegated routing capability utilised during the construction and maintenance of the FRE such as that associated with a traditional control plane."/>

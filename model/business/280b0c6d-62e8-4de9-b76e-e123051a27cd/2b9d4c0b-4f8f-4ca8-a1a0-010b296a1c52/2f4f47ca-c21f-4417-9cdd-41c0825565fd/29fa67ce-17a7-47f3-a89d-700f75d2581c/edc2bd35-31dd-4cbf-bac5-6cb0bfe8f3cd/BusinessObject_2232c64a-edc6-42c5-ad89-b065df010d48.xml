@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalDeviceRoleSpec"
+    id="2232c64a-edc6-42c5-ad89-b065df010d48"
+    documentation="This is a concrete base class for all LogicalDeviceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion. It is used to define the invariant attributes, methods, relationships, and constraints of various types of roles associated with LogicalDevices in the DEN-ng model."/>

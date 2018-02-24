@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConnectionParameterProfile"
+    id="a89e2d57-ca9b-45f6-9d3e-c844f0cf941e"
+    documentation="This entity defines a sequence of name value pairs that can be used to define class of service parameters and their values to be associated to an FRE."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResourceRole"
+    id="1bf400b6-cb59-4a95-b03a-27dfc698e0f0"
+    documentation="This is an abstract base class that defines the concept of various types of roles that can be associated with LogicalResources."/>

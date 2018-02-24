@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LayerProtocolParameters"
+    id="d0e256dd-0bb7-4004-a1d6-12718dd395b3"
+    documentation="Package of attributes that relate to a specified layerProtocol of an NFD."/>

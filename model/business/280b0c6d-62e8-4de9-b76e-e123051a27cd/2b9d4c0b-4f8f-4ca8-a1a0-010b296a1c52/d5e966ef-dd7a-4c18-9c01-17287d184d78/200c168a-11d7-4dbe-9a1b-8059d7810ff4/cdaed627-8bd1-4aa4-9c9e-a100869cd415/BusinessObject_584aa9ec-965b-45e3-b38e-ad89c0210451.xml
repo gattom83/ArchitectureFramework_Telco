@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SerialInterface"
+    id="584aa9ec-965b-45e3-b38e-ad89c0210451"
+    documentation="This is a concrete class that refines the concept of a DeviceInterface into a SerialDeviceInterface."/>

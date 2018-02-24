@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceStatisticalInfo"
+    id="5575463b-c89e-40fc-9ee1-16dcbec4a181"
+    documentation="&quot;ResourceStatisticalInfo is an abstract base class for representing different types of statistical information that describes the state of a particular Resource or set of Resources (or a particular Service or set of Services). Subclasses of this class represent domain-specific information, including:&#xA;&#xA; - specific LogicalResource statistics, such as those for a&#xA; DeviceInterface (e.g., number of packets dropped)&#xA; - specific PhysicalResource statistics, such as a fiber cut&#xA;&quot;"/>

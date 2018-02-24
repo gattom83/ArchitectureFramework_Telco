@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedTransmissionEntity"
+    id="cf19cefb-65a5-47bc-87de-d6fb0d037a89"
+    documentation="This is an abstract base class for describing different types of logical entities that are or help to form connections that transmit and/or receive information. This represents a superclass to various ITU specs (e.g., G.805 and M.3100) as well as IETF concepts (such as those found in various RFCs) so that it can unite ITU and IETF concepts."/>

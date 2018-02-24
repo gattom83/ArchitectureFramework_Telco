@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NullInterface"
+    id="8c8d3e51-c949-424c-ad9e-3d75794c68c6"
+    documentation="A NullInterface is a virtual interface. Traffic sent to the NullInterface is discarded automatically."/>

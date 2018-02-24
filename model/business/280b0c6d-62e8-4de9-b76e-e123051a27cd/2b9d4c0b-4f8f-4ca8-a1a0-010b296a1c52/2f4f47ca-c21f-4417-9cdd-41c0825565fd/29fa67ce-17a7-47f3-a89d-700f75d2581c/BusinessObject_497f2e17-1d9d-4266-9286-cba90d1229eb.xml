@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResourceSpecComposite"
+    id="497f2e17-1d9d-4266-9286-cba90d1229eb"
+    documentation="&quot;This is a concrete class for describing specific attributes, behavior, relationships, constraints, and semantics for building LogicalResource objects. The purpose of this class is to be able to track specifications of LogicalResource separately from other types of ResourceSpecifications. Note that this class inherits the ModifiesResourceSpec aggregation, and therefore can be used with the corresponding LogicalResource class.&#xA;&#xA;The difference between this class and the LogicalResourceSpecAtomic class is that this class represents a hierarchy of specifications for LogicalResources. The LogicalResourceSpecAtomic class represents a single stand-alone specification of a LogicalResource.&#xA;&quot;"/>

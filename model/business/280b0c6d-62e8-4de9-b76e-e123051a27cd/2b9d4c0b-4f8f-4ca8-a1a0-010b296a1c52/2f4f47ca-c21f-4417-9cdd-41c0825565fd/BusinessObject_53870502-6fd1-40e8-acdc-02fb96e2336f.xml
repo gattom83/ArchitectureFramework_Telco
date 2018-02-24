@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecType"
+    id="53870502-6fd1-40e8-acdc-02fb96e2336f"
+    documentation="A ResourceSpecType entity is used to categorize sets of ResourceSpecifications. Multiple ResourceSpecTypes can be related to each other using the InvolvedResourceSpecTypes association."/>

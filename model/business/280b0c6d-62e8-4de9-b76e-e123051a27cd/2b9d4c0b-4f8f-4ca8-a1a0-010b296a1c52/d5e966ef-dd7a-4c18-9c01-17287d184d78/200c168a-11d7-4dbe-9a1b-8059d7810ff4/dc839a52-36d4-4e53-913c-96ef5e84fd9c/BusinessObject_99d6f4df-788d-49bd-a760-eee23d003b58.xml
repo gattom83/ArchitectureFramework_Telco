@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPELogicalDeviceRole"
+    id="99d6f4df-788d-49bd-a760-eee23d003b58"
+    documentation="&quot;This class defines required logical features to implement the specific role of a CPE (Customer Premise Edge) device, as used in a Product or Service.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&quot;"/>

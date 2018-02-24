@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PointCode"
+    id="02cea250-1820-4c1f-b9df-8185fff7a0da"
+    documentation="ISUP Signaling OPC and DPC attributes that map to Region, Subregion, Node Type, and Node Name."/>

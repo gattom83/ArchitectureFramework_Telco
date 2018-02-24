@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutingRole"
+    id="5a63f5c7-e51f-48a4-9b0e-1f971e178769"
+    documentation="This class abstracts the different routing capabilities necessary for a LogicalDevice to have. This helps simplify the modeling of (especially) network devices, which have many different sets of capabilities. For example, most routers can do routing, forwarding, and firewalling of traffic. By modeling these capabilities as three roles, router functionality is both abstracted as well as categorized, so that the differences between routing done by a router and routing done by a L3 switch can be differentiated."/>

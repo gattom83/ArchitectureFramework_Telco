@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DistanceVectorRoutingProtocol"
+    id="367577b0-e0b0-4fcb-acb0-09c43ab48bd0"
+    documentation="This is the base class for defining protocols that use a distance vector routing algorithm. In this algorithm, each router sends its entire routing table in each update, but only to its neighbors. By iterating through each hop, the shortest-path spanning tree is found."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComponentSoftwareSpecification"
+    id="efdd35b1-daa6-4204-8551-a85b94332fe5"
+    documentation="A type of SoftwareSpecification that does not have any subordinate SoftwareSpecifications, that is, an ComponentSoftwareSpecification is a leaf-level SoftwareSpecification."/>

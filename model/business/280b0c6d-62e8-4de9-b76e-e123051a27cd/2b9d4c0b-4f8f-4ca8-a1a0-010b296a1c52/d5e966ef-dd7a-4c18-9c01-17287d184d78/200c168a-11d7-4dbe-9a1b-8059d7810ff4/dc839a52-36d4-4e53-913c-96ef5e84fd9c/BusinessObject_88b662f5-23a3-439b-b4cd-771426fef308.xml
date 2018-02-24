@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoreInterface"
+    id="88b662f5-23a3-439b-b4cd-771426fef308"
+    documentation="This role defines a DeviceInterface that functions as an CoreInterface - that is, an interface in the core of the network. The objective of this role is to enable the definition of Policies such that all CoreInterfaces in a particular Domain can receive the same common configuration commands."/>

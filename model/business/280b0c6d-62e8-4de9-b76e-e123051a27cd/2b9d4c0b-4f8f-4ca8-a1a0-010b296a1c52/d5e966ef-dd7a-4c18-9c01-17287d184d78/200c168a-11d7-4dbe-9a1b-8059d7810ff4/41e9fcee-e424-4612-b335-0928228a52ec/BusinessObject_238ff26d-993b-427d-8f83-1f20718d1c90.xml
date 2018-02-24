@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocol"
+    id="238ff26d-993b-427d-8f83-1f20718d1c90"
+    documentation="&quot;A Protocol is a formal set of rules and conventions that governs how two entities exchange information (usually over one or more types of network media).&#xA;&#xA;This is an abstract base class for representing Protocols that can be managed. This class represents a convenient aggregation point for defining how Protocols are managed and used.&#xA;&#xA;Please see the DEN-ng Service model for more details.&#xA;&quot;"/>

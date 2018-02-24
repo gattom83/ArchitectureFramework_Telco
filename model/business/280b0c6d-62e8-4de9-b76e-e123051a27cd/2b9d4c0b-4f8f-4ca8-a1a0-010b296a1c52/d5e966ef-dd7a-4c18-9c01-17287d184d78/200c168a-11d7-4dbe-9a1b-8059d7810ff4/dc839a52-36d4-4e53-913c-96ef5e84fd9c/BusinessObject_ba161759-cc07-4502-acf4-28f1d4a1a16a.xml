@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceInterfaceRole"
+    id="ba161759-cc07-4502-acf4-28f1d4a1a16a"
+    documentation="This is a base class for representing different types of roles that can be associated with a particular DeviceInterface."/>

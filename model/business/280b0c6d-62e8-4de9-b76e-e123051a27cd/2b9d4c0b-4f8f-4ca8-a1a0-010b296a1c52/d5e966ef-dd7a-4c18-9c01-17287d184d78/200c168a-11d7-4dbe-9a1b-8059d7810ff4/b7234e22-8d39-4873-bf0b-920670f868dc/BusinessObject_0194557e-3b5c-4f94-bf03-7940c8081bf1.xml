@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceMgmtProtocolDetails"
+    id="0194557e-3b5c-4f94-bf03-7940c8081bf1"
+    documentation="&quot;This association defines the set of ManagementProtocols that are currently being used on this LogicalDevice. Note that this association differs from the supportsProtocol aggregation in that this association is used to define the characteristics of how this particular ManagementProtocol is being used, whereas the supportsProtocol aggregation is used to determine if a particular Protocol (not just a ManagementProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceMgmtProtocolDetails association class.&#xA;&quot;"/>

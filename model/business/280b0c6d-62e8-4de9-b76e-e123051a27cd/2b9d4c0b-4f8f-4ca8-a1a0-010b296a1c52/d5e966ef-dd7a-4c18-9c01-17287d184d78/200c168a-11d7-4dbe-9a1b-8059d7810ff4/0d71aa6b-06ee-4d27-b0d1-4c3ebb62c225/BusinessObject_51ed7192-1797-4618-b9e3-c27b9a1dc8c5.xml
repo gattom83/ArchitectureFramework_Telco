@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalCapacity"
+    id="51ed7192-1797-4618-b9e3-c27b9a1dc8c5"
+    documentation="This is an abstract class that represents the minimum and maximum requirements, limits, or other variable features of different types of ManagedEntities."/>

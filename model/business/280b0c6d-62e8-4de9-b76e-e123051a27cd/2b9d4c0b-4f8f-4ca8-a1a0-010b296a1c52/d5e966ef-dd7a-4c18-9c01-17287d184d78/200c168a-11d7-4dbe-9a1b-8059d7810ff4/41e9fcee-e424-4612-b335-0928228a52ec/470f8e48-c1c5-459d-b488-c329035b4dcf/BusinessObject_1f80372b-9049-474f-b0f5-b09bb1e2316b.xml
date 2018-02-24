@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutedProtocol"
+    id="1f80372b-9049-474f-b0f5-b09bb1e2316b"
+    documentation="&quot;This is an abstract base class for representing different types of routed protocols that can be managed. Routed protocols are those protocols that can be routed by a router. Specifically, the router must be able to interpret the logical internetwork as specified by that routed protocol. This class represents a convenient aggregation point for defining how routed protocols are managed and used.&#xA;&#xA;The DEN-ng model defines AppleTalk, DecNET, IP, and IPX as examples of subclasses of this class.&#xA;&quot;"/>

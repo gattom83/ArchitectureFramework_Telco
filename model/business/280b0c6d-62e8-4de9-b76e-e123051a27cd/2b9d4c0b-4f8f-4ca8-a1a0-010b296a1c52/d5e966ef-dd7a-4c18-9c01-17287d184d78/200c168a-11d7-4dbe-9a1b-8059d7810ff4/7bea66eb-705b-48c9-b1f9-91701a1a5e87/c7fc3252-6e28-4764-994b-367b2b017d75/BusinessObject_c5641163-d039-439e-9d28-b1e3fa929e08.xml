@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrailTerminationPoint"
+    id="c5641163-d039-439e-9d28-b1e3fa929e08"
+    documentation="&quot;This is an abstract class whose purpose is to group different types of TrailTerminationPoints. This enables a single composition (CTPsInTrail) to be run to this class, which is then inherited by its subclasses. This is deemed better than building three relationships between the (currently) three types of TrailTerminationPoints and the CTP class. Note that each has the same containment relationship.&#xA;&#xA;This object is derived from M.3100. M.3100 didn't define this object per se, but did define three objects that inherited from TerminationPoint that can be better modeled as being subclassed from this class. DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with IETF managed objects.&#xA;&quot;"/>

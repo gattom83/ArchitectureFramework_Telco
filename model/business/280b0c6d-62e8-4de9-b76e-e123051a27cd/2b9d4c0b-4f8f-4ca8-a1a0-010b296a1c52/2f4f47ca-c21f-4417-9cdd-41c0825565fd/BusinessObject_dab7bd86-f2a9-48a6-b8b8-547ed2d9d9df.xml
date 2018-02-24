@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecVersion"
+    id="dab7bd86-f2a9-48a6-b8b8-547ed2d9d9df"
+    documentation="This class represents the ability to distinguish between different instances of ResourceSpecifications. It represents a particular form or variety of a ResourceSpecification that is different from others or from the original. The form represents differences in attributes, methods, relationships, and/or constraints that characterize this particular ResourceSpecification, but which are not enough to warrant creating a new ResourceSpecification."/>

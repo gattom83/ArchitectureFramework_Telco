@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutingParameters"
+    id="dc38b0de-14ed-48a4-9a8a-a2446562137b"
+    documentation="Package of routing parameters related to the fabric of the network exposed via TopologicalLink and NetworkForwardingDomain."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecCharValueUse"
+    id="b6146bbe-4fad-4222-910f-b43414ba8a83"
+    documentation="A use of theResourceSpecCharacteristicValue by an EntitySpecification to which additional properties (attributes) apply or override the properties of similar properties contained in ResourceSpecCharacteristicValue.This association defines the allowed set of values (represented as instances of the ResourceSpecCharacteristicValue object) that a specific ResourceSpecification can have when that ResourceSpecification object is instantiated."/>

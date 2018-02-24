@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceRoutedProtocolDetails"
+    id="dd8344dc-5b37-4238-aa52-a91231d9b01e"
+    documentation="&quot;This association defines the set of RoutedProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a RoutedProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceRoutedProtocolDetails association class.&#xA;&quot;"/>

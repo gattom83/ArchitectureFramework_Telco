@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MediaInterface"
+    id="72d638df-abe6-4aff-9f67-244d25ddd97b"
+    documentation="This is an abstract class that serves as the superclass for all physical interfaces (physical in the sense that they are real interfaces that can be instantiated - they are still logical entities) whose functionality is dependent on a particular transmission medium (e.g., Ethernet vs. ATM). It serves as a convenient aggregation point for running different relationships that affect its subclasses, thereby avoiding having to instantiate multiple relationships that are essentially the same."/>

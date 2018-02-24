@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProtectionGroup"
+    id="42fa0fe5-0173-4853-b03b-1d4d783c2b24"
+    documentation="&quot;This object class represents the information about a trail protection in a Managed Element. &#xA;&quot;"/>

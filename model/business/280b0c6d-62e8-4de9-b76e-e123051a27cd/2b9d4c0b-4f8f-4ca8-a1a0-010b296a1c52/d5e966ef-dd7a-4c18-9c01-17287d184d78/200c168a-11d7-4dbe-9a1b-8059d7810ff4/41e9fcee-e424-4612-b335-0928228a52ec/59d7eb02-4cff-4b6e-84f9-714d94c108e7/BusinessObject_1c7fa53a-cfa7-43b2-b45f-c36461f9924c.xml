@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BridgingProtocol"
+    id="1c7fa53a-cfa7-43b2-b45f-c36461f9924c"
+    documentation="&quot;Bridging Protocols operate at the data link layer of the OSI model, and are used to define communications over different types of homogeneous and heterogeneous local area networks.&#xA;&#xA;The DEN-ng model defines RSRBridging, SRBridging, SRTBridging, and TransparentBridging as examples of subclasses of this class.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResource ABE"
+    id="200c168a-11d7-4dbe-9a1b-8059d7810ff4"
+    documentation="&quot;The Resource ABE contains entities that are used to represent the various aspects of a Resource.&#xA;&#xA;LogicalResource entities are sets of entities that represent the logical aspects of a Resource. This is important to enable the SID to build a set of reusable managed entities that can be used to model the logical aspects of different types of Resources.&#xA;&quot;"/>

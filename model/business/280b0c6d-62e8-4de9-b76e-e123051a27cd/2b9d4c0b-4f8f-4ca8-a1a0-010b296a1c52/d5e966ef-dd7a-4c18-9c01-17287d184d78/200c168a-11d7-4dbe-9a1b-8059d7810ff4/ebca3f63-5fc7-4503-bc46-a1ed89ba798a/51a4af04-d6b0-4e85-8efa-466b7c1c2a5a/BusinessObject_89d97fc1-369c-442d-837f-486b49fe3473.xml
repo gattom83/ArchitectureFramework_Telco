@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMONMethod"
+    id="89d97fc1-369c-442d-837f-486b49fe3473"
+    documentation="This is an abstract base class for defining different types of RMON methods to perform various FCAPS functions."/>

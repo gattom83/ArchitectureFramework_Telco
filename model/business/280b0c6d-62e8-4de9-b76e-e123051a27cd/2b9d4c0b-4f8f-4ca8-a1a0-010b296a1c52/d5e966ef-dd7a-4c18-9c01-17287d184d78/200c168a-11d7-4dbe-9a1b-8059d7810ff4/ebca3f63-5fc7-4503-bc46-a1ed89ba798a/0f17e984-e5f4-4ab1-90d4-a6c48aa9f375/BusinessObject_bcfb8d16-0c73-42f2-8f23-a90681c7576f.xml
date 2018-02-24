@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BaseConfiguration"
+    id="bcfb8d16-0c73-42f2-8f23-a90681c7576f"
+    documentation="This class defines a basic configuration that can be used to bootstrap the device. This will put the device into a state to enable it to be remotely managed."/>

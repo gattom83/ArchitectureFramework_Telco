@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GroupTerminationPoint"
+    id="6f480ffc-e1e5-434c-87ec-1f5d6f034a58"
+    documentation="&quot;This object class represents simply a list of CTPs in the same Managed Element. GroupTerminationPoints (GTPs) can be cross connected. All CTPs in a GTP are either bidirectional or unidirectional. A GTP can serve as an end point as well as an interior point of an SNC. However, a GTP is not a CTP. &#xA;For further information refer to attached supporting document SD1-3_BundledSNC. &#xA;See R_TMF518_NRF_I_0012 and R_TMF518_NRF_I_0013...\SD\SD1-3_BundledSNC.pdf&quot;"/>

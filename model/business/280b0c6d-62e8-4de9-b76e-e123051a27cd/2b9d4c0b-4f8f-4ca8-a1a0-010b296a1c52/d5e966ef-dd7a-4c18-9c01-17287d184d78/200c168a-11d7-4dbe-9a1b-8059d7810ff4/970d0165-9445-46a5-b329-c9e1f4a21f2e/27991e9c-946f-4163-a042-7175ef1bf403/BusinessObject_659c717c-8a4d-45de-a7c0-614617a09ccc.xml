@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareComposite"
+    id="659c717c-8a4d-45de-a7c0-614617a09ccc"
+    documentation="&quot;This is an abstract class for representing software units that are made up of other software units (i.e., instances of this class as well as the SoftwareAtomic base class). This provides the semantics of collecting a set of components, each of which is individually manageable, and being able to manage the set of objects as a whole. An example is an operating system - this is manageable as a unit, but consists of individually manageable components. This containment is modeled using the ContainsSoftwareComponents composition.&#xA;&#xA;From a finite state machine view, each SoftwareComposite element is manageable, installable, executable, and runnable. In addition, each SoftwareComposite element can be a FRU.&#xA;&#xA;This is the super-class for creating concrete subclasses that define groups of functionality (e.g., set of features that work together to provide application-level functionality to the end-user).&#xA;&quot;"/>

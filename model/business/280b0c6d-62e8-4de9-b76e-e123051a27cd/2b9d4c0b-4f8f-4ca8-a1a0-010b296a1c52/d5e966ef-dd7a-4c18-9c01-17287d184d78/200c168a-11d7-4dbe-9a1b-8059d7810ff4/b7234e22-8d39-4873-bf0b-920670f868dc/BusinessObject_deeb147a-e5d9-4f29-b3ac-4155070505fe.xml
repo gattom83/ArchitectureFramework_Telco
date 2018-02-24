@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceSwitchingProtocolDetails"
+    id="deeb147a-e5d9-4f29-b3ac-4155070505fe"
+    documentation="&quot;This association defines the set of SwitchingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a SwitchingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceSwitchingProtocolDetails association class.&#xA;&quot;"/>

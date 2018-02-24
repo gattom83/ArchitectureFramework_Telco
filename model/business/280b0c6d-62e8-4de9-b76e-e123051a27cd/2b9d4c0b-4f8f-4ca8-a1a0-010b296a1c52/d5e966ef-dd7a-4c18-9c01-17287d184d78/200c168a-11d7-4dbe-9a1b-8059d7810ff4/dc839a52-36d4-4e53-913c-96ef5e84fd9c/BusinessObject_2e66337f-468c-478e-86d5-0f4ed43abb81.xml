@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPNLogicalDeviceRole"
+    id="2e66337f-468c-478e-86d5-0f4ed43abb81"
+    documentation="A VPNRole is the superclass for various types of VPN role classes. For example, MPLS VPNs will use the CPELogicalDeviceRole, PELogicalDeviceRole, and PLogicalDeviceRole subclasses of this class to abstract functonality required for the CPE, PE, and P roles of an MPLS VPN. Other types of VPNs will use other subclasses of the VPNRole class. The advantage of this class is that it enables different types of VPN roles to be specified by an MPLSVPNServiceSpecification."/>

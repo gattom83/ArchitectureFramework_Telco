@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceInterface"
+    id="41e860aa-eb3f-424f-a616-1f091671147b"
+    documentation="This is a concrete class that represents the (logical) interface or sub-interface of a device. A DeviceInterface is a concrete class that represents the (logical) interface or sub-interface of a device. This is not a transmission entity; rather, DeviceInterfaces are used to program Services and LogicalResources on a Device. For example, it is used to program a logical connection from a device to a network medium. Different types of DeviceInterfaces exist for the different types of network media (e.g., IP vs. ATM) that are used in a network to enable such media to be programmed. The combination of a LogicalDevice and a DeviceInterface is what a developer programs to define Services that run on the device."/>

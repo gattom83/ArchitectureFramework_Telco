@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AggregationInterface"
+    id="82cfc928-63c7-48d9-b045-f45f12ff38aa"
+    documentation="This role defines a DeviceInterface that functions as an AggregationInterface - that is, an interface on the aggregation portion of the network. The objective of this role is to enable the definition of Policies such that all AggregationInterfaces in a particular Domain can receive the same common configuration commands."/>

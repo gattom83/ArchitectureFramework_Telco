@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CLIMethod"
+    id="c31df2e7-b4b6-4bd1-8667-38b060d3e0af"
+    documentation="This is an abstract base class for defining different types of CLI methods to perform various FCAPS functions."/>

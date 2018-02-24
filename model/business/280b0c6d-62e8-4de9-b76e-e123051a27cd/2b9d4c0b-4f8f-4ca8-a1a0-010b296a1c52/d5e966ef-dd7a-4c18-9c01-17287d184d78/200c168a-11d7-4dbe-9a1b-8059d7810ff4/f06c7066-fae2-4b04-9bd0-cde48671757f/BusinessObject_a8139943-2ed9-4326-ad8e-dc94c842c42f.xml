@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EndPoint"
+    id="a8139943-2ed9-4326-ad8e-dc94c842c42f"
+    documentation="Represents the exposed points of the FRE to which associations to TPEs can be made. In a traditional model the points could be or role A and Z or Hub and Spoke."/>

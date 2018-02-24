@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRTBridging"
+    id="1dc832e5-d821-4ca9-9b43-00c3471b39dc"
+    documentation="Source-route transparent (SRT) bridges are a hybrid of translational bridges and source-route bridges, as they are able to forward traffic from both transparent and source-route end nodes."/>

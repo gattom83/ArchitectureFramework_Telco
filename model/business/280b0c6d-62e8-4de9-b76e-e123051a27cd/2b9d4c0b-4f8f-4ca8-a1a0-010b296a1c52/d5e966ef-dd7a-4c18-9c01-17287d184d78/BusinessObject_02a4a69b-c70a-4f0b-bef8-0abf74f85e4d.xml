@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceInvolvementRole"
+    id="02a4a69b-c70a-4f0b-bef8-0abf74f85e4d"
+    documentation="A role a business entity (such as PartyRole, ResourceRole or CustomerAccount) plays in the relationship for a Resource. For example: user, owner, and so forth."/>

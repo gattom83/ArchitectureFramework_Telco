@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceHybridRoutingDetails"
+    id="8f73c737-e975-4103-855e-f4144226431a"
+    documentation="&quot;This association defines the set of HybridRoutingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a HybridRoutingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceHybridRoutingDetails association class.&#xA;&quot;"/>

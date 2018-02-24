@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedElement"
+    id="900f18b4-3200-48cd-b01e-119544e1e73f"
+    documentation="&quot;This object class represents an abstraction of a set of co-located physical resources managed as a single entity. &#xA;See R_TMF518_NRF_I_0004.&quot;"/>

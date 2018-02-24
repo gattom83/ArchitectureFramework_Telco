@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FlowDomain"
+    id="c77f7b3b-ca56-4bae-bdb6-b8614aba7efa"
+    documentation="&quot;This object class represents a network grouping of zero or more Matrix Flow Domains (MFDs) and zero or more Connectionless Port Termination Points (CPTPs) that are assigned to these MFDs. &#xA;See R_TMF518_NRF_I_0049 and R_TMF518_NRF_I_0050.&quot;"/>

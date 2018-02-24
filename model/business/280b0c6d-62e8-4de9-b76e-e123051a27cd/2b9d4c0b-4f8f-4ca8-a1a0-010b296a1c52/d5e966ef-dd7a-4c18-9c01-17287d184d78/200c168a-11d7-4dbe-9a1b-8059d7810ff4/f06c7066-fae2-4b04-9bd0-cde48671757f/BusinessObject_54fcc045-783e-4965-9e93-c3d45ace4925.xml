@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TopologicalLink"
+    id="54fcc045-783e-4965-9e93-c3d45ace4925"
+    documentation="&quot;The TopologicalLink_ represents a communication relationship between network entities and indicates that information is intended to flow between those network entities. The TopologicalLink_ always represents a logical relationship. &#xA;Similar to Link [5] of 3GPP and TopologicalLink of SID/MTOSI [7]&quot;"/>

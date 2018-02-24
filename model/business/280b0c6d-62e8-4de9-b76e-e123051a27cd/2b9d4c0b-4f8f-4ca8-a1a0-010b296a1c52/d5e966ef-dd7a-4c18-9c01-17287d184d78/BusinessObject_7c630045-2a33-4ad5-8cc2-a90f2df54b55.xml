@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceRole"
+    id="7c630045-2a33-4ad5-8cc2-a90f2df54b55"
+    documentation="This is an abstract base class that defines the concept of various types of roles associated with Resources (both physical and logical) in the DEN-ng model."/>

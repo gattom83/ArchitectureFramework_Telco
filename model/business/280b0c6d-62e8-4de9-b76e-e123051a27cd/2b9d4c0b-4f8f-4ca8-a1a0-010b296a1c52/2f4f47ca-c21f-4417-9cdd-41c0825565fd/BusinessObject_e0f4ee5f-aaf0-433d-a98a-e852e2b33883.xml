@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalPhysicalResourceSpec"
+    id="e0f4ee5f-aaf0-433d-a98a-e852e2b33883"
+    documentation="This defines the invariant attributes, methods, constraints, and relationships that exist between a particular LogicalResourceSpec and the PhysicalResourceSpec that it depends on.This association represents the binding between a set of LogicalResourceSpecifications and a set of PhysicalResourceSpecifications. The semantics of this binding are represented by the LogicalPhysicalResourceSpec association class."/>

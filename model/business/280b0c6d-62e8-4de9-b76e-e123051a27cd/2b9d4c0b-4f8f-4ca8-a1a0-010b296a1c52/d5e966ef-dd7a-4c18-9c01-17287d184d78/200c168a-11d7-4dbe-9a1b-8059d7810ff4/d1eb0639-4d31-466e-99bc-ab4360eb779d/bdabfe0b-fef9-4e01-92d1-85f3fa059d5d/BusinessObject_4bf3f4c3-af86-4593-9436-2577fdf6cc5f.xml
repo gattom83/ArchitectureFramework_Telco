@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalTerminationPoint"
+    id="4bf3f4c3-af86-4593-9436-2577fdf6cc5f"
+    documentation="&quot;This object class is an actual or potential end point of a Topological (physical) Link. The PTP does participate in associations unique to the PTP class (i.e., associations which do not apply to CTPs and therefore cannot be captured via the TP superclass). &#xA;See R_TMF518_NRF_I_0007.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EthernetInterface"
+    id="c853ab26-0297-49d7-a320-3597a3c096bd"
+    documentation="This is a concrete class that refines the concept of a DeviceInterface into a EthernetDeviceInterface."/>

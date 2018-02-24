@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call"
+    id="9fd263d9-797d-4723-9e5e-e0acbc7aa487"
+    documentation="Represents the ASON Control Plane Call (see MTNM/MTOSI) and is a placeholder to be replaced in future after further work on this model."/>

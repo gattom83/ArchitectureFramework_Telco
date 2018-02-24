@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDeviceSpecification"
+    id="54cb841f-fd93-4116-b234-40252c51f9e5"
+    documentation="This is a concrete class for describing specific attributes, behavior, relationships, constraints, and semantics for building PhysicalDevice objects."/>

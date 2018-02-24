@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkAddressSpecification"
+    id="edca656a-8dc2-448f-8929-4bb1fca5ea56"
+    documentation="The invariant characteristics that define a NetworkAddress. NetworkAddressSpecifications define different types of addresses of different technologies, such as an IPAddress vs. an IPXAddress. Each related NetworkAddress instance will have the same invariant characteristics. However, the values associated with other characteristics of the instantiated NetworkAddress entity are specific to each instance."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAN"
+    id="6fcd0790-2c6f-4a59-84e3-48f84ba84e78"
+    documentation="&quot;A Local Area Network is a computer network covering a specific local area, like a home, office or small group of buildings. It provides communication between computers and devices.&#xA;&#xA;The topology of a network dictates its physical structure. In DEN-ng, this is represented as a collection of endpoints of a common type that are all able to intercommunicate directly with each other, without the assistance of bridging or routing services.&#xA;&quot;"/>

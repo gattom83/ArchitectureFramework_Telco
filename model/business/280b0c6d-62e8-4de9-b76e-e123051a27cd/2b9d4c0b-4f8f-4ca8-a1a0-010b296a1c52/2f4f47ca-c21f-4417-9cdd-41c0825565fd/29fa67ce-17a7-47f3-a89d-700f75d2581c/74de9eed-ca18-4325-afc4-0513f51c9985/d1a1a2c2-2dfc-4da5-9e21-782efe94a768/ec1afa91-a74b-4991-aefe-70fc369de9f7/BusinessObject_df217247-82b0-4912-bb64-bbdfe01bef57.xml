@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareResourceSpecification"
+    id="df217247-82b0-4912-bb64-bbdfe01bef57"
+    documentation="A generalization that represents all attributes and associations that are common to the definition of a SoftwareSpecfification and APISpecification."/>

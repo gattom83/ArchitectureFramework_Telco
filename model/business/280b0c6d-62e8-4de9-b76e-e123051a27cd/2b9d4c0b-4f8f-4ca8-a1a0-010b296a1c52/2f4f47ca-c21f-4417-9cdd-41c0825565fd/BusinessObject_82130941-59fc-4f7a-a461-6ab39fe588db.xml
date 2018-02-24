@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecCharacteristicValue"
+    id="82130941-59fc-4f7a-a461-6ab39fe588db"
+    documentation="A number or text that can be assigned to a ResourceSpecCharacteristic."/>

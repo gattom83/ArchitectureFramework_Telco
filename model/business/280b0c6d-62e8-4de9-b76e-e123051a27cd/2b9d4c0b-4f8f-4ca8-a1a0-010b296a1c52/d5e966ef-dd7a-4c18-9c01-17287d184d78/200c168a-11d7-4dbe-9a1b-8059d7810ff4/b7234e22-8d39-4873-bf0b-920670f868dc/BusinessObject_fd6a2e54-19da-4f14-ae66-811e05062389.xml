@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DevicePVRoutingDetails"
+    id="fd6a2e54-19da-4f14-ae66-811e05062389"
+    documentation="&quot;This association defines the set of PathVectorRoutingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a PathVectorRoutingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DevicePVRoutingDetails association class.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleSoftwareLicenseDetails"
+    id="4f152060-153d-4606-be1f-00a1f3e6d833"
+    documentation="This class defines the semantics of the PartyRoleSoftwareLicenses association. Its attributes help specify the licensing details for this particular SoftwareResource instance.This association defines the semantics of how a given PartyRole legally uses particular SoftwareResource Features."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceCatalogSpecification"
+    id="6b732af2-63a1-43be-a5bd-8d9e0bbcd366"
+    documentation="A ResourceCatalogSpecification defines attributes shared by all instances of related ResourceCatalogs."/>

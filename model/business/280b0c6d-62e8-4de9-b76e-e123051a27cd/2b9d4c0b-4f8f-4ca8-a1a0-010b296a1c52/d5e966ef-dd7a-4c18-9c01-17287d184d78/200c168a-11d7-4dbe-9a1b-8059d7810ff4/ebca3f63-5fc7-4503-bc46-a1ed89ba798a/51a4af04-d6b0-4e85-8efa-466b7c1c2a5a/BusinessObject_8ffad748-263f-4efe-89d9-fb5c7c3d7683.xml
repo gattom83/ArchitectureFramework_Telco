@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DescribedMgmtInfoDetails"
+    id="8ffad748-263f-4efe-89d9-fb5c7c3d7683"
+    documentation="This is an association class that defines the semantics of the DescribedByMgmtInfo aggregation. This class defines the specific semantics for different types of ManagementInfo, and how that information is obtained from the associated ManagedEntity. This enables different methods to be used to obtain different types of management information."/>

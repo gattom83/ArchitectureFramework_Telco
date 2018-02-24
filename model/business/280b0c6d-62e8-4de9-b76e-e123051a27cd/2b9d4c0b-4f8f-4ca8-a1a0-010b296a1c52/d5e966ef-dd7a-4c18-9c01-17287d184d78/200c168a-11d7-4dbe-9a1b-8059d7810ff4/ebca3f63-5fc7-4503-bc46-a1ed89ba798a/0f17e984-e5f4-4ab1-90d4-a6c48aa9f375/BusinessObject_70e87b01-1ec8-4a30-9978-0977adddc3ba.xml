@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CurrentConfiguration"
+    id="70e87b01-1ec8-4a30-9978-0977adddc3ba"
+    documentation="This class defines the current configuration of the device."/>

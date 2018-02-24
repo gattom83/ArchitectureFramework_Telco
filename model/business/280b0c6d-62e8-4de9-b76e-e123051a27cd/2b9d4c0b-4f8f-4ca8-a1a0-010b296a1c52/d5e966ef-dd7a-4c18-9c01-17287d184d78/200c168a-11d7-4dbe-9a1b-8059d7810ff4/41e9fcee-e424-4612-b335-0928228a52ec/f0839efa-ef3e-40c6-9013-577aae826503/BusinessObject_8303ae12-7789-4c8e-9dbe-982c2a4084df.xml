@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LANProtocol"
+    id="8303ae12-7789-4c8e-9dbe-982c2a4084df"
+    documentation="&quot;LAN Protocols operate at the lowest two levels of the OSI model (i.e., physical and data link) and are used to define communications over different types of local area media.&#xA;&#xA;The DEN-ng model defines Ethernet, FDDI, and TokenRing as examples of subclasses of this class.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="__ItuTTP"
+    id="28cc2575-2b85-4c0b-ad47-e019f35e3f9f"
+    documentation="&quot;The TPE can be used to represent all forms of ITU TTP (see per Termination Point ABE for TTP definitions). &#xA; &#xA;This represents a usage example. It is not intended that the TPE be subclassed in this way. The TPE should not be sub-classed.&quot;"/>

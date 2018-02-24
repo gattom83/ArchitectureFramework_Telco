@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATMInterface"
+    id="d0cb79c3-2380-418c-8583-575d4c8ba252"
+    documentation="&quot;ATM, orr Asynchronous Transfer Mode, is a network technology based on transferring data in cells of a fixed size. The cell used with ATM is relatively small compared to that used with older technologies. In principle, the small, constant cell size allows ATM equipment to transmit video, audio, and computer data over the same network, and assure that no single type of data can dominate network traffic.&#xA;&#xA;ATM creates a fixed route between two points whenever data transfer begins. This differs from TCP/IP, in which messages are divided into packets and each packet can take a different route from source to destination. This difference makes it easier to track and bill data usage across an ATM network, but it makes it less adaptable to sudden surges in network traffic.&#xA;&quot;"/>

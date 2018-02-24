@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalDeviceRole"
+    id="88820e8e-99ab-4c0a-a88e-4f288d2fb966"
+    documentation="&quot;This class defines required logical features to implement the different roles played by different LogicalDevices that are used in a Product or Service.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&quot;"/>

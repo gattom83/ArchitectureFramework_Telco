@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceRoleSpec"
+    id="1c74120f-ec93-4845-8b79-eea4525ad674"
+    documentation="This is a concrete base class for all PhysicalResourceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion. It is used to define the invariant attributes, methods, relationships, and constraints of various types of roles associated with PhysicalResources (whether they are subclasses of PhysicalDevice or Hardware) in the DEN-ng model."/>

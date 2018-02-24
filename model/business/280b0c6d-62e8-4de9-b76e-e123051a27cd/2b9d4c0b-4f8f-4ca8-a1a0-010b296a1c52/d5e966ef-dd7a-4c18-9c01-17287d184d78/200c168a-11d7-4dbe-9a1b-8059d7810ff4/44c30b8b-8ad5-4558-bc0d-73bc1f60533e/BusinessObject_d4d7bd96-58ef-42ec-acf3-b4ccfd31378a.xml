@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LayerNetwork"
+    id="d4d7bd96-58ef-42ec-acf3-b4ccfd31378a"
+    documentation="&quot;The LayerNetwork class is derived from G.805; DEN-ng has enhanced this definition by providing additional semantics that enable objects defined in the ITU to interact with objects defined in the IETF. (These semantics are present in the DEN-ng system view, not in the business view).&#xA;&#xA;A LayerNetwork is defined by the complete set of AccessGroups of the same type that may be associated for the purpose of transferring information. The information transferred is characteristic of the layer network and is termed characteristic information. The associations of the trail terminations (that form a trail) in a layer network may be made and broken by a layer network management process thus changing its connectivity. A separate, logically distinct layer network exists for each trail termination type. The topology of a layer network is described by access groups, subnetworks and the links between them.&#xA;&quot;"/>

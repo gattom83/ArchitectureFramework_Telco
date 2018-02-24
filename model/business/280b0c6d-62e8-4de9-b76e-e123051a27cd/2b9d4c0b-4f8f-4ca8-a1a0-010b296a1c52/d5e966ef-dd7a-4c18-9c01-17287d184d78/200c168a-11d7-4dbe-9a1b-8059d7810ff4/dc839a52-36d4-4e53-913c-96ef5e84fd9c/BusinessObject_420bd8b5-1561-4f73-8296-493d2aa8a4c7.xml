@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FirewallRole"
+    id="420bd8b5-1561-4f73-8296-493d2aa8a4c7"
+    documentation="This class abstracts the different routing capabilities necessary for a LogicalDevice to have. This helps simplify the modeling of (especially) network devices, which have many different sets of capabilities. For example, most routers can do routing, forwarding, and firewalling of traffic. By modeling these capabilities as three roles, router functionality is both abstracted as well as categorized, so that the differences between firewalling done by a router and firewalling done by a dedicated firewall device can be differentiated."/>

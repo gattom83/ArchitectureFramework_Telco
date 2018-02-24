@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalDevice"
+    id="0ff7be04-dc19-40fe-a061-c3021beb6ae5"
+    documentation="&quot;This is an abstract base class for representing logical concepts and services that can be managed that are associated with the device as a whole. This class represents a convenient aggregation point for combining different aspects of a device (e.g., software contained in the device, protocols that the devices runs, the set of services that it offers, and so forth). It also enables the device itself to have a single logical manifestation.&#xA;&#xA;Conceptually, this represents the &quot;&quot;brains&quot;&quot; of the Device. For example, it represents the set of entities required for a Router to know how to route packets.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareResource"
+    id="53740d9e-ad61-49ed-b07f-bb886e8d99ae"
+    documentation="A generalization that contains all attributes and associations that are common to Sofware and API . A SoftwareResource is described by a SoftwareResourceSpecficiation."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WANProtocol"
+    id="bcff2f9b-db5b-4e4f-ab5d-f3153598b511"
+    documentation="&quot;WAN Protocols operate at the lowest three levels of the OSI model (i.e., physical, data link, and network) and are used to define communications over different types of wide-area media.&#xA;&#xA;The DEN-ng model defines ATM, FrameRelay, HDLC, ISDN, PPP, SLIP, SMDS, and X.25 as examples of subclasses of this class.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FreConnectionless"
+    id="601fdb4b-5049-475a-9b78-682e77506791"
+    documentation="Package of attributes that relate to preservation of information flow identifiers and other flow control properties across the FRE."/>

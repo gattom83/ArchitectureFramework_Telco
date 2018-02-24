@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkDomain"
+    id="ccc3a21e-727b-46d3-94fc-6c4613de7837"
+    documentation="A NetworkDomain represents a set of ManagedPhysicalEntities that share a common set of administrative and operational characteristics. Primary among these is the use of a common naming methodology. A NetworkDomain is used to partition ManagedEntity instances into logical groupings (e.g., operational and/or administrative groups) that are controlled by one or more common managers. NetworkDomains provide one way to administer and control the operational characteristics of a set of ManagedEntities."/>

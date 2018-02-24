@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeSoftwareSpecification"
+    id="2c5e89a2-7b1a-4f7d-87b1-0844ea0a45d9"
+    documentation="A type of SoftwareSpecification that is formed by aggregating other SoftwareSpecifications, which may be Composite or Component SoftwareSpecifications."/>

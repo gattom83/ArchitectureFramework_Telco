@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceLSRoutingDetails"
+    id="10a9f041-1c41-4660-86e8-ca46bf365bba"
+    documentation="&quot;This association defines the set of LinkStateRoutingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a LinkStateRoutingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceLSRoutingDetails association class.&#xA;&quot;"/>

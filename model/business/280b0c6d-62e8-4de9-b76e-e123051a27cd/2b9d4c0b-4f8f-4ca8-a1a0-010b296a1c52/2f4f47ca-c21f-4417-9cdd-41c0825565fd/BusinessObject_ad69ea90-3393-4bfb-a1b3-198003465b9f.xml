@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecCharRelationship"
+    id="ad69ea90-3393-4bfb-a1b3-198003465b9f"
+    documentation="A aggregation, migration, substitution, dependency, or exclusivity relationship between/among ResourceSpecCharacteristics."/>

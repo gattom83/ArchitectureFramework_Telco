@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource"
+    id="727c7ffa-594d-4112-974e-721c744838ff"
+    documentation="&quot;This object class defines the attributes that are common to all resource objects. &#xA;See R_TMF518_NRB_I_0001.&quot;"/>

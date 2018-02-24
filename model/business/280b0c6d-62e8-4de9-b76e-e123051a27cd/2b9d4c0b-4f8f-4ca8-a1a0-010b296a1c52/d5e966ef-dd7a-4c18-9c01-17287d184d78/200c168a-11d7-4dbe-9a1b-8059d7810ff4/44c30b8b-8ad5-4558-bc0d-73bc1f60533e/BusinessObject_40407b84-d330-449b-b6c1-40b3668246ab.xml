@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkComposite"
+    id="40407b84-d330-449b-b6c1-40b3668246ab"
+    documentation="This class represents an aggregation of NetworkAtomic and possibly NetworkComposite objects. Each NetworkAtomic object represents a stand-alone Network; these can be combined to build larger Networks by choosing the appropriate type of NetworkComposite object to aggregate NetworkAtomic objects. Note that a NetworkComposite object can also aggregate NetworkComposite objects."/>

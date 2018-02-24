@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoopbackInterface"
+    id="33e76090-840c-4ae8-ab2b-e2e9efa02555"
+    documentation="&quot;A LoopbackInterface is a virtual interface (what DEN-ng calls a LogicalInterface). Traffic sent to the LoopbackInterface is forwarded to the Device itself for further processing.&#xA;&#xA;A LoopbackInterface is commonly used to guarantee reachability in networks with multiple paths. it is also used to test IP software without worrying about broken or corrupted drivers or hardware. &#xA;&#xA;&quot;"/>

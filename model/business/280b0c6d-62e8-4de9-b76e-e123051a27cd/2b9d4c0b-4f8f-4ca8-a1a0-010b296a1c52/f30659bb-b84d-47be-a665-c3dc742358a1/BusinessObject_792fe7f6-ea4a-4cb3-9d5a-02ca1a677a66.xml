@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceUsageSpec"
+    id="792fe7f6-ea4a-4cb3-9d5a-02ca1a677a66"
+    documentation="A detailed description of a resource usage event (for example, a purchase or a lease of a resource)."/>

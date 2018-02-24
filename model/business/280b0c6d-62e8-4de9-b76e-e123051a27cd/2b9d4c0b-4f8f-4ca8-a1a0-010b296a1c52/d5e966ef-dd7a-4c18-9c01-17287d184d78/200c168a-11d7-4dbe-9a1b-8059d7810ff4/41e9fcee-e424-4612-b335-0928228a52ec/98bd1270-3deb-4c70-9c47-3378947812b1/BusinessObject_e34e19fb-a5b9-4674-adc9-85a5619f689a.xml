@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SwitchingProtocol"
+    id="e34e19fb-a5b9-4674-adc9-85a5619f689a"
+    documentation="&quot;This is an abstract base class for representing different types of switching protocols that can be managed. Switching protocols are those protocols that enable routing to take into account layer 2 information, such as bandwidth and QoS. (Remember that traditional routing protocols are designed to evaluate each frame's layer 3 header only). &#xA;&#xA;Several methods are available for accomplishing the task of looking at layer 2 information and defining a next hop. Most now use the concept of a label, which is a means to define the next hop without evaluating all of the information of a traditional header.&#xA;&#xA;The DEN-ng model currently concentrates on defining MPLS as an example of a SwitchingProtocol.&#xA;&quot;"/>

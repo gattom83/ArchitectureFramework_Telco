@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="__CTP"
+    id="0f2417c7-0315-41f2-8f57-2424959064c8"
+    documentation="&quot;The TPE can be used to represent all forms of MTNM/MTOSI CTP (see per TIP Logical Resource ABE for CTP definitions). &#xA; &#xA;This represents a usage example. It is not intended that the TPE be subclassed in this way. The TPE should not be sub-classed.&quot;"/>

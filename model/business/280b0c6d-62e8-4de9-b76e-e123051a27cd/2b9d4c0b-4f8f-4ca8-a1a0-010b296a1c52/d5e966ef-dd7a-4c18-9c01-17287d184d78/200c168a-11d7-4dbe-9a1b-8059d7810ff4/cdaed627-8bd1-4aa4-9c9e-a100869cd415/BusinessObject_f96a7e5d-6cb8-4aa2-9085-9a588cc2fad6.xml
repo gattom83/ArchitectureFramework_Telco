@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalInterface"
+    id="f96a7e5d-6cb8-4aa2-9085-9a588cc2fad6"
+    documentation="This is an abstract class that serves as the superclass for all virtual interfaces. LogicalInterfaces are also called virtual interfaces. This is because a LogicalInterface has no hardware associated with it, and it is not physically connected to a network. It serves as a convenient aggregation point for running different relationships that affect its subclasses, thereby avoiding having to instantiate multiple relationships that are essentially the same."/>

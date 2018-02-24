@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InterfaceNetworkAddressDetails"
+    id="16e24501-103f-40ac-8503-14995cf2696e"
+    documentation="This class defines the semantics of how this NetworkAddress is contained in this particular DeviceInterface."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VirtualMemory"
+    id="844c0abf-b647-473b-aa68-248cb698590a"
+    documentation="The simulation of additional main memory by using other storage media."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv4Address"
+    id="baa7e813-45e8-4264-bb34-8d59e892bbd3"
+    documentation="This class refines the generic IP Address class to add formatting capabilities that are specific to IPv4."/>

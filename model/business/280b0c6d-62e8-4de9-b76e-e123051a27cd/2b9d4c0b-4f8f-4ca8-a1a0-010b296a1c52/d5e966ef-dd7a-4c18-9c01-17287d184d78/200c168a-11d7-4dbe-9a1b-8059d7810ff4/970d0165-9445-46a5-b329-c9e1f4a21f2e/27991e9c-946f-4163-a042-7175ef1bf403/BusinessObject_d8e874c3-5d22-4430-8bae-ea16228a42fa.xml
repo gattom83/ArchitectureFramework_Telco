@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software"
+    id="d8e874c3-5d22-4430-8bae-ea16228a42fa"
+    documentation="&quot;A set of programs, procedures, functions and processes that are used by a Resource. &#xA; &#xA;Software may be nested within other software, thereby creating a containment relationship. &#xA;&quot;"/>

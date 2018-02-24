@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TerminationPoint"
+    id="8f5a1e4b-d99c-465b-9069-e33dd595c692"
+    documentation="&quot;This is an abstract class that terminates transport entities, such as trails and connections. This object class is a basic object class from which subclasses, such as TrailTerminationPoint and ConnectionTerminationPoint, are derived.&#xA;&#xA;This object is taken from M.3100. DEN-ng integrates it into the ManagedTransmissionEntity hierarchy so that it can interact with IETF managed objects.&#xA;&quot;"/>

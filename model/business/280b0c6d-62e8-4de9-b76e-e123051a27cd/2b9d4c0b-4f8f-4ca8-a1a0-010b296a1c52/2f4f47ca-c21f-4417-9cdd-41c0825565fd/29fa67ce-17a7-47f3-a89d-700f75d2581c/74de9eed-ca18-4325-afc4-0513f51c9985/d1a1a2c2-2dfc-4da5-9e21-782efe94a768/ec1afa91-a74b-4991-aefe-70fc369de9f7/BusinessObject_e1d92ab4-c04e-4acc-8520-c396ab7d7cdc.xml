@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareResourceSpecRelationship"
+    id="e1d92ab4-c04e-4acc-8520-c396ab7d7cdc"
+    documentation="The definition of a type of relationship (association) that can exist between SoftwareResourceSpecifications."/>

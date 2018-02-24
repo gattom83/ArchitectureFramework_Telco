@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TIPConnectionTerminationPoint"
+    id="8cfb1797-cdb9-448a-abd0-a236b862bc26"
+    documentation="&quot;This object class is an actual or potential end point of a Subnetwork Connection or Flow Domain Fragment. For example, the ConnectionTerminationPoint (CTP) can represent a logical channel or a timeslot on a physical link. &#xA;Note regarding naming: &#xA;Wherever multiple layers are applicable to a particular CTP, the connectable layer is used as a basis for the name. &#xA;When the CTP has no connectable layer, any layer that ensures name unicity can be used. &#xA;See R_TMF518_NRF_I_0009 and R_TMF518_NRF_I_0010. &#xA;For Flow Points in connectionless networks see R_TMF518_NRF_I_0018.&quot;"/>

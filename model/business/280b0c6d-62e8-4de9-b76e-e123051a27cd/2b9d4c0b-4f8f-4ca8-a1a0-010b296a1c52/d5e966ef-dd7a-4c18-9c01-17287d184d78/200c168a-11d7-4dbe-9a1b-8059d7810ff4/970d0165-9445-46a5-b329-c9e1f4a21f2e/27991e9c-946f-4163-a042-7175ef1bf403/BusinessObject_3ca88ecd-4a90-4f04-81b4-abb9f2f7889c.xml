@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RunningSoftwareStatistic"
+    id="3ca88ecd-4a90-4f04-81b4-abb9f2f7889c"
+    documentation="A statisitic that documents the use of a Resource by Software that is running."/>

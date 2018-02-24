@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigurationInfo"
+    id="d098551a-5a54-4be9-bba3-cafd45405e7b"
+    documentation="&quot;ConfigurationInfo is the base class for defining how a ManagedEntity is configured. Configurations are associated with a particular LogicalDevice using the DescribedByMgmtInfo aggregation. Configurations can define how a Resource or a Service is to be set up, and control the behavior of that Resource or Service. In general, both Resources and Services need to be configured in order to operate. (Note that this can be done at the factory or dynamically as the entity is operating.) Subclasses of the Configuration class define the detailed characteristics and behavior of how a configuration is built and deployed. &#xA;&#xA;Configurations are implemented by associating the parent of this class, ManagementInfo, with the ManagementMethodEntity class through a combination of the DescribedByMgmtInfo and the MgmtInfoObtainedBy aggregation.&#xA;&quot;"/>

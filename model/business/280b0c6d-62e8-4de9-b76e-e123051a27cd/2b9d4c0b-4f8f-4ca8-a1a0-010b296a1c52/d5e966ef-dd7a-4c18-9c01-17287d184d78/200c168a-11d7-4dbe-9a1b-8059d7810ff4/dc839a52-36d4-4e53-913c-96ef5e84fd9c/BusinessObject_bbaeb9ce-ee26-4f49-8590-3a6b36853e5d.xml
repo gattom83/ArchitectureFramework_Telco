@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UserNameResourceRole"
+    id="bbaeb9ce-ee26-4f49-8590-3a6b36853e5d"
+    documentation="UserNameResourceRole represents the role of a logical resource as user name in a system. User names can be managed in a dedicated specific pool or can be shared with other resource pools in which case phone number or email address can also be used as user names in the system."/>

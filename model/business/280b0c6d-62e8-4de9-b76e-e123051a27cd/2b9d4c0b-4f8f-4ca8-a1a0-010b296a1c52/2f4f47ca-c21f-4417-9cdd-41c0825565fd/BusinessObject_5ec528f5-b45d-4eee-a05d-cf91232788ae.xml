@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceRoleSpecification"
+    id="5ec528f5-b45d-4eee-a05d-cf91232788ae"
+    documentation="This is the abstract base class for all ResourceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion. It is used to define the invariant attributes, methods, relationships, and constraints of various types of roles associated with Resources (both physical and logical) in the DEN-ng model."/>

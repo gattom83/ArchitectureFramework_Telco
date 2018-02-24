@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TopologicalLink"
+    id="b384f529-f8d1-419e-bb23-073ed631768f"
+    documentation="&quot;This object class represents a physical link between two or more (usual case two; more than two e.g., for representing RPR transport connectivity) PTPs or a trail between two TPs. &#xA;A Topological Link (TL) may traverse through DWDM equipment and optical transport networks managed by another target OS. The TL reported by the first target OS in that case could correspond to a (regenerator) section under its management domain. It is up to the requesting OS user to put together the exact topology of the network in such cases, based on the reported Managed Elements and TLs. &#xA;For unidirectional TLs the aEndTP marks the traffic source whereas the zEndTP marks the traffic sink. &#xA;See R_TMF518_NRF_I_0019 and R_TMF518_NRF_I_0020.&quot;"/>

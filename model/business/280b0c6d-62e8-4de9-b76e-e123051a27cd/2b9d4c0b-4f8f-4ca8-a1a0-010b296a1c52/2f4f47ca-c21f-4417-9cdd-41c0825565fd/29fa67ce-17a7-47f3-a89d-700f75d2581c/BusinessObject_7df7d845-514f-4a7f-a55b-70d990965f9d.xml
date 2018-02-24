@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResourceSpec"
+    id="7df7d845-514f-4a7f-a55b-70d990965f9d"
+    documentation="This is an abstract base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a LogicalResource."/>

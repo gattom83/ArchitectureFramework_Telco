@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiRouteManagement"
+    id="927e035c-8a20-4979-84cd-f7be13a94451"
+    documentation="Where there are multiple routes available to the FRE this attribute package indicates the state of a particular Route."/>

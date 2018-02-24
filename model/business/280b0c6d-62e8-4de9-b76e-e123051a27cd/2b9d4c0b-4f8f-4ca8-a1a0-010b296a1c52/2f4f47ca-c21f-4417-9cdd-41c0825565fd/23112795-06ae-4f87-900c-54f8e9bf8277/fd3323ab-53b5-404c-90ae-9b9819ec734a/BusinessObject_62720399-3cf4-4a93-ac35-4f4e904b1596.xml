@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceRoleDetails"
+    id="62720399-3cf4-4a93-ac35-4f4e904b1596"
+    documentation="This class captures the semantics of the SpecifiesPhysicalResourceRoles aggregation."/>

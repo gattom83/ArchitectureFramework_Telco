@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FloatingTerminationPoint"
+    id="ce5b8cf9-b713-443a-a85e-d35c7463cf93"
+    documentation="&quot;This object class represents a TP without a physical layer that behaves both like a PTP and a CTP. &#xA;Floating Termination Points (FTPs) are contained in managed elements as PTPs. &#xA;Note: The value of tpMappingMode for FTPs considers exclusively mapping on the server side. &#xA;See R_TMF518_NRF_I_0011.&quot;"/>

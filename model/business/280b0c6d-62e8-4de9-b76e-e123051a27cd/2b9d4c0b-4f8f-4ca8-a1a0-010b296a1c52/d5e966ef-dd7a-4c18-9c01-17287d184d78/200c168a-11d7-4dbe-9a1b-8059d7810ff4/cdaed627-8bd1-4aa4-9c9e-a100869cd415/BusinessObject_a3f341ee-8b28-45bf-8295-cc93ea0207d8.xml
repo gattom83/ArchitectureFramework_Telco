@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceSubInterface"
+    id="a3f341ee-8b28-45bf-8295-cc93ea0207d8"
+    documentation="This is a concrete class that represents sub-interfaces. These are virtual interfaces that are bound to a single physical interface."/>

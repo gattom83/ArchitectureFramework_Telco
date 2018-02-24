@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TIPTerminationPoint"
+    id="6f99e7dd-6824-46b2-abfd-1440fe44127b"
+    documentation="&quot;This object class is the superclass of the CTP (ConnectionTerminationPoint) and PTP (PhysicalTerminationPoint) object classes. &#xA;TP encapsulates object characteristics common to both CTPs and PTPs (i.e., common to end points (actual or potential) of Subnetwork Connections, Topological Links and Flow Domain Fragments). &#xA;The layer rate of the TP is expressed in terms of the Transmission Parameters list attribute. &#xA;See R_TMF518_NRF_I_0005 and R_TMF518_NRF_I_0006. &#xA;For Connectionless Port Termination Points (CPTP) in connectionless network see R_TMF518_NRF_I_0016.&quot;"/>

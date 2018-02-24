@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ReplacementSet"
+    id="460eca09-1ae2-4a0e-8856-751d9408ab31"
+    documentation="This class is used to define a set of ManagedPhysicalEntities that must be replaced as a unit. This is conceptually a set of FRUs."/>

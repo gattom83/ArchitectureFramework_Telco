@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDeviceRoleSpec"
+    id="2da61c14-3634-413e-9d5f-49fc25749ccc"
+    documentation="This is a concrete base class for all PhysicalDeviceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion. It is used to define the invariant attributes, methods, relationships, and constraints of various types of roles associated with PhysicalDevices in the DEN-ng model."/>

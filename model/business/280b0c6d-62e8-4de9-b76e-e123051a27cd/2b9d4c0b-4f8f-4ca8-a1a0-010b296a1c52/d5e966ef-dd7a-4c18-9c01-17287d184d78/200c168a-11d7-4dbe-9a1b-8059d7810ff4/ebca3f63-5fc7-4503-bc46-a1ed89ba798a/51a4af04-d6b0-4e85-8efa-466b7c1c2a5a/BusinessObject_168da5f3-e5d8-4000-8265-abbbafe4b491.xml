@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNMPMethod"
+    id="168da5f3-e5d8-4000-8265-abbbafe4b491"
+    documentation="This is an abstract base class for defining different types of SNMP methods to perform various FCAPS functions."/>

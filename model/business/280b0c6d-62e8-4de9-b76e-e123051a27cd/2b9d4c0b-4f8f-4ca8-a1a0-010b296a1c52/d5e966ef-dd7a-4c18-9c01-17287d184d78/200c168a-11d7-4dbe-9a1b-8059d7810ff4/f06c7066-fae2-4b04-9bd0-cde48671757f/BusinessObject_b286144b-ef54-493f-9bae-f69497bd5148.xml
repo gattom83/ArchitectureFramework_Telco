@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route"
+    id="b286144b-ef54-493f-9bae-f69497bd5148"
+    documentation="This object class represents a partially ordered list of component FREs defining a route associated with an FRE."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SubNetworkConnection"
+    id="cdbab7aa-2daa-4cee-aaf6-133efa9de288"
+    documentation="&quot;This object class represents the relationship between Termination Points. &#xA;All end point TPs related by an Subnetwork Connection (SNC) must support the same or an equivalent layer rate which is also the SNC's layer rate. &#xA;In pending state, generic Connection Termination Point(s) of the SNC could be replied. &#xA;Refer to the associated supporting document SD1-36_SNCTypes for explanation of SNC Properties, SNC Parameters, unidirectional SNCs, Point-to-Multipoint SNC, Routing Constraints and Route Discovery. &#xA;See R_TMF518_NRF_I_0024 and R_TMF518_NRF_I_0025. &#xA;For bundled SNCs see R_TMF518_NRF_I_0032.&quot;"/>

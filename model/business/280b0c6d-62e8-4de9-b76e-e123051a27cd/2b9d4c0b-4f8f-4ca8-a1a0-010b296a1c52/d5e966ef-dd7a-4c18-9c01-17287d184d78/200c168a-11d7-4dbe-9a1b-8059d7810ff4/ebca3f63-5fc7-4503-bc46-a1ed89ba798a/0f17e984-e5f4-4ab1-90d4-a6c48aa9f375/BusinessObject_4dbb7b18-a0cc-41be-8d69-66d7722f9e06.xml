@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GlobalConfiguration"
+    id="4dbb7b18-a0cc-41be-8d69-66d7722f9e06"
+    documentation="This class defines all of the various global configuration options that are required for typical network devices."/>

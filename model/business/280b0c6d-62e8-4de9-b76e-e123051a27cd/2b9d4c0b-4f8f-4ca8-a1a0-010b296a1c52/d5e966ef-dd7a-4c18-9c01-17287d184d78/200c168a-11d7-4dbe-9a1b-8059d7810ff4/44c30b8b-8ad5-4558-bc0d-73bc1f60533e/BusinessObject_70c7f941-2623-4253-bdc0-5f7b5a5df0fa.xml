@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkAtomic"
+    id="70c7f941-2623-4253-bdc0-5f7b5a5df0fa"
+    documentation="This class represents a stand-alone Network. NetworkAtomics may be combined into larger Networks by aggregating them into an appropriate NetworkComposite object."/>

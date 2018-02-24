@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalPhysicalResource"
+    id="6a1cd69b-7a29-4ead-8d5f-acf67053b887"
+    documentation="&quot;This is an associationClass defined in the DEN-ng Logical Resource model. It represents the semantics (e.g., depends on, uses, and other relationships) that exist when one or more LogicalResources are used to support a PhysicalResource.&#xA;&#xA;This class should be extended to model the particular semantics involved. When extended, the typeOfDependency attribute must be included, since it is a mandatory attribute. However, new values may be added to its enumerated list of values.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&#xA;This association represents the binding between a PhysicalResource and a LogicalResource. The semantics of this binding are represented by the LogicalPhysicalResource associationClass.&#xA;&#xA;This association defines the set of LogicalResources that a particular PhysicalResource supports.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&#xA;&quot;"/>

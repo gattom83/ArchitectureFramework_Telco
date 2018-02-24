@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EquipmentProtectionGroup"
+    id="3c9d8c5f-cce1-4f62-a312-733622cd5ac8"
+    documentation="&quot;This object class represents the information about an equipment protection in a Managed Element. &#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedResource"
+    id="54d538dd-201e-43d6-97b1-6154d3950413"
+    documentation="A ManagedResource is an entity that is manageable by electronic means. It produces and/or consumes other ManagedResources and/or Services, and has a distinct state. A ManagedResource may be a simple concept, such as a logical point of communication, or a complex concept, such as an Application or System."/>

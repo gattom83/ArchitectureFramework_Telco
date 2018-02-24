@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareSpecRunsOnRelationship"
+    id="b4df96bd-a2fc-4589-bae0-4a5501c05482"
+    documentation="The specification for an association that defines that a SoftwareResourceSpecification can run on another SofwareResourceSpecification. For example, a desktop word processing application can run on a Linux operating system."/>

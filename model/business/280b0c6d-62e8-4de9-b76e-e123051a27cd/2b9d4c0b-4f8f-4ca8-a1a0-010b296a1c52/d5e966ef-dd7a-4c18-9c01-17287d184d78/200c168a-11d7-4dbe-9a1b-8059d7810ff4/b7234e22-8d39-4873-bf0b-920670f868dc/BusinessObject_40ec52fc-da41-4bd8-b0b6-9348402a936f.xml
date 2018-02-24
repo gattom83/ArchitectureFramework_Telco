@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeviceBridgingProtocolDetails"
+    id="40ec52fc-da41-4bd8-b0b6-9348402a936f"
+    documentation="&quot;This association defines the set of BridgingProtocols that are currently being used on this LogicalDevice. The supportsProtocol aggregation is used to determine if a particular Protocol (not just a BridgingProtocol) is supported by this LogicalDevice.&#xA;&#xA;The particular semantics of this association are defined by the DeviceBridgingProtocolDetails association class.&#xA;&quot;"/>

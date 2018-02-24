@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PELogicalDeviceRole"
+    id="47bf1650-bb8f-4de2-aed9-e7f91cf4556c"
+    documentation="&quot;This class defines required logical features to implement the specific role of a PE (Provider Edge) device, as used in a Product or Service.&#xA;&#xA;Please see the DEN-ng Resource model for more details.&#xA;&quot;"/>

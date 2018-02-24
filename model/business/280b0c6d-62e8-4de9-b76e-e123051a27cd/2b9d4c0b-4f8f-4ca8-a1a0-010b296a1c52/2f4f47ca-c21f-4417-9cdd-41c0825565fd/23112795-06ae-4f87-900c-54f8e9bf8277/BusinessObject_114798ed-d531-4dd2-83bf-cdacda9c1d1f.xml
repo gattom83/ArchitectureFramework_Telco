@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceSpec"
+    id="114798ed-d531-4dd2-83bf-cdacda9c1d1f"
+    documentation="This is an abstract base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a PhysicalResource."/>

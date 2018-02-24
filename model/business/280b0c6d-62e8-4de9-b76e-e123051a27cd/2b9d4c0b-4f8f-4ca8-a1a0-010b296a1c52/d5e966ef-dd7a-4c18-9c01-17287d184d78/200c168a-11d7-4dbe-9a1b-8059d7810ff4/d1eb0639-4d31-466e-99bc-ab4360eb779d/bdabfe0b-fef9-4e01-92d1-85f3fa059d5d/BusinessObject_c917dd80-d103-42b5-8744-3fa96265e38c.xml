@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MatrixFlowDomain"
+    id="c917dd80-d103-42b5-8744-3fa96265e38c"
+    documentation="&quot;This object class is contained within a Managed Element (ME) and represents a grouping of assigned Connectionless Port Termination Points (CPTPs). &#xA;See R_TMF518_NRF_I_0047 and R_TMF518_NRF_I_0048.&quot;"/>

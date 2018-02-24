@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="__SNP"
+    id="b3f280b6-24f1-4950-9fc3-e832c68b5d2f"
+    documentation="&quot;The TPE can be used to represent all forms of MTNM/MTOSI SNP. &#xA; &#xA;This represents a usage example. It is not intended that the TPE be subclassed in this way. The TPE should not be sub-classed.&quot;"/>
