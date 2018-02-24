@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductLine"
+    id="96966f34-7345-42b7-97ce-583b769529b8"
+    documentation="A method used to group related ProductSpecifications marketed by the same company that differ only in size or style."/>

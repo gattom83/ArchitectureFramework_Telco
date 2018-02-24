@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductSpecificationRelationship"
+    id="ab882354-cb7f-40ee-a42b-d6375754b3a8"
+    documentation="A migration, substitution, dependency, or exclusivity relationship between/among ProductSpecifications."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductSpecificationCost"
+    id="7da09bbf-03ad-41bc-ac2e-13f726182114"
+    documentation="A monetary amount assigned to a ProductSpecification that represents the cost to the business to plan, develop, market, and implement the ProductSpecification."/>

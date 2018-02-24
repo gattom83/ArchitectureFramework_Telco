@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductSpecificationType"
+    id="47fac0c7-2369-428d-9915-3c0b66b81f56"
+    documentation="A classification that groups ProductSpecifications that share common characteristics."/>

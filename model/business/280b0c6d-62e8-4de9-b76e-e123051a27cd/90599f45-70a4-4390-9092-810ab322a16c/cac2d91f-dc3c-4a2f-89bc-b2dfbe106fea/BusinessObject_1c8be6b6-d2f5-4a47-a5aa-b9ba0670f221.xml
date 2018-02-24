@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicProductSpecification"
+    id="1c8be6b6-d2f5-4a47-a5aa-b9ba0670f221"
+    documentation="A type of ProductSpecification that does not have any subordinate ProductSpecifications, that is, an AtomicProductSpecification is a leaf-level ProductSpecification."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigurableProductSpecCharacteristic"
+    id="52ac1d88-a2b4-4f02-8182-70cb82f19f12"
+    documentation="A type of ProductSpecCharacteristic, such as color, whose may be assigned during the ordering or some other process."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductCategory"
+    id="b99ebdfc-9d3f-4968-a9ee-94f11a0a7c47"
+    documentation="A method used to group a set of ProductSpecifications that are classified together because of common characteristics."/>
