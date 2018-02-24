@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PhysicalResource ABE"
     id="c4509354-4d1a-464b-9f8c-eb08d74029c7"
-    documentation="&quot;The Resource ABE contains entities that are used to represent the various aspects of a Resource.&#xA;&#xA;PhysicalResource entities are sets of entities that represent the physical aspects of a Resource. This is important to enable the SID to build a set of reusable managed entities that can be used to model the physical aspects of different types of Resources.&#xA;&quot;"/>
+    documentation="&quot;The Resource ABE contains entities that are used to represent the various aspects of a Resource.&#xA;&#xA;PhysicalResource entities are sets of entities that represent the physical aspects of a Resource. This is important to enable the SID to build a set of reusable managed entities that can be used to model the physical aspects of different types of Resources.&#xA;&quot;   n"/>
