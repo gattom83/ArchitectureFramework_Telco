@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bay"
+    id="d6e9e5b8-6b7b-467b-b91c-7bbb63691d5c"
+    documentation="&quot;A Bay is a type of EquipmentHolder that is designed to hold various types of Equipment. It has a logical identifier, usually a component of port AIDs in TL1 based switches.&#xA;&#xA;Note that the logical identifier of a Bay is typically associated with the Device (i.e., the NetworkElement). This means that the Bay IS explicitly a part of the logical model of a network.&#xA;&#xA;A Bay is usually built as a pre-wired hardware assembly that contains a set of shelves and accompanying ancillary Equipment.&#xA;&quot;"/>

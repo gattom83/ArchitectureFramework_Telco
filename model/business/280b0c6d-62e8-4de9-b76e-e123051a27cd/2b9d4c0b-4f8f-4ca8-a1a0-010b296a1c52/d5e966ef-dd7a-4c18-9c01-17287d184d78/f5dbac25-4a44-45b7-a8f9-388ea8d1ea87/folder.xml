@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkFunction ABE"
+    id="f5dbac25-4a44-45b7-a8f9-388ea8d1ea87"
+    documentation="The Network Function ABE contains entities that are used to represent Network Function as a Functional Block (FB) within a network infrastructure which has well-defined external interfaces and well-defined functional behavior. Network Functions can be physical (PNF) or virtual (VNF)."/>

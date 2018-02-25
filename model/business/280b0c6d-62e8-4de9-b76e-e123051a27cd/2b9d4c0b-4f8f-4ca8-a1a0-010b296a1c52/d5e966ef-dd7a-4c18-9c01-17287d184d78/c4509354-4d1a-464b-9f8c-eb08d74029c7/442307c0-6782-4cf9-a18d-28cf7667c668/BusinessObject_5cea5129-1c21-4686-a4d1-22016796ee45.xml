@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceRole"
+    id="5cea5129-1c21-4686-a4d1-22016796ee45"
+    documentation="This is an abstract base class that defines the concept of various types of roles that can be associated with PhysicalResources."/>

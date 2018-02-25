@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cable"
+    id="a6a46b8b-a475-46a0-a2ee-3dbe5591559b"
+    documentation="A container of conductors or fibres. At least two connectors will be attached to a cable."/>

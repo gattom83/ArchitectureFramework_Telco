@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slot"
+    id="67b487bd-0e47-4666-8053-312979288db2"
+    documentation="This is a concrete class that has two main purposes. One is to model the ability of a hosting board to accept a daughter card to add or complete the base functionality of the hosting board. The second is to represent the different expansion slots supported by a Chassis."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PNF"
+    id="1d9a6436-13b2-490c-b7c9-acf495b50ca5"
+    documentation="A PNF is an implementation of a Network Function for which all the LogicalResources it is being provided are hosted directly by PhysicalResources"/>

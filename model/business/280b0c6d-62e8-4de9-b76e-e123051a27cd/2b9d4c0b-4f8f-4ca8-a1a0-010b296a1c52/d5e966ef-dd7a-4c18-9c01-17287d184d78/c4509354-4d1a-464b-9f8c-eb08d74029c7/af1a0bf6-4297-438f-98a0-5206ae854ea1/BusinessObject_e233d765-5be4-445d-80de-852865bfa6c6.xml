@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Card"
+    id="e233d765-5be4-445d-80de-852865bfa6c6"
+    documentation="&quot;This is based on the DEN Card class. It is defined as follows:&#xA;&#xA;This class represents a type of physical container that can be plugged into a Slot. It may represent a primary function (e.g., a networking card) or an auxiliary function (e.g., a memory card) that supports another card. All objects of this type are capable of carrying electrical and/or optical signals. They also provide a mounting point for other types of ManagedePhysicalElements, such as Chips or Cards.&#xA;&quot;"/>

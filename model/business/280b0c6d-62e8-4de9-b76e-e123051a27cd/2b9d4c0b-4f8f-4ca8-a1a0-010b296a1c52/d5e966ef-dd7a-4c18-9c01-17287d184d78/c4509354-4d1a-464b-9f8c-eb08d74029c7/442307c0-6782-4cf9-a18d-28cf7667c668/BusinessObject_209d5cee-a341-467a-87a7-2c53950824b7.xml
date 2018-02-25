@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalRouterRole"
+    id="209d5cee-a341-467a-87a7-2c53950824b7"
+    documentation="This is a physical role that a device has. It enables us to correlate physical components that are used to route traffic with the logical capability of routing traffic."/>

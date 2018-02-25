@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VirtualResource"
+    id="2f927235-ee2c-4332-b6b8-bbefff40d20f"
+    documentation="VirtualResource is the result of applying within the virtualization infrastructure one or more Software Processes to a ManagedResource to create one or more new ManagedResources whose assets (e.g., memory) and services (e.g., networking) can be shared among multiple, possibly heterogeneous, consumers. Existing logical resources are not affected by the introduction of the VirtualResourceClass. The VirtualResource Class shall only represent virtualization provided by the infrastructure such as vCPU, vNIC, etc."/>

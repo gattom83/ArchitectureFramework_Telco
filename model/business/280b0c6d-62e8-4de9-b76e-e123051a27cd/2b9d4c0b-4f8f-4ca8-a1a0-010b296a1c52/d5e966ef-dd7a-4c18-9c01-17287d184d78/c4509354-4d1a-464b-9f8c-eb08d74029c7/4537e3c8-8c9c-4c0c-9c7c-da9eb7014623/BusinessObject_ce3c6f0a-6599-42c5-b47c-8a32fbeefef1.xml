@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PowerCapacity"
+    id="ce3c6f0a-6599-42c5-b47c-8a32fbeefef1"
+    documentation="This is a concrete class that defines the type of power that a ManagedHardware instance can use, along with its minimum and maximum limits."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceTest"
+    id="c231b329-43ea-4bd2-a5f9-9b554ede96a5"
+    documentation="&quot;An entity that exists for a controlled test invocation on a resource. The resource test is executed according to a schedule. and contains resource test configuration parameters that are to be applied at execution time, and resource test measures that result. &#xA; &#xA;&quot;"/>

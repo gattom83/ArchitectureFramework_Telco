@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fan"
+    id="4e6717ed-666b-46cc-8eee-e31ff6c53c29"
+    documentation="This defines the capabilities of fans that are used for cooling."/>

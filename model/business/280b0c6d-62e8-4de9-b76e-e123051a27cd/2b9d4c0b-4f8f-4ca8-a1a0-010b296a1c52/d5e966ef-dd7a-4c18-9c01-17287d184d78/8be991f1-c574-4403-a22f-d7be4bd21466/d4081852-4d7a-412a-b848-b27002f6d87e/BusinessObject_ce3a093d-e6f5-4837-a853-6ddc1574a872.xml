@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommonResourceInfo"
+    id="ce3a093d-e6f5-4837-a853-6ddc1574a872"
+    documentation="This object class defines the attributes that are common to all resource objects used in the MTOSI/MTNM interface. This class should “merge up” into its parent class. There is currently no merge-up stereotype to direct the implementation so the class has not been decorated."/>

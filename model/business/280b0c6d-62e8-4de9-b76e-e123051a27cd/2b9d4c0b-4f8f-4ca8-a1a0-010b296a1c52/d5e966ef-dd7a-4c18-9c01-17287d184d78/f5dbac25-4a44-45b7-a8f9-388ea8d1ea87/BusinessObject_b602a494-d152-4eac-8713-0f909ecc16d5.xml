@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkFunction"
+    id="b602a494-d152-4eac-8713-0f909ecc16d5"
+    documentation="A Network Function is a Functional Block (FB) within a network infrastructure which has well-defined external interfaces and well-defined functional behavior."/>

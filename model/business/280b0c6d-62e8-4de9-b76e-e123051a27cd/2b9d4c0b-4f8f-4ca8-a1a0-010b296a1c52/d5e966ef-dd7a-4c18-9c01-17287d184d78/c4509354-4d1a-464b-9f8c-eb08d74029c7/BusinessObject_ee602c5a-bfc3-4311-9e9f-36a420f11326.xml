@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResource"
+    id="ee602c5a-bfc3-4311-9e9f-36a420f11326"
+    documentation="&quot;This is an abstract base class for describing different types of hardware that constitute a Product. It has two main purposes: (1) to collect common attributes and relationships for all hardware, and (2) to provide a convenient, single point where relationships with other managed objects can be defined.&#xA;&#xA;The HasWarrantyInfo association (not shown) describes warranty information of hardware.&#xA;&quot;"/>

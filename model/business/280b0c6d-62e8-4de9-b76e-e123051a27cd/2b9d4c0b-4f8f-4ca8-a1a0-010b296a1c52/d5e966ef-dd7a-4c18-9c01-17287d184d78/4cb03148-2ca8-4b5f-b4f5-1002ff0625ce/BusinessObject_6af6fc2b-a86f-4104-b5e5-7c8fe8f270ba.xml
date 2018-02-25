@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceOrderItem"
+    id="6af6fc2b-a86f-4104-b5e5-7c8fe8f270ba"
+    documentation="The purpose for the ResourceOrder expressed in terms of a ResourceSpecification or a Resource."/>

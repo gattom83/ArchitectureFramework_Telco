@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundResource ABE"
+    id="c7ad4158-00b1-41d4-b9cf-dc446cea0d07"
+    documentation="&quot;The Resource ABE contains entities that are used to represent the various aspects of a Resource.&#xA;&#xA;CompoundResource is a set of entities that shows how to aggregate PhysicalResources and LogicalResources into aggregate entities that has physical and logical characteristics and behavior. This enables designers to represent Resources that have physical and logical characteristics and behavior as a single entity.&#xA;&quot;"/>

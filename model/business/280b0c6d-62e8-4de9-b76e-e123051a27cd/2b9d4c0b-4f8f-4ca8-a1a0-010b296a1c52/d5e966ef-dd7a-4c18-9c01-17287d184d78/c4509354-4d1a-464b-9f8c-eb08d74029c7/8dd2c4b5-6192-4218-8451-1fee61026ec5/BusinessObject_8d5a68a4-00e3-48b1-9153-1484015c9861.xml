@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoolingDevice"
+    id="8d5a68a4-00e3-48b1-9153-1484015c9861"
+    documentation="This class represents the capabilities of a generic cooling device. It will be filled out later."/>

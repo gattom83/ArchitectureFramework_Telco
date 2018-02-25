@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalLink"
+    id="0867d863-47dd-43de-b85d-46ff14d39421"
+    documentation="This is a concrete class that represents the connecting or cabling together of hardware entities. This enables both wireless and connector-based communication to be modeled."/>

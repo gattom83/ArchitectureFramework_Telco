@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HardwareRole"
+    id="0821ffef-3aa5-4023-9e5b-b17b31f27a4c"
+    documentation="This is an abstract base class for representing the different types of roles that various physical resources can take on. For this first iteration, two specialized roles have been defined: holder and adapter. This enables a single object, such as a Card, to have additional functions. For example, a Card may also serve as a motherboard or hosting board for another Card. In this situation, there isn't a separate EquipmentHolder - rather, the Card acts as a holder in addition to providing its normal functions. This class is the base class for defining different types of physical resource roles. Attributes are TBD."/>

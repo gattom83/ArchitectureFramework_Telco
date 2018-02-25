@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UnknownCard"
+    id="d3c85ef1-e047-44c5-b8ce-ffd7042a08e7"
+    documentation="This object is used as a generic placeholder to represent Cards that are known to exist but are not yet identifiable via Software means."/>

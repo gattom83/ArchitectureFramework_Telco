@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceCollection"
+    id="ecbd88ee-7c3b-4896-93b6-89feac534119"
+    documentation="&quot;A ResourceCollection is an entity that is individually manageable. It is an aggregate entity consisting of ResourceElement and optionally ResourceCollection entities. As such, a ResourceCollection represents a set of PhysicalResources and LogicalResources that collectively represent a managed entity.&#xA;&#xA;For example, a Network is a subclass of ResourceCollection. A Network can be made up of other Networks and/or SubNetworks (the latter is defined in the ITU-T's G.805 Recommendation). Each Network or SubNetwork can, in the DEN-ng model, be made up of physical and logical components, gathered together and represented by a ResourceCollection. Each node in the network can be represented by a ResourceElement. The HasCompoundResources aggregation enables a ResourceCollection to aggregate ResourceElements and optionally ResourceCollections as well.&#xA;&quot;"/>

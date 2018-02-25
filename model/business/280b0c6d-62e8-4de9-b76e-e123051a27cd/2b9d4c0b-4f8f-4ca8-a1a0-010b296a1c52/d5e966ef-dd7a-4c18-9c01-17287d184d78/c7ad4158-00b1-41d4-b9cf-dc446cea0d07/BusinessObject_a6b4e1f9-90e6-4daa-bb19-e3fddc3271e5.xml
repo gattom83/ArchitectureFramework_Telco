@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundResourceRole"
+    id="a6b4e1f9-90e6-4daa-bb19-e3fddc3271e5"
+    documentation="A CompoundResourceRole is a role that is defined by the interaction between PhysicalResourceRoles and LogicalResourceRoles. There must be at least one or more PhysicalResourceRoles and one or more LogicalResourceRoles to form a CompoundResourceRole. However, neither a PhysicalResourceRole nor a LogicalResourceRole has to belong to a CompoundResourceRole."/>

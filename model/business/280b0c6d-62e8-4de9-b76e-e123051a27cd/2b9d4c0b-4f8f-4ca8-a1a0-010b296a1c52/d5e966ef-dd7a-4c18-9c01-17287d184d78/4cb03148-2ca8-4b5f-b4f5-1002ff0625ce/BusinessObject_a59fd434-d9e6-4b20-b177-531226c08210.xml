@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceOrder"
+    id="a59fd434-d9e6-4b20-b177-531226c08210"
+    documentation="A type of Request that represents a Serivce Order's services decomposed into the resources on which the services will be provisioned."/>

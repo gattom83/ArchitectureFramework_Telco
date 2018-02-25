@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backplane"
+    id="9e3b5c3c-a098-4ec9-83d8-caa583d8a72a"
+    documentation="This class models the backplane that is present in devices."/>

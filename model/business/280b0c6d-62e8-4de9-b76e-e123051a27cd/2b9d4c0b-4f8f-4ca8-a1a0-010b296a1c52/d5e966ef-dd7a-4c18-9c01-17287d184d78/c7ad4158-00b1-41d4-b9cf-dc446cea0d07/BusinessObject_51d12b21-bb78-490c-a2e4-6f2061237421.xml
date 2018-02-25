@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Object"
+    id="51d12b21-bb78-490c-a2e4-6f2061237421"
+    documentation="&quot;The ResourcePort class was defined in DEN-ng because many of the ITU and IETF specifications refer to a &quot;&quot;port&quot;&quot;, but use this as both a physical as well as a logical concept. This will enable the semantics of the ITU and IETF specifications to be correctly mined and used in the DEN-ng specification.&#xA;&#xA;The ResourcePort class abstracts the concept of a set of Ports from G.805, and is a type of ResourceElement that consists only of logical termination points (TrailTerminationPointSource, TrailTerminationPointSink, and TrailTerminationPointBiDirectional, to be precise) and PhysicalPorts. This enables the ResourcePort to take on the physical and logical characteristics of a &quot;&quot;port&quot;&quot; as defined in G.805.&#xA;&quot;"/>

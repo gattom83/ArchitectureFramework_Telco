@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PEPhysicalDeviceRole"
+    id="7a6e40ab-1ff0-469d-96f6-71efaa72e2a4"
+    documentation="&quot;This is a concrete class that defines the basic physical characteristics of a PE Provider Edge) device. For example, what types of line cards are needed for this device to perform its role of a PE device.&#xA;&#xA;Please see the DEN-ng PhysicalResource model for more details.&#xA;&quot;"/>

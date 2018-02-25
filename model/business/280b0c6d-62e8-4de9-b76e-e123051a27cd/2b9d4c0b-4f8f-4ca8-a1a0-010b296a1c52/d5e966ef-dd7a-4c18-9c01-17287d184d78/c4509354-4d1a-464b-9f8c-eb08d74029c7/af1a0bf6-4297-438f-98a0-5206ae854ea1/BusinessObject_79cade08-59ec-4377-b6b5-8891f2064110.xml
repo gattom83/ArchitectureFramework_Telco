@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MemoryCard"
+    id="79cade08-59ec-4377-b6b5-8891f2064110"
+    documentation="This is a type of Card that is dedicated to providing additional memory for use by other components of a Resource. Cards that are used to expand memory, or provide different types of memory, are examples of this type of Card. DEN-ng differentiates between this and other types of Cards, such as NetworkCards and MemoryCards."/>

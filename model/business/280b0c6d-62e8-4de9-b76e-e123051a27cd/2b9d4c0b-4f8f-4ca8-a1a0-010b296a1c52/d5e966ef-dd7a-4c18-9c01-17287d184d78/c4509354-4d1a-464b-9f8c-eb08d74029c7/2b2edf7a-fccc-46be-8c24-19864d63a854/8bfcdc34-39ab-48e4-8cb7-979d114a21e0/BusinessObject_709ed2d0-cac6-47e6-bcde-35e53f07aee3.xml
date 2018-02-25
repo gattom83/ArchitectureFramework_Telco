@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecureHolder"
+    id="709ed2d0-cac6-47e6-bcde-35e53f07aee3"
+    documentation="This class is a type of HolderComposite that serves as the parent for the Rack and Chassis classes. This class generalizes common properties that apply to Racks and Chassis."/>

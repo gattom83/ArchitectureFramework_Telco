@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkFunctionComposite"
+    id="7ce40b1b-ba54-4a67-8b5e-bf1bfbbb005a"
+    documentation="A NetworkFunctionComposite is collection of Atomic and Composite Network Functions."/>

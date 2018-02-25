@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chassis"
+    id="25ef530b-488c-4c9a-9b9f-a8c9b11cfbdc"
+    documentation="A Chassis is a type of SecureHolder that encloses other ManagedPhysicalEntities and provides a definable functionality in its own right, such as a desktop or a network device (e.g., a router or a switch)."/>

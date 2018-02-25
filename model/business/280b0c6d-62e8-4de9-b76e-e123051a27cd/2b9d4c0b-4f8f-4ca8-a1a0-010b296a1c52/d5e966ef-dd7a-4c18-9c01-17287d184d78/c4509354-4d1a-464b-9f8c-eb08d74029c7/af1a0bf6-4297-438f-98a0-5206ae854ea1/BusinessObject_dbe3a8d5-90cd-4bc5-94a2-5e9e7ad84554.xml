@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkCard"
+    id="dbe3a8d5-90cd-4bc5-94a2-5e9e7ad84554"
+    documentation="This is a type of Card that is dedicated to providing networking functions, such as routing and forwarding. Line cards and port adapter cards are examples of this type of card. DEN-ng differentiates between this and other types of Cards, such as NetworkCards and MemoryCards."/>

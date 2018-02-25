@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource Topology ABE"
-    id="4a347884-ed33-4260-a43e-7942a0981825"/>
+    id="4a347884-ed33-4260-a43e-7942a0981825"
+    documentation="The Resource Topology ABE contains entities that define physical, logical, and network topological information. This information is critical for assessing the current state of the network, as well as providing information on how to fix problems, tune performance, and in general work with the network (both as a whole and with its components). Each of these topological views provides its own physical, logical, or network related information that can be used to manage one or more layers in a layered network."/>

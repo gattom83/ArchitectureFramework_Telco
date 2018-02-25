@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware"
+    id="b231082a-9566-4b92-8d7f-67de2da41875"
+    documentation="This is an abstract base class that represents any type of hardware entity that exists as an atomic unit that is not a PhysicalLink or a PhysicalConnector. Hardware is defined as any component that has a distinct physical identity and can be a component of a PhysicalDevice. An object has a physical identity if it has a physical manifestation that enables it to be held and have a label attached to it. Thus, software, files, protocols, and policies are not physical objects."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalConnector"
+    id="a84fda16-2c5b-42f4-84d7-eee77eecbc15"
+    documentation="This is a concrete class that represents any type of hardware unit that is used to connect to other hardware units and transmit signals and/or power between them."/>

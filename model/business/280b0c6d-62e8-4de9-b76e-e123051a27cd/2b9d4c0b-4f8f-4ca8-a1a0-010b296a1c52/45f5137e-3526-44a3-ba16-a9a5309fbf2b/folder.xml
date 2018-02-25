@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource Configuration ABE"
-    id="45f5137e-3526-44a3-ba16-a9a5309fbf2b"/>
+    id="45f5137e-3526-44a3-ba16-a9a5309fbf2b"
+    documentation="The definition of how a Resource operates or functions in terms of CharacteristicSpecification(s) and related ResourceSpec(s), as well as a representation of how a Resource operates or functions in terms of characteristics and related Resource(s)."/>

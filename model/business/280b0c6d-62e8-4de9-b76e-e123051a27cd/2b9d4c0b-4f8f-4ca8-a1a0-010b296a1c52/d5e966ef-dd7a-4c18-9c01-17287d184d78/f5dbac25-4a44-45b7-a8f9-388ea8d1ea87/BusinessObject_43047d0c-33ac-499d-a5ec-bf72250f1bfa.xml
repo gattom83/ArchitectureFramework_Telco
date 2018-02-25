@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNF"
+    id="43047d0c-33ac-499d-a5ec-bf72250f1bfa"
+    documentation="A VNF is an implementation of a Network Function for which all the LogicalResources it is being provided are hosted by VirtualResources"/>

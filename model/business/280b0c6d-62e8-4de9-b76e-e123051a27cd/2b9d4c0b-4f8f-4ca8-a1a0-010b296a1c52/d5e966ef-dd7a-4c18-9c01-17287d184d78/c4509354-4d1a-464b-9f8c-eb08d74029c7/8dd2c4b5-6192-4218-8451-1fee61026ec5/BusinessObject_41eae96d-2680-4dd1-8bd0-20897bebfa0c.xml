@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PowerSupply"
+    id="41eae96d-2680-4dd1-8bd0-20897bebfa0c"
+    documentation="This class represents the capabilities of a generic power supply."/>

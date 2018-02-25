@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RolesDescribeLogicalResourceDetails"
+    id="63444e09-8f6e-470c-ba3f-64caf63e5df9"
+    documentation="&quot;This class implements the semantics of the RolesDescribeLogicalResource aggregation.&#xA;&#xA;This class is defined in the system view of the DEN-ng specification.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedHardware"
+    id="9d2846e1-d10d-423f-8cd5-9d51605c354b"
+    documentation="This is an abstract base class that adds additional semantics to the Hardware base class. These semantics are used to provide management information on the hardware. For example, attributes defined by this class can provide the administrative and operational state of the entity, and tell whether it has any alarms."/>

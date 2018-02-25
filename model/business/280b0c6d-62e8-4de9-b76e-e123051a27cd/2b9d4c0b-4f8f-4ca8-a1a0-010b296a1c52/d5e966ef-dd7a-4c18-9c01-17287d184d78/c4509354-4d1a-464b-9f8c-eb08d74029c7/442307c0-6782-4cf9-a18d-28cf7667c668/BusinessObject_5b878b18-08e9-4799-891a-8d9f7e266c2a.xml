@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalSwitchRole"
+    id="5b878b18-08e9-4799-891a-8d9f7e266c2a"
+    documentation="This is a physical role that a device has. It enables us to correlate physical components that are used to forward traffic with the logical capability of forwarding traffic."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalCapacityDetails"
+    id="4a2f23ea-2621-49fd-80c7-b03bd0a0f1ef"
+    documentation="&quot;This class represents the semantics of the HasPhysicalCapactiy association. It provides additional semantics describing the different types of PhysicalCapacities that this ManagedComponent contains, and provides methods to tell how many PhysicalCapacities are associated with this particular ManagedComponent instance.This generic association enables any of the different types of PhysicalCapacity subclasses to be associated to a given PhysicalContainer. This enables different types of PhysicalContainers (e.g., memory chips as well as Chassis) to have the notion of physical capacity.&#xA;&#xA;It is implemented as an association class to enable an application to query for all, or a specific type of, PhysicalCapacity association, and to define additional semantics on a per-association basis.&#xA;&quot;"/>

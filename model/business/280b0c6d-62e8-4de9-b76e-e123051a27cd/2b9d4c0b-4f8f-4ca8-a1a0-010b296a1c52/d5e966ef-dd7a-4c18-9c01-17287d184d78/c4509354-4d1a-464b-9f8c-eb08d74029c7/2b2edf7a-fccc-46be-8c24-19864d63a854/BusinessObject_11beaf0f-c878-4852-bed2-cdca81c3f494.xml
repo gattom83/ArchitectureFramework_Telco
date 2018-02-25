@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EquipmentHolder"
+    id="11beaf0f-c878-4852-bed2-cdca81c3f494"
+    documentation="&quot;This class is based on the M.3100 specification, and is a base class that represents physical objects that are both manageable as well as able to host, hold, or contain other physical objects. Examples of physical objects that can be represented by instances of this object class are Racks, Chassis, Shelfs, and Slots.&#xA;&#xA;The difference between subclasses of EquipmentHolder (such as a Slot or a Chassis) and subclasses of Equipment that have a Holder role (such as a Card) is that the subclasses of EquipmentHolder are dedicated to holding other Hardware. The subclasses of Equipment that have a holder role have a holding capability as a secondary capability, usually for expansion. Their primary function, however, is not to hold other objects.&#xA;&quot;"/>

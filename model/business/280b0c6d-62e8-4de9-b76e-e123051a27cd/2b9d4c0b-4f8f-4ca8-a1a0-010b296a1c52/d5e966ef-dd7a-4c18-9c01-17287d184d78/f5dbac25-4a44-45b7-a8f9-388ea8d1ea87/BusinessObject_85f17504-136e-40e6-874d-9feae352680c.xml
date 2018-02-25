@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFInternalTopology"
+    id="85f17504-136e-40e6-874d-9feae352680c"
+    documentation="An Adjacency Graph expressing the adjacency requirements between the internal connection points of the VNF Components."/>

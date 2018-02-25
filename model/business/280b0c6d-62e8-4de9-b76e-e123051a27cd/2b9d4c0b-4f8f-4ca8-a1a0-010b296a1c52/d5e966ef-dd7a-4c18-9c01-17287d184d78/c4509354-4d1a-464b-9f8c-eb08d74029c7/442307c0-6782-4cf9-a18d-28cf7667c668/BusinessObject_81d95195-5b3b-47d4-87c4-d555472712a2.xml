@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PPhysicalDeviceRole"
+    id="81d95195-5b3b-47d4-87c4-d555472712a2"
+    documentation="&quot;This is a concrete class that defines the basic characteristics of a P (Provider Core) device. For example, what types of line cards are needed for this device to perform its role of a P device.&#xA;&#xA;Please see the DEN-ng PhysicalResource model for more details.&#xA;&quot;"/>

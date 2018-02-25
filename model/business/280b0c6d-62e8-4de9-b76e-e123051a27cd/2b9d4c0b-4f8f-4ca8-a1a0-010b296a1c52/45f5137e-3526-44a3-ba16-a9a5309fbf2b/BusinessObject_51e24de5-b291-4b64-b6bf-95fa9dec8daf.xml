@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceConfigSpec"
+    id="51e24de5-b291-4b64-b6bf-95fa9dec8daf"
+    documentation="The definition of how a Resource operates or functions in terms of CharacteristicSpecification(s) and related ResourceSpec(s)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalMemoryCapacity"
+    id="9347d557-2c1a-4ce7-894d-03501a126f49"
+    documentation="This is a concrete class that defines the type of Memory that can be installed on a ManagedHardware instance, along with its minimum and maximum limits."/>

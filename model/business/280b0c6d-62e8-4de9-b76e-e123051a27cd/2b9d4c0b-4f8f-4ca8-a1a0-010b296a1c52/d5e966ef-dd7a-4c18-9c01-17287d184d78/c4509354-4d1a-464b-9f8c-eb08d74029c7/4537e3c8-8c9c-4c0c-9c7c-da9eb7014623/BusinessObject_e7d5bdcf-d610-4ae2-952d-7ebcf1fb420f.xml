@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalCapacity"
+    id="e7d5bdcf-d610-4ae2-952d-7ebcf1fb420f"
+    documentation="This is an abstract class that represents the minimum and maximum requirements, limits, or other variable features of a ManagedDevice or ManagedHardware object."/>

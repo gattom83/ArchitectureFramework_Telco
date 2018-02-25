@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RolesDescribePhysicalResourceDetails"
+    id="6a049e09-58d5-4798-bc58-19f5127f48ad"
+    documentation="&quot;This class implements the semantics of the RolesDescribePhysicalResource aggregation.&#xA;&#xA;This class is defined in the system view of the DEN-ng specification.&#xA;&quot;"/>

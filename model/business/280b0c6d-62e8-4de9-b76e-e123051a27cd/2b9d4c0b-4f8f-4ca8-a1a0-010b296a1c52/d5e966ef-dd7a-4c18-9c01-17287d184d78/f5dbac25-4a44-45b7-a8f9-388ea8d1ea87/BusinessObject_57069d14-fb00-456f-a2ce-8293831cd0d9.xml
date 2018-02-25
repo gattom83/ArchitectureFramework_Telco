@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkFunctionAtomic"
+    id="57069d14-fb00-456f-a2ce-8293831cd0d9"
+    documentation="A NetworkFunctionAtomic is a Network Function that is not further decomposed into finer grained Network Functions."/>

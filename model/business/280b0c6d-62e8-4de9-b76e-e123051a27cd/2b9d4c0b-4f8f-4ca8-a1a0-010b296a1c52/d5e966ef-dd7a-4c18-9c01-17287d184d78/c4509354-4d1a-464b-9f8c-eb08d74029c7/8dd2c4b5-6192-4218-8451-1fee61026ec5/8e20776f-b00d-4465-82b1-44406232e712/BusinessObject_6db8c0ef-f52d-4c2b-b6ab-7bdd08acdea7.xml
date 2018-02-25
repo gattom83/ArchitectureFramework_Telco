@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chip"
+    id="6db8c0ef-f52d-4c2b-b6ab-7bdd08acdea7"
+    documentation="&quot;This is a concrete class that models different types of chips that are either directly configurable by the end-user (e.g., a programmable device) and/or represent FRUs (e.g., a special ASIC that can be upgraded by replacing it with a new version of that same ASIC).&#xA;&#xA;Note that capacity characteristics (e.g., how much memory can a Flash chip hold) are defined through the PhysicalCapacity association.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ASIC"
+    id="be5c0f48-3996-442b-b962-40eb76ae22c1"
+    documentation="&quot;An ASIC is an Application Specific Integrated Circuit.&#xA;&#xA;This class represents a special type of Chip that is used to upgrade the functionality of a networking device. Examples include upgrading the modem function of a device, increasing the processing capability of a Card or Device, and implementing some type of networking functionality, such as fast switching, directly in hardware (as opposed to emulating it in software).&#xA;&quot;"/>

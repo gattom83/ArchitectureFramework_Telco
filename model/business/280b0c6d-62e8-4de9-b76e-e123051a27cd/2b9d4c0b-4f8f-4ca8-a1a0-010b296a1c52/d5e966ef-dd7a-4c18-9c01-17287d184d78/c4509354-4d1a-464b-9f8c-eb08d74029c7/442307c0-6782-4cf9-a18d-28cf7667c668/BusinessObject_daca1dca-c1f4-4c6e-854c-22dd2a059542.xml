@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPEPhysicalDeviceRole"
+    id="daca1dca-c1f4-4c6e-854c-22dd2a059542"
+    documentation="&quot;This is a concrete class that defines the basic physical characteristics of a CPE (Customer Premise Edge) device. For example, what types of line cards are needed for this device to perform its role of a CPE device.&#xA;&#xA;Please see the DEN-ng PhysicalResource model for more details.&#xA;&quot;"/>

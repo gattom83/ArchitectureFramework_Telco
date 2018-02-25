@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkFunctionState"
+    id="ec236968-838e-492a-8aa0-eaa0751bc5ee"
+    documentation="A NetworkFunctionState represents the concept of internal state of a Network Function as defined by SysML state machine."/>

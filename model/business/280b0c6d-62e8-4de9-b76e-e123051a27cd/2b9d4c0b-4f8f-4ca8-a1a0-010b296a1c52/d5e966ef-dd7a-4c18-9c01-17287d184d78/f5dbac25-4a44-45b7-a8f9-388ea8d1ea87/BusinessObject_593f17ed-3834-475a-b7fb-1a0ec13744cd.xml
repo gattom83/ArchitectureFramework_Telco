@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNFComponent"
+    id="593f17ed-3834-475a-b7fb-1a0ec13744cd"
+    documentation="A Virtualised Network Function Component (VNFC) is an internal component of a VNF providing a defined sub-set of that VNF's functionality."/>

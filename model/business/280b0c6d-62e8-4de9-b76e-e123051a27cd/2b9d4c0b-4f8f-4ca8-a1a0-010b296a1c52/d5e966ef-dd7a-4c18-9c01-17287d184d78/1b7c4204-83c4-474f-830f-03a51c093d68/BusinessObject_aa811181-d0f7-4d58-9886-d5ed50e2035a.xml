@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RolesDescribeCompoundResourceDetails"
+    id="aa811181-d0f7-4d58-9886-d5ed50e2035a"
+    documentation="&quot;This class implements the semantics of the RolesDescribeCompoundResource aggregation.&#xA;&#xA;This class is defined in the system view of the DEN-ng specification.&#xA;This aggregation defines the set of roles that can be assumed by this particular CompoundResource. This aggregation may be subclassed to account for different role semantics that occur in the various PhysicalResourceRoles and LogicalResourceRoles that make up this CompoundResourceRole.&quot;"/>

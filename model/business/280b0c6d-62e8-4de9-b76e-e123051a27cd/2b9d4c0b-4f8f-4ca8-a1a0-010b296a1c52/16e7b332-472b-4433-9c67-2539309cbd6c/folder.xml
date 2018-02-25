@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource Strategy &amp; Plan ABE "
-    id="16e7b332-472b-4433-9c67-2539309cbd6c"/>
+    id="16e7b332-472b-4433-9c67-2539309cbd6c"
+    documentation="The Resource Strategy &amp; Plan ABE is used to plan networks and resource elements both initially and for growth. It will coordinate both logical and physical resource growth. Inputs are budgets from business sources, service forecasts, current and projected network utilization, new technologies, and retiring technologies. It handles the lifecycle (installation, modification, removal, and retirement) for both logical and physical resources."/>

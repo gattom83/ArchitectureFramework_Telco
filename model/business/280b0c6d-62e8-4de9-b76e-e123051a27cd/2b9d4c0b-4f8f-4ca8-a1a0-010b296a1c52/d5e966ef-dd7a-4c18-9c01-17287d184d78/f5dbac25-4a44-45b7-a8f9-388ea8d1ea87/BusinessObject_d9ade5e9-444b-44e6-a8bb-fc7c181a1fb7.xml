@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFTransferFunction"
+    id="d9ade5e9-444b-44e6-a8bb-fc7c181a1fb7"
+    documentation="A NFTransferFunction represents the concept of processing a set of inputs to produce a set of outputs given a particular state as defined by SysML."/>
