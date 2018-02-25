@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceProviderEmployee"
+    id="e07673ac-e144-4a64-ac30-5d79494f6277"
+    documentation="A Service ProviderEmployee is an Individual who is employed by the Service Provider. This is modeled as an Individual playing the role of ServiceProviderEmployee . A ServiceProviderEmployee is a type of PartyRole."/>

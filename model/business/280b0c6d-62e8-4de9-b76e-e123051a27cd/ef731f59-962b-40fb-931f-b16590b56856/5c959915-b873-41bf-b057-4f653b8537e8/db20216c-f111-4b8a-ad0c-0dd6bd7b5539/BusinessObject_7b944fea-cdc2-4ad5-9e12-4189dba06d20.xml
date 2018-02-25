@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyProfileTypeCharacteristic"
+    id="7b944fea-cdc2-4ad5-9e12-4189dba06d20"
+    documentation="&quot;Each PartyPrivacyProfileTypeCharacteristic specifies: &#xA;• the information concerned by the Privacy (CharacteristicSpecification via RootEntityTypeCharUse), &#xA;• and the corresponding Privacy rule (i.e. available choices for the party) using PartyPrivacyProfileTypeCharValue. &#xA;A PartyPrivacyProfileTypeCharacteristic has a privacyType such as “Internal Purpose”, “External Purpose”, “Internal Retention” or “External Retention”. &#xA;If the privacyType is “Internal Purpose” or “External Purpose”, then the PartyPrivacyProfileTypeCharacteristic specifies the usage purpose of the information concerned by the privacy such as Administration, Marketing, Research… &#xA;Each PartyPrivacyProfileTypeCharacteristic is categorized by a PrivacyCategory for helping Graphical User Interface (GUI) to have a nice presentation for Privacy viewing and configuration.&quot;"/>

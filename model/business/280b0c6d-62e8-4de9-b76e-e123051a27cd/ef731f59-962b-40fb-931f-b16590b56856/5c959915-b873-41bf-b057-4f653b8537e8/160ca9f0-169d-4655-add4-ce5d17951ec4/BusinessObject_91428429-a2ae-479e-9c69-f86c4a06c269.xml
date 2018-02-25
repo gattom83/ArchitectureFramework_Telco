@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyAgreement"
+    id="91428429-a2ae-479e-9c69-f86c4a06c269"
+    documentation="A PartyPrivacyAgreement is a type of Agreement. IT represents the agreement by a Party of the privicy rules applied to their information."/>

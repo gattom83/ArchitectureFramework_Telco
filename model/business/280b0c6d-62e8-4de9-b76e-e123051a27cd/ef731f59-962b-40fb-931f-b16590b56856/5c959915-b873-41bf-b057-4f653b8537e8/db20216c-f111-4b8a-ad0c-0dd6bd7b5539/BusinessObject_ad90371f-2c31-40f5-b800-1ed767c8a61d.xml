@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PrivacyCategory"
+    id="ad90371f-2c31-40f5-b800-1ed767c8a61d"
+    documentation="A PrivacyCategory specifies a category grouping PartyPrivacyProfileTypeCharacteristic for helping Graphical User Interface (GUI) to have a nice presentation for Privacy viewing and configuration."/>

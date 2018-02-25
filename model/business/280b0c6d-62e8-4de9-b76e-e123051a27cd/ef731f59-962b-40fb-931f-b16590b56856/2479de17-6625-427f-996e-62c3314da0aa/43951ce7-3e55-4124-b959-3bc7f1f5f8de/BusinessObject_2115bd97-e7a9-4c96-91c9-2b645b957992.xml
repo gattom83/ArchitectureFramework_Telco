@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommitmentProcurementRole"
+    id="2115bd97-e7a9-4c96-91c9-2b645b957992"
+    documentation="A role a party plays in a relationship to a Commitment, such as a Buyer or Supplier, and in that role the party has procured the commitment of another party playing a role."/>

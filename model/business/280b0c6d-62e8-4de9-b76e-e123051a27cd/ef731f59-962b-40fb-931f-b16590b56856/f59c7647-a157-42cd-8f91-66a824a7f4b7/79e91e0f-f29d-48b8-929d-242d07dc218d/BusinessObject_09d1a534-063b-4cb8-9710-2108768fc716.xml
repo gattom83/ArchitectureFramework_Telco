@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProfile"
+    id="09d1a534-063b-4cb8-9710-2108768fc716"
+    documentation="A match between a Party and a PartyProfileType. It is based on matching PartyDemographics and other Party characteristics, such as use of a product, with the characteristics of a PartyProfileType."/>

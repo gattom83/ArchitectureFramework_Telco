@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Community ABE"
+    id="82871f60-60ff-4d73-960f-bbcac70ab33f"
+    documentation="The Party Community ABE is composed of a Community, which is a PartyRole played by an Organization, CommunityMembers who can commit to a Community, make Contributions to the Community and consume Assets from a Community."/>

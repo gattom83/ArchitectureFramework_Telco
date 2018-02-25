@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EmailContact"
+    id="bf7cf1e5-d043-48d0-bc99-839230db97b6"
+    documentation="The eMail address to use when contacting a given PartyRole. An eMailContact is a type of ContactMedium."/>

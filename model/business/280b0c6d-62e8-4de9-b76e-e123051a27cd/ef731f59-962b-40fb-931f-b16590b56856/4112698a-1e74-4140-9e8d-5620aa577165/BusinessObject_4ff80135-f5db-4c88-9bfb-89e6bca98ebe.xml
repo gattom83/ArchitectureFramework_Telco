@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyAccountRelationship"
+    id="4ff80135-f5db-4c88-9bfb-89e6bca98ebe"
+    documentation="A significant connection between two PartyAccounts."/>

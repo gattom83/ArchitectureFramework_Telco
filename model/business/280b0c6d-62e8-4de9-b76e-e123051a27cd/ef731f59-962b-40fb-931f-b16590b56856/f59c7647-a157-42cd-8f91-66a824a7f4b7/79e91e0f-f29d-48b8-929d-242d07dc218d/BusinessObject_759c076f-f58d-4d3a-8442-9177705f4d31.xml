@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProfileTypeCharacteristic"
+    id="759c076f-f58d-4d3a-8442-9177705f4d31"
+    documentation="A characteristic quality or distinctive feature of a PartyProfileType. The characteristic can be take on a discrete value, such as age, can take on a range of values, (for example, investment portfolio value of $50,000 - $100,000), or can be derived from a formula (for example, number of households = number of customer party roles)."/>

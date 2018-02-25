@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyOrder"
+    id="7dbd0ce3-dd7a-4508-9813-2d086fb6db89"
+    documentation="A PartyOrder is a communication used to procure a Product. There are different types of requests, such as AccessServiceRequests (ASRs), LocalServiceRequests (LSRs), DirectoryServiceRequests (DSRs), ProductOrders (PSRs).The abstract Order object provides a generalization of relationships."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleProdSpecRelationship"
+    id="a116d7f7-aca5-49aa-8d68-f57575fe1347"
+    documentation="A relationship, such as purchase for resell, broker as-is for resale, between PartyRoleProductSpecifications."/>

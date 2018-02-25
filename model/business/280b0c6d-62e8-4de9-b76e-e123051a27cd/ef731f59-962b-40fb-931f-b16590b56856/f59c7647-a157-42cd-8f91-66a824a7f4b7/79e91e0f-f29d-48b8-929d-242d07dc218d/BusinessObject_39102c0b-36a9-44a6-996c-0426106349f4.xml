@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositePartyProfileTypeCharacteristic"
+    id="39102c0b-36a9-44a6-996c-0426106349f4"
+    documentation="A type of PartyProfileTypeCharacteristic that is formed by aggregating other PartyProfileTypeCharacteristic, which may be Composite or Atomic PartyProfileTypeCharacteristic."/>

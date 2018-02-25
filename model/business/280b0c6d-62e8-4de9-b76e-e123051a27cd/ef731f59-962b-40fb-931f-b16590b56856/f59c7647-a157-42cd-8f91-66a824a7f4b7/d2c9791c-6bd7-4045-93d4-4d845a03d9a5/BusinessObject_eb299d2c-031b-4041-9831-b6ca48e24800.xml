@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrator"
+    id="eb299d2c-031b-4041-9831-b6ca48e24800"
+    documentation="A PartyRole who manages and maintains Resources and Services. Potential subclasses of this class administer specific types of Resources and Services. In general, an Administrator can configure and provision many more features and functions of a Resource or a Service than a Technician can."/>

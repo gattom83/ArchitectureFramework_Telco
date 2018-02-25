@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrganizationDecompostionComponent"
+    id="b8b8cb4c-cb7c-402b-a13b-55180d2ee0c1"
+    documentation="Describes certain component after organization decompostion based on defined type by OrganizationDecompostionType."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyOrderItem"
+    id="c1dca414-0083-4804-9a59-f885bbdc7b6e"
+    documentation="The purpose for the Party Order expressed in terms of a Product Offering or a Product (for a change order) inherited from BusinessInteractionItem."/>

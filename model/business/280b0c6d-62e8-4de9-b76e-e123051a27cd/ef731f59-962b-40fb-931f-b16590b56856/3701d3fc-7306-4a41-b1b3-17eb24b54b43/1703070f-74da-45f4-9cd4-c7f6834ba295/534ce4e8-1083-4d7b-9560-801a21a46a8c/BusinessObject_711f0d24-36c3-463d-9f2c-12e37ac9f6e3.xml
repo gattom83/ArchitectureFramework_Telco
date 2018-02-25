@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentPlanPaymentMethod"
+    id="711f0d24-36c3-463d-9f2c-12e37ac9f6e3"
+    documentation="A PaymentPlanPaymentMethod specifies the priority and valid period for each PaymentMethod in a PaymentPlan context."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyInvoiceInquiry"
+    id="0b786cf5-eba2-46ee-95de-2a304af0e192"
+    documentation="&quot;A request for information about a written record of goods or services provided and the amount charged for them, sent to a Party as a request for payment.&#xA;&#xA;&quot;"/>

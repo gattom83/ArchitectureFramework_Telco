@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftDunning"
+    id="3967872a-2395-446b-b89e-f83f8e1ac015"
+    documentation="The SoftDunning is a type of DunningCase. It represents all actions performed to recover the partys’ debt from the due date until the contract termination"/>

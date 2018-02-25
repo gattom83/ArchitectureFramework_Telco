@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyAccount"
+    id="2df3004d-cd24-4bcc-b0a6-e64b5a2fbac6"
+    documentation="An arrangement that a party has with an enterprise that provides products to the party and collects AppliedPartyBillingRate that are used to produce PartyBill."/>

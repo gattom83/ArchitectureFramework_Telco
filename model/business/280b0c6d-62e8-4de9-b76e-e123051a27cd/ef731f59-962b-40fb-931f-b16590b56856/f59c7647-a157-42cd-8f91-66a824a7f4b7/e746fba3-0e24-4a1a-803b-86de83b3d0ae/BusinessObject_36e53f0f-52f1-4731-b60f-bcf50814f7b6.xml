@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicOrganization"
+    id="36e53f0f-52f1-4731-b60f-bcf50814f7b6"
+    documentation="A type of Organization that does not have any subordinate Organization. That is, an AtomicOrganization is a leaf-level Organization."/>

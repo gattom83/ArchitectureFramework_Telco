@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingStatisticBalance"
+    id="c0125f1c-0d8e-40cb-a9cc-9d1fb7541acf"
+    documentation="The balance of collected statistical data."/>

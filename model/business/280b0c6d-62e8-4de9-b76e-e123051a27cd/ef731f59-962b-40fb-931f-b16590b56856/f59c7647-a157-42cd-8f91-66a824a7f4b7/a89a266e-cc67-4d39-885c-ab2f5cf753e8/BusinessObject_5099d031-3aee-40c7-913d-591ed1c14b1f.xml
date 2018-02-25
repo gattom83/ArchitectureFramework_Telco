@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Currency"
+    id="5099d031-3aee-40c7-913d-591ed1c14b1f"
+    documentation="Represent the currency in reality. Currency uses 1 or more CurrencyUnits. For example, Currency(code=CNY, symbol= ￥) use three CurrencyUnits(Yuan, Jiao, Fen).Currency is associated to CurrencyExchangeRate with CurrencyUsedAsSource and CurrencyUsedAsDestination. Currency can be used in different Countrys."/>

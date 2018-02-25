@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ThirdPartyServiceProvider"
+    id="0c2da0b8-5348-4f79-b707-d08ae2aa5688"
+    documentation="A ServiceProvider besides the two primarily involved in a situation."/>

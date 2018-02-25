@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeDemographicCharacteristic"
+    id="5948ca68-bb32-4e4a-9b6d-8e5a195165f6"
+    documentation="A type of DemographicCharacteristic that is formed by aggregating other DemographicCharacteristics, which may be Composite or Atomic DemographicCharacteristics."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commitment"
+    id="c57c887a-519f-43aa-9efa-323e731ca5e9"
+    documentation="A detailed description of the mutual agreement between parties about services, products, resources or some other kind of deliverable that has to be provided by the party playing the role of a Commitment fulfiller to the party, playing the role of a Commitment procurer. A Commitment may be associated to a KPI to govern the Commitment."/>

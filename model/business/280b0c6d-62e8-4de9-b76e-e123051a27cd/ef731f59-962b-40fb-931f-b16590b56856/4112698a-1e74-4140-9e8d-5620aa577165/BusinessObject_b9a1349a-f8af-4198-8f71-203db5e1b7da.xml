@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdditionalPartyAttributes"
+    id="b9a1349a-f8af-4198-8f71-203db5e1b7da"
+    documentation="A person or organization that buys products and services from the enterprise or receives free offers or services. This is modeled as a Party playing the role of Party. A Party is a type of PartyRole. Partys can also be other service providers who resell the enterprises products, other service providers that lease the enterprise's resources for utilization by the other service provider's products and services, and so forth."/>

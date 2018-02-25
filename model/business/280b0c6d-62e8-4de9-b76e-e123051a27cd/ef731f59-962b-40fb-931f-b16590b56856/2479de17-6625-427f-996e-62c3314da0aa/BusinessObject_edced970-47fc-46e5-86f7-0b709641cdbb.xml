@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AgreementApproval"
+    id="edced970-47fc-46e5-86f7-0b709641cdbb"
+    documentation="A group of AgreementAuthorizations required from the BusinessParticipants involved in the Agreement."/>

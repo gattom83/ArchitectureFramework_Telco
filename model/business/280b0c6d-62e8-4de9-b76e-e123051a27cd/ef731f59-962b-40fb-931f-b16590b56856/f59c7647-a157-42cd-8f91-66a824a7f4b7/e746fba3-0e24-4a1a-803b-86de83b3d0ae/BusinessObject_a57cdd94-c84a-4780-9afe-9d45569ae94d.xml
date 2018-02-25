@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeOrganization"
+    id="a57cdd94-c84a-4780-9afe-9d45569ae94d"
+    documentation="A type of Organization that is formed by aggregating other Organizations, which may be atomic Organizations or OrganizationDecompositionComponents."/>

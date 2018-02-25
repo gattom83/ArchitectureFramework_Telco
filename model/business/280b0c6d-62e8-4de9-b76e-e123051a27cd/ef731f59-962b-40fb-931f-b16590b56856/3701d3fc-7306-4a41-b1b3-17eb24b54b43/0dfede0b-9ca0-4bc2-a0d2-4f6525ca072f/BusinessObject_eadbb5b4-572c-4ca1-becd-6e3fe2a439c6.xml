@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingCycle"
+    id="eadbb5b4-572c-4ca1-becd-6e3fe2a439c6"
+    documentation="An occurrence of a billing cycle. Besides significant dates, it records who triggered the cycle."/>

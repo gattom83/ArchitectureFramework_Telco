@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingProductCharge"
+    id="d4a298ee-8ea9-454e-843f-8127e1411282"
+    documentation="A charge applied to a product."/>

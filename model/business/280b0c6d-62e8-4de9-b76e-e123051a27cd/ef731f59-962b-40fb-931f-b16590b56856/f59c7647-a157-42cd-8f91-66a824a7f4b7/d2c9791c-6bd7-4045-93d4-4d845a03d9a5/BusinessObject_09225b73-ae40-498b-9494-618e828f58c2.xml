@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleOrganizationAssoc"
+    id="09225b73-ae40-498b-9494-618e828f58c2"
+    documentation="An organizational association among parties playing a role."/>

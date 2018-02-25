@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProfileType"
+    id="b97fdf9e-e650-48f1-bda7-3a1b5d7b5bbd"
+    documentation="Characteristics used to group Parties for the formulation and targeting of MarketingCampaigns. ProfileTypes can be based on PartyDemographics, GeographicAreas, ProductOfferings, and MarketSegments. User-defined DataPoints can also be specified."/>

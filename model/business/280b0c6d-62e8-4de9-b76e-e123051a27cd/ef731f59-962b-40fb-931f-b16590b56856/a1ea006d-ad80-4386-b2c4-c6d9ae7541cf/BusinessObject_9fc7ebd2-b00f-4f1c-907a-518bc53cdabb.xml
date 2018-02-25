@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductOrder"
+    id="9fc7ebd2-b00f-4f1c-907a-518bc53cdabb"
+    documentation="A type of order that are not governed by any industry committee. Product Orders represent orders that would typically originate at an end user. Product Orders may spawn ASRs, LSRs, or other PSRs in order to fill the end users request, if facility, equipment, or plant assignments are not available for designing the requested Product."/>

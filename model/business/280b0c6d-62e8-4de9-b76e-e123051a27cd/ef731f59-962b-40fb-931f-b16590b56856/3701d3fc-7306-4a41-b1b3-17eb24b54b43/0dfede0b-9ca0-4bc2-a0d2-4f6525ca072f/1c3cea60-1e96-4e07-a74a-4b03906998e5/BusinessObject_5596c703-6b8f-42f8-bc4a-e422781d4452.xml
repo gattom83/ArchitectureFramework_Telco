@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingProductUsageRate"
+    id="5596c703-6b8f-42f8-bc4a-e422781d4452"
+    documentation="A rated usage event typically produced by a rating engine."/>

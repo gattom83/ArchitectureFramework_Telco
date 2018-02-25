@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningCaseRule"
+    id="02da2788-1211-47b1-82b4-88235ad35375"
+    documentation="The DunningCaseRule represents an action performed by the company (or on its behalf) to recover a debt."/>

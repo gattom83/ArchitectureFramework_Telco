@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AssetConsumerRole"
+    id="55ebf6e7-3823-46e6-9bc4-c1be04f74748"
+    documentation="An AssetConsumerRole is a BusinessInteractionRole a party (identified by a CommunityMember) plays when consuming assets from a Community."/>

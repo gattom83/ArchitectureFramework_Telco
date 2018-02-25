@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AccountBalancePM"
+    id="1b860ed2-0994-4acc-80b5-225dec92ed2a"
+    documentation="AccountBalancePM defines possible payment method using CustomerAccountBalance as payment source."/>

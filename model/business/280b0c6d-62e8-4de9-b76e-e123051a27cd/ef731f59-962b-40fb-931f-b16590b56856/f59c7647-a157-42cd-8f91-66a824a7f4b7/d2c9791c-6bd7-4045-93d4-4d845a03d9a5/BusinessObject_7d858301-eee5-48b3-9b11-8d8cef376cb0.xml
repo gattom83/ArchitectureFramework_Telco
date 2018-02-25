@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComplementaryProvider"
+    id="7d858301-eee5-48b3-9b11-8d8cef376cb0"
+    documentation="A type of ServiceProvider that complements another provider."/>

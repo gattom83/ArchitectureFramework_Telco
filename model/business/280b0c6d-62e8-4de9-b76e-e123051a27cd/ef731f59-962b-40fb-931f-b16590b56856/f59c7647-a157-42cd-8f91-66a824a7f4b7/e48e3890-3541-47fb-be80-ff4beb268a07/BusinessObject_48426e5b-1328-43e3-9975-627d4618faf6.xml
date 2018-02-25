@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ContactMedium"
+    id="48426e5b-1328-43e3-9975-627d4618faf6"
+    documentation="A means by which communication may be established with a party (individual or organization).Contact Medium is an abstract concept that should be subclassed as required."/>

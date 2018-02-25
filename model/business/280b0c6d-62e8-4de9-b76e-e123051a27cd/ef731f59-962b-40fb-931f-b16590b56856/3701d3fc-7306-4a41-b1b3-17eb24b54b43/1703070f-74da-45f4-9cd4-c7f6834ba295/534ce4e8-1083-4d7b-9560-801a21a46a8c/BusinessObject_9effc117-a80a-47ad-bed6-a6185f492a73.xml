@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPayment"
+    id="9effc117-a80a-47ad-bed6-a6185f492a73"
+    documentation="The PartyPayment represents the transfer of wealth from any Party to another one."/>

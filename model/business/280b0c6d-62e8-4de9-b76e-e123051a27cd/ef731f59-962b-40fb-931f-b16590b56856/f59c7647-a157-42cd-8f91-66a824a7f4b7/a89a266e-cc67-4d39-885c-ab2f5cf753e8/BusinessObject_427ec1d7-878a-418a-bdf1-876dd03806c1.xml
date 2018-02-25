@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CurrencyName"
+    id="427ec1d7-878a-418a-bdf1-876dd03806c1"
+    documentation="Name of a currency. Under different languages, a currency has differnent names, e.g. Renminbi Yuan in English and 人民币元 in Chinese to express the same Chinese currency."/>

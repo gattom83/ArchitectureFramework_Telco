@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositePartyDemographic"
+    id="da4bebd5-06d5-4ab6-b568-a930b3e60f92"
+    documentation="A type of PartyDemographic that is formed by aggregating other PartyDemographics, which may be Composite or Atomic PartyDemographics."/>

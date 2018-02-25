@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartySettlement"
+    id="ece3641c-86d9-4332-8dc7-683c8a78f76e"
+    documentation="A monetary value that will be paid to a party by the enterprise or a party will pay to the enterprise as a result of the usage/recurring fee of a product/service/resource provided. PartySettlement is managed by agreements and can be created between an enterprise and other MVNOs, dealers, retailers, content providers, etc."/>

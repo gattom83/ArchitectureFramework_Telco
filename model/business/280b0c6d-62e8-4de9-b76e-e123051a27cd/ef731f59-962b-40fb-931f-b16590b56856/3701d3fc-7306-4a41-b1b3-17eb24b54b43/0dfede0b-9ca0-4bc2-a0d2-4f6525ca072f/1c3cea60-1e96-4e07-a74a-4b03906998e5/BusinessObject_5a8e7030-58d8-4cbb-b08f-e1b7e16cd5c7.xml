@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingTaxRate"
+    id="5a8e7030-58d8-4cbb-b08f-e1b7e16cd5c7"
+    documentation="An amount of money levied on the price of a Product by a legislative body."/>

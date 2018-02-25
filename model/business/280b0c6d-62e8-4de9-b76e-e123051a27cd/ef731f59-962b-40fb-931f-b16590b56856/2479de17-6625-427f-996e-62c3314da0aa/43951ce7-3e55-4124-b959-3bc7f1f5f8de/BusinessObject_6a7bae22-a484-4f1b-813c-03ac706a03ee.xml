@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommitmentApproverRole"
+    id="6a7bae22-a484-4f1b-813c-03ac706a03ee"
+    documentation="A role a party plays when approving a commitment such as Buyer, Supplier or Partner"/>

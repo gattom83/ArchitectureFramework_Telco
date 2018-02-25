@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingCredit"
+    id="fe0872e2-81d6-441c-ac0e-b3bc0931b9ba"
+    documentation="The amount of a deduction that can be applied against an amount charged for a Product on a PartyBill. Billing credits are typically governed by ProductPriceRule(s) and ProductPriceAlteration(s)."/>

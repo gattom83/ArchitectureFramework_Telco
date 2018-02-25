@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CurrencyExchangeRate"
+    id="c0ca8d81-ada9-4227-9382-b524053d7a7c"
+    documentation="Exchange rate between currencies."/>

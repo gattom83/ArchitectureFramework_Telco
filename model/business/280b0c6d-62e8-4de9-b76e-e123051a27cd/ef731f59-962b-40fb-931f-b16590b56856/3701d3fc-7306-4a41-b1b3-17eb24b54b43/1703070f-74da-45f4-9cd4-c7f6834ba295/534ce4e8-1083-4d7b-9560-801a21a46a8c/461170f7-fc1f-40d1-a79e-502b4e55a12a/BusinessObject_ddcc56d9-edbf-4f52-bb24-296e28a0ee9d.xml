@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigitalWalletPM"
+    id="ddcc56d9-edbf-4f52-bb24-296e28a0ee9d"
+    documentation="A DigitalWalletPM enables debit on a digital wallet."/>

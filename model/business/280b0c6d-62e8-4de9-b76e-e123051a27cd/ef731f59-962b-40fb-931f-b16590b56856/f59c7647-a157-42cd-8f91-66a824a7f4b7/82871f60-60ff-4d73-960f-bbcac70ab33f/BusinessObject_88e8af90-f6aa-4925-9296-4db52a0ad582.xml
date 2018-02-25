@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommunityAdministrator"
+    id="88e8af90-f6aa-4925-9296-4db52a0ad582"
+    documentation="A CommunityAdministrator is a PartyRole, played by a Party, who administers a Community."/>

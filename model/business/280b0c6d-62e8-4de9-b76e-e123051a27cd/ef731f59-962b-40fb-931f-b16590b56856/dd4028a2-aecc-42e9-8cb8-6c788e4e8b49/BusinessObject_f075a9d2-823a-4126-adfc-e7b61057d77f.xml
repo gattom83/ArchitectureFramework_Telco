@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProblem"
+    id="f075a9d2-823a-4126-adfc-e7b61057d77f"
+    documentation="Represents a problem which affects the Party experience. PartyProblem can be raised by the Party (a complaint) or by the CSP (typically through some analytics system)"/>

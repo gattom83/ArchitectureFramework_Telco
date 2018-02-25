@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrganizationName"
+    id="1d943639-c507-459a-8ccb-45993a918b4e"
+    documentation="A word, term, or phrase by which an organization is known and distinguished from other organizations.A name is an informal way of identifying an object [Fowler]An OrganizationName is a type of PartyName."/>

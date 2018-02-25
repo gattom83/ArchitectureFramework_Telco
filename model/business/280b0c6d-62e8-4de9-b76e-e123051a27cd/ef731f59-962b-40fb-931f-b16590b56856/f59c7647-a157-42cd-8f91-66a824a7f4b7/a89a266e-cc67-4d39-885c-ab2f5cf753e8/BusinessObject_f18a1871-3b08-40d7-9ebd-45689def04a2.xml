@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CurrencyUnit"
+    id="f18a1871-3b08-40d7-9ebd-45689def04a2"
+    documentation="Measurement unit of a currency. For CurrencyUnitName Yuan associated to Chinese, rate =1, isStadUnit = True, isMinUnit = False."/>

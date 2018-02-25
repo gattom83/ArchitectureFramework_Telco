@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleProductSpecification"
+    id="141a92f8-0994-4ade-9c4c-f0ccda59fdcd"
+    documentation="A ProductSpecification made available by a PartyRole."/>

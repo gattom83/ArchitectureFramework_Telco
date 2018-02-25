@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPaymentItem"
+    id="bb821b70-4974-4544-9080-0a38c7aadec6"
+    documentation="PaymentItem is the application of PartyPayment. PaymentItem is applied to PartyBill or AppliedPartyBillingRate."/>

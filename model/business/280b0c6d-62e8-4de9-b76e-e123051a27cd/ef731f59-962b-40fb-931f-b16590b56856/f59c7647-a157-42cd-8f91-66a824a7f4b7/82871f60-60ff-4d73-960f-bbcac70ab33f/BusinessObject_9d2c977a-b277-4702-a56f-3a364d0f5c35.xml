@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AssetProviderRole"
+    id="9d2c977a-b277-4702-a56f-3a364d0f5c35"
+    documentation="An AssetProviderRole is a BusinessInteractionRole a party (identified by a Community) plays when providing assets to a CommunityMember."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicDemographicCharacteristic"
+    id="d941022e-d88a-4569-91a9-999935e126ed"
+    documentation="A type of DemographicCharacteristic that does not have any subordinate DemographicCharacteristics, that is, an AtomicDemographicCharacteristic is a leaf-level DemographicCharacteristic."/>

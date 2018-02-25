@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buyer"
+    id="74c13f71-28bd-440b-9eca-2efd4f21edc3"
+    documentation="A PartyRole a Party plays, who imposed a Supplier to provide a deliverable by a formal Agreement (Commitment)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingRate"
+    id="ae890578-bf6a-4bc9-84e0-3b4babd8b20b"
+    documentation="A charge or a credit assigned to the party's account in the course or for the purpose of the billing process. Subclasses further define these elements."/>

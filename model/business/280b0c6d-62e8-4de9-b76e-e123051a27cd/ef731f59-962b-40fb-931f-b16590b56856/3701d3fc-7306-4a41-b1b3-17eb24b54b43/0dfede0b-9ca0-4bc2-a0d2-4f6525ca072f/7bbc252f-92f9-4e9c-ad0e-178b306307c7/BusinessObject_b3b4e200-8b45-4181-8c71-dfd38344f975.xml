@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageCharacteristicSum"
+    id="b3b4e200-8b45-4181-8c71-dfd38344f975"
+    documentation="A total of UsageCharacteristicValues for a Party."/>

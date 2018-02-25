@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentMethod"
+    id="1fab2a63-6c4c-4aed-b3b9-9f5013107bfb"
+    documentation="PaymentMethod is the way in which party provides payment, for example cash ,credit,transfer."/>

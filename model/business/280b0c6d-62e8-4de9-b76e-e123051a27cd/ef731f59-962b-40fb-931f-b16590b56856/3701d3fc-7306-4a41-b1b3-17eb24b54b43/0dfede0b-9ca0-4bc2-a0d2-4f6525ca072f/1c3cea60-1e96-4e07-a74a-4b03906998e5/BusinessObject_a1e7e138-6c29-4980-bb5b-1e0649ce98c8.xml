@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingDiscount"
+    id="a1e7e138-6c29-4980-bb5b-1e0649ce98c8"
+    documentation="&quot;AppliedPartyBillingDiscount&#xA;A reduction in the price of a Product that is applied to reduce the associated charge.&#xA;&#xA;&quot;"/>

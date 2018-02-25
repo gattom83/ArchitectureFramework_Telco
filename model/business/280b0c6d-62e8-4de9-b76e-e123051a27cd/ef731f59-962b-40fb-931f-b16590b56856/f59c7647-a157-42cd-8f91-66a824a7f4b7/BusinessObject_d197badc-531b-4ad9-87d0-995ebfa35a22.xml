@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Language"
+    id="d197badc-531b-4ad9-87d0-995ebfa35a22"
+    documentation="Represents a spoken and/or written language."/>

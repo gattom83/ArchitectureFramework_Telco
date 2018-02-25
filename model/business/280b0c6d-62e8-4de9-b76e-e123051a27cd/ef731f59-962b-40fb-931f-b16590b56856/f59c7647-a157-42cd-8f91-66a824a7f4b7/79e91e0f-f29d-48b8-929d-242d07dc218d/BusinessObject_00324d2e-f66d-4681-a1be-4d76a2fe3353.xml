@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicPartyProfileTypeCharacteristic"
+    id="00324d2e-f66d-4681-a1be-4d76a2fe3353"
+    documentation="A type of PartyProfileTypeCharacteristic that does not have any subordinate PartyProfileTypeCharacteristics, that is, an AtomicPartyProfileTypeCharacteristic is a leaf-level PartyProfileTypeCharacteristic."/>

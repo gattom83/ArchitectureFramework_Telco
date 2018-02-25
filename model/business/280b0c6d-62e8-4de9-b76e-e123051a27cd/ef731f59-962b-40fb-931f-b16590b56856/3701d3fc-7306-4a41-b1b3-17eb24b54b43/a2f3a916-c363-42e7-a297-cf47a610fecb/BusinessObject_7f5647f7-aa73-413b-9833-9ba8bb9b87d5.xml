@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartySettlementSpecVersion"
+    id="7f5647f7-aa73-413b-9833-9ba8bb9b87d5"
+    documentation="A particular form or variety of a PartySettlementSpecification that is different from others or from the original. The form represents differences in properties that characterize a PartySettlementSpecification, that are not enough to warrant creating a new PartySettlementSpecification. "/>

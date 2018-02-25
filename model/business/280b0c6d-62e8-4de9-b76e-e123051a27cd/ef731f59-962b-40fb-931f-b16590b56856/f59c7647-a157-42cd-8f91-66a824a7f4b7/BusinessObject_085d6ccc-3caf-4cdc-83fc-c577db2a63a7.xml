@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleCurrency"
+    id="085d6ccc-3caf-4cdc-83fc-c577db2a63a7"
+    documentation="Represents the currency that PartyRole may use."/>

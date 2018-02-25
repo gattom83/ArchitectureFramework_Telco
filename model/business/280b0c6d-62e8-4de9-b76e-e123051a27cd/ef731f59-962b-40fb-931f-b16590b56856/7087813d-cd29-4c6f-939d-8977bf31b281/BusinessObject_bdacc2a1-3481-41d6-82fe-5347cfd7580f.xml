@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingInquiry"
+    id="bdacc2a1-3481-41d6-82fe-5347cfd7580f"
+    documentation="A request for information about a statement of money owed by a party."/>

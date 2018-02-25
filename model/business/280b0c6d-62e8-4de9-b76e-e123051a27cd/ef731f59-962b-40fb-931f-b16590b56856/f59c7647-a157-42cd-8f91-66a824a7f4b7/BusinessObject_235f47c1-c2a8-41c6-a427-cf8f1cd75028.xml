@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization"
+    id="235f47c1-c2a8-41c6-a427-cf8f1cd75028"
+    documentation="A group of people identified by shared interests or purpose. Examples include business, department, enterprise.Because of the complex nature of many businesses, both organizations and organization units are represented by the same business entity in this model. An Organization is a type of Party"/>

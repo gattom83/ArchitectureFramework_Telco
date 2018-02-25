@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyProfileTypeCharValue"
+    id="1bd9f7d0-9ab8-41af-8e0b-937dc0d5b539"
+    documentation="&quot;A PartyPrivacyProfileTypeCharValue specifies a confuguration that can be chosen for an information in a Privacy context. &#xA;For example, the usage of an information might Authorized or Unauthorized. &#xA;&quot;"/>

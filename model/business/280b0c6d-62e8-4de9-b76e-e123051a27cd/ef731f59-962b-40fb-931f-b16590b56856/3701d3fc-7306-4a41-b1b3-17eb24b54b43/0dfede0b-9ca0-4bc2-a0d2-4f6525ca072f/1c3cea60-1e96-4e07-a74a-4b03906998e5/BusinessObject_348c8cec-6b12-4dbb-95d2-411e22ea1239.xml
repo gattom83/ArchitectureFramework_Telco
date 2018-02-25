@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyPenaltyCharge"
+    id="348c8cec-6b12-4dbb-95d2-411e22ea1239"
+    documentation="&quot;The AppliedPartyPenaltyCharge is a type of AppliedPartyBillingCharge. &#xA;It represents penalty charges such as late fees, payment rejection fees, interests, that could be applied, linked to dunning of a due amount, in order to bill the party according to contractual terms and conditions.&quot;"/>

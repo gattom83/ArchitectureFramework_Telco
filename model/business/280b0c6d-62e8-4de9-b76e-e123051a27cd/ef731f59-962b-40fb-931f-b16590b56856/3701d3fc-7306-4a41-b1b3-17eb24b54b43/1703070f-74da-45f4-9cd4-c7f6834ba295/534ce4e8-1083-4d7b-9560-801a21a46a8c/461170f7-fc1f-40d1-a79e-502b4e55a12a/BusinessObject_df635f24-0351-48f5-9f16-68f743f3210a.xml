@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BankCardPM"
+    id="df635f24-0351-48f5-9f16-68f743f3210a"
+    documentation="&quot;PaymentMethod used to pay with a bank card. &#xA; &#xA;&quot;"/>

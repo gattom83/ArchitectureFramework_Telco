@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyProfileType"
+    id="4808a175-5ac3-4bd1-b990-116a05575f51"
+    documentation="&quot;A PartyPrivacyProfileType is a type of PartyProfileType. &#xA;A PartyPrivacyProfileType specifies for a Party playing a type of PartyRole (PartyRoleSpecification) such as Customer or User and possibly restricted to a context such as a set of ProductOfferings, all the available options that the Party may choose for each information concerned by the Privacy. &#xA;A PartyPrivacyProfileType may specify Privacy for several information using PartyPrivacyProfileTypeCharacteristic.&quot;"/>

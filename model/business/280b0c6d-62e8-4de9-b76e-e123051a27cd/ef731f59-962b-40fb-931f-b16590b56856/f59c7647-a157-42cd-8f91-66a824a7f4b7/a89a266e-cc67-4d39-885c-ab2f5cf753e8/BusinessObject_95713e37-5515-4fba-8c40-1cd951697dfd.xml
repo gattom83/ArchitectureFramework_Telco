@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CurrencyUnitName"
+    id="95713e37-5515-4fba-8c40-1cd951697dfd"
+    documentation="Name of a currency unit. Under different languages, a currency unit has differnent names, e.g. Yuan in English and 元 in Chinese to express the same basic currency unit in Chinese currency."/>

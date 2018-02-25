@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleProductOffering"
+    id="5764437f-fae6-4773-81c7-a02133dafad3"
+    documentation="A ProductOffering made available by a PartyRole and the involvement the PartyRole has with the ProductOffering."/>

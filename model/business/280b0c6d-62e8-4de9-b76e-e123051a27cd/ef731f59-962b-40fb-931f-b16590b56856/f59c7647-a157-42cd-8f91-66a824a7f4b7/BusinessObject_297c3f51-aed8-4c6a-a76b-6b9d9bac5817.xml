@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party"
+    id="297c3f51-aed8-4c6a-a76b-6b9d9bac5817"
+    documentation="Represents an individual, organization or organization unit.Party is an abstract concept that should be used in places where the business says something can be an organization , organization unit or an individual"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ContributionReceiverRole"
+    id="8c4d2b5b-0201-46b7-91b0-310c06d33b4c"
+    documentation="A ContributioReceiverRole is a BusinessInteractionRole a party (identified by a Community) plays when receiving a contribution from a CommunityMember."/>

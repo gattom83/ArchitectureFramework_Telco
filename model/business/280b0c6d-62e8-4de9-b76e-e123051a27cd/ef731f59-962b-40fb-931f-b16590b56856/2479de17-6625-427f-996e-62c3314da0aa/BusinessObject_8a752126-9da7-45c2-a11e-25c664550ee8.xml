@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AgreementItem"
+    id="8a752126-9da7-45c2-a11e-25c664550ee8"
+    documentation="The purpose for an Agreement expressed in terms of a Product, Service, Resource, and/or their respective specifications, inherited from BusinessInteractionItem."/>

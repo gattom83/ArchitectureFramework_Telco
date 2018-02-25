@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingAllowance"
+    id="0477290c-2913-4be8-bafa-704931ae534c"
+    documentation="An applied amount, usually of money, deducted from the charge for a Product as a discount or in exchange for something. The applied amount could also be a number of free units, such as minutes, applied to usage."/>

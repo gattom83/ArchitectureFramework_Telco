@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TelephoneNumber"
+    id="4198d446-1313-4f70-9905-2c1d13568c9f"
+    documentation="A number and type of number assigned to a particular telephone and used in making connections to it."/>

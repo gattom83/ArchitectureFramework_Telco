@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyDemographicValue"
+    id="9c13afcd-6086-4713-8415-4c42aa29b357"
+    documentation="A value or text that further defines a Party Demographic, for example household income value of $100,000."/>

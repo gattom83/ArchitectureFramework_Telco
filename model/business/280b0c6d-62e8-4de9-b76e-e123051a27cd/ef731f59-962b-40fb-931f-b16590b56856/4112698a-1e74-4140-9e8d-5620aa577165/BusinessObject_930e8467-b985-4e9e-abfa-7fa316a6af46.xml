@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyCreditProfileReference"
+    id="930e8467-b985-4e9e-abfa-7fa316a6af46"
+    documentation="A source of information that helps define a Party's credit worthiness."/>

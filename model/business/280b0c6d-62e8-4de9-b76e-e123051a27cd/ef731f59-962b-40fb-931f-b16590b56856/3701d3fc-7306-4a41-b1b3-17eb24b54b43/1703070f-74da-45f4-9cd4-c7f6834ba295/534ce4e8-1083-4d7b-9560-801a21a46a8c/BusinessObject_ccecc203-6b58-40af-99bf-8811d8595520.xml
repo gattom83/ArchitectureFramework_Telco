@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ThirdPartyPaymentAgency"
+    id="ccecc203-6b58-40af-99bf-8811d8595520"
+    documentation="ThirdPartyPayeeAgency is a third party between SP and party. This agency takes a role of receiving payment for SP from SP's party."/>

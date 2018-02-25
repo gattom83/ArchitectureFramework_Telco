@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Payment ABE"
+    id="534ce4e8-1083-4d7b-9560-801a21a46a8c"
+    documentation="The Party Payment ABE contains all Entities required to describe a payment such as PaymentMethod and BankAccount."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartySettlementRole"
+    id="433ce530-3418-4e01-829f-a0c43819a82f"
+    documentation="PartySettlementRole captures all the roles that are included like settlement payment responsible and for example, the role of parties responsible for a) calculating or b) forwarding settlements, etc."/>

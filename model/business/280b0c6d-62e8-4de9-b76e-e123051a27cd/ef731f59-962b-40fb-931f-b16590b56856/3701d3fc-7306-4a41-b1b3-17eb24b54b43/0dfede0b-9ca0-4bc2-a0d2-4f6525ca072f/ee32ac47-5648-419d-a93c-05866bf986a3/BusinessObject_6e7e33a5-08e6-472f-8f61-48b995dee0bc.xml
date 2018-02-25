@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyDiscount"
+    id="6e7e33a5-08e6-472f-8f61-48b995dee0bc"
+    documentation="A reduction to a PartyBill that can be used by a PartyAccount. An example of discount is $100 off granted by DiscountProdPriceAlteration. While party is using the service the available discount is gradually reduced.v"/>

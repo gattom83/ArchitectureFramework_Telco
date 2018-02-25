@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyDisputedAmount"
+    id="92596b5f-dd81-4c16-8ad2-21344d93678b"
+    documentation="&quot;PartyDisputedAmount is a type of DisputedAmount which represents an amount of money in dispute between the enterprise and one of its partys &#xA;&quot;"/>

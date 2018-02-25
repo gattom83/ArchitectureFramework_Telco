@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingCreditBalance"
+    id="08fdc9dd-abd1-470c-bbc6-89db4812da3d"
+    documentation="A remaining or outstanding credit for a PartyAccount."/>

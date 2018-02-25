@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PlacePartyRoleAssoc"
+    id="e79b2b9b-ac7a-459f-b8c2-f912703040e8"
+    documentation="This is an example of an association linking Place to another part of the SID model."/>

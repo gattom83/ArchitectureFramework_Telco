@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrganizationPost"
+    id="db2096b6-055c-49f4-aad9-75e2eb0d1e91"
+    documentation="An OrganizationPost is a PartyRole that is used to model where a one or more employees share a function."/>

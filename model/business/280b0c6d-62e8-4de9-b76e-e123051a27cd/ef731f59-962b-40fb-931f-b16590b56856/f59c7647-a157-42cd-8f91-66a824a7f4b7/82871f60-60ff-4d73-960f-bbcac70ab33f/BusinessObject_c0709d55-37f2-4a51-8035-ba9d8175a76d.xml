@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AssetConsumption"
+    id="c0709d55-37f2-4a51-8035-ba9d8175a76d"
+    documentation="An AssetConsumption is a BusinessInteraction, containing  items, associated to a Product, that is consumed from a Community as an Asset, by a CommunityMember."/>

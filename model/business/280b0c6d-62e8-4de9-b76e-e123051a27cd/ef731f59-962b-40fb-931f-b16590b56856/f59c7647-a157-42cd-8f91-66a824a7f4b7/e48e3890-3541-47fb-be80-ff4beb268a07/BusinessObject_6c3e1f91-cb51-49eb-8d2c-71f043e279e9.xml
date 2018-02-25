@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FaxNumber"
+    id="6c3e1f91-cb51-49eb-8d2c-71f043e279e9"
+    documentation="A number used to communicate information with a printer or other output device."/>

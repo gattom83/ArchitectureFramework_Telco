@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChurnRetentionStatistic"
+    id="95be65e2-7ca4-49f6-b50f-1c02a0d05254"
+    documentation="A meaure of Party churn (turnover of Partys) or Party retention (keeping Partys)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillPresentationMedia"
+    id="b9c0e57c-fae4-4c1c-9819-fc29f5f48806"
+    documentation="A means of communicating a PartyBill, supported by the associated bill format. For example, post mail, email, web page."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement"
+    id="9ae72193-77e0-496a-ad02-40bcb087e4da"
+    documentation="A type of BusinessInteraction that represents a contract or arrangement, either written or verbal and sometimes enforceable by law."/>

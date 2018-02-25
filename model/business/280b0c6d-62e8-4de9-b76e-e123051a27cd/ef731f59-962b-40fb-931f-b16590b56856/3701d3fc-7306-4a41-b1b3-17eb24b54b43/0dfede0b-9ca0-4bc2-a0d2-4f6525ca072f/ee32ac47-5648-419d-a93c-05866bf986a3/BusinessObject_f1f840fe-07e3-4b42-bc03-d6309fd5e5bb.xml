@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyAllowanceBalance"
+    id="f1f840fe-07e3-4b42-bc03-d6309fd5e5bb"
+    documentation="A balance of available party allowance, that is typically money deducted from the selling price of a Product a service provider as a discount or in exchange for something."/>

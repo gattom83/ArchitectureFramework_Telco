@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRole"
+    id="291148f8-c679-42b1-824d-1fdd4c9825f1"
+    documentation="The part played by a party in a given context with any characteristics, such as expected pattern of behavior, attributes, and/or associations that it entails.PartyRole is an abstract concept that should be used in places where the business refers to a Party playing a Role"/>

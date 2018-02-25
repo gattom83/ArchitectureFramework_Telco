@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentMethodSpecification"
+    id="511e9cfb-1946-4c9d-b7ca-49c77985f5e9"
+    documentation="A PaymentMethodSpecification defines characteristics that mighnt be used to describe a PaymentMethod."/>

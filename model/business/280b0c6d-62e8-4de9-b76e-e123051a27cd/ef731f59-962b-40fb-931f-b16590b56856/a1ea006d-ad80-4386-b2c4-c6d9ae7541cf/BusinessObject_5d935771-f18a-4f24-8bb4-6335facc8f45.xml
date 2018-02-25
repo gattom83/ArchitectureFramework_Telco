@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DirectoryServiceRequest"
+    id="5d935771-f18a-4f24-8bb4-6335facc8f45"
+    documentation="A Directory Service Requests contains the administrative, billing, contact details and listing or directory delivery information for a directory service. The Ordering and Billing Forum (OBF) defines and publishes directory service ordering guidelines."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBill"
+    id="e7222dda-6593-4406-8e57-fbf7ec6a6974"
+    documentation="A total amount due from a PartyAccount for all products during the billing period."/>

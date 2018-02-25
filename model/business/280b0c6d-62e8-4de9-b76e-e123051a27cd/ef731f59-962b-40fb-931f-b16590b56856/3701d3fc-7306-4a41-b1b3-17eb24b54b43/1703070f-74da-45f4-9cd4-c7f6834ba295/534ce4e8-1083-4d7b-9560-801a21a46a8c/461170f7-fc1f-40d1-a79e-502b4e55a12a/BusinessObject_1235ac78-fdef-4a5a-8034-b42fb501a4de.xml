@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CreditCardPM"
+    id="1235ac78-fdef-4a5a-8034-b42fb501a4de"
+    documentation="CreditCardPM is an example of payment method, using which payment can be made by credit card."/>

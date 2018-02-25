@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyBurnPM"
+    id="99f32ff4-dd86-4dbe-9c85-2b09c9ffe6b3"
+    documentation="A payment method that uses loyalty points to make a payment."/>

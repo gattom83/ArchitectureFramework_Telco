@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingProductChargeSumSpec"
+    id="690e6a47-9982-4274-84ec-95bda6f63942"
+    documentation="A detailed description of the aggregation of all PartyAccount charges applied to a Product."/>

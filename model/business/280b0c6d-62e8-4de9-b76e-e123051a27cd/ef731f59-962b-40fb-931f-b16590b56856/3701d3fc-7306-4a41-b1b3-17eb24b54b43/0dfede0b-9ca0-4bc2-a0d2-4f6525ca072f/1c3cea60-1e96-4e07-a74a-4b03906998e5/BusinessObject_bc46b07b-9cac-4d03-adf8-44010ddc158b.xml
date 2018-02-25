@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedPartyBillingRateSpec"
+    id="bc46b07b-9cac-4d03-adf8-44010ddc158b"
+    documentation="A detailed description of AppliedPartyBillingRate entity. This business entity holds the definition of all the characteristics (variant attributes) of AppliedPartyBillingRate"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartySettlementPayment"
+    id="3367bbaa-7131-4259-99a4-0330df3d8967"
+    documentation="A PartyPayment applied to a PartySettlement."/>

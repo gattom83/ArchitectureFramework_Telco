@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyProfileCharValue"
+    id="971c131e-ab1b-4a00-83ce-7ac33a99c237"
+    documentation="Each PartyPrivacyProfileCharValue instantiates a PartyPrivacyProfileTypeCharValue and specifies the chosen value."/>

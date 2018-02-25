@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProfileTypeCharacteristicValue"
+    id="622a1054-057c-45a5-9626-7f763b431c60"
+    documentation="A single value or range of values that can be used to define a PartyProfileTypeCharacteristic."/>

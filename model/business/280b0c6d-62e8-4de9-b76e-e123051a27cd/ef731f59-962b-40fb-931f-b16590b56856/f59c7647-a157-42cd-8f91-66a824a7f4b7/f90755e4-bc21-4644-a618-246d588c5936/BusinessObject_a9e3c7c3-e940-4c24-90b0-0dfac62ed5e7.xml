@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicPartyDemographic"
+    id="a9e3c7c3-e940-4c24-90b0-0dfac62ed5e7"
+    documentation="A type of PartyDemographic that does not have any subordinate PartyDemographics, that is, an AtomicPartyDemographic is a leaf-level PartyDemographic."/>

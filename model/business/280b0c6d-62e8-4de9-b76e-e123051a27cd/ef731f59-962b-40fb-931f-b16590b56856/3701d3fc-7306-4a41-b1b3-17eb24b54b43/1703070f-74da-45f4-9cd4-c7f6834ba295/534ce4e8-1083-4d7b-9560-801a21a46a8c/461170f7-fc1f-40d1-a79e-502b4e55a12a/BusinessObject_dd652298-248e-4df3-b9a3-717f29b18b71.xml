@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CashPM"
+    id="dd652298-248e-4df3-b9a3-717f29b18b71"
+    documentation="CashPM is an example of payment method, through which payment can be made by cash."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ThirdPartyCollectionPM"
+    id="1a4de2e0-91c9-4386-b609-70d423908d60"
+    documentation="ThirdPartyCollectionPM is an example of payment method, using which payment can be made through the third party,such as bank transfer, payment tool(like PayPal, Alipay)."/>

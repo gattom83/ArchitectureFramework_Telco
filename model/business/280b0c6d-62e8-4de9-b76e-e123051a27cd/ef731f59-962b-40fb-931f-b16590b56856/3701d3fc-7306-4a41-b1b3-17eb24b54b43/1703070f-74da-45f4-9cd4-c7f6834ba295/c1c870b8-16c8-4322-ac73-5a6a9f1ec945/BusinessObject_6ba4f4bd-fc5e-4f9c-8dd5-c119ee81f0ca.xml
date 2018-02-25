@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningScenario"
+    id="6ba4f4bd-fc5e-4f9c-8dd5-c119ee81f0ca"
+    documentation="&quot;A dunning scenario describes the company’s dunning strategy. It must be easily configurable to describe the dunning rules to apply to a case, the order in which applying them, the events that trigger dunning rules evaluation, the actions that must be done… &#xA;If a DunningScenario is assigned to a PartyAcount, the DunningCase will follow this DunningScenario in case of debt; else it will follow a default DunningScenario. &#xA;DunningScenario is assigned to a PartyAccount, depending on the Holder quality.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostalContact"
+    id="eff8b57b-5a40-42f4-b813-d8beb48357b0"
+    documentation="An address where a mail can be addressed to a person or organization."/>

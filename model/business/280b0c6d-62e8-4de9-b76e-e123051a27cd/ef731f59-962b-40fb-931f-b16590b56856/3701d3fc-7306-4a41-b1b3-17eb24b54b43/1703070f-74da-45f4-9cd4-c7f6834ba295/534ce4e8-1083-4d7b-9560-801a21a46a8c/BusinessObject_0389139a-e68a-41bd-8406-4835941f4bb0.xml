@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaymentPlan"
+    id="0389139a-e68a-41bd-8406-4835941f4bb0"
+    documentation="PaymentPlan defines the plan for payment via its associations to the PaymentMethod and PaymentAccount."/>

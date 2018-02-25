@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DemoCharacteristicValue"
+    id="dde8553a-4053-44e4-bb3d-6a1892d76144"
+    documentation="A single value or range of values that can be used to define a DemographicCharacteristic."/>

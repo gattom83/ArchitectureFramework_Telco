@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyPrivacyProfile"
+    id="b1a1a618-2b6b-4a83-a648-137c3cfdf0c1"
+    documentation="&quot;A PartyPrivacyProfile corresponds of the instantiation of a PartyPrivacyProfileType agreed by a PartyRole. &#xA;The PartyPrivacyProfile is described by the Privacy choices made by the Party (related PartyPrivacyProfileCharValue).&quot;"/>

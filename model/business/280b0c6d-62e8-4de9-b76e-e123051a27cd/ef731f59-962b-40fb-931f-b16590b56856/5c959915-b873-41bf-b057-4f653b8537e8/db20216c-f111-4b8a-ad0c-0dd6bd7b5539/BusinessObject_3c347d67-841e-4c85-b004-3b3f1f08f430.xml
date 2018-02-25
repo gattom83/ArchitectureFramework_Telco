@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PrivacyUsagePurpose"
+    id="3c347d67-841e-4c85-b004-3b3f1f08f430"
+    documentation="A PrivacyUsagePurpose corresponds to a type of usage of an information concerned by Privacy such as Administration, Marketing, Research, Information,..."/>

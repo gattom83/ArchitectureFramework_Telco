@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartySettlementSpecRelationship"
+    id="66070cd5-d3e2-4504-83e3-fd195415ea66"
+    documentation="A significant connection between two PartySettlementSpecifications such as migration, substitution, dependency, exclusivity."/>

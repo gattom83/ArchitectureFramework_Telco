@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyProblemTask"
+    id="5d7447c6-f165-40ba-bca7-360474241e1b"
+    documentation="a trackable task delegated from the PartyProblem with a specified due date"/>

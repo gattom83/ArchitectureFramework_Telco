@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleCategory"
+    id="94056421-82d9-472b-b383-32c09982e5a2"
+    documentation="This is an entity that can be used to provide simple grouping or categorization of PartyRoles. In some cases this is done in a more specific manner (e.g. Customer demographics)."/>

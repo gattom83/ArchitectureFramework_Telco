@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommunityMember"
+    id="5c1da709-e347-4e20-a5bd-17f5861817e0"
+    documentation="A CommunityMember is a PartyRole, played by an Individual, who is committing to a Community, contributes to it and consumed Assets from the Community."/>

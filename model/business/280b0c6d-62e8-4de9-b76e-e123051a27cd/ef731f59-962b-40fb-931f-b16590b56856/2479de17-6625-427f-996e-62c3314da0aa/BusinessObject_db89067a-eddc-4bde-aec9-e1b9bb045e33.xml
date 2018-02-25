@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AgreementTermOrCondition"
+    id="db89067a-eddc-4bde-aec9-e1b9bb045e33"
+    documentation="Aspects of the Agreement not formally specified elsewhere in the Agreement and that cannot be captured elsewhere in a formal notation, or automatically monitored and require a more human level of management."/>

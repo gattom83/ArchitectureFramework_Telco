@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FunctionOrProcessProvider"
+    id="87ab1afd-b684-4f0f-ab13-a5d03e0e8175"
+    documentation="A type of ValueNetworkRole that provides functions or processes."/>

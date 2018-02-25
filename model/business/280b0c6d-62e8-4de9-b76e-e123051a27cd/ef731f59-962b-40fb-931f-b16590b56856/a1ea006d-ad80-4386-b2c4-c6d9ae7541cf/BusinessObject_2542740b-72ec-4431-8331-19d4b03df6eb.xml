@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AccessServiceRequest"
+    id="2542740b-72ec-4431-8331-19d4b03df6eb"
+    documentation="Access Service Requests are industry template requests to initiate or change access services submitted by an Access Party to an Access Provider. Access services include service and facilities provided for the origination or termination of InterLATA or foreign telecommunications. The Access Service Request provides a uniform means of requesting service. Each request contains entries required for ordering of the particular service and for the establishment of billing of the appropriate party account. The request is either for special access or switched access services as specified in the various Access Service Tariffs. The Access Service Request is also the mechanism for ordering local interconnection trunks. The Ordering and Billing Forum (OBF) defines and publishes access ordering guidelines."/>

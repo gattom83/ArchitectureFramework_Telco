@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyInquiry"
+    id="41192ed5-929d-4618-9ae4-15a41e6b2c0e"
+    documentation="A request for information from a Party."/>
