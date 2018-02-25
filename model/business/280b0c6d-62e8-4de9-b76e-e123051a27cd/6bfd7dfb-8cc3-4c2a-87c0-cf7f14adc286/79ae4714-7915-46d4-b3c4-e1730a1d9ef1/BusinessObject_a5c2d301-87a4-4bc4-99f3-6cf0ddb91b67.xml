@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RecurrenceTemporalExpression"
+    id="a5c2d301-87a4-4bc4-99f3-6cf0ddb91b67"
+    documentation="This is a placeholder entity that would likely be implemented using a rule or policy engine. Refer to [iCalendar] for an example implementation via recurrence and exception Rules."/>

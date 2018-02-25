@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LineString"
+    id="63c645c5-78be-4250-8c73-5509b520b5f4"
+    documentation="A set of coordinate points and the lines that join them."/>

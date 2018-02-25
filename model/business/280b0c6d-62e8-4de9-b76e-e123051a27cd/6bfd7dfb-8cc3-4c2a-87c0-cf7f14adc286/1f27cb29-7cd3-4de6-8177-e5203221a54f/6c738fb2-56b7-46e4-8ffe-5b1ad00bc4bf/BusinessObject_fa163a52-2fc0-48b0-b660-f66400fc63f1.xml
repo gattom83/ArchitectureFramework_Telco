@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalGridCoordinateSystem"
+    id="fa163a52-2fc0-48b0-b660-f66400fc63f1"
+    documentation="A coordinate system for LocalLocations that are defined using Grid coordinates"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntityRole"
+    id="03628f24-bd2d-42d6-9370-aacaceefddf7"
+    documentation="This is an abstract base class that defines the concept of various types of roles for entities that are used to describe ManagedEntities in the DEN-ng model."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementRelationship"
+    id="a7dc5aa0-a467-4ef2-8a20-894e7a046cf9"
+    documentation="Allows us to relate ProjectElements. This is an abstract entity used to hold common attributes and associations for the concrete relationship types Substitution, Division, Fusion &amp; Dependency"/>

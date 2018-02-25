@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ActivityStatus"
+    id="6886d685-277d-460e-aa73-fd86782893a5"
+    documentation="The lifecycle flag for the Activity Possible statuses are Proposed, Implemented, Completed, Abandoned and Suspended."/>

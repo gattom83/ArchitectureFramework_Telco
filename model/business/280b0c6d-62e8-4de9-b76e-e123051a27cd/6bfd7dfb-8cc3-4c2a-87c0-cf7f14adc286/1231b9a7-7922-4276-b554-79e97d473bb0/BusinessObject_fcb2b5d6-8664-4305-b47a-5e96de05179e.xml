@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpecificationRole"
+    id="fcb2b5d6-8664-4305-b47a-5e96de05179e"
+    documentation="This is the abstract base class for all RoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the DEN-ng core model. This helps prevent relationship explosion."/>

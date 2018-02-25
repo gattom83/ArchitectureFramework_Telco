@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicySet"
+    id="07258355-b604-4774-baeb-234761347ffa"
+    documentation="&quot;This is an abstract class for defining two types of collection classes. PolicyRule collects PolicyEvents, PolicyConditions, and PolicyActions, while PolicyGroup collects PolicyRules and PolicyGroups.&#xA;&#xA;Two important and powerful features of this arrangement are that a PolicySet defines a common decision strategy and a common set of PolicyRoles to be used by the PolicyGroups and the PolicyRules that inherit from it.&#xA;&quot;"/>

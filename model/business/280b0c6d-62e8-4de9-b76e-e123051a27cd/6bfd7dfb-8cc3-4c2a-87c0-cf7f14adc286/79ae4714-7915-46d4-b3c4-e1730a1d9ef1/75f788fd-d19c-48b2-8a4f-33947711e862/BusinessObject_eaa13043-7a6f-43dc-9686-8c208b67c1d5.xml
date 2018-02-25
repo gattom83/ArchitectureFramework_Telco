@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MonthlyScheduleDayofMonthDefinition"
+    id="eaa13043-7a6f-43dc-9686-8c208b67c1d5"
+    documentation="The monthly schedule by days of month is used to define a schedule that is based on specifying which days of month are requited, e.g. the10th, 20th, 30th of each month."/>

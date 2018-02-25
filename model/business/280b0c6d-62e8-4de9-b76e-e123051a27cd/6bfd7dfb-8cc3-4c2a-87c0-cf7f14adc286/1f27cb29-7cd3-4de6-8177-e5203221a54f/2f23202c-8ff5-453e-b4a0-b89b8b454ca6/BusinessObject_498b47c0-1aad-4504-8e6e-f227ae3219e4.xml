@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicSiteRole"
+    id="498b47c0-1aad-4504-8e6e-f227ae3219e4"
+    documentation="The part played by a Site in a given context with any characteristics, such as expected pattern of behavior, attributes, and/or associations that it entails."/>

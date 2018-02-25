@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StreetSegment"
+    id="16b77544-0814-4c7d-99a8-4d5801b51ec5"
+    documentation="Each of the parts into which Street is or may be divided."/>

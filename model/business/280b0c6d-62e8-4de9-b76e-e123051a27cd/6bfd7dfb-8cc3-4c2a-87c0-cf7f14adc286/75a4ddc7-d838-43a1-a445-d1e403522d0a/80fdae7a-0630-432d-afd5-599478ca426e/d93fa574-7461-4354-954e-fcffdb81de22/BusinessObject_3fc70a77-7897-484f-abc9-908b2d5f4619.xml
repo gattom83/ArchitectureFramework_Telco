@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPToSVariable"
+    id="3fc70a77-7897-484f-abc9-908b2d5f4619"
+    documentation="This class represents using the value of the IP ToS byte as part of a condition expression. Thus, only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigSpecConstraintMember"
+    id="3f6dba3a-4fa2-4268-b407-d7e338ed84b6"
+    documentation="An element of a rule defined by a EntitySpecValueUse used to determine a where a ConfigurationSpecification should be used to configure a Product, Service, or Resource."/>

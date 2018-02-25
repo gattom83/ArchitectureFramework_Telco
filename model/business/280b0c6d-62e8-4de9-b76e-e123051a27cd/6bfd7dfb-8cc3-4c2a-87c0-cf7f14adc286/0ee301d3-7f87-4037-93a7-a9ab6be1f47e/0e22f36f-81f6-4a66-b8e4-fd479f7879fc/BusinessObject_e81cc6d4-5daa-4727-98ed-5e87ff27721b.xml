@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommonObjectInfo"
+    id="e81cc6d4-5daa-4727-98ed-5e87ff27721b"
+    documentation="This object class defines the common attributes for all addressable object classes used in the MTOSI/MTNM interface. This class should “merge up” into its parent class. There is currently no merge-up stereotype to direct the implementation so the class has not been decorated."/>

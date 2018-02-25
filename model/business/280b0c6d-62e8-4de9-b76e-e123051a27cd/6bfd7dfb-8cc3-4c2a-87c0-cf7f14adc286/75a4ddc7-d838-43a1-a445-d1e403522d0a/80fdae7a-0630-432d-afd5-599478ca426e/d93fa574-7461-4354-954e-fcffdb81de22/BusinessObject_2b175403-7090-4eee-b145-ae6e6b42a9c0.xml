@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConditionVendor"
+    id="2b175403-7090-4eee-b145-ae6e6b42a9c0"
+    documentation="&quot;This is a concrete base class that provides a general extension mechanism for representing PolicyConditions that have not been modeled with the attributes specified in this model. This class uses two of its properties (constraintData and constraintEncoding) for defining the content and format of a vendor-specific condition. Its other two attributes are used to describe the type of condition that this represents, and to provide a standard definition of a TRUE or FALSE response. This latter enables this object to interoperate with other PolicyVariableStandard objects as part of a PolicyConditon clause.&#xA;&#xA;Standardized extensions are not expected to use this class.&#xA;&quot;"/>

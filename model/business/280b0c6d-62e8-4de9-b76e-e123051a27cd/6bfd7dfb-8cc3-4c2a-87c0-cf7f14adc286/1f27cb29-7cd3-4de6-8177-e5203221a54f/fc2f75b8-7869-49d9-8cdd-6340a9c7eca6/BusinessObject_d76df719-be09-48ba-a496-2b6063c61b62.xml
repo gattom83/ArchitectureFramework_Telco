@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiCurve"
+    id="d76df719-be09-48ba-a496-2b6063c61b62"
+    documentation="A geometry collection composed of Curve elements."/>

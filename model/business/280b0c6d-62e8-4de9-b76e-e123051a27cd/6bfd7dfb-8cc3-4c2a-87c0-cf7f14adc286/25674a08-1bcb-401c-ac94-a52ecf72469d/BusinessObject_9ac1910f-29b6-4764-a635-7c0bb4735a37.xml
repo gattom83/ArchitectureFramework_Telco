@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CatalogSpecification"
+    id="9ac1910f-29b6-4764-a635-7c0bb4735a37"
+    documentation="A CatalogSpecification can be associated or related to another CatalogSpecification. This relationship entity is defined for this purpose."/>

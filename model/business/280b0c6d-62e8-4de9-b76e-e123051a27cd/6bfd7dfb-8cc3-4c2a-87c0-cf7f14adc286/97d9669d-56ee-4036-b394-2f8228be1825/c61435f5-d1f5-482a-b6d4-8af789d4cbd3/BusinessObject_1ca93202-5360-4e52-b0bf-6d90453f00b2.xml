@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementSubstitution"
+    id="1ca93202-5360-4e52-b0bf-6d90453f00b2"
+    documentation="Is a type of ProjectElement relationship where one ProjectElement is succeeded by another ProjectElement."/>

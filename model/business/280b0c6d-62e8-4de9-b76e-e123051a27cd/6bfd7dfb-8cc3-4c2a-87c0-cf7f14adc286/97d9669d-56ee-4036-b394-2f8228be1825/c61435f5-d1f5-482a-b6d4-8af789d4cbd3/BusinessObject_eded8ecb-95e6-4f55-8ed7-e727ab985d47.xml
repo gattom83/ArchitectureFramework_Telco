@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElement"
+    id="eded8ecb-95e6-4f55-8ed7-e727ab985d47"
+    documentation="This is an abstract entity used to hold the attributes and associations common to Project, WBS Element and Activity."/>

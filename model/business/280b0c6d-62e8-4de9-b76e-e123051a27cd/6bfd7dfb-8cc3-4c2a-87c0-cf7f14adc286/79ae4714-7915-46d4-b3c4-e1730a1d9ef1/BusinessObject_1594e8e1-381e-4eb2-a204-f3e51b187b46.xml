@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarEvent"
+    id="1594e8e1-381e-4eb2-a204-f3e51b187b46"
+    documentation="&quot;&quot;&quot;represents a scheduled amount of time on a calendar. For example, it can be an activity; such as a one-hour long, department meeting from 8:00 AM to 9:00 AM, tomorrow. Generally, an event will take up time on an individual calendar.&quot;&quot; [iCalendar]&#xA;&quot;"/>

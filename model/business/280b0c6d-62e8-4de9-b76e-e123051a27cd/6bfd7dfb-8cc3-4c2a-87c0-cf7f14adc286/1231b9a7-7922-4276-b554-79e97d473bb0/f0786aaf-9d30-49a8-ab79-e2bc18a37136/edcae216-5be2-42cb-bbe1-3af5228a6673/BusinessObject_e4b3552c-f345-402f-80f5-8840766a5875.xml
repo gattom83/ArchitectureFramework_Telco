@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharacteristicPriceDependency"
+    id="e4b3552c-f345-402f-80f5-8840766a5875"
+    documentation="A group of EntitySpecValueUse entities that are used to deterimine a ComponentProdOfferPrice."/>

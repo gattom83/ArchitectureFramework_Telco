@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectDeliverable"
+    id="49079ecf-36e8-4f8d-b89a-8d4c802ddff4"
+    documentation="A ProjectDeliverable is the agreed output of a project. A ProjectDeliverable enables Service-, Ressource- and ProductSpecifications or ProductOfferings."/>

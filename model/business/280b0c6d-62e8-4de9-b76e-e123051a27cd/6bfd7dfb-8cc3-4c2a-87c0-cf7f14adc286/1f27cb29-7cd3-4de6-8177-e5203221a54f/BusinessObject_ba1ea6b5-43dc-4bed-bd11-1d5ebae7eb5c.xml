@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AddressContactMediumRole"
+    id="ba1ea6b5-43dc-4bed-bd11-1d5ebae7eb5c"
+    documentation="A ContactMedium, such as a telephone number or fax number, associated with an address."/>

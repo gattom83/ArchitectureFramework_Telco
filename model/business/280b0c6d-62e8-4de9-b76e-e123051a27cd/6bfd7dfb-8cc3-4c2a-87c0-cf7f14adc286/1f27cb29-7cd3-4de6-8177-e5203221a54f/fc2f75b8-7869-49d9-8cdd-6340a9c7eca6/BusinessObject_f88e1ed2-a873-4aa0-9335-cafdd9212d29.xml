@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiLineString"
+    id="f88e1ed2-a873-4aa0-9335-cafdd9212d29"
+    documentation="A representation of multiple LineStrings."/>

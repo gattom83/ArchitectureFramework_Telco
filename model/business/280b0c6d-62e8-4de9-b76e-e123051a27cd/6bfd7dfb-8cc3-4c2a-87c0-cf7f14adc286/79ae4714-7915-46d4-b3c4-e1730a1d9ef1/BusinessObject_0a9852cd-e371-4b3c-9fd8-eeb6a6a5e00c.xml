@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AbsoluteCalendarAlarm"
+    id="0a9852cd-e371-4b3c-9fd8-eeb6a6a5e00c"
+    documentation="A Calendar Alarm that is triggered at an absolute time."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIndicatorRelationship"
+    id="76369bd5-4a4f-4152-bad3-28b40112c1d5"
+    documentation="An association between two PerformanceIndicators, such as one indicator derived from another."/>

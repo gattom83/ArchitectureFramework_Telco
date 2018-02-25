@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectScope"
+    id="a76f04f3-1e11-433b-ac25-df8cee2766ff"
+    documentation="The ProjectScope defines the &quot;functional area&quot; impacted by a project that can be expressed by eTOM process elements, SID entities and/or TAM application which might be effected by the project. In a multi-project environment (or a program) the scopes of those projects might be structured in a (composite) hierarchy."/>

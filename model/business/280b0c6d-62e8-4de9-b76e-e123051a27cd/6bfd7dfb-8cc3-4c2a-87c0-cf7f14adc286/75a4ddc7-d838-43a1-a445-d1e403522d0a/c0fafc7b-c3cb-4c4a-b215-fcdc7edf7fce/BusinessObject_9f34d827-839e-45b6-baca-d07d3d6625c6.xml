@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionSpec"
+    id="9f34d827-839e-45b6-baca-d07d3d6625c6"
+    documentation="This is a concrete base class that is used to define the invariant characteristics (attributes, methods, constraints and relationships) of a PolicyAction entity."/>

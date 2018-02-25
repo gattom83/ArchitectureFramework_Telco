@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleLocalAddress"
+    id="c88ee2b0-d70f-43e5-8f0f-c7f395468e34"
+    documentation="The lowest level, or atomic, LocalAddress. It may exist alone or be part of a CompoundLocalAddress."/>

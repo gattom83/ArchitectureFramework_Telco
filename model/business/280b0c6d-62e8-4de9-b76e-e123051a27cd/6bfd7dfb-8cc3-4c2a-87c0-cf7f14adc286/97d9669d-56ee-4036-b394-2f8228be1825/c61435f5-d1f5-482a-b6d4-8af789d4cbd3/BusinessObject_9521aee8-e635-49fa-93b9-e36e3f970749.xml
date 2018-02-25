@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementDivision"
+    id="9521aee8-e635-49fa-93b9-e36e3f970749"
+    documentation="Is a type of ProjectElement relationship where one ProjectElement is succeeded by more than one ProjectElement. (i.e. the Element is split into many new Elements)"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigSpecCharUse"
+    id="50eaf519-c436-46ab-8e75-a83b127da4f0"
+    documentation="A type of EntitySpecCharUse that is used to assign a value to an explicitly modeled attribute of an entity. For example, assigning a value to supportedConnectionRates for a ConnectionTerminationPoint."/>

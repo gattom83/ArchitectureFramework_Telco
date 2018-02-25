@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AmericanPropertyAddress"
+    id="21e73c20-8cc9-4caa-9c95-34f61d11035c"
+    documentation="&quot;A type of urban property address that represents an American address. &#xA; &#xA;Note: This is an example entity.&quot;"/>

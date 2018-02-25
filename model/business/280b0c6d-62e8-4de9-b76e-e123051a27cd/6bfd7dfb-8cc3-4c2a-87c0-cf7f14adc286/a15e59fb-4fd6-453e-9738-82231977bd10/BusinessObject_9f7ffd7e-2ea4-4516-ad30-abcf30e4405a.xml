@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage"
+    id="9f7ffd7e-2ea4-4516-ad30-abcf30e4405a"
+    documentation="An occurrence of employing a Product, Service, or Resource for its intended purpose, which is of a billing system's interest and can have charges applied to it. It is comprised of characteristics, which represent attributes of usage."/>

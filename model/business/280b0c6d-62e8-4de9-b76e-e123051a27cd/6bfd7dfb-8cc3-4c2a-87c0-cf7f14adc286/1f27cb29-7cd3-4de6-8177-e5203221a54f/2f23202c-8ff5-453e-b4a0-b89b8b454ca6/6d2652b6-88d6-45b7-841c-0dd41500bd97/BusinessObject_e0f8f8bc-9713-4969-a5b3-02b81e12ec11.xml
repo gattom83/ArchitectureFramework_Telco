@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UrbanPropertySubAddress"
+    id="e0f8f8bc-9713-4969-a5b3-02b81e12ec11"
+    documentation="An UrbanPropertySubAddress is used for addressing within a property in an urban area (country properties are often defined differently).. It may refer to a building, a building cluster, or a floor of a multistory building.This is an example of a concrete Geographic Location entity."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarAlarm"
+    id="fb0eee14-c66e-4661-a93c-c6c2ce76c118"
+    documentation="&quot;Is &quot;&quot;a reminder or alarm for an event or a to-do. For example, it may be used to define a reminder for a pending event or an overdue to-do.&quot;&quot; [iCalendar]&#xA;&quot;"/>

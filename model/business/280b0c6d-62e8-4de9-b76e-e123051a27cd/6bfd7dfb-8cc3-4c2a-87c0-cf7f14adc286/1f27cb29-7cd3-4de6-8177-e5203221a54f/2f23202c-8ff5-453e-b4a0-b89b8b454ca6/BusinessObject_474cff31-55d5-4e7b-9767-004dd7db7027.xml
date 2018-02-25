@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicLocationRelationship"
+    id="474cff31-55d5-4e7b-9767-004dd7db7027"
+    documentation="This association allows us to show direct relationships between Geographic Locations.This should be used with care to ensure that the association reflects reality"/>

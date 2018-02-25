@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarEntry"
+    id="ec437221-14d6-42d0-967d-a6baff8c7f07"
+    documentation="An entry in a calendar. This is an abstract entity."/>

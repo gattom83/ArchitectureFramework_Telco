@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection"
+    id="5c4e58f2-e9c8-4ffc-9956-675eca2bc330"
+    documentation="This is an abstract base class for objects that represent collections of ManagedEntity objects. This enables common attributes, methods, relationships and other semantics to be applied to different types of Collections of ManagedEntity objects. These can then be refined in the subclasses of Collection."/>

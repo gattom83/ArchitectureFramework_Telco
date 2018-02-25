@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarActionEntry"
+    id="8ff144a1-50e7-41d4-aab1-0b5045ba3e5e"
+    documentation="This is an abstract entity that contains common properties and associationsfor CalendarEvents &amp; ToDos"/>

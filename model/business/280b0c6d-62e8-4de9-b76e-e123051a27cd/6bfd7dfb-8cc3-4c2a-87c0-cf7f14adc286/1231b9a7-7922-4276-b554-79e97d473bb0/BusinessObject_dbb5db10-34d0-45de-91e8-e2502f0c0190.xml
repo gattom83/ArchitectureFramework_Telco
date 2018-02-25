@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedEntity"
+    id="dbb5db10-34d0-45de-91e8-e2502f0c0190"
+    documentation="&quot;This is an abstract base class that is used to represent entities in a managed environment that have the following semantics in common: (1) a ManagedBusinessEntity owns or is otherwise responsible for them, (2) management of the entity is critical for providing a service and/or maintaining the environment, and (3) the entity is &quot;&quot;important&quot;&quot; from a management point-of-view. As such, it is a point at which semantically important relationships can be created; this avoids duplicating these relationships on multiple subclasses as well as forcing ManagedObject to support these relationships.&#xA;&quot;"/>

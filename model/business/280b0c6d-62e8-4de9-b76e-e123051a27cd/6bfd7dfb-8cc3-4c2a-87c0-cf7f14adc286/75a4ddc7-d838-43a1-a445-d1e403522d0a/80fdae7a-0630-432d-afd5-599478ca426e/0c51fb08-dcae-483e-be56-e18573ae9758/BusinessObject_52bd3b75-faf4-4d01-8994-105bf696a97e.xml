@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ContainedPolicyActionDetails"
+    id="52bd3b75-faf4-4d01-8994-105bf696a97e"
+    documentation="&quot;This is a class that implements the semantics needed for the containedPolicyActions aggregation.This aggregation is used for two distinct purposes. First, it is used to gather together discrete PolicyActions to form a PolicyAction clause. In this usage, the set of individual PolicyActionAtomic objects are aggregated by a PolicyActionComposite object.&#xA;&#xA;The second use is to form compound PolicyActions. In this case, the PolicyActionAtomic object aggregates PolicyActionAtomic and/or PolicyActionComposite objects. The former provides a simple nested PolicyAction, while the latter provides structure for grouping the sub-actions that are dependent on a higher-level action.&#xA;&quot;"/>

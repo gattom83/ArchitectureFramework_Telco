@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PlacePhysicalResourceAssoc"
+    id="406d8d87-dc77-4bee-9924-71be43457543"
+    documentation="The association between a PhysicalResource and a Place (Location)."/>

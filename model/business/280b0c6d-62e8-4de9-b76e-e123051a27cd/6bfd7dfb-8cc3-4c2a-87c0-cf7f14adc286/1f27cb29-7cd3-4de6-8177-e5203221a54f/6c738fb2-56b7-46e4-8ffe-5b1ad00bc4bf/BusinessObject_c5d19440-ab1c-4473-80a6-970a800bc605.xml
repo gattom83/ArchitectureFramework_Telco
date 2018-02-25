@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BTInternalAddress"
+    id="c5d19440-ab1c-4473-80a6-970a800bc605"
+    documentation="This is an example entity for a BT (British Telecom) type of Local Address."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformancePointCode"
+    id="d4483a6d-7109-4637-b96d-f0828ad91d20"
+    documentation="A Performance-related extension to a Point Code, which represents ISUP Signaling OPC and DPC attributes that map to Region, Subregion, Node Type, and Node Name."/>

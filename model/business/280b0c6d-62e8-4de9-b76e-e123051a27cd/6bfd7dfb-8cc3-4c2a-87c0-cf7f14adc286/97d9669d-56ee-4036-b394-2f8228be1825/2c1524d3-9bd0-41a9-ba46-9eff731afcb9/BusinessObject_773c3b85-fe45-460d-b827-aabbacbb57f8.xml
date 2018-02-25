@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectResourceSpec"
+    id="773c3b85-fe45-460d-b827-aabbacbb57f8"
+    documentation="&quot;Costing Module&#xA;&#xA;Could be simple cost blocks, parameterised costing blocks (template) or rule engine based&#xA;&#xA;direct + indirect costs&#xA;&quot;"/>

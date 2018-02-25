@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WeeklyScheduleDefinition"
+    id="c87f8177-68d9-4add-a92d-f98f752a5a81"
+    documentation="The weekly schedule is used to define a schedule that is based on the days of the week, e.g. a schedule that will be active only on Monday, Tuesday."/>

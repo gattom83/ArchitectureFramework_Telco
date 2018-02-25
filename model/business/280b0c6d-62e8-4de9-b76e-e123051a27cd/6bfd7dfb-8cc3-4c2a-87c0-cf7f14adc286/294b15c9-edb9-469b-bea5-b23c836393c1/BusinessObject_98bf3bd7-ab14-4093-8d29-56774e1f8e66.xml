@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrackingRecord"
+    id="98bf3bd7-ab14-4093-8d29-56774e1f8e66"
+    documentation="&quot;Tracking records allow the tracking of modifications on the Problem. &#xA;The tracking records should not be embedded in the problem to allow retrieving the problem without the tracking records. &#xA;&quot;"/>

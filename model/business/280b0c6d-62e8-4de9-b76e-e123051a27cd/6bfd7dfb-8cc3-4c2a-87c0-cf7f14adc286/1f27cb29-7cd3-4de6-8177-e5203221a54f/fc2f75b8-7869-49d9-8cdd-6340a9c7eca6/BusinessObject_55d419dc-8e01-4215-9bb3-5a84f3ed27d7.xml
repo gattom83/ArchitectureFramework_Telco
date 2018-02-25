@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiSurface"
+    id="55d419dc-8e01-4215-9bb3-5a84f3ed27d7"
+    documentation="A composition of more than one Surface."/>

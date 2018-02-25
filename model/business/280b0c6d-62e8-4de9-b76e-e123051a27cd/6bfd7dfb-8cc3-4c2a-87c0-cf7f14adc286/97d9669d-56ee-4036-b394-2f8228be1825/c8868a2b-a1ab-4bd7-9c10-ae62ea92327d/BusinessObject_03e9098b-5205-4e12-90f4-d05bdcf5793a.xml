@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkOrderItem"
+    id="03e9098b-5205-4e12-90f4-d05bdcf5793a"
+    documentation="The purpose for the WorkOrder expressed in terms of a ProductSpecification, ProductOffering, ServiceSpecification or ResourceSpecification or may refer to a Product, Service, or Resource."/>

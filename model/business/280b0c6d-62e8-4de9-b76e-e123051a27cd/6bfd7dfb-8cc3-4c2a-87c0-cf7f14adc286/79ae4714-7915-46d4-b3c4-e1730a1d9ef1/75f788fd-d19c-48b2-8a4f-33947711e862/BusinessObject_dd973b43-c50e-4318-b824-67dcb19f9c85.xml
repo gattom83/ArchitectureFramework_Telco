@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ScheduledDuration"
+    id="dd973b43-c50e-4318-b824-67dcb19f9c85"
+    documentation="The Scheduled Duration entity defines a set of parameters related to the duration of a job/activity, such as the planned base duration and possible extensions."/>

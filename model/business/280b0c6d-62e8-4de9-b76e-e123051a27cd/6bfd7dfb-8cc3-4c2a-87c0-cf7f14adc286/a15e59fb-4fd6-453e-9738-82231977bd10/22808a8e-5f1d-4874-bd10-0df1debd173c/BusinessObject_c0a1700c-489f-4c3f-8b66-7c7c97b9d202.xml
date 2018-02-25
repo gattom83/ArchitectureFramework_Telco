@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageSpecVersion"
+    id="c0a1700c-489f-4c3f-8b66-7c7c97b9d202"
+    documentation="A particular form or variety of a UsageSpecification that is different from others or from the original. The form represents differences in properties that characterize a UsageSpecification, that are not enough to warrant creating a new UsageSpecification."/>

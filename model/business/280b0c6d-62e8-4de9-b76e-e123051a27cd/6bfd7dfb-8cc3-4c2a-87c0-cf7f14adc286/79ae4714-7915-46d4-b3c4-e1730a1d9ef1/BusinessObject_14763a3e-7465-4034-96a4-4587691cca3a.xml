@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TemporalExpression"
+    id="14763a3e-7465-4034-96a4-4587691cca3a"
+    documentation="An expression that defines one or more time periods, often periodic in nature. This is an abstract entity that abstracts simple and recurring time periods from the calendar entry. It may also allow reuse of temporal expressions in other parts of the SID model."/>

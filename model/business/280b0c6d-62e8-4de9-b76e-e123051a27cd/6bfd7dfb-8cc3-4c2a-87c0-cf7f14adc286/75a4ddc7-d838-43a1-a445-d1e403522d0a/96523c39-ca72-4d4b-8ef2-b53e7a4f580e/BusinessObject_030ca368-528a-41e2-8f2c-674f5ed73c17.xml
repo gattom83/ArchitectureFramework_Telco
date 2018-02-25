@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy"
+    id="030ca368-528a-41e2-8f2c-674f5ed73c17"
+    documentation="This is an abstract base class, and is the root of the Policy DEN-ng model. As such, it defines common attributes, methods and relationships that all policy subclasses use and take part in."/>

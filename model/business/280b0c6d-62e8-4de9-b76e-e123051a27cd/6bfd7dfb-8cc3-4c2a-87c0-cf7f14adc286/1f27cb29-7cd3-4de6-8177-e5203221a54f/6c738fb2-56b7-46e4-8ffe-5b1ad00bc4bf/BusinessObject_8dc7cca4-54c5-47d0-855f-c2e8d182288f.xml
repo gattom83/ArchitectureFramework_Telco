@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinearReferenceSystem"
+    id="8dc7cca4-54c5-47d0-855f-c2e8d182288f"
+    documentation="A method of spatial referencing, in which the locations of features are described in terms of measurements along a linear element, from a defined starting point, for example a milestone along a road. Each feature is located by either a point (e.g. a signpost) or a line (e.g. a no-passing zone)."/>

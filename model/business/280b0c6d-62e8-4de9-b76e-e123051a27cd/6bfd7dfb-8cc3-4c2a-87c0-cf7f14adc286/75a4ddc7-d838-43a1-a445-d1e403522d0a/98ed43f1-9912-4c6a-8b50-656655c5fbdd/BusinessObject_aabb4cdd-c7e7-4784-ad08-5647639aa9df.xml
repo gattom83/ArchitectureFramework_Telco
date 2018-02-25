@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ScopedPolicyDetails"
+    id="aabb4cdd-c7e7-4784-ad08-5647639aa9df"
+    documentation="This class implements the semantics of the ScopesPolicyApplication aggregation. This can be thought of as the This aggregation defines which PolicyApplications are scoped by a particular PolicyDomain."/>

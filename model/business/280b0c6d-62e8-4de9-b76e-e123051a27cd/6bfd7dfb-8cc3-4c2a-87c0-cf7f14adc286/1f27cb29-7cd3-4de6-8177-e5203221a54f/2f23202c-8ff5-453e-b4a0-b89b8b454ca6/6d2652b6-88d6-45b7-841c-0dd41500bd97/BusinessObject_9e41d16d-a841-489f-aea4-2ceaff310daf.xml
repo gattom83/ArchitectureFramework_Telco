@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AustralianRuralAddress"
+    id="9e41d16d-a841-489f-aea4-2ceaff310daf"
+    documentation="&quot;A type of urban property address that represents a rural Australian address. &#xA; &#xA;Note: This is an example entity.&quot;"/>

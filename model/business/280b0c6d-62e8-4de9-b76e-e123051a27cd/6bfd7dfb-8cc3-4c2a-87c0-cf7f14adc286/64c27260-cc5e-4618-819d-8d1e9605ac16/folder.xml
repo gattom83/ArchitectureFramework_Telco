@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuration and Profiling ABE"
-    id="64c27260-cc5e-4618-819d-8d1e9605ac16"/>
+    id="64c27260-cc5e-4618-819d-8d1e9605ac16"
+    documentation="Add Policy ala what was done for pricing where values were the result of a condition being true...and others such as using a Char for an operand in a condition...AbstractFor Composite/Atomic, Configuration targets Configuration, Version History, and so forth.A Configuration (also referred to as a Profile) defines how a Resource, Service, or Product operates or functions. A Configuration may contain one or more parts (which is realized by using the Atomic/Composite pattern, but it is represented as a single entity - ConfigurationRelationship), and each part may contain zero or more fields. Each field may have attributes that are statically or dynamically defined. Some of these fields have fixed values, while others provide values from which a choice or choices can be made (e.g., using the EntitySpec/Entity and/or CharacteristicSpec/CharacteristicValue patterns)."/>

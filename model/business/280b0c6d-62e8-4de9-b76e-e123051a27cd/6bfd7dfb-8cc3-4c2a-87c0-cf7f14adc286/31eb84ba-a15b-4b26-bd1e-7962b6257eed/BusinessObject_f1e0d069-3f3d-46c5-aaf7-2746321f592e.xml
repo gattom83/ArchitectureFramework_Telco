@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConsequencePerformanceNotification"
+    id="f1e0d069-3f3d-46c5-aaf7-2746321f592e"
+    documentation="A communication that occurs as part of a PerformanceConsquence. A Notification is typically one-sided, in that no Response is expected. For example, an alert be raised as the result of a PerformanceThreshold being violated."/>

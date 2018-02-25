@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyAppliesToDetails"
+    id="0151f22a-f28b-4225-ad8a-e43629cd347a"
+    documentation="This is an association class that explicitly defines which ManagedEntities in a PolicyDomain this Policy information applies to.This association defines the set of Policies that reside in a particular PolicyDomain. This single association links Policy and its subclasses to PolicyDomain. PolicyApplications are related to a PolicyDomain throught the ScopesPolicyApplication aggregation. Thus, different subclasses of PolicyApplication, such as PolicyServer, PDP, PEP, and PXP, can be placed in the same PolicyDomain as different Policies."/>

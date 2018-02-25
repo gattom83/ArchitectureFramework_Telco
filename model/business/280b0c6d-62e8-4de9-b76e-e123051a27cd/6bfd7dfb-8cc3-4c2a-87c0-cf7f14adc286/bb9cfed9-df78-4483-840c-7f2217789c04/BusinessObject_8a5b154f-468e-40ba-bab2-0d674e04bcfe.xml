@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quantity"
+    id="8a5b154f-468e-40ba-bab2-0d674e04bcfe"
+    documentation="A base / value business entity used to represent measurements."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionItemPrice"
+    id="f3f3b342-bc92-414c-b2d3-e0fe1db21bdc"
+    documentation="An amount associated with an BusinessInteractionItem that is valued by the associated ProductOfferingPrice."/>

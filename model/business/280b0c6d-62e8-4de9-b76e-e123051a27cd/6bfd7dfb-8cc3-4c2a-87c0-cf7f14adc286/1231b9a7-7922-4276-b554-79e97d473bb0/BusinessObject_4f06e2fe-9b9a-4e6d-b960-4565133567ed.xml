@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RootEntityType"
+    id="4f06e2fe-9b9a-4e6d-b960-4565133567ed"
+    documentation="A SID entity, such as Customer, Product, Service, and so forth."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM_WorkingIncrement"
+    id="fddc0545-7863-42f2-b026-4b0775ba7e19"
+    documentation="SCRUM_WorkingIncrement is a special type of ProjectDeliverable in SCRUM projects. It is delivered by SCRUM_Team(s) as the outcome of the processing of SCRUM_BacklogItems in a SCRUM_Sprint. SCRUM_WorkingIncrements do not depend on future ProjectDeliverables. Therefore they are either usable stand-alone providing a new service/ product/ ressource or enhancing an existing one. The SCRUM_WorkingIncrement is presented to the ProjectCustomer at the sprint review meeting held at the end of a SCRUM_Sprint."/>

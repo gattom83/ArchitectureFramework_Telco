@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FixedScheduleItem"
+    id="a5600a2a-a89f-4d7e-b0e4-d549516b562b"
+    documentation="The FixedScheduleItem entity holds a list of specific parameters (e.g. start date &amp; time) related to a single execution ."/>

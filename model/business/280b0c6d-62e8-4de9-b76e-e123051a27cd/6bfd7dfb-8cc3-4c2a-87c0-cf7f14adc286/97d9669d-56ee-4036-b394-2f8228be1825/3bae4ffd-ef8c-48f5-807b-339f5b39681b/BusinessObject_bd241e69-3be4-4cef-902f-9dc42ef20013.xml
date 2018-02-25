@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM_ProductOwner"
+    id="bd241e69-3be4-4cef-902f-9dc42ef20013"
+    documentation="SCRUM_ProductOwner is a party role representing the ProjectCustomer in a SCRUM project. SCRUM_ProductOwners take on some traditional ProjectManager tasks. SCRUM_BacklogItems are presized and prioritized by the SCRUM_ProductOwner. Furthermore user stories and project epic are defined or agreed on by the SCRUM_ProductOwner. The sprint commitment by the SCRUM_Teams to process a certain number of SCRUM_BacklogItems during a sprint is given to the SCRUM_ProductOwner. The SCRUM_ProductOwner oversees the work progress during a SCRUM_sprint via task boards and backlogitem burndown of the SCRUM_Teams."/>

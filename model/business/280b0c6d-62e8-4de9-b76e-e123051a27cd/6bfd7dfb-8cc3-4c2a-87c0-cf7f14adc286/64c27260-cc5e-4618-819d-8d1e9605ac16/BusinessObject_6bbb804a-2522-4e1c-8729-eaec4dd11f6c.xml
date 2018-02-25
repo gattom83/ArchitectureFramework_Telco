@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompAtomicConfigSpecRel"
+    id="6bbb804a-2522-4e1c-8729-eaec4dd11f6c"
+    documentation="A type of ConfgSpecRelationship that represents a group of ConfigurationSpecifications that are used to configure an ConfigurationSpecification that is made up of other ConfigurationSpecfications. For example, the ConfigurationSpecification for a connection may be composed of the specification for the connection as well as the specification for connection termination points that are assigned to the connection."/>

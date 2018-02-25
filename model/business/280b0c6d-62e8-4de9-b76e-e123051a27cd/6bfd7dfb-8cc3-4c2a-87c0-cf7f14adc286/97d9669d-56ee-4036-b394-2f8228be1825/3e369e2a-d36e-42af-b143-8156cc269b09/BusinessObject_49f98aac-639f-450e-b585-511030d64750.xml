@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicProjectDeliverable"
+    id="49f98aac-639f-450e-b585-511030d64750"
+    documentation="A type of ProjectDeliverable that does not have any subordinate ProjectDeliverables, that is, an Atomic ProjectDeliverable is a leaf-level ProjectDeliverable."/>

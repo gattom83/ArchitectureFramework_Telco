@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command"
+    id="9c3e488f-73a0-4329-9eb8-f37820619201"
+    documentation="A Command is a Request that cannot be refused. Any failure to service the Command as expected is treated as an exception, meaning something is wrong and needs to be fixed."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AbstractGeographicAddress"
+    id="036a659f-79f9-4919-a5d5-41b65bf30d4a"
+    documentation="An abstract (not a material) address from which others, such as GeogrphicAddress, inherit."/>

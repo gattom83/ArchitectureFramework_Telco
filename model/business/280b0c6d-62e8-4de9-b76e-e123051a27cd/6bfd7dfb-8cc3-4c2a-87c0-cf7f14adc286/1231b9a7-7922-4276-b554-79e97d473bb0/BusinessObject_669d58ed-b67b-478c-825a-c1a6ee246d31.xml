@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntitySpecification"
+    id="669d58ed-b67b-478c-825a-c1a6ee246d31"
+    documentation="This is an abstract base class that is used to define the invariant characteristics (attributes, methods, constraints, and relationships) of a managed entity."/>

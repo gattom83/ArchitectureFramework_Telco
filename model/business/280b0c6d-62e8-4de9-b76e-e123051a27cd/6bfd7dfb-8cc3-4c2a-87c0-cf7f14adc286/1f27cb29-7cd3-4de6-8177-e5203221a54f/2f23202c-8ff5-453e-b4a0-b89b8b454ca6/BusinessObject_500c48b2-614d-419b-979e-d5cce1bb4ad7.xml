@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StreetSegmentGeoAddressRelationship"
+    id="500c48b2-614d-419b-979e-d5cce1bb4ad7"
+    documentation="The relationship between a StreetSegment and a GeographicAddress."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ScheduleDefinitionExcludedDates"
+    id="70e2a7bd-3a62-4e9e-ad0d-75db8d377d4a"
+    documentation="Excluded dates are dates that should be excluded from the Schedule definition, e.g. the schedule definition will not be active on May 1st 2014."/>

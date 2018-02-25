@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalPlace"
+    id="29de1d27-3e37-4e63-903f-337ffbaad771"
+    documentation="Allows us to determine where things are in relation to a local coordinate system.It is an abstract modeling concept that provides a linking point to other parts of the SID model."/>

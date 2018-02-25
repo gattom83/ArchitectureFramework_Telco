@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicAddress"
+    id="e0a188e4-a673-4ee8-beff-b66a2e42ec86"
+    documentation="A structured textual way of describing how to find a Geographic Location. It is usually composed of an ordered list of Geographic Location names based on context specific rulesIt is an abstract modeling concept that provides a linking point to other parts of the SID model.It holds attributes common to all Geographic Address subclasses."/>

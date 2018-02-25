@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PXPDirectionDetails"
+    id="8c142641-73fa-44b2-826d-beddbeff5a23"
+    documentation="&quot;This class implements the semantics of the DirectsExecutionOf association. This association defines the set of PolicyExecutionPoints that are managed by this PolicyDecisionPoint.This association defines the set of PolicyExecutionPoints that a given PolicyDecisionPoint can direct.&#xA;&#xA;The semantics of this association are implemented using the PXPDirectionDetails association class.&#xA;&#xA;The cardinality of this association is 1 on the PolicyDecisionPoint side and 1..n on the PolicyExecutionPoint side. This means that a PolicyDecisionPoint can provide decisions for one or more PolicyExecutionPoints (note that without a PolicyExecutionPoint, a PolicyDecisionPoint is useless). However, if multiple PolicyDecisionPoints are allowed to tell a given PolicyExecutionPoint what to do, then there is no guarantee that the PolicyDecisionPoints won't conflict with each other. Thus, there can only be one PolicyDecisionPoint for a given PolicyExecutionPoint.&#xA;&quot;"/>

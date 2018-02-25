@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StringValue"
+    id="b1414e98-9513-4abd-a459-f5c4d9e3f6d0"
+    documentation="This class is used to represent a single string value, or a set of string values. Each value can have wildcards."/>

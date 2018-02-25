@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicState"
+    id="b3b90b26-4418-45c9-b7bb-33862bdc1c61"
+    documentation="This is an example of a concrete Geographic Location entity.It can be used to represent States and their equivalents."/>

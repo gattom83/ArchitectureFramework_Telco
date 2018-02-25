@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntityBase"
+    id="e7642ae6-fbb5-41c5-a0c5-49db40242e35"
+    documentation="&quot;This is the base definition used for all TIP entities. &#xA;This type is injected by the TIP Generators into code generated from Tigerstripe Entity artifacts. &#xA; &#xA;This entity is only for documentation purpose. It shall not be used for modeling.&quot;"/>

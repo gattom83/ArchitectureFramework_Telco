@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyValue"
+    id="ee6eb947-795c-435b-85b4-4ba4ccaa61c7"
+    documentation="The PolicyValue class is an abstract base class for modeling different types of values that occur in a PolicyStatement. The PolicyValue specifies an attribute that should either be set or cleared (if used in a PolicyAction) or matched or compared in some way to a value of the PolicyVariable in a PolicyCondition."/>

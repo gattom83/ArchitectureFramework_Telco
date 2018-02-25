@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntityIdentificationSpecFormat"
+    id="46828e6d-91cb-409c-bcd2-3b36fdfc3d00"
+    documentation="The sequence in which the EntityIdentificationSpecs that comprise a CompositeEntityIdentificationSpec appear in a CompositeEntityIdentificationSpec, along with its formatting attributes. For example, the format of a phone number contains dashes, such as 972-477-8401."/>

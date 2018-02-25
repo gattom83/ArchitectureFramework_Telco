@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RelativeCalendarAlarm"
+    id="7889d248-4805-44ee-a712-9cfbf521baab"
+    documentation="A CalendarAlarm that is triggered relative to the start or end of a CalendarEntry"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rate"
+    id="2fa6c4eb-8715-4245-86f9-e47eddd0854a"
+    documentation="A base / value business entity used to represent the change in one quantity in terms of another&#x9;"/>

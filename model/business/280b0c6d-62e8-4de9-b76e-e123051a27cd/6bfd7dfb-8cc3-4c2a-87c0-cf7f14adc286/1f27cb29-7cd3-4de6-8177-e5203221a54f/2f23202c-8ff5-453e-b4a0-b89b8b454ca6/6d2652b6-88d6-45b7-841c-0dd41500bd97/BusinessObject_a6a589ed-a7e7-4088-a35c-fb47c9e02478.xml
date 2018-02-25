@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PropertyAddressAssociation"
+    id="a6a589ed-a7e7-4088-a35c-fb47c9e02478"
+    documentation="An association between Property and UrbanPropertyAddress that provides the address of the Property."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntityIdentificationSpecification"
+    id="9356ea46-4c6d-499b-ad70-f19d45d7bd45"
+    documentation="One or more attributes (not attribute values) used to recognize (identify) an instance of an entity."/>

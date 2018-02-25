@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteraction"
+    id="2f2aa56e-82e1-49df-abcc-c6410d3e8173"
+    documentation="A BusinessInteraction is an arrangement, contract, communication or joint activity between one or more PartyRoles, ResourceRoles, or CustomerAccounts. A BusinessInteraction may consist of one or more BusinessInteractionItems. A BusinessInteractionItem may refer to a Product, Service, Resource, or one of their specifications. A BusinessInteraction is further defined by one or more Places. One BusinessInteraction may reference another BusinessInteraction and one BusinessInteractionItem may reference another BusinessInteractionItem on the same or different BusinessInteraction. There are five types of BusinessInteractions: Requests, Responses, Notifications, Agreements, and Instructions."/>

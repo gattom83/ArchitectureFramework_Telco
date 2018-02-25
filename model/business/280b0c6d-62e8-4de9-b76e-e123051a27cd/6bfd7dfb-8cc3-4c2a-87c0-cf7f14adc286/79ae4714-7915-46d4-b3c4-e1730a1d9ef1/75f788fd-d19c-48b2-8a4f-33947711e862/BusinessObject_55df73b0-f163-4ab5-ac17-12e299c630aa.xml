@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DateScheduleDefinition"
+    id="55df73b0-f163-4ab5-ac17-12e299c630aa"
+    documentation="The date schedule is used to define a schedule that is based on specific dates, such as December 31st 2015, Feberaury 28th 2013, etc."/>

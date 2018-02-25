@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventSpecComposite"
+    id="e2899a30-2378-41a9-af1d-edf39140c90a"
+    documentation="&quot;This is a concrete base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a PolicyEventComposite entity.&#xA;&#xA;PolicyEventSpecComposite entities are specifications that define the invariant characteristics and behavior of a group of related PolicyEvents. These PolicyEvents can be PolicyEventAtomic and/or PolicyEventComposite entities. The instance that is represented by the PolicyEventSpecComposite entity is a named managed object.&#xA;&quot;"/>

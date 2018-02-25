@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Place"
+    id="8d188184-b74f-4b9f-9642-86025c787167"
+    documentation="&quot;Place answers the question &quot;&quot;where ?&quot;&quot;It is an abstract modeling concept that provides a linking point to other parts of the SID model.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM_BacklogItem"
+    id="90aee249-09fe-49d2-9b10-4f4eba11dffc"
+    documentation="&quot;A SCRUM_BacklogItem is a type of ProjectElement which is scheduled (prioritized and presized) by the SCRUM_ProductOwner for a SCRUM_Sprint and sized by, assigned to and commited to by a SCRUM_Team at the sprint planning meeting. The SCRUM_BacklogItem is broken down into individual SCRUM_Tasks to be &#xA;assigned to a ProjectConstructor in a SCRUM_Sprint. The SCRUM_BacklogItem reflects the requirements, &#xA;expectations and desires of a ProjectCustomer. Those are verbalized in user stories. The SCRUM_BacklogItems collectively define the project backlog reflecting the project overall goal verbalized in an epic. &#xA;&quot;"/>

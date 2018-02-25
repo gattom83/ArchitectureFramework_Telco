@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BrokerCoordinationDetails"
+    id="b058baf6-e905-4764-b663-8b0801f1f502"
+    documentation="&quot;This class implements the semantics of the BrokerCoordinates association, which defines which PolicyServers are coordinated by which PolicyBrokers.&#xA;&#xA;The semantics of this class will be more fully defined in the next version of the DEN-ng specification.&#xA;This association defines the set of PolicyServers that this PolicyBroker coordinates the actions of.&quot;"/>

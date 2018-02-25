@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TIPManagementDomain"
+    id="f31ab3d8-3a6b-4432-aa37-9d64795656d0"
+    documentation="&quot;One or more ManagementDomains are used to represent the managed network of a service provider (i.e., a portion of a network) in the context of a given CCV. Each network resource is contained under exactly one ManagementDomain. Each OS on the CCV may store part or whole inventory associated with one or more ManagementDomains. &#xA;A top-level OS may manage part or all of one or more ManagementDomains. &#xA;See R_TMF518_FMW_I_0004 and R_TMF518_FMW_I_0006.&quot;"/>

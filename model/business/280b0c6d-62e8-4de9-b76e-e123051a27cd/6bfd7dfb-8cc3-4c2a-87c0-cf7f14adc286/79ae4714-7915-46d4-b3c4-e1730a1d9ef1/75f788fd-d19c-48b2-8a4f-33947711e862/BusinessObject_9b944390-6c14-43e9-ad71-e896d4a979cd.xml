@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FixedScheduleDefinition"
+    id="9b944390-6c14-43e9-ad71-e896d4a979cd"
+    documentation="&quot;The FixedScheduleDefinition entity holds ta list of fixed executions in the sense that each execution has specific time parameters (i.e. starts at a certain date &amp; time). &#xA;&quot;"/>

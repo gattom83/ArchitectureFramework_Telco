@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventAtomic"
+    id="72eed676-4bb6-4e32-a34d-2ec42c7b0e67"
+    documentation="This is a base class that represents the occurrence of a single atomic event, which is used to trigger the evaluation of the condition clause of a PolicyRule."/>

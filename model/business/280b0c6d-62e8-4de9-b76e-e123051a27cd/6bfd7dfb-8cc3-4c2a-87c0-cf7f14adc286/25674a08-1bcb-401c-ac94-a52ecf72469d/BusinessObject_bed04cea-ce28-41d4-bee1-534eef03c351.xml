@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog"
+    id="bed04cea-ce28-41d4-bee1-534eef03c351"
+    documentation="&quot;A catalog can be defined as a collation of items and arranging them in a particular manner based on the need. In the information framework point, it is as collection of entities. This entity is proposed as an abstract entity. This is to have sub classes derived out of this entity to synch up with the real world examples of product catalog, service catalog etc. The catalog presentation can be in book form or web form. &#xA;&quot;"/>

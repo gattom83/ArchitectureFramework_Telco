@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionLocation"
+    id="de7d3f18-711d-49ab-a1ac-6e9a9e8bc73e"
+    documentation="A Location involved in an interaction. For example, John R.s home address is the location where an ordered Product will be installed."/>

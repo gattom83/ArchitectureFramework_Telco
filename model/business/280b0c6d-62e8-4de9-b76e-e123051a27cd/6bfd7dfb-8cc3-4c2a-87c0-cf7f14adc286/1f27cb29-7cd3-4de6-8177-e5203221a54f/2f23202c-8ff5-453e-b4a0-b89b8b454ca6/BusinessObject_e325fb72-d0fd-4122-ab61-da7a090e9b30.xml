@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicPlace"
+    id="e325fb72-d0fd-4122-ab61-da7a090e9b30"
+    documentation="&quot;Allows us to determine where things are in relation to the earth's surface. &#xA;It is an abstract modeling concept that provides a linking point to other parts of the SID model.&quot;"/>

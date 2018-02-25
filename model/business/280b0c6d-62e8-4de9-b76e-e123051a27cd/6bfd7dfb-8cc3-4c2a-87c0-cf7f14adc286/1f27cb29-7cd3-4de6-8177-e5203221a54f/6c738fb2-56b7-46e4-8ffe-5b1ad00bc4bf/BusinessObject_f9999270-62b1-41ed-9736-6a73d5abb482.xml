@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundLocalAddress"
+    id="f9999270-62b1-41ed-9736-6a73d5abb482"
+    documentation="A group of LocalAddresses."/>

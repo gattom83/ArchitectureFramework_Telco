@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MonthlyScheduleDayofWeekDefinition"
+    id="dc1227dd-3e54-4529-9968-e2ecdca434f5"
+    documentation="The monthly schedule by days of week is used to define a monthly schedule based on the sequnce of day in a month by specifying its instance, e.g. the 1st Monday of the month."/>

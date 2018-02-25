@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicPostcode"
+    id="e12480b1-f9e3-4017-83ee-16805d4209a2"
+    documentation="A postal delivery area used to speed and simplify the delivery of mail."/>

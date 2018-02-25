@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entity Identification ABE"
+    id="3bf72475-8c87-4efe-b994-68dc7d52334d"
+    documentation="A collection of entities that can be used to dynamicall specify various identification formats for any type of entity and to represent identification instances associated with entities."/>

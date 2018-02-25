@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicLocationName"
+    id="4eac88c7-d46e-4bd2-9f42-47db21a611bc"
+    documentation="A word, term, or phrase by which a Geographic Location is known and distinguished from other Geographic Locations. A name is an informal way of identifying an object [Fowler]Separating Location Name from Location allows for a Location to have many names at the same time and for names to change over time."/>

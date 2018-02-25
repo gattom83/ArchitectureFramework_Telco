@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attachment"
+    id="531f3f3b-7c6d-4b74-b4b2-25e09c1603b5"
+    documentation="This entity represents a document which is related to the BusinessInteraction. This can be a document that was provided by the Customer (such as report, log or picture showing a problem with one of the products), or a document provided by the CSP to the customer as part of the interaction (such as manual or a brochure)"/>

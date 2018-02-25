@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RootEntity"
+    id="645e48dd-518e-4903-b01f-9cb08eab0cc7"
+    documentation="This is the top of the SID class hierarchy. The purpose of the RootEntity is to define a set of attributes that are common to all SID entities that derive from it. These properties enable us to name and describe all objects (manageable and unmanageable) in the environment.This is the top of the DEN-ng class hierarchy. These properties enable us to name, describe, and identify all objects (manageable and unmanageable) in the environment."/>

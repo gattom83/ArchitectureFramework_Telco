@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValueCustom"
+    id="b1877485-c34e-42b9-af8f-efcc0bf5d5c6"
+    documentation="ValueCustom is an abstract base class that provides two basic attributes to define custom value objects that can be used in an application-specific fashion. These two attributes are called valueModelAttribute and valueModelClass. The valueModelAttribute is a string attribute that defines the name of the attribute within the class specified in the valueModelClass attribute that is to be evaluated or set as a PolicyValue. The valueModelClass is a string attribute that defines the class name whose attribute is to be evaluated or set as a PolicyValue. This combination enables new custom subclasses of ValueCustom to be defined that specify the class and attribute that they are modeling. These new subclasses can be found by users of the current DEN-ng schema by searching for these two properties. That also enables DEN-ng users to immediately understand the purpose of new extensions."/>

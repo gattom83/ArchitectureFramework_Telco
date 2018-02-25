@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Country"
+    id="67cb5f93-0b57-4e80-bc42-deecddc95d72"
+    documentation="This is an example of a concrete Geographic Location entity."/>

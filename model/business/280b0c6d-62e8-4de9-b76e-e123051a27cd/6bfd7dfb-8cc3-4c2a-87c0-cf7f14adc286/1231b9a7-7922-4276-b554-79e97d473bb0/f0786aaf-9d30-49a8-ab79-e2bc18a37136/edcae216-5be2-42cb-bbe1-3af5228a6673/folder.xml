@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Characteristic Pricing ABE"
+    id="edcae216-5be2-42cb-bbe1-3af5228a6673"
+    documentation="Enables pricing to be based on a combination of CharacteristicSpecifcations and their related CharacteristicSpecValues."/>

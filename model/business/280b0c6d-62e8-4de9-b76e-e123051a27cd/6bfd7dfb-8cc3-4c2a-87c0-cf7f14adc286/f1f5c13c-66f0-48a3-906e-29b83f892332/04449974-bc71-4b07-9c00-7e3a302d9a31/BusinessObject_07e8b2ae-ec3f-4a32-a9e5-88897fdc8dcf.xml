@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAARejected"
+    id="07e8b2ae-ec3f-4a32-a9e5-88897fdc8dcf"
+    documentation="This entity represents the state of rejection of the DisputedAmount by the enterprise"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Surface"
+    id="ac9df66a-f11e-4120-9e10-b64cfe28f86a"
+    documentation="A continuous set of points that has length and breadth but no thickness."/>

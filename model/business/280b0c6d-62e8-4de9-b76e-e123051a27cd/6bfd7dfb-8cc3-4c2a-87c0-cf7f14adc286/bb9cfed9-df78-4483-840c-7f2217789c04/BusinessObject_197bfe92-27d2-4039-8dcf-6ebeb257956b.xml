@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Duration"
+    id="197bfe92-27d2-4039-8dcf-6ebeb257956b"
+    documentation="A base / value business entity used to represent a length of time.Duration is a type of Quantity"/>

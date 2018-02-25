@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AbsoluteLocalLocation"
+    id="8784ab5a-d225-454e-b6bd-901372ae25d6"
+    documentation="&quot;A LocalLocation that is defined using Cartesian coordinates that relate back to a LocalCoordinateSystem. &#xA;The coordinate units are defined in the LocalCoordinateSystem. &#xA;&quot;"/>

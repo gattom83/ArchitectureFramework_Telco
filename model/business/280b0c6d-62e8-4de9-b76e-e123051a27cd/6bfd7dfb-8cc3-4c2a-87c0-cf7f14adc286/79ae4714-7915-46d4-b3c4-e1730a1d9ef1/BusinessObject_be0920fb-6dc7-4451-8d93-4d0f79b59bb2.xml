@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleTemporalExpression"
+    id="be0920fb-6dc7-4451-8d93-4d0f79b59bb2"
+    documentation="This is used when a Calendar Entry has a simple single start and end DateTime."/>

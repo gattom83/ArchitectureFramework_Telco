@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageRelationship"
+    id="b0774bf5-aac3-434a-b262-83d80e4741f0"
+    documentation="A aggregation, migration, substitution, dependency, or exclusivity relationship between/among Usage."/>

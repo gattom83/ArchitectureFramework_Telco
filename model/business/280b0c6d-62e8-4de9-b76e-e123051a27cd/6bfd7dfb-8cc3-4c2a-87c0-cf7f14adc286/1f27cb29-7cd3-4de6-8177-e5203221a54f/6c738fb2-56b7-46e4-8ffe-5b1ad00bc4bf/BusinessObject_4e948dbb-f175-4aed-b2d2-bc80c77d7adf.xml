@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalLocationRelationship"
+    id="4e948dbb-f175-4aed-b2d2-bc80c77d7adf"
+    documentation="An association between two LocalLocations."/>

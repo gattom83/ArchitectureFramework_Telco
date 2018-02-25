@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharPriceDepMember"
+    id="193c704b-eb86-4f48-9b38-e2512d2d9941"
+    documentation="An element of a rule defined by a EntitySpecValueUse used to determine a ComponentProdOfferPrice."/>

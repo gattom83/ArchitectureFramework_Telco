@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Role"
+    id="4bf83269-598f-4edc-81d2-24887e6e526e"
+    documentation="This is an abstract base class that defines the concept of various types of roles used in the DEN-ng model."/>

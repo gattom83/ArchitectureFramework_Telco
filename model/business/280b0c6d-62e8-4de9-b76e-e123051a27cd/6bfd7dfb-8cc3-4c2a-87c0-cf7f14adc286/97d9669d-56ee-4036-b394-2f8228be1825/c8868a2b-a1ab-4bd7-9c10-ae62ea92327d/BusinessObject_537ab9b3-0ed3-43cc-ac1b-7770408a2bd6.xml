@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkOrder"
+    id="537ab9b3-0ed3-43cc-ac1b-7770408a2bd6"
+    documentation="A formal signed document to authorize the usage of Products, Services, and Resources."/>

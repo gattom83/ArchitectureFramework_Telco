@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigSpecRelationship"
+    id="f38d804a-b064-4ff1-9e62-9cda29d8b82e"
+    documentation="A aggregation, migration, substitution, dependency, or exclusivity relationship between/among ConfigurationSpecifications."/>

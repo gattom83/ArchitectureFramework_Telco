@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAAAccepted"
+    id="5a36efd0-b227-4d60-ae7b-b92cf922f15d"
+    documentation="This entity represents the state of acceptance (completely or partially) of the DisputedAmount by the enterprise"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageCharacteristicCategory"
+    id="d9b278f1-2e7e-4334-8afb-9f2168d07794"
+    documentation="A category representing a high-level aspect of the usage information described by the characteristic. These categories are commonly referred to as: Who, When, What, Where or Why."/>

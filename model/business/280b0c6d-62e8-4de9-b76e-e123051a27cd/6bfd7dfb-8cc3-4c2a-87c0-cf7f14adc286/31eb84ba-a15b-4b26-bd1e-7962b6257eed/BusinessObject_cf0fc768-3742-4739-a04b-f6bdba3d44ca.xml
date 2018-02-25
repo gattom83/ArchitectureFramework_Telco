@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceMobileAddress"
+    id="cf0fc768-3742-4739-a04b-f6bdba3d44ca"
+    documentation="A network address that identifies mobile Resource Elements, such as cell sites and base station controllers."/>

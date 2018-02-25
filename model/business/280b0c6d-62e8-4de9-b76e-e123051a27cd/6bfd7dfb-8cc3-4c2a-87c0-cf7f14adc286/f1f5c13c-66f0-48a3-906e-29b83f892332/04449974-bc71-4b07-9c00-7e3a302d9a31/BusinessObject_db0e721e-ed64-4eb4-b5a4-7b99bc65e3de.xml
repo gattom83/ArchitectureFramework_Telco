@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DisputedAmountActivity"
+    id="db0e721e-ed64-4eb4-b5a4-7b99bc65e3de"
+    documentation="This is an abstract base class for the different states in the DisputedAmount lifecycle"/>

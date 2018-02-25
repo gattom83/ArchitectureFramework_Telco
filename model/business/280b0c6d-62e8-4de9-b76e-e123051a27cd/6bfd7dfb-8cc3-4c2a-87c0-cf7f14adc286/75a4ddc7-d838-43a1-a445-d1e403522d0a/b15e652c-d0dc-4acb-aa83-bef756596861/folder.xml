@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Management ABE"
+    id="b15e652c-d0dc-4acb-aa83-bef756596861"
+    documentation="The Policy Management ABE contains entities that are used to manage other entities in other Domains. This includes entities from other Common Business Entities sub-domains (e.g., Location and Party) as well as other sibling Domains (e.g., Product, Service and Resource)."/>

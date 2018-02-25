@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostalDeliveryAddress"
+    id="dc8939af-2697-434e-b81e-9db81917c0b8"
+    documentation="The address to which posts (mail) are delivered."/>

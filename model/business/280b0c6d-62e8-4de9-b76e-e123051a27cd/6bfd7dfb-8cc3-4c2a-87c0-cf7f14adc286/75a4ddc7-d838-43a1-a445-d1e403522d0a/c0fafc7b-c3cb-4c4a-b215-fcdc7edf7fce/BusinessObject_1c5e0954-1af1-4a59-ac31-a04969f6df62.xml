@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyRuleSpec"
+    id="1c5e0954-1af1-4a59-ac31-a04969f6df62"
+    documentation="This is a concrete base class that is used to define the invariant characteristics (attributes, methods, constraints and relationships) of a PolicyRule entity."/>

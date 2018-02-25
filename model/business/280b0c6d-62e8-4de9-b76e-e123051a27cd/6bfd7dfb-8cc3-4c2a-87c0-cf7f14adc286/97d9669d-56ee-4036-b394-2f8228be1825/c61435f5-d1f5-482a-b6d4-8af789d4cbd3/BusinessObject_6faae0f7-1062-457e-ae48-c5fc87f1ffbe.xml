@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementSpec"
+    id="6faae0f7-1062-457e-ae48-c5fc87f1ffbe"
+    documentation="Specifies characteristics that apply to types of ProjectElements. This is an abstract entity used to hold the attributes and associations common to ProjectSpecification, WBS ElementSpecification and ActivitySpecification. These entities can be used to build standard project templates to aid in Project creation."/>

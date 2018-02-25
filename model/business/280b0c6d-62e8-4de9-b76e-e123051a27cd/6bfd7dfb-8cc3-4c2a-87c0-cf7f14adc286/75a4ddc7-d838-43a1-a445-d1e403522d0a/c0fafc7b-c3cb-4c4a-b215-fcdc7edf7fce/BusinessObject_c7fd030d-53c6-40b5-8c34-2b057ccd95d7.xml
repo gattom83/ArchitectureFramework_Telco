@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyStatementSpec"
+    id="c7fd030d-53c6-40b5-8c34-2b057ccd95d7"
+    documentation="This is a concrete base class that is used to define the invariant characteristics (attributes, methods, constraints and relationships) of a PolicyStatement entity."/>

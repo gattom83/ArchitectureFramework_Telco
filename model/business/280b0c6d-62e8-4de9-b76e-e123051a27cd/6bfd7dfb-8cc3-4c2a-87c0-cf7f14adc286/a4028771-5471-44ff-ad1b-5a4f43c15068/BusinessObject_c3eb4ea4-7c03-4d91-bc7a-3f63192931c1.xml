@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TroubleTicket"
+    id="c3eb4ea4-7c03-4d91-bc7a-3f63192931c1"
+    documentation="&quot;A record used for reporting and managing the resolution of resource problems.&#xA;&#xA;&#xA;&quot;"/>

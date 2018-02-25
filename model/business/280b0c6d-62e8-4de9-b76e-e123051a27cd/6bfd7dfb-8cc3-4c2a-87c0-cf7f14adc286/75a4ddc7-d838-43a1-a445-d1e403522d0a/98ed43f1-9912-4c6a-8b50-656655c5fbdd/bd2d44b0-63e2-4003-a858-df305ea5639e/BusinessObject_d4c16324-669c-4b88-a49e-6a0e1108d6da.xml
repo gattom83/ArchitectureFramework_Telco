@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionPerformedDetails"
+    id="d4c16324-669c-4b88-a49e-6a0e1108d6da"
+    documentation="&quot;This class implements the semantics of the PolicyActionPerformedOn association. This association defines the set of PolicyActions that are performed on a ManagedEntity.&#xA;&#xA;The DEN-ng system view defines much more detailed semantics to implement this association, such as policies that control what types of actions can be performed on which entities during what time periods.&#xA;This association defines the set of PolicyActions that are performed on a ManagedEntity as a part of the policy management process. The semantics of this association are implemented by the PolicyActionPerformedDetails association class.&quot;"/>

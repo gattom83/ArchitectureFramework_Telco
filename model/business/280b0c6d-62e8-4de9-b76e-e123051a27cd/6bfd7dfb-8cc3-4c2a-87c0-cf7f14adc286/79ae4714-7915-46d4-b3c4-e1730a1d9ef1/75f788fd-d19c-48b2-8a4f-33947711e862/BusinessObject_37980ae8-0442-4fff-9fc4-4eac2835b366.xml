@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ScheduleDefinition"
+    id="37980ae8-0442-4fff-9fc4-4eac2835b366"
+    documentation="The Schedule Definition base Entity holds the required parameters for the definition of a schedule that will be attached to jobs."/>

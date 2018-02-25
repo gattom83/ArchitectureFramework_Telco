@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageSpecCharValueUse"
+    id="5dfc3d68-6d7d-4007-acc3-6ca5ccc1283a"
+    documentation="A use of the UsageSpecCharacteristicValue by an EntitySpecification to which additional properties (attributes) apply or override the properties of similar properties contained in UsageSpecCharacteristicValue."/>

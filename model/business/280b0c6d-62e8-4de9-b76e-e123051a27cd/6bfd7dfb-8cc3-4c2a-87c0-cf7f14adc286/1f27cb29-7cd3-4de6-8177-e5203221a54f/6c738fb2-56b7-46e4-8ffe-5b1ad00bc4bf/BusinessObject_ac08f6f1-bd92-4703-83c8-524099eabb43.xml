@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TelstraInternalAddress"
+    id="ac08f6f1-bd92-4703-83c8-524099eabb43"
+    documentation="This is an example entity for a Telstra (Australian provider) type of Local Address."/>

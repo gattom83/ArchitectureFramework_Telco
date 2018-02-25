@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComponentEntityIdentification"
+    id="e2bf2acc-6341-415f-afa9-e9abb3034597"
+    documentation="A type of EntityIdentification that does not have any subordinate EntityIdentifications, that is, an ComponentEntityIdentification is a leaf-level EntityIdentification."/>

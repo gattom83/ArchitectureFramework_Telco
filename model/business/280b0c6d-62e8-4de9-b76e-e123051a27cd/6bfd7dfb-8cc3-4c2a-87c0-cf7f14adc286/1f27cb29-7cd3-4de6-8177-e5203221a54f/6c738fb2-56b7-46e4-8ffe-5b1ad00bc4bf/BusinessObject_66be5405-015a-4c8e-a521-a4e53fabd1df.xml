@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundInternalLocation"
+    id="66be5405-015a-4c8e-a521-a4e53fabd1df"
+    documentation="A group of measurements and relationships of lines, angles, surfaces, solids and points used to display internal locations."/>

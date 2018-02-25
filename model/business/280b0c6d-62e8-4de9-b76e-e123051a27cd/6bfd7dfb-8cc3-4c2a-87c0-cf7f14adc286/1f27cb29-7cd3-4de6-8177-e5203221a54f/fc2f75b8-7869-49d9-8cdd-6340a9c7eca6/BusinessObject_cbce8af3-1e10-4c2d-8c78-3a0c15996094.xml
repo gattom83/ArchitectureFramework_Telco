@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiPolygon"
+    id="cbce8af3-1e10-4c2d-8c78-3a0c15996094"
+    documentation="A composition of more than one Polygon."/>

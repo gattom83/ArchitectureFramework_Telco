@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LandUseType"
+    id="c4b2a3a2-a85b-44fc-b6ab-b731d44e1578"
+    documentation="The kind of land use, such as the kinds of human uses of land."/>

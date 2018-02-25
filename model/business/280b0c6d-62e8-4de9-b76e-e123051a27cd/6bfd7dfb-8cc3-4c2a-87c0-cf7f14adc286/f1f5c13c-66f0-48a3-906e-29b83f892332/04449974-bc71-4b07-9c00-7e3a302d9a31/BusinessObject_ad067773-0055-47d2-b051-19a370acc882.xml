@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DisputedAmount"
+    id="ad067773-0055-47d2-b051-19a370acc882"
+    documentation="This entity represents a request by an external party (Customer or Supplier/Partner) to change the amount it is required to pay the enterprise. The amount in disagreement is being in dispute, and may be handled differently from financial aspects (for example, an amount in dispute may not be target to late payment fees calculations or being considered as part of collection calculations)"/>

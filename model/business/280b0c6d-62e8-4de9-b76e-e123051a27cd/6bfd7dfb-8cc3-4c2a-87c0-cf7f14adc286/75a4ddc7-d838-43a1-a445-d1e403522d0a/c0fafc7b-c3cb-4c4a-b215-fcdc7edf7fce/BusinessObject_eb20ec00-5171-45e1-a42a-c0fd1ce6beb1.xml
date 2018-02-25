@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventSpecAtomic"
+    id="eb20ec00-5171-45e1-a42a-c0fd1ce6beb1"
+    documentation="&quot;This is a concrete base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a PolicyEventAtomic entity.&#xA;&#xA;PolicyEventSpecAtomic entities are stand-alone specifications that define the invariant characteristics and behavior of single (i.e., atomic) PolicyEvents.&#xA;&quot;"/>

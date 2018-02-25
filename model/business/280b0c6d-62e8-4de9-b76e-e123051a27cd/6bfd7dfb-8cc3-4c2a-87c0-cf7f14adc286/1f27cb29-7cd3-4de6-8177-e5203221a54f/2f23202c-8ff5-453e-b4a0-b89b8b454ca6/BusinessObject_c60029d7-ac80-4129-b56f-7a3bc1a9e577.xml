@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicArea"
+    id="c60029d7-ac80-4129-b56f-7a3bc1a9e577"
+    documentation="This is a generic entity, used to represent areas defined on maps that relate to areas of settlement.This is an example of a concrete Geographic Location entity."/>

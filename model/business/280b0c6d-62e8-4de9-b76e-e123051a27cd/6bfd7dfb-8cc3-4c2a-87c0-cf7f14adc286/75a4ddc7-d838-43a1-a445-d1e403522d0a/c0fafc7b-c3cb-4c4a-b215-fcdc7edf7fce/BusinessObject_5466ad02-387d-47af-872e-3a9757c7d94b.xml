@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicySetSpec"
+    id="5466ad02-387d-47af-872e-3a9757c7d94b"
+    documentation="This is an abstract base class that is used to define the invariant characteristics (attributes, methods, constraints and relationships) of a PolicySet entity. It is further refined by the PolicyRuleSpec."/>

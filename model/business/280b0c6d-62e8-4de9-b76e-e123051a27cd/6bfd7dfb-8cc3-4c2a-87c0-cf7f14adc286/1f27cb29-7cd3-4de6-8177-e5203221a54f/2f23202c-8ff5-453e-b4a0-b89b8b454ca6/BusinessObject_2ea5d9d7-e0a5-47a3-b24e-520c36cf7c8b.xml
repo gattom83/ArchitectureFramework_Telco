@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicLocationType"
+    id="2ea5d9d7-e0a5-47a3-b24e-520c36cf7c8b"
+    documentation="This is a simple specification entity used to provide a list of allowable geographic location types. These types correspond to the concrete entity names shown on fig 10a"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectDeliverableVersion"
+    id="8a6383c0-8d8c-4ce0-95fe-c308354eb1a0"
+    documentation="A ProjectDeliverableVersion is the recorded version of a ProjectDeliverable"/>

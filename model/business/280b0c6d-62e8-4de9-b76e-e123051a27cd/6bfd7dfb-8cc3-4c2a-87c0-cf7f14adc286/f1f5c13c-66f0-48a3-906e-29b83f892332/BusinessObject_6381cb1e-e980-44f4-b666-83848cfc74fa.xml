@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InquiryResponse"
+    id="6381cb1e-e980-44f4-b666-83848cfc74fa"
+    documentation="A reply to a InquiryRequest."/>

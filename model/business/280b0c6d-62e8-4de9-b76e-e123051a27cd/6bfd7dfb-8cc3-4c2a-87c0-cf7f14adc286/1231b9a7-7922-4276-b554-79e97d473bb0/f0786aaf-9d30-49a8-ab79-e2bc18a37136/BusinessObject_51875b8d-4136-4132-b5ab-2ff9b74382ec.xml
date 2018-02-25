@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharacteristicSpecValue"
+    id="51875b8d-4136-4132-b5ab-2ff9b74382ec"
+    documentation="A number or text that can be assigned to a CharacteristicSpecification."/>

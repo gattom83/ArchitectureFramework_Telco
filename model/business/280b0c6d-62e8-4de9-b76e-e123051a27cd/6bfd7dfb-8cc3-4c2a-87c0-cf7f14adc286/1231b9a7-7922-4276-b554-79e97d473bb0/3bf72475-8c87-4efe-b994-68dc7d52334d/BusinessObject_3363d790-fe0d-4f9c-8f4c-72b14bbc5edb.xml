@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeEntityIdentificationSpec"
+    id="3363d790-fe0d-4f9c-8f4c-72b14bbc5edb"
+    documentation="A type of EntityIdentificationSpec that is formed by aggregating other EntityIdentificationsSpecs, which may be Composite or Atomic EntityIdentificationSpecs."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAACompleted"
+    id="5715fc7b-8c4e-4313-9694-a9bc6f2c37ca"
+    documentation="This entity represents the completion of the DisputedAmount lifecycle."/>

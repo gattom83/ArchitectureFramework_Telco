@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionRuleDetails"
+    id="874b8474-1038-4cee-b54a-f1e8d28648f7"
+    documentation="This is a class that implements the semantics needed for the PolicyActionInPolicyRule aggregation. This aggregation defines the set of PolicyActions that are contained in this PolicyRule."/>

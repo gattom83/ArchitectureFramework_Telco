@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceCharacteristicValue"
+    id="f07d09bc-5e9d-48ee-a192-9ca86cc8daa4"
+    documentation="A value of a CharacteristicSpecification provided for Performance that further defines what the Performance is."/>

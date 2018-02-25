@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageSpecCharValueRelationship"
+    id="83f7e2a6-0c36-4161-ba2e-45e5a7565cf8"
+    documentation="A aggregation, migration, substitution, dependency, or exclusivity relationship between/among UsageSpecCharacteristicValues."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalLineString"
+    id="080b78e9-808e-4e0d-946b-8d23dee508fc"
+    documentation="A set of coordinate points and the lines that join them for LocalLocations"/>

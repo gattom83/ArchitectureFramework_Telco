@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StandardWorkPeriod"
+    id="63cce3b2-79da-4d1b-a6f2-1ab92ded85b2"
+    documentation="&quot;e.g. working hours are &#xA;9-5 on monday from 1-mar-2002 to 1-sep-2002. The times then change for daylight savings.&#xA;A union deal may change the working week from a certain date.&#xA;&quot;"/>

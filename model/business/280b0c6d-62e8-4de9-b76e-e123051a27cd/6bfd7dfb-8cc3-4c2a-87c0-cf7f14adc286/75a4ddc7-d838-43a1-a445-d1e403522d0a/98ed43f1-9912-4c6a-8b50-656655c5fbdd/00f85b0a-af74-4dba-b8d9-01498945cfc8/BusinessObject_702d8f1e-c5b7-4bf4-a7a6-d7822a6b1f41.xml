@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyServerRole"
+    id="702d8f1e-c5b7-4bf4-a7a6-d7822a6b1f41"
+    documentation="&quot;This is a concrete base class that defines the concept of various types of roles used to describe PolicyServers and their use in the DEN-ng model.&#xA;&#xA;A PolicyServerRole refines the generic concepts of a PolicyApplicationRole. Specifically, this base class is used to describe generic functionality inherent in a PolicyServer. For example, this includes the ability to describe different types of functions (making decisions, changing configurations, and so forth) as well as invoking those functions. Other functions, such as conflict detection, may also be run at a local or global level.&#xA;&#xA;More detail will be provided in the next release of the DEN-ng model.&#xA;&quot;"/>

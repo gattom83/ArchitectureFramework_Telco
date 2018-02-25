@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConfigDecisionRole"
+    id="f68cee59-81b1-4099-a198-8b060d628207"
+    documentation="&quot;This is a concrete base class that defines the concept of various types of roles used to describe processes that control configuration processes, and their use in the DEN-ng model.&#xA;&#xA;A PolicyConfigDecisionRole refines the generic concepts of a PolicyConfigRole. Specifically, this base class is used to describe different processes required to request decisions involving the monitoring, changing and/or verifying of the configuration of a Managed Object. These processes will orchestrate the use of one or more instances of other PolicyConfigRoles as part of executing the configuration decision.&#xA;&#xA;More detail will be provided in the next release of the DEN-ng model.&#xA;&quot;"/>

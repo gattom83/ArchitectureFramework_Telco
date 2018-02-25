@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerAccountInteractionRole"
+    id="276cd825-e94a-411c-901e-6c5bfd5de941"
+    documentation="A CustomerAccount playing a role in a BusinessInteraction."/>

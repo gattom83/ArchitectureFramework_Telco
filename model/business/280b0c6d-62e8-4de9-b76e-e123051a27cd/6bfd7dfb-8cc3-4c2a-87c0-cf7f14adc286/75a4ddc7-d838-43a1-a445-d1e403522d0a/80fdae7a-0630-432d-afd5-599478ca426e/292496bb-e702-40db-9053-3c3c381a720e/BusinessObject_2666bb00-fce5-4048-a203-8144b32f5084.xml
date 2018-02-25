@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BooleanValue"
+    id="2666bb00-fce5-4048-a203-8144b32f5084"
+    documentation="This class is used to represent a Boolean (TRUE/FALSE) value."/>

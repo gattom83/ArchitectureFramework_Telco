@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionAtomic"
+    id="9fdf3580-8d78-4856-8f5a-0b91860d5113"
+    documentation="&quot;This is the base class for all simple PolicyActions. A simple PolicyAction consists of a single Boolean clause, which is used to perform a single action. This consists of a single occurrence of a PolicyStatement, which is of the form:&#xA;&#xA; {SET | CLEAR} PolicyVariable to PolicyValue&#xA;&#xA;This is distinctly different from the PolicyActionVendor, which does not use a PolicyStatement.&#xA;&#xA;PolicyActionAtomic objects can also be used to form more complex action structures. A PolicyActionComposite object can be used to contain a group of PolicyActionAtomic objects - this grouping enables multiple PolicyActionAtomic objects to be executed as a group. Alternatively, a PolicyActionAtomic object can contain one or more PolicyActionAtomic objects (and also PolicyActionComposite groups if desired) to provide the semantics of a compound PolicyAction. In either case, the aggregation is done using the containedPolicyActions aggregation.&#xA;&quot;"/>

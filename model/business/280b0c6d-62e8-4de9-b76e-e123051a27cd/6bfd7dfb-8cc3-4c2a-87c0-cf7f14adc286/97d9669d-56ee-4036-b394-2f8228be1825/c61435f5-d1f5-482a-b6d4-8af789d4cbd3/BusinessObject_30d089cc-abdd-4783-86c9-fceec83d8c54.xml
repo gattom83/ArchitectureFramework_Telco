@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementDependency"
+    id="30d089cc-abdd-4783-86c9-fceec83d8c54"
+    documentation="This allows us to show dependencies, that typically relate to a ProjectElement not being able to commence until another Element has been completed."/>

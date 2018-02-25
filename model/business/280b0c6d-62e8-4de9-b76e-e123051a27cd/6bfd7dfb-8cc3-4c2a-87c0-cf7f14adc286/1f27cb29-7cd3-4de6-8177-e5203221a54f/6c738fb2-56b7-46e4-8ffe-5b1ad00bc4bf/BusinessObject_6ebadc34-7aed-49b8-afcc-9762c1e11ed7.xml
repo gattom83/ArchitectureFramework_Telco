@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BoundingVolumeRepresentation"
+    id="6ebadc34-7aed-49b8-afcc-9762c1e11ed7"
+    documentation="A geometric representation that includes a minimum bounding volume and also allow for two dimensional representations (each face of the minimum bounding volume) and provide reference point(s) for the shape (for placement)."/>

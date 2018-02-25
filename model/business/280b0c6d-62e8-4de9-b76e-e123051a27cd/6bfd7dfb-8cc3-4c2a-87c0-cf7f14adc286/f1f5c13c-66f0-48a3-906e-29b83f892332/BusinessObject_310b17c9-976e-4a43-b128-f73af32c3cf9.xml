@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyAccountInteractionRole"
+    id="310b17c9-976e-4a43-b128-f73af32c3cf9"
+    documentation="A PartyAccount playing a role in a BusinessInteraction."/>

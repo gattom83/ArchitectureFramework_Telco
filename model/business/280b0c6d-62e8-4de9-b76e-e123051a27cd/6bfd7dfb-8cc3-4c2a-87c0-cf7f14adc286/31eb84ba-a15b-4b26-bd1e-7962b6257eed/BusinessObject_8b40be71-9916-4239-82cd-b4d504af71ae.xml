@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIndicatorGroup"
+    id="8b40be71-9916-4239-82cd-b4d504af71ae"
+    documentation="A group of indicators (instances), usually reported in the same message by the equipment or the EMS."/>

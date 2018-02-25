@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Property"
+    id="2f1a01c9-4a8d-46bd-bee6-0c0c4b00834d"
+    documentation="&quot;A piece of land with defined legal boundaries.This is an example of a concrete Geographic Location entity. &#xA; &#xA;Synonyms / Aliases: Land Parcel&quot;"/>

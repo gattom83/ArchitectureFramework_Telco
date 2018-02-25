@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyRole"
+    id="1cf21dab-c062-46db-8419-71bf64457bd5"
+    documentation="This is an abstract base class that defines the concept of various types of roles for different policies that are used in the DEN-ng model."/>

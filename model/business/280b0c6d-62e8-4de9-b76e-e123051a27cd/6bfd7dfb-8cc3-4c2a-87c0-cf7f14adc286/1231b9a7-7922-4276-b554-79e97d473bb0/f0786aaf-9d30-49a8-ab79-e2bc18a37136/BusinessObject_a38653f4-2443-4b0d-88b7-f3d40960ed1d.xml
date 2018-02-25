@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntitySpecCharValueUse"
+    id="a38653f4-2443-4b0d-88b7-f3d40960ed1d"
+    documentation="A use of the CharacteristicSpecificationValue by an EntitySpecification to which additional properties (attributes) apply or override the properties of similar properties contained in CharacteristicSpecificationValue."/>

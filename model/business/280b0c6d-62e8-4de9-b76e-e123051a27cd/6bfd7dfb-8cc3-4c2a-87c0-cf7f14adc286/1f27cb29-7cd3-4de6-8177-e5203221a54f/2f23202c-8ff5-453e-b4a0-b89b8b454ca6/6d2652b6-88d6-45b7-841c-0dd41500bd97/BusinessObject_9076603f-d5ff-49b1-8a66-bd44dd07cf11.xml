@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicSubAddress"
+    id="9076603f-d5ff-49b1-8a66-bd44dd07cf11"
+    documentation="&quot;A Geographic Sub Address &quot;&quot;contains information in addition to that generally found in a standard single address [ANZLIC-STREET]It is an abstract modeling concept that provides a linking point to other parts of the SID model.It holds attributes common to all Geographic Sub Address subclasses.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAACancelled"
+    id="416b0415-0b83-48f6-86ae-44975d3664b7"
+    documentation="This entity represents the state of cancelation of the DisputedAmount by the Customer"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Problem"
+    id="fa076580-2a21-4bd0-a1ca-d3628bac7db4"
+    documentation="&quot;General description of a problem that can be shared between service and customer. &#xA;A Problem is an indication that an entity is no longer functioning according to the agreement with its client(s). &#xA;&quot;&#x9;"/>

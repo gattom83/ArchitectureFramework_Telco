@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM_Sprint"
+    id="a9071069-3873-4545-b14b-71623375ff24"
+    documentation="SCRUM_Sprint is an element of the ProjectSchedule reflecting a time periode defining a project iteration. The SCRUM_Team commits to the processing of scheduled SCRUM_BacklogItems for a SCRUM_Sprint at the sprint planning meeting. The outcome of every SCRUM_Sprint is a SCRUM_WorkingIncrement presented by the SCRUM_Team to the ProjectCustomer at the sprint review meeting."/>

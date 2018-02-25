@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageCharacteristicValue"
+    id="42222324-ad80-474e-a7b7-9d6c874c713f"
+    documentation="A value of a UsageSpecCharacteristic that represents a attribute value for Usage."/>

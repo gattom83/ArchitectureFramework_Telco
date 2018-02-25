@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM_Task"
+    id="76c2a3a7-1e55-4740-afa3-e1b8ecb6a3f6"
+    documentation="&quot;A SCRUM_Task is a type of Activity which is part of a SCRUM_BacklogItem. The SCRUM_BacklogItem is &#xA;decomposed into SCRUM_Tasks by the SCRUM_Team. The size of a SCRUM_Task should be such that it can be processed by the ProjectConstructor it is assigned to in less than a day. The status of a SCRUM_Task is tracked on the task board of a SCRUM_Team. &#xA;&quot;"/>

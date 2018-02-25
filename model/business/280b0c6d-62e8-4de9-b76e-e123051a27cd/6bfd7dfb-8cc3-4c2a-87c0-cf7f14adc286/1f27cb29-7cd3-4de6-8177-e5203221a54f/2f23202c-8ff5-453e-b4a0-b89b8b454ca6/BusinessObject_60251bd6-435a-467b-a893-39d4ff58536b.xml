@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkRoute"
+    id="60251bd6-435a-467b-a893-39d4ff58536b"
+    documentation="A way or course taken in getting from a starting point to a destination in a network."/>

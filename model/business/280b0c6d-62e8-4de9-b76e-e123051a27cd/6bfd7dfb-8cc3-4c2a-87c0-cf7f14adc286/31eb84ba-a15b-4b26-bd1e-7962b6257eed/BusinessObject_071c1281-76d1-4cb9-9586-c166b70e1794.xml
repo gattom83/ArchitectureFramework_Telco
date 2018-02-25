@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIndicator"
+    id="071c1281-76d1-4cb9-9586-c166b70e1794"
+    documentation="A numerical value or text determined for a PerformanceIndicatorSpecification. For example, a value of .005 ms that represents average packet delay."/>

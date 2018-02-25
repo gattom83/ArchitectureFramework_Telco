@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleGeographicLocation"
+    id="9d4eee20-5aeb-4642-88e2-1cb2f8bdc66d"
+    documentation="&quot;A GeographicLocation that is composed of a single element; not compound. &#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharacteristicSpecification"
+    id="057adccd-42e9-48cb-a70a-ae703d0d05f0"
+    documentation="A quality or distinctive feature that defines an entity. The characteristic can be take on a discrete value, such as color, can take on a range of values, (for example, sensitivity of 100-240 mV), or can be derived from a formula (for example, usage time (hrs) = 30 - talk time *3)."/>

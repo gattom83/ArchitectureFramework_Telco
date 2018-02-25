@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RelativeLocalLocation"
+    id="ee180cf1-d744-4707-9d15-22bbc7292a54"
+    documentation="&quot;A LocalLocation that is defined using coordinates that are relative to another LocalLocation. &#xA;The coordinate units are defined in the LocalCoordinateSystem. &#xA;&quot;"/>

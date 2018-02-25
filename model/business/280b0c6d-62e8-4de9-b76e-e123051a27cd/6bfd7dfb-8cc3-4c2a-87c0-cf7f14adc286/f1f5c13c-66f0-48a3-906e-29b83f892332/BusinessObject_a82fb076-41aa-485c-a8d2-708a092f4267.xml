@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionType"
+    id="a82fb076-41aa-485c-a8d2-708a092f4267"
+    documentation="The possible types of BusinessInteractions that can occur. BusinessInteractionTypes can be with the associated BusinessParticipantTypes that can participate in a BusinessInteraction."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionRole"
+    id="e9c30b0f-84dd-4b24-82b6-7178a82290e8"
+    documentation="An entity involved in a BusinessInteraction. The entity may be a Party playing a PartyRole or a Resource playing a ResourceRole, such as a system."/>

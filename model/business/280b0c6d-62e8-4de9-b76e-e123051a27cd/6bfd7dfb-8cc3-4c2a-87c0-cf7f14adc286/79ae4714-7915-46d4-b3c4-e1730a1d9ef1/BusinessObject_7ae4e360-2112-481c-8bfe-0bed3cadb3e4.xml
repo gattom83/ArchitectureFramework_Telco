@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarEntryAssociation"
+    id="7ae4e360-2112-481c-8bfe-0bed3cadb3e4"
+    documentation="Allows us to associate Calendar Entries"/>

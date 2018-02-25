@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharacteristicValue"
+    id="c055ebb4-3f2f-40df-9b92-f3cac9ee4f7b"
+    documentation="A value of a CharacteristicSpecifcation chosen or entered (if no values are specified) for a Entity that further defines what the Entity is."/>

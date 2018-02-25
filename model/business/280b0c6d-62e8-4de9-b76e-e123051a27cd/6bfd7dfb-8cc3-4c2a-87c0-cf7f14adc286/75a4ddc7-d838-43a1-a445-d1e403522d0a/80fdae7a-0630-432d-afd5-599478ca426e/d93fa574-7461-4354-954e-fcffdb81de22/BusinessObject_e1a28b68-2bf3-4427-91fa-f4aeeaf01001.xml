@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VLANVariable"
+    id="e1a28b68-2bf3-4427-91fa-f4aeeaf01001"
+    documentation="This class represents using the IEEE 802.1q VLAN ID value (which is 12 bits) as part of a condition expression. Thus, only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

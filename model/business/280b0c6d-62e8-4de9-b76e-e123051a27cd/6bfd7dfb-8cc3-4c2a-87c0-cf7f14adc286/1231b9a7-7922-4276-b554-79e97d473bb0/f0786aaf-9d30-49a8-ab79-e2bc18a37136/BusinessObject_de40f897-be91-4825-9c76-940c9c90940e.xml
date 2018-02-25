@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CharacteristicSpecRelationship"
+    id="de40f897-be91-4825-9c76-940c9c90940e"
+    documentation="A aggregation, migration, substitution, dependency, or exclusivity relationship between/among CharacteristicSpecifications."/>

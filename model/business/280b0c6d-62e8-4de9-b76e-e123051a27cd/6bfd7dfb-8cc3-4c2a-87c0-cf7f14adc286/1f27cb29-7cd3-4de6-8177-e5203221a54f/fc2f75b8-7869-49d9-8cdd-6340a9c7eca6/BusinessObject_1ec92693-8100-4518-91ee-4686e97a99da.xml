@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MultiPoint"
+    id="1ec92693-8100-4518-91ee-4686e97a99da"
+    documentation="A composition of more than one Point."/>

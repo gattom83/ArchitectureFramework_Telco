@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConfigRole"
+    id="065913e7-836c-48fa-96e9-50073d96e653"
+    documentation="&quot;This is a concrete base class that defines the concept of various types of roles used to describe configuration monitoring and checking, and their use in the DEN-ng model.&#xA;&#xA;A PolicyConfigRole refines the generic concepts of a PolicyApplicationRole. Specifically, this base class is used to describe different processes required to check, change, and verify changes in the configuration of a Managed Object. For example, this includes the ability to retrieve a configuration for examination, as well as to construct, approve and deploy changes to that configuraiton.&#xA;&#xA;More detail will be provided in the next release of the DEN-ng model.&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VariableStandard"
+    id="294ede04-f6f1-4d55-b260-006c9b0ed3bd"
+    documentation="This is an abstract base class for defining a standard set of PolicyVariable objects that are common to most PBNM applications. This is the superclass for a standard set of PolicyVariable subclasses that are part of the DEN-ng model."/>

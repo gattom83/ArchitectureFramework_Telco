@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIPAddress"
+    id="67645a78-be8c-4806-9d6c-6d249b8f951f"
+    documentation="A Performance-related extension to an IP address."/>

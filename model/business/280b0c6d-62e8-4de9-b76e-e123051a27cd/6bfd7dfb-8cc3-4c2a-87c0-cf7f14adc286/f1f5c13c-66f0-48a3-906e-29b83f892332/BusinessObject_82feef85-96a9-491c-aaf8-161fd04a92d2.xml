@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceInteractionRole"
+    id="82feef85-96a9-491c-aaf8-161fd04a92d2"
+    documentation="A Resource playing a role in a Business Interaction."/>

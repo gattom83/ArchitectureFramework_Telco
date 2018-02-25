@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalContinuativeCoordSystem"
+    id="746f053a-6561-41c9-a7d8-b0e44c7de5c2"
+    documentation="A coordinate system for LocalLocations that are defined using floating point Cartesian coordinates"/>

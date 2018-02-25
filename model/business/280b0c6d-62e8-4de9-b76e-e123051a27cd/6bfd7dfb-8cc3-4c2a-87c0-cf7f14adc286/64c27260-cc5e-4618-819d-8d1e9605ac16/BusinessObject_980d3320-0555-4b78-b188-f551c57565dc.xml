@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigurationSpecification"
+    id="980d3320-0555-4b78-b188-f551c57565dc"
+    documentation="The definition of how a Resource, Service, or Product operates or functions in terms of CharacteristicSpecification(s) and related ResourceSpec(s), ProductSpec(s), ServiceSpec(s)."/>

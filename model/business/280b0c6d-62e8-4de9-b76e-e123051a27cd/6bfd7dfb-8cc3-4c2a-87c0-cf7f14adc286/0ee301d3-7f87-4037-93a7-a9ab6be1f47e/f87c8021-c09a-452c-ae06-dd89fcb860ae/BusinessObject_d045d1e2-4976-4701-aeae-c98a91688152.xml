@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagementJob"
+    id="d045d1e2-4976-4701-aeae-c98a91688152"
+    documentation="&quot;A Management Job is a management activity that may consist of several steps but is performed as a single logical unit.&#xA;&#xA;It can be a one time activity or a regular one. In the latter case , a schedule definition is attached to the management job.&quot;"/>

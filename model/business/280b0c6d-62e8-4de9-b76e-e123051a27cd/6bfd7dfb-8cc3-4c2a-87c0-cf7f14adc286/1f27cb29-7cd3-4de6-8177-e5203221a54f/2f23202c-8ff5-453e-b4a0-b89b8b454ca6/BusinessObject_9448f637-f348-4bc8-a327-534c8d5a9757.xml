@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicLocation"
+    id="9448f637-f348-4bc8-a327-534c8d5a9757"
+    documentation="A defined place on or near the earth's surface. It is an abstract modeling concept that provides a linking point to other parts of the SID model.It holds attributes common to all Geographic Location subclasses."/>

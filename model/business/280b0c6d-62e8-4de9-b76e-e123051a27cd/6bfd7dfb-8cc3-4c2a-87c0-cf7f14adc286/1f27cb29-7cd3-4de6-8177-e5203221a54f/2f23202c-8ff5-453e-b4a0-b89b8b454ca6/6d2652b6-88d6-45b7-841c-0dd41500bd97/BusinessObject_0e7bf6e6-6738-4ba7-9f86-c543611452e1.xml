@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PoBoxAddress"
+    id="0e7bf6e6-6738-4ba7-9f86-c543611452e1"
+    documentation="An optional component of a PostalDeliveryAddress that reprsents a post office box number."/>

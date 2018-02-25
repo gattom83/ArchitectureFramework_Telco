@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CostRate"
+    id="b650bcf4-f27e-422d-9b6b-b182a4840809"
+    documentation="A base / value business entity used to represent a cost per time unit. e.g. $10/hr, 33 pence/min"/>

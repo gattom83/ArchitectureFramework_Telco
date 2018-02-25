@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UrbanPropertyAddress"
+    id="0455dc6e-a8ba-4431-ac1c-acee71c0623d"
+    documentation="An UrbanPropertyAddress is a structured textual way of describing how to find a Property in an urban area (country properties are often defined differently). It is usually composed of an ordered list of Location names based on context specific rulesThis is an example of a concrete Geographic Location entity."/>

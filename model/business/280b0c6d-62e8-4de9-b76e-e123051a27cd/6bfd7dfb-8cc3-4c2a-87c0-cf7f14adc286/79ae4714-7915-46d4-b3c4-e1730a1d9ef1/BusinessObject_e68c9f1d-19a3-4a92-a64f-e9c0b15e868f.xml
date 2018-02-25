@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarJournalEntry"
+    id="e68c9f1d-19a3-4a92-a64f-e9c0b15e868f"
+    documentation="&quot;Represents &quot;&quot;one or more descriptive text notes associated with a particular calendar date&quot;&quot; [iCalendar]&#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VariableCustom"
+    id="621f70b7-dba4-4ee4-bb08-c8b1dc7bcecb"
+    documentation="&quot;There are two subclasses of PolicyVariable, called VariableCustom and VariableStandard. The VariableCustom class defines a set of standardized policy variables for use in an application-specific manner. The term &quot;&quot;custom&quot;&quot; means that such variables are explicitly designed to work with attributes that are not in any of the DEN-ng VariableStandard subclasses. This means that the particular semantics (including any applicable constraints) are not known to DEN-ng.&#xA;&#xA;This is an abstract base class that provides two basic attributes to define custom variables that can be used in an application-specific fashion.&#xA;&quot;"/>

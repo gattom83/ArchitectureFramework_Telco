@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EventTriggerDetail"
+    id="a34ff8f7-990f-45e7-b0e8-ff374f94fa96"
+    documentation="This is a class that implements the semantics needed for the IsTriggeredBy aggregation. This aggregation defines the set of Events that can be used to trigger the evaluation of this PolicyRule."/>

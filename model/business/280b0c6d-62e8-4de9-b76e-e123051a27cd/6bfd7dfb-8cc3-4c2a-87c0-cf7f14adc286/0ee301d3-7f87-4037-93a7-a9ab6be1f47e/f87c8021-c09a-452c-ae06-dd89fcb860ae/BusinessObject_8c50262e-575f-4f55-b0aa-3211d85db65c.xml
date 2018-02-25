@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FileTransferData"
+    id="8c50262e-575f-4f55-b0aa-3211d85db65c"
+    documentation="Defines the information required for a file based data transfer."/>

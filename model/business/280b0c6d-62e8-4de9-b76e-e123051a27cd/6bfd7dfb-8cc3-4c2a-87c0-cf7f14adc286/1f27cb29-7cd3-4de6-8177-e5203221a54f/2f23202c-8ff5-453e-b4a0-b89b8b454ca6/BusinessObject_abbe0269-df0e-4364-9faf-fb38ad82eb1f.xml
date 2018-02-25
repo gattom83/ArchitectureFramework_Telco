@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ExchangeLocation"
+    id="abbe0269-df0e-4364-9faf-fb38ad82eb1f"
+    documentation="A geographic loaction, typically a building, used to house the inside plant equipment of potentially several telephone exchanges, each serving a certain geographical exchange area."/>

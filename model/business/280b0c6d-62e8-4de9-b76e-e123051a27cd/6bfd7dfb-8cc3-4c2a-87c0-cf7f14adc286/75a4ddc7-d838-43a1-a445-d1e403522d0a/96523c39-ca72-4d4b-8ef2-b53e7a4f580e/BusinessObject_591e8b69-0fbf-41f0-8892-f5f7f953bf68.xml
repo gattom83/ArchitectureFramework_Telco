@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyGroupExecutionDetails"
+    id="591e8b69-0fbf-41f0-8892-f5f7f953bf68"
+    documentation="This is an association class that defines the semantics associated with a PolicyEventSet being applied to a PolicyGroup. Specifically, it controls through its ExecutionFilter attribute which components in the PolicyGroup this PolicyEventSet will be passed to, so it can be evaluated.This association defines the PolicySet that controls the execution of PolicyRules in the PolicyGroup. It is implemented as an association class to enable a filtered subset of elements in the PolicyGroup to be executed by receiving this EventSet."/>

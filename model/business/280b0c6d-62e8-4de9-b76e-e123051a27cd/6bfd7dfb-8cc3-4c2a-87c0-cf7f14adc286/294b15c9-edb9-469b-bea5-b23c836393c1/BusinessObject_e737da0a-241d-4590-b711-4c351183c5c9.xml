@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comment"
+    id="e737da0a-241d-4590-b711-4c351183c5c9"
+    documentation="Describe a comment on a problem or an alarm."/>

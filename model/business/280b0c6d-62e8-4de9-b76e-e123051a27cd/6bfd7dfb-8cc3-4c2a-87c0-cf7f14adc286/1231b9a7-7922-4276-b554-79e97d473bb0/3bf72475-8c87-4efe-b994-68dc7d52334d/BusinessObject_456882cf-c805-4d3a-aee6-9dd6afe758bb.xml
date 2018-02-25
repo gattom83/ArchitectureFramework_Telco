@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeEntityIdentification"
+    id="456882cf-c805-4d3a-aee6-9dd6afe758bb"
+    documentation="A type of EntityIdentification that is formed by aggregating other EntityIdentifications, which may be Composite or Atomic EntityIdentifications."/>

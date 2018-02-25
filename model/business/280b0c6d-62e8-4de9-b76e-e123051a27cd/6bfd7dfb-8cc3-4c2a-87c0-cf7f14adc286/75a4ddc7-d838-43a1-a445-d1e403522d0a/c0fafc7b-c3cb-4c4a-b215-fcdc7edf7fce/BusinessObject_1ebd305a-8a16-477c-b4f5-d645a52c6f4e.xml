@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventSpec"
+    id="1ebd305a-8a16-477c-b4f5-d645a52c6f4e"
+    documentation="This is an abstract base class that is used to define the invariant characteristics and behavior (attributes, methods, constraints, and relationships) of a PolicyEvent."/>

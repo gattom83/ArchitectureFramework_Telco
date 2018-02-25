@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicSite"
+    id="2d5ee470-4e63-4733-a399-8b928ef8ccd0"
+    documentation="A convenience class that allows us to easily refer to Places important to the Service Provider."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CalendarToDo"
+    id="8f327374-138d-4948-ba59-4cc2eb9010f9"
+    documentation="&quot;This represents 'an action-item or assignment. For example, it can be used to represent an item of work assigned to an individual; such as &quot;&quot;turn in travel expense today&quot;&quot;.'&#xA;&quot;"/>

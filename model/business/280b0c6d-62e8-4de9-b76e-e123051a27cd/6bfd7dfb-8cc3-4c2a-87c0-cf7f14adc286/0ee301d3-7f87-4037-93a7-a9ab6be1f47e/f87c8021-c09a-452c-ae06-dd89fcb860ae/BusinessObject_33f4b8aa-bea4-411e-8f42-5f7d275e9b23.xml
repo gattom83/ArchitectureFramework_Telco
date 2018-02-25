@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProtocolTransferData"
+    id="33f4b8aa-bea4-411e-8f42-5f7d275e9b23"
+    documentation="&quot;Defines the information required for a data transfer. It contains information needed for the data transfer, but it does not contain result information, i.e. the list of file produced is not part of this object nor of its descendants.&#xA;&#xA;This class acts as a base class for all types of possible data transfers even if currently only File Transfer is supported.&quot;"/>

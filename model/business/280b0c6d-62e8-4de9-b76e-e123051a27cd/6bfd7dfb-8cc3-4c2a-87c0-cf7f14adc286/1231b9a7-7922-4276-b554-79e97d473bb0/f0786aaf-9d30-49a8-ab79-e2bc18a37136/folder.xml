@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Characteristic ABE"
+    id="f0786aaf-9d30-49a8-ab79-e2bc18a37136"
+    documentation="A pattern (the content of the ABE) enables attributes unique to a type of entity to be created via its association to EntitySpecification and enables attributes unique to a certain entity to be created via its association to RootEntityType. A RootEntityType is an entity in the SID. For example, characteristics could be defined for entities (instances of RootEntityType) such as Product, Customer, and ProductSpecification that apply to all instances of those entities."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SurfaceSymbology"
+    id="6bcecf32-ea8d-4f2f-b820-0834c905dd35"
+    documentation="A symbol that represents a surface (any figure having only two dimensions)."/>

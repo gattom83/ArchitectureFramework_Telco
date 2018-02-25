@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyRule"
+    id="6c06a2d5-5acf-4853-9c4d-b794b0856b66"
+    documentation="&quot;This is a concrete base class for realizing the &quot;&quot;event-condition-passaction-failaction&quot;&quot; semantics that form a DEN-ng policy rule. The semantics of this rule are that the rule is evaluated when an event occurs. If the condition clause is satisfied, then the pass-action clause will be executed (otherwise, the fail-action clause will be executed). &#xA; &#xA;PolicyRules may be nested within PolicyRules. This is often needed in networking (e.g., bandwidth allocation). However, their execution semantics are different than if a PolicyGroup is contained by a PolicyRule. &#xA;&quot;"/>

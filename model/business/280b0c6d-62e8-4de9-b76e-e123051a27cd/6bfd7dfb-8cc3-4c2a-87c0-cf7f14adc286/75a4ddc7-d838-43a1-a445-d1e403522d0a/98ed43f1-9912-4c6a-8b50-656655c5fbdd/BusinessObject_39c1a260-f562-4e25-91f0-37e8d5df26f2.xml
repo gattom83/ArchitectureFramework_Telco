@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyRepository"
+    id="39c1a260-f562-4e25-91f0-37e8d5df26f2"
+    documentation="&quot;This class represents an administratively-defined logical container for storing reusable policy-related information. This is defined as PolicyGroups, PolicyRules, PolicyConditions, PolicyActions, and PolicyStatements. It can also store metadata about these policy-related objects.&#xA;&#xA;For the purposes of this definition:&#xA; - administratively-defined means that it resides in a single &#xA; policy domain&#xA; - logical container means that it may be implemented as either &#xA; separate data store, or a special area of a data store that is&#xA; used expressly to contain policy information&#xA; - policy information means policy rules and groups, their &#xA; constituent elements, and related data that may be used in&#xA; the evaluation and/or execution of policy conditions,&#xA; actions, and other policy components.&#xA;&quot;"/>

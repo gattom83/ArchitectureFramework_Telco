@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Application ABE"
+    id="98ed43f1-9912-4c6a-8b50-656655c5fbdd"
+    documentation="The Policy Application ABE defines concepts and application components that can use policy entities to manage the behavior and configuration of other entities. This consists of entities to provide policy decision-making capabilities, as well as entities to enforce and execute policies. It also includes entities required to build an NGOSS policy system. These include entities to coordinate management and usage aspects of policy as well as entities to enable policy components to scale to large distributed systems."/>

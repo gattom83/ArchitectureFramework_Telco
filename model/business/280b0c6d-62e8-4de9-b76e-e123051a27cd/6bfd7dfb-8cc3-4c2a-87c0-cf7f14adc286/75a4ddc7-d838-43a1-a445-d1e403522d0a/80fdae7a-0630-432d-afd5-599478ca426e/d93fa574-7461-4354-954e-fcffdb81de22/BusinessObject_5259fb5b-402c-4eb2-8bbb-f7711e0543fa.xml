@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPProtocolVariable"
+    id="5259fb5b-402c-4eb2-8bbb-f7711e0543fa"
+    documentation="This class represents using the value of the IP protocol number as part of a condition expression. Thus, only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

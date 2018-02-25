@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionItem"
+    id="ef0a2dd5-b3d7-4736-9b15-f759b00e8cc8"
+    documentation="The purpose for the BusinessInteraction expressed in terms of a ProductSpecification, ProductOffering, ServiceSpecification or ResourceSpecification or may refer to a Product, Service, or Resource."/>

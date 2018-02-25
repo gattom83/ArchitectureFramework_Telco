@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalContinuativeLocation"
+    id="eecfdad2-7d81-44f2-a085-5e9bf51a9142"
+    documentation="&quot;This is an abstract modeling concept that provides a linking point to other parts of the SID model. &#xA;Its subclasses are entities that are locations that are defined using floating point Cartesian coordinates &#xA;&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalGeometry"
+    id="c6106114-bf48-4388-a617-d4237534c366"
+    documentation="A measurement and relationship of lines, angles, surfaces, solids and points used for the display of LocalLocations."/>

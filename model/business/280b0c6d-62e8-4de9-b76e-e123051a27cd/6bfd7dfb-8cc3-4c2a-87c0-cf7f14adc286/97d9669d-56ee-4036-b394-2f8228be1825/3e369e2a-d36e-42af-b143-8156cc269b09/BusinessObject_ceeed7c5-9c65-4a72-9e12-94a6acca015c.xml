@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeVision"
+    id="ceeed7c5-9c65-4a72-9e12-94a6acca015c"
+    documentation="A type of Vision that is formed by aggregating other Visions, which may be composite or atomic Visions."/>

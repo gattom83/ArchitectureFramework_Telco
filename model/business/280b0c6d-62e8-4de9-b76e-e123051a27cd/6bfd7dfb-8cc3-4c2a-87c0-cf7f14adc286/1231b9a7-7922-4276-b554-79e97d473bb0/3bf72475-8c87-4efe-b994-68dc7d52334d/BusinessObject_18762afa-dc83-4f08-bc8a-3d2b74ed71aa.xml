@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RootEntityTypeIdentificationSpec"
+    id="18762afa-dc83-4f08-bc8a-3d2b74ed71aa"
+    documentation="A specification that indicates if the EntityIdentification described by the EntityIdentificationSpec is used as the primary or as a secondary identifier."/>

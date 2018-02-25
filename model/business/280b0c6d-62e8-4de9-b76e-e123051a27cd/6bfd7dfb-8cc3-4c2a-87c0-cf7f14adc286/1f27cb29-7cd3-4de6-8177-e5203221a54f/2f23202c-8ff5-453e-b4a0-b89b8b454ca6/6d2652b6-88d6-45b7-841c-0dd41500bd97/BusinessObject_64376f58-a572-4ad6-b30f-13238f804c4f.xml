@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalAddress"
+    id="64376f58-a572-4ad6-b30f-13238f804c4f"
+    documentation="&quot;An address that allows sending something (tangible or intangible) to a central point where it can be retrieved. &#xA; &#xA;For example, with email, a message is sent to the recipient’s ISP mail server. The recipient can then connect to the server from anywhere in the world and retrieve the message. The intermediate location is not of interest to the message sender.&quot;"/>

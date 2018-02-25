@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TimePeriod"
+    id="8e28ddf4-98d8-433d-9669-f3703fd083bf"
+    documentation="A base / value business entity used to represent a period of time, between two timepoints"/>

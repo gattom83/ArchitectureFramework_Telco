@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Catalog ABE"
-    id="25674a08-1bcb-401c-ac94-a52ecf72469d"/>
+    id="25674a08-1bcb-401c-ac94-a52ecf72469d"
+    documentation="A generalized ABE that represents common Catalog Specification and Catalog entities, attributes, and associations shared (inherited) by components of the Product, Service, and Resource Catalog ABEs."/>

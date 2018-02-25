@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request"
+    id="8daaee1d-d3e2-4be3-890b-4b04a913ec36"
+    documentation="The act of asking that something be done that typically involves a Response. Request is a type of Business Interaction."/>

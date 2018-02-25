@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceManagementPolicy"
+    id="91b105e0-e251-4e30-98ce-298ad8fb5749"
+    documentation="&quot;The ResourceManagementPolicy class defines the particular policies that are used to define how different aspects of the Resource are managed and maintained.&#xA;&#xA;For example, assume that a Resource is made up of several component parts, such as different Equipment. One of these Equipment might require multiple PartyRoles to approve changes to its configuration, whereas another Equipment might not require any approvals to change its configuration.&#xA;&quot;"/>

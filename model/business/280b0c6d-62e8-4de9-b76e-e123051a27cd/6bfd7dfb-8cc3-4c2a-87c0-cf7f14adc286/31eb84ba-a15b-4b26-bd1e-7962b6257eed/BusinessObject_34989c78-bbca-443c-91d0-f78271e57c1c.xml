@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceNotification"
+    id="34989c78-bbca-443c-91d0-f78271e57c1c"
+    documentation="A communication that occurs as part of measuring performance. A Notification is typically one-sided, in that no Response is expected."/>

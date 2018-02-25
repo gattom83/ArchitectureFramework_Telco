@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementFusion"
+    id="84c83b6c-9c0a-4e17-b1cf-d23dd35a86cb"
+    documentation="Is a type of ProjectElement relationship where more than one ProjectElement is succeeded by one ProjectElement. (i.e. a number of Elements are combined into a single new Element)"/>
