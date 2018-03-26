@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1 HasPartyRole *"
+    id="3eee972c-f411-417a-9a3b-8aaa4f19722e">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_297c3f51-aed8-4c6a-a76b-6b9d9bac5817.xml#297c3f51-aed8-4c6a-a76b-6b9d9bac5817"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_291148f8-c679-42b1-824d-1fdd4c9825f1.xml#291148f8-c679-42b1-824d-1fdd4c9825f1"/>
+</archimate:AggregationRelationship>

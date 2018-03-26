@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Individual"
     id="ef44f587-1da0-4a0e-83fd-2e6473ef19c6"
-    documentation="&quot;Represents a single human being (a man, woman or child). &#xA;The individual could be a customer, an employee or any other person that the organization needs to store information about. An Individual is a type of Party. &#xA;&quot;"/>
+    documentation="&quot;Represents a single human being (a man, woman or child). &#xA;The individual could be a customer, an employee or any other person that the organization needs to store information about. An Individual is a type of Party.&quot;"/>

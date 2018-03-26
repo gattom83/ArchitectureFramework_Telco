@@ -8,33 +8,48 @@
       xsi:type="archimate:DiagramModelGroup"
       id="cf392789-7812-443e-88e4-223807c5e799"
       name="MARKET / SALES DOMAIN"
-      fillColor="#fa0441">
+      fillColor="#fa0441"
+      documentation="The Market/Sales Domain includes data and contract operations that support the sales and marketing activities needed to gain business from customers and potential customers. On the Sales side, this includes sales contacts/leads/prospects through to the sales-force and sales statistics. Market includes market strategy and plans, market segments, competitors and their products, through to campaign formulation.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="12"
         y="24"
-        width="877"
+        width="1273"
         height="157"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="eafcb502-588b-4c11-85c6-f1e412cfdc03"
       name="CUSTOMER DOMAIN"
-      fillColor="#f4a389">
+      fillColor="#f4a389"
+      documentation="The Customer Domain includes all data and contract operations associated with individuals or organizations that obtain products from an enterprise, such as a service provider. It represents of all types of contact with the customer, the management of the relationship, and the administration of customer data. The Customer Domain also includes data and contract operations related to the customer bills for products, collection of payment, overdue accounts, and the billing inquiries and adjustments made as a result of inquiries.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="12"
         y="360"
-        width="877"
+        width="1273"
         height="169"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="e5b614e5-d7ad-420e-8c6b-d4b51f7286f6">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_30045d75-7b77-4bde-a21b-28ea178ea006.xml#30045d75-7b77-4bde-a21b-28ea178ea006"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c20eec2e-8c03-4eb7-bee9-cff9419eeaad"
       name="PRODUCT DOMAIN"
-      fillColor="#e79a12">
+      fillColor="#e79a12"
+      documentation="The Product Domain is concerned with the lifecycle of products and information and contract operations related to products’ lifecycle. The Domain contains Aggregate Business Entities that deal with the strategic portfolio plans, products offered, product performance, product usage statistics, as well as the product instances delivered to a customer.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="12"
         y="192"
-        width="877"
+        width="1273"
         height="157"/>
   </children>
   <children
@@ -42,33 +57,35 @@
       id="3179bb18-33cb-4f60-989f-9cc751da1832"
       name="SERVICE DOMAIN"
       fillColor="#079820"
-      documentation="El dominio del cliente incluye todos los datos y las operaciones de contratos asociados a los individuos u organizaciones que obtienen productos de una empresa, tales como un proveedor de servicios. Representa de todo tipo de contacto con el cliente, la gestión de la relación, y la administración de datos de los clientes. El dominio del cliente también incluye las operaciones de datos y contratos relacionados con las facturas de los clientes de los productos, cobro de pagos, las cuentas vencidas, y las consultas sobre facturación y ajustes realizados como resultado de las investigaciones.">
+      documentation="The Service Domain consists of a set of layered ABEs that are used to manage the definition, development, and operational aspects of Services provided. Entities in this domain support various eTOM processes that deal with the definition, development and management of services that realize products offered by an enterprise. This includes Service Level Agreements, deployment and configuration of Services, management of problems in Service installation, deployment, usage, or performance, quality analysis, and rating. Finally, this domain also includes entities to perform planning for future offerings, service enhancement or retirement, and capacity .">
     <bounds
         x="12"
         y="540"
-        width="877"
+        width="1273"
         height="152"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="56b602cb-f838-437f-9c6d-97a94dff155b"
       name="RESOURCE DOMAIN"
-      fillColor="#00b3d6">
+      fillColor="#00b3d6"
+      documentation="The Resource Domain consists of a set of layered ABEs that are used to manage the definition, development, and operational aspects of the information computing and processing infrastructure of an NGOSS system. It supports the eTOM processes that deal with the definition, development and management of the infrastructure of an enterprise. This includes the components of the infrastructure as well as Products and Services that use this infrastructure.&#xD;&#xA;&#xD;&#xA;The Resource Domain has three important objectives. The first is to associate Resources to Products and Services, and provide a detailed enough set of Resource entities (organized as ABEs) to facilitate this association. The second is to ensure that Resources can support and deliver Services offered by the enterprise. Management of resources involves planning, configuration, and monitoring to capture performance, usage, and security information. This also includes the ability to reconfigure Resources in order to fine tune performance, respond to faults, and correct operational deficiencies in the infrastructure. Resources also provide usage information which is subsequently aggregated to the customer level for billing purposes. The final objective of the Resource domain is to enable strategy and planning processes to be defined. Entities in the Resource domain may be associated with processes that involve planning new and/or enhanced Services, or even the retirement of Services, offered by the Enterprise.">
     <bounds
         x="12"
         y="708"
-        width="877"
+        width="1273"
         height="140"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="a14b84c1-99a2-441f-92ce-fbefaf1515a0"
       name="ENGAGED PARTY"
-      fillColor="#20ebfe">
+      fillColor="#20ebfe"
+      documentation="The Engaged Party Domain includes all Engaged Party-oriented data and contract operations associated with an Engaged Party. Its scope encompasses, planning of strategies vs. Engaged Parties, handling of all types of contact with the Engaged Parties, the management of the relationship, and the administration of Engaged Parties data. The Engaged Party Domain also includes data and contract operations related to the Engaged Party Bills, disputes and inquiries.&#xD;&#xA;The word “engaged” is important instead of just using the word “Party” for the domain.&#xD;&#xA;As noted in the definition “out of the universe of all parties and roles they play” many parties exist in the “universe” which do not meet the qualifications specified in the definition.&#xD;&#xA;An individual or organization may not be of interest, and may not provide value directly or indirectly to a company.&#xD;&#xA;For example, individuals in a country in which an enterprise does not operate may not satisfy the definition.&#xD;&#xA;Examples of roles played by Engaged Parties include those:&#xD;&#xA;•    Of interest, such as competitors, sales prospects &#xD;&#xA;•    That provides value directly or indirectly, such as service providers, operators, cloud brokers, infrastructure providers, application developers.">
     <bounds
         x="12"
         y="864"
-        width="877"
+        width="1273"
         height="157"/>
   </children>
   <children
@@ -79,18 +96,19 @@
     <bounds
         x="12"
         y="1044"
-        width="877"
+        width="1273"
         height="157"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4e0ebd9c-ffe3-4931-8cd6-72b5f7943f86"
       name="COMMON BUSINESS ENTITIES"
-      fillColor="#ff7f00">
+      fillColor="#ff7f00"
+      documentation="The Common Business Entities Domain represents business entities shared across two or more other domains. As such, these business entities are not “owned” by any particular domain. In some cases a common business entity represents a generic abstraction of other real-world business entities. For example, Business Interaction is an abstraction (super-class) of business entities such as Customer Order and Supplier/Partner SLA.">
     <bounds
         x="12"
         y="1224"
-        width="877"
+        width="1273"
         height="157"/>
   </children>
 </archimate:ArchimateDiagramModel>
