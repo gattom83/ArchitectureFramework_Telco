@@ -1,5 +1,96 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Framework View"
     id="5644f6f5-7707-4eba-b9f1-d83397feb11f"
-    viewpoint="information_structure"/>
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="cf392789-7812-443e-88e4-223807c5e799"
+      name="MARKET / SALES DOMAIN"
+      fillColor="#fa0441">
+    <bounds
+        x="12"
+        y="24"
+        width="877"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="eafcb502-588b-4c11-85c6-f1e412cfdc03"
+      name="CUSTOMER DOMAIN"
+      fillColor="#f4a389">
+    <bounds
+        x="12"
+        y="360"
+        width="877"
+        height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="c20eec2e-8c03-4eb7-bee9-cff9419eeaad"
+      name="PRODUCT DOMAIN"
+      fillColor="#e79a12">
+    <bounds
+        x="12"
+        y="192"
+        width="877"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="3179bb18-33cb-4f60-989f-9cc751da1832"
+      name="SERVICE DOMAIN"
+      fillColor="#079820"
+      documentation="El dominio del cliente incluye todos los datos y las operaciones de contratos asociados a los individuos u organizaciones que obtienen productos de una empresa, tales como un proveedor de servicios. Representa de todo tipo de contacto con el cliente, la gestión de la relación, y la administración de datos de los clientes. El dominio del cliente también incluye las operaciones de datos y contratos relacionados con las facturas de los clientes de los productos, cobro de pagos, las cuentas vencidas, y las consultas sobre facturación y ajustes realizados como resultado de las investigaciones.">
+    <bounds
+        x="12"
+        y="540"
+        width="877"
+        height="152"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="56b602cb-f838-437f-9c6d-97a94dff155b"
+      name="RESOURCE DOMAIN"
+      fillColor="#00b3d6">
+    <bounds
+        x="12"
+        y="708"
+        width="877"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="a14b84c1-99a2-441f-92ce-fbefaf1515a0"
+      name="ENGAGED PARTY"
+      fillColor="#20ebfe">
+    <bounds
+        x="12"
+        y="864"
+        width="877"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="6be6f6b9-58ba-457c-b11a-cb242fc1f4d7"
+      name="ENTERPRISE"
+      fillColor="#d3d3d3">
+    <bounds
+        x="12"
+        y="1044"
+        width="877"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="4e0ebd9c-ffe3-4931-8cd6-72b5f7943f86"
+      name="COMMON BUSINESS ENTITIES"
+      fillColor="#ff7f00">
+    <bounds
+        x="12"
+        y="1224"
+        width="877"
+        height="157"/>
+  </children>
+</archimate:ArchimateDiagramModel>
