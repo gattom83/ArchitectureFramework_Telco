@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Freshness"
+    id="0f19026d-4ba6-471d-bd13-841001e881fd"
+    documentation="Data must reflect the current state is no lag or delay"/>

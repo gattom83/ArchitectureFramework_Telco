@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consistency"
+    id="832e9d99-2cb9-4632-8b7e-05c7b5d211ad"
+    documentation="Any data must be consistent with other ones throughout all its life&#xD;&#xA;cycle"/>

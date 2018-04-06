@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability"
+    id="1bb1ac66-9956-44ec-867f-88641ec2e65a"
+    documentation="Data must be available whenever user needs to access to it."/>

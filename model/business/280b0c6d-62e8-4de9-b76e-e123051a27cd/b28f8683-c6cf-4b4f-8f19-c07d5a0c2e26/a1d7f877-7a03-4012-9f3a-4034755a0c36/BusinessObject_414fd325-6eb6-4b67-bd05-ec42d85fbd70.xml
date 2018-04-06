@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uniqueness"
+    id="414fd325-6eb6-4b67-bd05-ec42d85fbd70"
+    documentation="No duplicates, either multiple instances of the same data identifier&#xD;&#xA;or different identifiers associated with the data.&#xD;&#xA;"/>

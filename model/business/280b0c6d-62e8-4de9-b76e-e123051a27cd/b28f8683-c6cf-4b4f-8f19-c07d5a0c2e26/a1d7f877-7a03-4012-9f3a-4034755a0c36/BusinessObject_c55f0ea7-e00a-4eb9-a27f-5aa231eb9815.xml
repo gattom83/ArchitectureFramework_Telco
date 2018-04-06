@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Completeness"
+    id="c55f0ea7-e00a-4eb9-a27f-5aa231eb9815"
+    documentation="Data must figure all instances of Entities"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traceability"
+    id="12e1883c-47e2-4ecd-a31d-683a8ed04371"
+    documentation="Data changes are recorded in an audit trail enterprise facility"/>

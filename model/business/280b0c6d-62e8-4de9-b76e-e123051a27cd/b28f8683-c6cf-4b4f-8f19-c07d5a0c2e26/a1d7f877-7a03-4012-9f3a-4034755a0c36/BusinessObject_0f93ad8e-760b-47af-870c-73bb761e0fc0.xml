@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrity"
+    id="0f93ad8e-760b-47af-870c-73bb761e0fc0"
+    documentation="Any data should remain consistent with management rules: regarding&#xD;&#xA;mandatory and optional attributes, and other business&#xD;&#xA;rules."/>
