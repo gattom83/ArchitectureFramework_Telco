@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Leads"
+    id="024182c7-d30f-4391-89d2-ad4444d286dc"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Collection and administration of sales lead s and the associated probabilities, and for the distribution of leads to the appropriate sales channels.  Leads are collected from many processes both customer facing processes and back-end processes.  This process is responsible to ensure that processes are operating to collect leads wherever they arise, for the management of leads, and for the matching of the lead to the appropriate sales channel.  These processes are responsible for distributing the lead into the appropriate sales channel."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Sales Forecast"
+    id="5aa29b60-721f-419a-b8bf-b66be9f82146"
+    documentation="Brief Description&#xA;Distribute the sales forecast to all areas that need to know&#xA;Extended Description&#xA;Distribute the sales forecast to all parties  that need to know for budgeting, resourcing, sourcing etc. For example, executives responsible for fulfilling the sales forecast or need to be aware of the forecast&#xA;"/>

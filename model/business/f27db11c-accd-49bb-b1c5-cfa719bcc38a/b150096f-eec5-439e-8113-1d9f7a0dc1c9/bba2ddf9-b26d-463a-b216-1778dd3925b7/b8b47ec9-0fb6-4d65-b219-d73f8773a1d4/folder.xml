@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Market Segments"
+    id="b8b47ec9-0fb6-4d65-b219-d73f8773a1d4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Establish the market segmentation to be used across the enterprise&#xA;Extended Description&#xA;Establish Market Segments processes identify the market segmentation which will be used across the enterprise. These processes identify the areas within the organization responsible for the management of market segment outcomes, as well as identifying and managing reporting processes for specific market segments."/>

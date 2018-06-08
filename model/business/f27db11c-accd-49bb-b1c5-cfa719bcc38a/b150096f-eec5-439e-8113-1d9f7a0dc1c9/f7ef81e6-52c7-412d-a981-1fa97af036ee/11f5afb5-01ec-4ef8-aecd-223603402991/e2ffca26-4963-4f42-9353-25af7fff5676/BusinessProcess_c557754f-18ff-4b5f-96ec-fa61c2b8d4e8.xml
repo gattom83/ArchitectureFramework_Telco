@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Sales Contact Interaction "
+    id="c557754f-18ff-4b5f-96ec-fa61c2b8d4e8"
+    documentation="Brief Description&#xA;Analyze the results of the interaction with a contact to determine if they should be turned over to Manage Lead or  to the Manage Prospect process.&#xA;Extended Description&#xA;Analyze Sales Contact Interaction determines if a contact should be turned over to Manage Sales Lead or to the Manage Sales Prospect process. If not, then the contact's status is changed to reflect this, such as no longer of interest (to the enterprise) or inactive."/>

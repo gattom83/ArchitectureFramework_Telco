@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cataloging"
+    id="2ce47722-2ca5-445d-abe6-c4d42742030b"
+    documentation="Brief Description&#xA;Develop catalog specifications  (definitions), catalogs, and exchange catalogs among parties.&#xA;Extended Description&#xA;Cataloging is a set of generalized processes that can be used in the creation of product, service, and resource catalogs, their specifications (definitions), and exchange catalogs among parties engaged in the value fabric.&#xA;&#xA;Domain specific cataloging processes, such as Product Offering Cataloging contain only the processes specific to them.  For example, associating product offering prices with product offers in a product catalog.&#xA;&#xA;Generalized processes such as this eliminate redundant processes used to create domain specific catalogs."/>

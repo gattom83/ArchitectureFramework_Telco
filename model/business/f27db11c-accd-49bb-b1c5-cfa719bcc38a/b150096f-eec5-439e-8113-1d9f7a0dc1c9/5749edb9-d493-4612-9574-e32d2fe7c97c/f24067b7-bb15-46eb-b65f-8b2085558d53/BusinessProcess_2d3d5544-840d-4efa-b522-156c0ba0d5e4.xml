@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recommend Appropriate Product Offering(s) "
+    id="2d3d5544-840d-4efa-b522-156c0ba0d5e4"
+    documentation="Brief Description&#xA;Recommend more appropriate product offering(s) to the customer or other party based on the results of Analyze Customer or Other Party Trends.&#xA;Extended Description&#xA;Recommend Appropriate Product Offering(s) recommends more appropriate or other product offering(s) to the customer or other party that may be based on the results of Analyze Customer or Other Party Trends or based on known other offerings that represent an upsell.&#xA;&#xA;For example, a potential new partner may be offered the opportunity to have there logo and contact information added to an enterprise's application that manages a IoT device."/>

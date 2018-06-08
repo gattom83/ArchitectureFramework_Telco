@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Sales Inventory Shortcomings "
+    id="c476f980-0ed3-4fbd-8da3-f959833fdc74"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Identifying any technical driven shortcomings of the sales inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues.&#xA;Extended Description&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Contact "
+    id="11f5afb5-01ec-4ef8-aecd-223603402991"
+    documentation="Brief Description&#xA;Manage all sales contacts between potential or existing parties and the enterprise.&#xA;Extended Description&#xA;Manage Sales Contact manages all contacts between potential or existing parties and the enterprise. It deals with the creation of a contact, its development and updates to it.&#xA;&#xA;This process interacts with Customer Interaction Management and Party Interaction Management to manage the contact once an Market/Sales related interaction is initiated by a party."/>

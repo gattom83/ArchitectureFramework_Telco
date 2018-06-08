@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Lead "
+    id="7a0c4291-5211-49a8-90d8-a5a6e9e22063"
+    documentation="Brief Description&#xA;Initiate interaction with a sales lead, record additional information about a lead, and makes updates to a lead's information.&#xA;Extended Description&#xA;Develop Sales Lead initiates contact with a sales lead to acknowledge their interest via the Customer or Party Interaction Management process. It records more party information about a sales lead, such as offerings that are of interest, and updates any information about a lead based on interaction(s) with them."/>

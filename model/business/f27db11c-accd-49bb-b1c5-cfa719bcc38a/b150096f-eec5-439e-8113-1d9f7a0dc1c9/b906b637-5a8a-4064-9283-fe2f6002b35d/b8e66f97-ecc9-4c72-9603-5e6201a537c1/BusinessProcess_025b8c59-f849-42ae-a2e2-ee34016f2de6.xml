@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Choose Forecast Model"
+    id="025b8c59-f849-42ae-a2e2-ee34016f2de6"
+    documentation="Brief Description&#xA;Choose which forecast model is the most relevant to be used, from a range of qualitative and quantitative ones available&#xA;Extended Description&#xA;Choose which forecast model is the most relevant to be used, from a range of qualitative and quantitative ones available. &#xA;Qualitative models - Used where data is scarce.  For example&#xA;- Consumer or user survey&#xA;- Panel of executive opinion&#xA;- Salesforce composite, built up from internal areas&#xA;- Delphi&#xA;- Bayesian decision theory&#xA;- Product testing/Test marketing&#xA;Quantitative models - Used when there is a base of historical data to draw on.  For example&#xA;- Time series analysis&#xA;- Causal techniques"/>

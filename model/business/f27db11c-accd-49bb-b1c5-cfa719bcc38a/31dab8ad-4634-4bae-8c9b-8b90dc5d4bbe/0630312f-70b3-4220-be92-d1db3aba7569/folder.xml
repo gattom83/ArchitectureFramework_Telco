@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Lifecycle Management"
+    id="0630312f-70b3-4220-be92-d1db3aba7569"
+    documentation="Brief Description&#xA;Manage the lifecycle of a product and pricing associated with a product.&#xA;Extended Description&#xA;Product Lifecycle Management manages the lifecycle of a product and pricing associated with a product.&#xA;&#xA;It creates a product, specifies the involvement one or more parties have with it, updates information about the product, and removes the product when it is no longer of interest to an enterprise and/or the primary party responsible for the product. A product may be created when a party is browsing an enterprise's catalog, when configuring a product, or when purchasing a product offering. Note that a purchase may be made from another enterprise.&#xA;&#xA;The lifecycle of a product also includes prices associated with it which are also managed by this process."/>

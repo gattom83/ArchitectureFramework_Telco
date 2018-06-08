@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience Management"
+    id="589c3f5e-bed1-4d0e-a861-509111811ca7"
+    documentation="Brief Description&#xA;Perform customer lifecycle mapping , assess customer experience maturity, as well as analyze customer experience metrics.&#xA;Extended Description&#xA;Customer Experience Management defines the customer maturity matrix, analyze Key Capability Indicators, and determine customer maturity level for each dimension. It defines lifecycle states, map the customer to a lifecycle state periodically review and update the lifecycle, as well as analyzing the lifecycle state for cross-sections of customers. It also define customer experience KCIs/KQIs and map KQIs to lifecycle phase and channel. Capture KCIs/KQIs and perform analysis upon them."/>

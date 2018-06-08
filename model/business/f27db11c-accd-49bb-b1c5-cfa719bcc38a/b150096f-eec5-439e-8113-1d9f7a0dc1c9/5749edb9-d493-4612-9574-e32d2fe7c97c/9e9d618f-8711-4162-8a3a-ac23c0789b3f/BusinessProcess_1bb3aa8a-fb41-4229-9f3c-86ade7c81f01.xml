@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Strategic Impacts "
+    id="1bb3aa8a-fb41-4229-9f3c-86ade7c81f01"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Assess the strategic importance of the opportunity, the potential for wider application, and the importance of the specific customer to the enterprise. The solution alternatives must be available (e.g. capacity) or scheduled on a product roadmap&#xA;Assess the strategic importance of the opportunity, the potential for wider application, and the importance of the specific prospect to the enterprise. The solution alternatives must be available, such as capacity, or scheduled on a product roadmap."/>

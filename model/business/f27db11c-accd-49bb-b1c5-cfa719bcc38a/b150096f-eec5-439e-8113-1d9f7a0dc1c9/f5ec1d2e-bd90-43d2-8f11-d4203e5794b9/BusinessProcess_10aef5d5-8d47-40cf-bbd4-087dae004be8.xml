@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Sales Performance "
+    id="10aef5d5-8d47-40cf-bbd4-087dae004be8"
+    documentation="Brief Description&#xA;Analyze sales performance against forecasts and strategy&#xA;Extended Description&#xA;Analyze sales performance against forecasts, strategy, measured by e.g. sales revenue, sales growth, sales quotas, new accounts won, upselling and cross selling, referrals, win/loss ratios, client retention, customer complaints/customer satisfaction. consider describing action that happens if threshold is not met, refer here to the generic metrics that were added in 15.0"/>

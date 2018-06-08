@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Mediation &amp; Reporting"
+    id="b02e8a2d-38a2-4b60-a15e-a8a228c4880a"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage resource events by correlating and formatting them into a useful format.&#xA;Extended Description&#xA;Resource Mediation &amp; Reporting processes manage resource events by correlating and formatting them into a useful format.  These processes include the mediation and reporting of resource records.  Investigation of resource related billing event problems is also part of these processes.&#xA;&#xA;These processes are often handled by appropriate network elements."/>

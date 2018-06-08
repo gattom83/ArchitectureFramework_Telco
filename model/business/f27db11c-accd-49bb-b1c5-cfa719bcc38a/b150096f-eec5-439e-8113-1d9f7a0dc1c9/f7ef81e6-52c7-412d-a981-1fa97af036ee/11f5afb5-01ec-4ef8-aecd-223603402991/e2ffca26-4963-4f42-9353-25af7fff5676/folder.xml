@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Contact "
+    id="e2ffca26-4963-4f42-9353-25af7fff5676"
+    documentation="Brief Description&#xA;Initiate interaction with a sales contact, record additional information about the contact, and make updates a contact's information.&#xA;Extended Description&#xA;Develop Sales Contact initiates contact with a party to acknowledge their interest via the Customer or Party Interaction Management process. It records more party information about a contact, such as offerings that are of interest, and updates any information about a contact based on interaction(s) with them.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Sales Prospect "
+    id="51baa5a6-ae6d-4563-a008-19d8d8f8c9ac"
+    documentation="Brief Description&#xA;Create a sales prospect based on input from other processes, such as Analyze Sales Contact Interaction or Evaluate Sales Lead. Assign a prospect to the appropriate sales channel.&#xA;Extended Description&#xA;Identify Sales Prospect creates a sales prospect based on input from other processes, such as Analyze Sales Contact Interaction or Evaluate Sales Lead. Assign a prospect to the appropriate sales channel.&#xA;&#xA;A sales prospect is considered to be a qualified sales lead or qualified sales contact. Qualification is dependent on an enterprise's criteria. Criteria may be that the prospect has the money, the authority, and the need to acquire an enterprise's offering(s). And, that the acquisition fits within an enterprise's timeline guidelines for the acquisition; for example, acquisition will be made within the next month, two months, and so forth."/>

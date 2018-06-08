@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undertake Selling Trend Analysis"
+    id="03a5b1ac-6bf4-4722-adf2-62c86886fde3"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Undertake trend analysis on selling, including problems, successes, profit and loss. Monitor  current selling trends&#xA;Extended Description&#xA;Not used for this process element"/>

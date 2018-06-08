@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Prospect "
+    id="bec95e4f-5e9c-4909-9faf-e524b9b6e132"
+    documentation="Brief Description&#xA;Initiate interaction with a sales prospect, analyzes a prospect's needs and identifies potential solutions for them.&#xA;Extended Description&#xA;Develop Sales Prospect initiates contact with a sales prospect to acknowledge their interest via the Customer or Party Interaction Management process. It also analyzes a prospect's needs and identifies one or more potential product offerings for them. Offerings may expand or change any suggested product offerings that have already been provided to them."/>

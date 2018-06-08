@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Sales Proposals Approval"
+    id="d1699dc9-192d-4388-b01e-d7916a70f9f0"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes gain approval for proposals for sales processes and sales channels.&#xA;Extended Description&#xA;Not used for this process element"/>

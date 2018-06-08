@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Sales Prospect Needs "
+    id="63fec703-e414-4c50-adf6-f0aea9c8c0bd"
+    documentation="Brief Description&#xA;Analyze the needs of a sales prospect to identify one or more potential product offerings to recommend to a prospect.&#xA;Extended Description&#xA;Analyze Sales Prospect Needs analyzes the needs of a sales prospect. Based on the analysis of a prospect's needs, one or more potential product offerings are identified from an enterprise's product catalog to recommend to a prospect.&#xA;&#xA;The product offerings may be in addition or different than the offerings in which a prospect expressed interest. For example the offering or offerings may represent upselling/cross selling; it may be that a customized offering is needed. If this is the case then the solution is further analyzed by the Selling process.&#xA;&#xA;Initiate Interaction With Sales Prospect triggers an interaction with a party to communicate the suggested offering(s) to a party."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Balances"
+    id="ca4c5bef-8693-4d1a-a6c8-ab4d9628d699"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Management of customer and/or subscriber account balances.&#xA;Extended Description&#xA;This process is responsible for holding, calculating, applying policies and managing functionality/interfaces for the account balances of a customer and/or a subscriber. &#xA;&#xA;Here the values resulting from rating and the application of discounts are applied to a customer's balance. The balance affected by the value may be monetary or other balances such as minutes, points, or tokens. Authorizing service requests based on available balance is optional."/>

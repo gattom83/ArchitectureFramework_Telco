@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Sales Forecast Goal"
+    id="2e5806e3-b6c5-4861-8185-89f6bf7456bf"
+    documentation="Brief Description&#xA;Set the purpose of the forecast and how is it to be used. Set the  accuracy required.&#xA;Extended Description&#xA;Set the purpose of the forecast and how is it to be used. Set the  accuracy required.  This will depend on the sales strategy that is to be implemented, which may be long term (cyclical/annual) or short term (related to a promotion or planned event). Correct level of detail - not too much, not too little"/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Prospect "
+    id="38df1b2a-c626-4bac-8574-bd934ce03545"
+    documentation="Brief Description&#xA;Match a sales prospect with the most appropriate products and ensure that a prospect is handled appropriately.&#xA;Extended Description&#xA;Manage Sales Prospect matches a sales prospect with the most appropriate products and ensure that a prospect is handled appropriately. A prospect represents a “pipeline&quot; of potential sales, each of which is expressed in terms of the probability of successful sales closure and an estimate of the total attainable revenue. &#xA;&#xA;The needs of a sales prospect are analyzed. Based on these needs, potential solutions are identified from an enterprise’s product catalog. The lifecycle of a prospect is tracked, and the outcome (win or loss) for a prospect is reported. A prospect is also assigned to the appropriate sales channel."/>

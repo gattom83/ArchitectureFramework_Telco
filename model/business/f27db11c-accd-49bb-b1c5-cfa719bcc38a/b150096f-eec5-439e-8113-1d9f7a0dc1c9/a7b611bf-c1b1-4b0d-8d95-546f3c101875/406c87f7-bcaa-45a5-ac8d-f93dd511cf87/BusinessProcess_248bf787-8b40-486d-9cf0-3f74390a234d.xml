@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Sales Inventory Data Quality "
+    id="248bf787-8b40-486d-9cf0-3f74390a234d"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensuring the sales inventory repository accurately captures and records all identified sales details, through use of automated or manual audits.  Monitoring and reporting on the quality of the data maintained in the inventory. The sales inventory maintains records of all sales, sales prospects and sales leads, sales channel activity, marketing campaign targets and performance, sales commissions and any other sales related- information, required to support  both the Support Selling and the Selling processes. The sales inventory is also responsible for maintaining the association between customers and sales instances, created as a result of the Selling processes."/>

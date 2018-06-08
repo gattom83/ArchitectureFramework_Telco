@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Sales Repository "
+    id="fea9ebdc-f901-4aea-a866-8d9493c3c205"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Responsible for managing and updating sales repository / inventory&#xA;Responsible for managing and updating sales repository / inventory.&#xA;Extended Description&#xA;Not used for this process element&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is reponsible for getting customer configuration information and KPIs. This process will also update selling information into repository"/>

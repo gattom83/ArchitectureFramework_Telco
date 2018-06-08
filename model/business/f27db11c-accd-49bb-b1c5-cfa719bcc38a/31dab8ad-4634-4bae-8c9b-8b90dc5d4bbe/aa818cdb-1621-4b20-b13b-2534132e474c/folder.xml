@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product &amp; Offer Capability Delivery"
+    id="aa818cdb-1621-4b20-b13b-2534132e474c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage the delivery and build of new or changed Product &amp; Offer and delivery capabilities within an enterprise.&#xA;Extended Description&#xA;Based on the Product strategy for the enterprise, the Product &amp; Offer Capability Delivery processes manage the delivery and build of new or changed Product offering and delivery capabilities within an enterprise. It also handles their requisite infrastructure, where the technologies, scope or type/depth of infrastructure is significantly different to that currently employed in the enterprise. e.g. introduction of Third-generation Mobile Telephony networks."/>

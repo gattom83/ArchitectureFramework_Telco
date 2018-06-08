@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Capability Delivery"
+    id="7814d426-8ebb-4216-9f25-ea3392c3e5bf"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Plan and deliver the total capabilities required to deliver changes to service.&#xA;Extended Description&#xA;Service Capability Delivery processes plan and deliver the total capabilities required to deliver changes to service, as necessary. This involves integration of capability delivered from within the enterprise, and capability delivered from an external party.&#xA;Service demand forecasting and capturing of new opportunities, are both essential to ensure that the enterprise can implement the services necessary for the future needs of their customers and potential customers."/>

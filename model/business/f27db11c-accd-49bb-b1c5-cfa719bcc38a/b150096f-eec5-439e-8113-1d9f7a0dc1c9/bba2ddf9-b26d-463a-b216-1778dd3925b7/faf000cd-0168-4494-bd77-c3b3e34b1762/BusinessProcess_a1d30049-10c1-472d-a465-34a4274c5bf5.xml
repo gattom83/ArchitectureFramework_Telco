@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Market Information"
+    id="a1d30049-10c1-472d-a465-34a4274c5bf5"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Develop enterprise and business views of the market&#xA;Extended Description&#xA;Analyze Market information processes focus on developing enterprise and business views of the market, based on the analysis of the external and internal information sources. Methodologies used for developing market forecasts, as well as  the development of forecasts is managed by this process."/>

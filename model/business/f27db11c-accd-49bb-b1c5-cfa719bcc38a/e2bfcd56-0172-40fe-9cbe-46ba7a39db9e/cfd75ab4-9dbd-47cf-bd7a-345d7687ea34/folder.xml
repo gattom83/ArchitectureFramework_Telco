@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Management"
+    id="cfd75ab4-9dbd-47cf-bd7a-345d7687ea34"
+    documentation="Brief Description&#xA;Specify available capacity and capture capacity demand for defined time periods.  The consumption of available capacity by demand is captured for a given time period.&#xA;Extended Description&#xA;Capacity Management specifies available capacity and captures capacity demand for defined time periods.  The consumption of available capacity by demand is captured for a given time period.  Available capacity and/or capacity demand may be adjusted based on consumption or other factors, such as reduced infrastructure availability.  Available capacity and capacity demand can be specified as planned or actual.&#xA;&#xA;Domain specific capacity management processes, such as Product Capacity Management contain only the processes specific to them.  For example, associating product offering with capacity amounts and capacity demand.&#xA;&#xA;Generalized processes such as this eliminate redundant processes used to create domain specific capacity management processes."/>

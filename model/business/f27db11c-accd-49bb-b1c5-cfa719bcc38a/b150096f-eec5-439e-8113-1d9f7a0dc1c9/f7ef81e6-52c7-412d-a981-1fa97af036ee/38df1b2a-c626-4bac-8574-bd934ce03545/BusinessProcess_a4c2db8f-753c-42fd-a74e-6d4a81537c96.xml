@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Sales Prospect "
+    id="a4c2db8f-753c-42fd-a74e-6d4a81537c96"
+    documentation="Brief Description&#xA;Track the lifecycle of a sales prospect and record/report the outcome (win or loss) for a prospect.&#xA;Extended Description&#xA;Evaluate Sales Prospect tracks the lifecycle of a sales prospect and records/reports the outcome (win or loss) for a prospect. A prospect represents a “pipeline&quot; of potential sales, each of which is expressed in terms of the probability of successful sales closure and an estimate of the total attainable revenue. The evaluation is also based on the interactions with the sales prospect."/>
