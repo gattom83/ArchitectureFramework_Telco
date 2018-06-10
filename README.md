@@ -1,1 +1,1 @@
-# ArchitectureFramework_Telco
+# ArchitectureFramework
