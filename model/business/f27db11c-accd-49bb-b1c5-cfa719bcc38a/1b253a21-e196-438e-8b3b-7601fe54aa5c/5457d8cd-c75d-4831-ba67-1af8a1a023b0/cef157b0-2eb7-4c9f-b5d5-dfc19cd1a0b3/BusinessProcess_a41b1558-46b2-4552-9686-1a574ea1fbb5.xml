@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Billing Policy"
+    id="a41b1558-46b2-4552-9686-1a574ea1fbb5"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage billing policies associated with customer billing dispute settlements.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Manage Billing Policy process is to manage billing policies associated with customer billing dispute settlements.The process is responsible for creating a new billing policy, deleting and modifying an existing billing policy. It is also responsible for associating the specific customer billing dispute to suitable billing policy to guide SP to settle billing dispute."/>

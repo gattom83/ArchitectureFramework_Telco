@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Order Handling Organizational Changes"
+    id="72877b10-07fd-4c67-9f98-c6e9af1b6319"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Establishment and monitoring of organizational arrangements to support deployment and operation of new and/or modified customer order handling infrastructure;"/>

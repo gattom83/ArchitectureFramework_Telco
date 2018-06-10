@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Billing Cycle "
+    id="17bc4b4d-a4d5-4083-a024-9a6470c27c82"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Define the billing cycles and respective dates according to cash flow needs as established by Financial Management processes.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of the Define Billing Cycle process is to define the billing cycles and respective dates according to cash flow needs as established by Financial Management processes.&#xA;"/>

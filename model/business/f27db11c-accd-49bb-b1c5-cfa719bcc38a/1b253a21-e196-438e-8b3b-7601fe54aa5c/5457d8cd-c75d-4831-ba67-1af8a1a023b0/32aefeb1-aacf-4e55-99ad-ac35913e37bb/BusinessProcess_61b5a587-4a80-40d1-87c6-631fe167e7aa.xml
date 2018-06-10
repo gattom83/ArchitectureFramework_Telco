@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rebalance Order Handling Infrastructure Utilization"
+    id="61b5a587-4a80-40d1-87c6-631fe167e7aa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Reconfiguration and re-arrangement of under-utilized deployed customer order handling infrastructure;&#xA;Extended Description&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Address Order Handling infrastructure Issues"
+    id="aeb2dd5e-7a5d-4ea8-a6d3-7b5a55f8be08"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Detecting customer order handling infrastructure operational limitations and/or deployment incompatibilities and providing requirements to address these aspects to Marketing &amp; Offer Management processes;&#xA;"/>

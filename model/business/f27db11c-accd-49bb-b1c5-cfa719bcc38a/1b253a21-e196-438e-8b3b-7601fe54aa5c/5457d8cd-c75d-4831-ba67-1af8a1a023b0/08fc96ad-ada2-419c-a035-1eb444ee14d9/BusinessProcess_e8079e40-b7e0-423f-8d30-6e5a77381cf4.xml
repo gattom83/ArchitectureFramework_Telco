@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Customer Payment Trend "
+    id="e8079e40-b7e0-423f-8d30-6e5a77381cf4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Analyze trend on customer billing debts, alerting when pre-determined thresholds are tended to be exceeded.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Analyze Customer Payment Trend process is to analyse trend on customer billing debts, alerting when pre-determined thresholds are tended to be exceeded.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The analysis results may be utilized to guide developing billing debt policies to reduce or avoid loss of enterprise incomes."/>

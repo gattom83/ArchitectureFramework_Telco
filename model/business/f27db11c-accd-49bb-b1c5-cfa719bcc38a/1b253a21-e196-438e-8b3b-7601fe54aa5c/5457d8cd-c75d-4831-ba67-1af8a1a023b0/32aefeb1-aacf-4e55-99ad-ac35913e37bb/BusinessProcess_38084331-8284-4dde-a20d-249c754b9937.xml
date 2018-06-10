@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detect Order Handling infrastructure Shortfalls"
+    id="38084331-8284-4dde-a20d-249c754b9937"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitoring capacity utilization of deployed customer order handling infrastructure to provide early detection of potential customer order handling infrastructure shortfalls;&#xA;Extended Description&#xA;Not used for this process element"/>

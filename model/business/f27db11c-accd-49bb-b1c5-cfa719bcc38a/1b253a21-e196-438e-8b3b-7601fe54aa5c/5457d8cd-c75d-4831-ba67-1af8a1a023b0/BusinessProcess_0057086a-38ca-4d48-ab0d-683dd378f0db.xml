@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Manage Balance"
+    id="0057086a-38ca-4d48-ab0d-683dd378f0db"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that all information and systems are available so that the Manage Balance processes can be completed without delay.&#xA;Extended Description&#xA;The purpose of the Support Manage Balance processes is to make sure that there is capability (for example, information, systems and resources) so that the Support Manage Balance processes can operate effectively. For example policy defined to mange balance (e.g. minimum allowable balance limit, balance expiration dates), account information needed to operating the balance.&#xA;These processes undertake trend analysis on balance management.&#xA;"/>

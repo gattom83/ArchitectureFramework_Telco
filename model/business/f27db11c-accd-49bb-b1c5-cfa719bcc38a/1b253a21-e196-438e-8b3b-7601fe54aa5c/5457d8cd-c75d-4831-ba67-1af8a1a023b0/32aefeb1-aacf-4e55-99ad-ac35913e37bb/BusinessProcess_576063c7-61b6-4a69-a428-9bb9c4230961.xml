@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Order Handling Infrastructure Capacity "
+    id="576063c7-61b6-4a69-a428-9bb9c4230961"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Reporting on deployed customer order handling infrastructure capacity;&#xA;Extended Description&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Order Handling Capability"
+    id="ee772430-b2a6-48dd-b7a3-129ea2e2bb75"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that there is capability (for example, information, materials, systems and resources) so that the Order Handling processes can operate effectively. Examples are materials needed to confirm customer order requests and systems needed to validate product offering availability.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>
