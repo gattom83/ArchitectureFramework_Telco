@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Customer Inventory Data Quality "
+    id="704e2b93-e1e8-41f8-a8dc-b0b53d068508"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensuring the customer inventory repository accurately captures and records all identified customer details, through use of automated or manual audits. Monitoring and reporting on the quality of the data maintained in the inventory. The customer inventory maintains records of all customers, their interactions with the enterprise, any contracts established, and any other customer related- information, required to support CRM and other processes."/>

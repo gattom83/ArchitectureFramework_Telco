@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Order Handling Infrastructure "
+    id="22934158-fbb6-4fb9-8cdd-0d6d592f5ba0"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Managing recovery and/or removal of obsolete or unviable customer order handling infrastructure;"/>

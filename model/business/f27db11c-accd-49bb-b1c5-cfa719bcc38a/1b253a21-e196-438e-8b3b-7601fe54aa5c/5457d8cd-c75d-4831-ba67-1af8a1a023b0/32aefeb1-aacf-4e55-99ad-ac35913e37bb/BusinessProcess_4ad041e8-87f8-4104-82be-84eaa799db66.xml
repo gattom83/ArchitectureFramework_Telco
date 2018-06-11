@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Order Handling Procedures"
+    id="4ad041e8-87f8-4104-82be-84eaa799db66"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Authoring, reviewing and approving operational procedures developed by Marketing &amp; Offer Management processes prior to customer order handling infrastructure deployment;&#xA;Extended Description&#xA;Not used for this process element"/>

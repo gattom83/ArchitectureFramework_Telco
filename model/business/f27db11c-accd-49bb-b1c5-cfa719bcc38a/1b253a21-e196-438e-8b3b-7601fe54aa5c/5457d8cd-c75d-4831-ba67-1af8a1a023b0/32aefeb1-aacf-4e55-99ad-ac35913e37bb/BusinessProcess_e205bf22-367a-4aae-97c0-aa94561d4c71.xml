@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Order Handling Notification "
+    id="e205bf22-367a-4aae-97c0-aa94561d4c71"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Establishing and managing customer order handling notification facilities and lists to support the Order Handling notification and reporting processes&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory"/>

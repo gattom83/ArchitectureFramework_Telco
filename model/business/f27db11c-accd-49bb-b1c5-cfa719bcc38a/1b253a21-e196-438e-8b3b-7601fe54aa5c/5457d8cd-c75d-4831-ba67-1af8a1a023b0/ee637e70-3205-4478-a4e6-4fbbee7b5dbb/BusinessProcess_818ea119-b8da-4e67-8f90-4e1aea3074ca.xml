@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Billing Trend "
+    id="818ea119-b8da-4e67-8f90-4e1aea3074ca"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Undertake trend analysis on invoice generation, production and distribution issues.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Analyze Billing Trend process is to analyse trend on invoice generation, production and distribution issues, including volume per billing cycle.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;These analysis results may be utilized to improve the operational efficiency of Bill Invoice Management processes, reduce operational costs and enhance customer experience."/>

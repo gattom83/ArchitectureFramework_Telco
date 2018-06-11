@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undertake Order Handling Trend Analysis "
+    id="ed0d7d74-b942-455f-ab1a-89aee0d724d8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Undertake trend analysis on order handling, such as time taken to complete a customer order, frequency and type of Order Handling process issues involved, and cancelled orders.&#xA;Extended Description&#xA;Not used for this process element"/>
