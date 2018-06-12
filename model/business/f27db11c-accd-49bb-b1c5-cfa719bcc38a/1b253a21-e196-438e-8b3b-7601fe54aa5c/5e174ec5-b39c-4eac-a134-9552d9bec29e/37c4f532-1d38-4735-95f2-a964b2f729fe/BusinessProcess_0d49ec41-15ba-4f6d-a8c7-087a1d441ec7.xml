@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Customer Order Status "
+    id="0d49ec41-15ba-4f6d-a8c7-087a1d441ec7"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Record, analyze and assess the customer order status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Order Handling process, including specific reports required by specific customers.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Root Causes "
+    id="42d53a39-1357-4cf8-ae56-6b06f7331c78"
+    documentation="Brief Description&#xA;Analyzing the root cause &#xA;of a customer experience.&#xA;Extended Description&#xA; Analyze Root Causes process involves analyzing the root cause of a particular customer experience. This experience may either be negative or positive. Different techniques such as a fishbone diagram might be utilized."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain Configuration Information "
+    id="37c4c1c5-19d6-45af-9eb3-15b2107ffb95"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to get the service configuration information.&#xA;Mandatory&#xA;Acquisition of configuration information from the ITIL CMS and the placement of the customer problem in a known category and priority.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The Obtain Configuration Information process will notify the Categorize &amp; Prioritize Customer Problem process when the information is gathered. And will also interact with configuration management."/>

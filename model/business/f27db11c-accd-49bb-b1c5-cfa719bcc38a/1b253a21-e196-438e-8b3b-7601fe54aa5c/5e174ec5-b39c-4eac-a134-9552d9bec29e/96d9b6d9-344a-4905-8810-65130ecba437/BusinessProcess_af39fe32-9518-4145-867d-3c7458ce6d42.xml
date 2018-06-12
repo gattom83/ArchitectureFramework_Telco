@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Customer Order "
+    id="af39fe32-9518-4145-867d-3c7458ce6d42"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Issue a customer order, creating a record of the relevant initiating sales request and the associated customer order.  Where the initiating request for a purchased product offering has special or unusual requirements, if a specific feasibility assessment has been previously undertaken, create a record of the relevant initiating request information.  If a specific feasibility assessment has not been previously undertaken, mark the issued customer order as requiring special handling.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use."/>

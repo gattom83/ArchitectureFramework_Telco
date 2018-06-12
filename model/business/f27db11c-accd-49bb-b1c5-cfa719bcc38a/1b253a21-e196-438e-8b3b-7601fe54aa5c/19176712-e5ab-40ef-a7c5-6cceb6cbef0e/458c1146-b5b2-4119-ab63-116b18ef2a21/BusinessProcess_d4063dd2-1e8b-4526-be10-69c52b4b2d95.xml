@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Known record "
+    id="d4063dd2-1e8b-4526-be10-69c52b4b2d95"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;When a root cause and permanent fix or workaround are identified for a customer problem. A record is created to identify the problem along with any associated root-cause, fix and workarounds.&#xA;Mandatory&#xA;The record include the details of the problem and the symptoms&#xA;that occurred, together with precise details of any workaround or fix that can be taken to restore the service and/or resolve the problem.&#xA;Optional&#xA; An incident count that can be useful to determine the frequency with which problems are likely to recur and influence priorities."/>
