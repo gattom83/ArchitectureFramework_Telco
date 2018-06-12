@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Items For Charging "
+    id="ba0866db-1c52-4663-b96f-197b21c7f74d"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manages the accumulation of items that may be used in the selection of a value or in calculation of a rate/discount.&#xA;Extended Description&#xA;This process is responsible for accumulating contributing items, which can be quantities, values (monetary or other) or both. Aggregation can occur over time or can be initiated to gather a “snapshot&quot; of the items at a point in time.&#xA;&#xA;The aggregated items may be used in Perform Rating or Apply Rate Level Discounts to determine the applicable price or discount and may further be used as a quantity in the calculation of a rate or discount.&#xA;Explanatory&#xA;Reserved for future use.&#xA;"/>

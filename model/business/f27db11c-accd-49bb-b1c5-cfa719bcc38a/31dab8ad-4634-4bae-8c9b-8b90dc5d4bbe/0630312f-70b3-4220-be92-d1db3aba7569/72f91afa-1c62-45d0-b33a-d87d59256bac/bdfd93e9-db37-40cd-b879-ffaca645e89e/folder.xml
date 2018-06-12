@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Product Price "
+    id="bdfd93e9-db37-40cd-b879-ffaca645e89e"
+    documentation="Brief Description&#xA;Apply a product price to a product. The price may be influenced directly or indirectly by a policy.&#xA;Extended Description&#xA;Apply Product Price applies a product price to a product. The price may be influenced directly or indirectly by a policy.  A price may be a single price, a group of prices, or part of the group.  For example, a group may consist of a recurring payment for base usage of the product, such as the number of times medical information can be sent to a doctor each month, and another price for any usage that exceeds the base.&#xA;&#xA;The price may also be dependent on a policy or a policy may determine another price to apply to the product or some other product.  For example, viewing more than a defined number of videos may result in a free view for a family member. Policies are defined when the product offering is developed and associated with an item on a product offering purchase."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Customer Information "
+    id="95a33348-0ed5-4504-915e-0b5c6db43ceb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Incorporate into the customer profile, all relevant information gathered through all contacts with the customer (usage pattern, demographics, life stage, household, community of interest, business direction). Customer and market information from other sources may be gathered, which will build a better understanding of the customer. The purpose of this process is to ensure that Service Provider and the customer feel confident that the relationship is founded on up-to-date, accurate and legally compliant information.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

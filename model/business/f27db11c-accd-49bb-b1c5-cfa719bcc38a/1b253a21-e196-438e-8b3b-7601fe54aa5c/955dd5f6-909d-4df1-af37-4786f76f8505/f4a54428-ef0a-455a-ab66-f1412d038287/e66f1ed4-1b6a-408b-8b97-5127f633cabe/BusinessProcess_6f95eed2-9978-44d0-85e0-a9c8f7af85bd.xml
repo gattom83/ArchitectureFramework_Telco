@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Customer Personalization Information "
+    id="6f95eed2-9978-44d0-85e0-a9c8f7af85bd"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Collects Personalization Information about customers. This also discourages switching since the customer would have to build up the same Personalized experience with the next Service Provider.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This also discourages switching since the customer would have to build up the same Personalized experience with the next Service Provider.&#xA;Mandatory&#xA;Collects Personalization Information about customers.&#xA;Optional&#xA;Not used for this process element"/>

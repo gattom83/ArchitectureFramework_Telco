@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Agreed Customer Bill Adjustment "
+    id="0a6008f7-ffe6-4ad4-b11b-9bff5dc9af7c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Apply and review any adjustment agreed in the previous billing period and make these included to the bill invoice.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;In general, the adjustments are due to errors in customer bill invoices in previous billing periods or problems related to products and services delivered to the customer by the Service Provider or partners.&#xA;Mandatory&#xA;The purpose of the Apply Agreed Customer Bill Adjustment process is to ensure that any adjustments which have been agreed between customer and Service Provider are included in the customer bill invoice.&#xA;Optional&#xA;Not used for this process element"/>

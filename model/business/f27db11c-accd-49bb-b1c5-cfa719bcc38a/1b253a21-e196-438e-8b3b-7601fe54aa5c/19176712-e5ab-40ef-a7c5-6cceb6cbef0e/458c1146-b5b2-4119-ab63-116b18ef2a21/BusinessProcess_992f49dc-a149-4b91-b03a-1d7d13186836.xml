@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Root Cause / Check for Workarounds"
+    id="992f49dc-a149-4b91-b03a-1d7d13186836"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Investigate the customer problem cause and check for workarounds or temporary fix.&#xA;Mandatory&#xA;Verify the configuration of the customer’s product. Look for the root cause of the customer problem. If the cause is determined, recommend a workaround or a temporary fix for the problem.&#xA;Optional&#xA;Run various tests and/or diagnostics."/>

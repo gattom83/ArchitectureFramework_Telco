@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Outbound Purchase Party "
+    id="4667c82a-7e87-437a-b0b7-df63930c6ef9"
+    documentation="Brief Description&#xA;Select the party or parites to whom an outbound product offering purchase in the form of an product offering order will be sent.&#xA;Extended Description&#xA;Select Outbound Purchase Party identifies the most appropriate party or parties, to whom a  product offering purchase may be sent. The selection of the party is  based on the particular product, service and/or resource requirements and the feasibility of a party being able to meet the requirements."/>

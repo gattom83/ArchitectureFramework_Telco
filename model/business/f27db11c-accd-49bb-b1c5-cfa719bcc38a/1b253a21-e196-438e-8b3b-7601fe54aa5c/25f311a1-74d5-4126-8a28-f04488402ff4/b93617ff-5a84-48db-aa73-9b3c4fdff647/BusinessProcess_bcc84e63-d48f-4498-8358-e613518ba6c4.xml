@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Take QoS Violation Action "
+    id="bcc84e63-d48f-4498-8358-e613518ba6c4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Take the appropriate actions when a soft threshold is crossed or the agreed QoS is violated.  Ensure that action is undertaken to resolve the degradation or violation&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Take the appropriate actions when a soft threshold is crossed or the agreed QoS is violated.  Ensure that action is undertaken to resolve the degradation or violation"/>

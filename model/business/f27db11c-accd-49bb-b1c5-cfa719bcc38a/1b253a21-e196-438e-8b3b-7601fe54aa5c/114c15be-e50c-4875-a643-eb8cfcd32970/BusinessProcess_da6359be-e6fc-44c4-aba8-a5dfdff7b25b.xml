@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Customer interaction "
+    id="da6359be-e6fc-44c4-aba8-a5dfdff7b25b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitor the status of a customer interaction.&#xA;Extended Description&#xA;The purpose of this process is to  monitor the status of a customer interaction, provide notifications of any changes and provide management report. These processes record, analyze and assess the customer interaction status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Customer Interaction Management process. These specialized summaries could be specific reports required by specific customers.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element."/>

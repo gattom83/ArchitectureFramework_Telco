@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Product Business Case Approval "
+    id="f25124d7-434b-4f7a-983e-6df781d2a0fa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes capture all activities required to gain the necessary level of approval for a business case to develop and deliver the required capabilities. The processes include any cross-enterprise co-ordination and management functions to ensure that the business case is supported by all stakeholders.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

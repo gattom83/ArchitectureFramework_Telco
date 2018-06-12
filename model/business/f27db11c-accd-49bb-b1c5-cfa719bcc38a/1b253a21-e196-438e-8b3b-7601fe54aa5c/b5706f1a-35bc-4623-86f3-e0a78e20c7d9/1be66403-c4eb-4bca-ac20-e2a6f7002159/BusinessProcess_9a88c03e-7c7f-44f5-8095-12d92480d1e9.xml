@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Customer Bill Inquiry "
+    id="9a88c03e-7c7f-44f5-8095-12d92480d1e9"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Request cancellation of existing customer bill inquiry reports&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Cancel Customer Bill Inquiry process is to cancel existing customer bill inquiries.&#xA;Optional&#xA;The cancellation may be caused by the cancellation requests of bill inquiry from the specific customers, a CSR or processes."/>

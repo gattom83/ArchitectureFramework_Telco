@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Product Features/Properties "
+    id="d7b61ce1-8178-4092-a1af-a62cc913a5d7"
+    documentation="Brief Description&#xA;Create features/properties associated with the product.&#xA;Extended Description&#xA;Create Product Features/Properties creates product features/properties chosen during the Product Offering Purchasing process or chosen by this process if the product is created outside of the Product Offering Purchasing process .  This is done if the Product Configuration process is not used to create them."/>

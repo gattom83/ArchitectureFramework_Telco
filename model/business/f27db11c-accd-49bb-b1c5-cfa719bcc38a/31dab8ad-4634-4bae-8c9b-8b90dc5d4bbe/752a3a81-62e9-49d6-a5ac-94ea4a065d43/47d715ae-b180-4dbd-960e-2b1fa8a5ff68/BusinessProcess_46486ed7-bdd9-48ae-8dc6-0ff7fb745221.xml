@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Product Offering Purchase Selection "
+    id="46486ed7-bdd9-48ae-8dc6-0ff7fb745221"
+    documentation="Brief Description&#xA;Change any information about a product offering chosen for purchase.&#xA;Extended Description&#xA;Change Product Offering Purchase Selection changes any information about a product offering chosen for purchase.  Information can include the quantity selected, the price, or the components of a customized product offering."/>

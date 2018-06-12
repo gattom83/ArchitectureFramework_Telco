@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Inter-Product Specification Association "
+    id="464b1f97-529b-45d6-b5c5-e768f235626a"
+    documentation="Brief Description&#xA;Define associations (relationships) between and among product specifications.&#xA;Extended Description&#xA;Define Inter-Product Specification Association defines associations (relationships) between and among product specifications.  These associations represent business rules, such as migration, substitution, dependency, or exclusivity between and among the specifications."/>

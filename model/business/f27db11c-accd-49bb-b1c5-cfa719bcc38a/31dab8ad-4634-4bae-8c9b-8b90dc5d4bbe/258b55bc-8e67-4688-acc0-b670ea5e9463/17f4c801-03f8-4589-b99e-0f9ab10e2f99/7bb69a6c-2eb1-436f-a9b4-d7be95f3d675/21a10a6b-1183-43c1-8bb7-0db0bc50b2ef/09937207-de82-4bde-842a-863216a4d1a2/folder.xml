@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop  Algorithmic Product Offering Pricing Matrix "
+    id="09937207-de82-4bde-842a-863216a4d1a2"
+    documentation="Brief Description&#xA;Define a product offering pricing matrix based on a matrix specification,  the content of matrix cells, as well as the specific product offering to which it applies.&#xA;Extended Description&#xA;Develop  Algorithmic Product Offering Pricing Matrix defines (creates, modifies, and removes) a product offering pricing matrix based on a matrix specification, the content of matrix cells, as well as the specific product offering to which it applies.  The cells represent the values for the product features/properties, such as excess data usage rates, product offering prices that will be charged/allowed, and values for algorithmic evaluation, such as student, normal, or very important person (VIP) types of customers.&#xA;&#xA;Note that features/properties are also known as characteristic specification values."/>

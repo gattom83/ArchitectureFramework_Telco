@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activate Product "
+    id="c322efd9-61f3-4f95-85a6-51d8e78e12b7"
+    documentation="Brief Description&#xA;Activate a product which is typically done after it has been configured or any required services and/or resources have been configured and activated.&#xA;Extended Description&#xA;Activate Product activates a product, which is typically done after it has been configured or any required services and/or resources have been configured and activated. Processes responsible for activating services and resources provide activation notification to this process."/>

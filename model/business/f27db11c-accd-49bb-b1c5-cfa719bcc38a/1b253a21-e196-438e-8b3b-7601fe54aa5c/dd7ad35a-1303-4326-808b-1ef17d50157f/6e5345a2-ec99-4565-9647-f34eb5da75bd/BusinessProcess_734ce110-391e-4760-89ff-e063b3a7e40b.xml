@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Overdue Invoice "
+    id="734ce110-391e-4760-89ff-e063b3a7e40b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Identify invoices which are overdue for payment.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA; i.e. check whether the payments are made on time, and implements necessary activities and policies to recover amounts overdue.&#xA;Mandatory&#xA;The purpose of Identify Overdue Invoice process is to identify invoices which are overdue for payment. It monitors the amount due from the customer&#xA;Optional&#xA;Not used for this process element"/>

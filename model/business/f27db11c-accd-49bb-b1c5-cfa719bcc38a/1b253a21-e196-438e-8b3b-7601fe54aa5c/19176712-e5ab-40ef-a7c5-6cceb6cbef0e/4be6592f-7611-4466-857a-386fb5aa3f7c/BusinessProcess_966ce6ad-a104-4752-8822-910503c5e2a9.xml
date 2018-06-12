@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Customer Problem "
+    id="966ce6ad-a104-4752-8822-910503c5e2a9"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Initiate escalation of customer problem reports as necessary&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Ensure that escalation is being invoked as required for any open customer problem reports in jeopardy.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Operations Management "
+    id="b16bd3ca-ef7b-46f8-adb3-975d38971f36"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Allow different operations to be performed on the managed balance.&#xA;Extended Description&#xA;Balance operations processes the charged events, using balance policies and then guides the results towards the relevant balance containers. Operations include :&#xA;- Reserving amounts from any balance for any session, and crediting unused reservations back into the balance, when a session is released. &#xA;- Updating balances by applying charges to the balance and credit/debit adjustments.&#xA;- Balance queries.&#xA;- Transferring amounts from one balance to another.&#xA;Explanatory&#xA;Reserved for future use.&#xA;"/>

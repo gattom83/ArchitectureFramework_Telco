@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate Billing Events "
+    id="2e477767-d1ad-4b77-a5d0-bf55084e2558"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Edits and reformats data for recipient applications.&#xA;Extended Description&#xA;The Mediate Billing Events process edits and reformats the data record to meet the needs of a recipient application.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use."/>

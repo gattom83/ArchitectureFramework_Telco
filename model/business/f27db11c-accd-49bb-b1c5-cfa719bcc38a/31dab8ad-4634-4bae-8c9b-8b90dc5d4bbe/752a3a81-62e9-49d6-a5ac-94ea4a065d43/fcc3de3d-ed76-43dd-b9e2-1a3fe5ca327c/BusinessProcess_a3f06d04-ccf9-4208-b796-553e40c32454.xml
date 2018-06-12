@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Cancelled Product Offering Purchase Impacted Party "
+    id="a3f06d04-ccf9-4208-b796-553e40c32454"
+    documentation="Brief Description&#xA;Notify any impacted party or parties that a product offering purchase has been cancelled.&#xA;Extended Description&#xA;Notify Cancelled Product Offering Purchase Impacted Party notifies any impacted party or parties that a product offering purchase has been cancelled.&#xA;&#xA;Impacted parties may include a partner to whom an order has been sent to fulfill all or part of the product offering purchase."/>

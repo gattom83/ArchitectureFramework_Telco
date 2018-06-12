@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Customer Order Status Notification "
+    id="d85406b5-014c-4e65-bfd9-fd4936b6c309"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage notifications to processes and other parties registered to receive notifications of any status changes.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

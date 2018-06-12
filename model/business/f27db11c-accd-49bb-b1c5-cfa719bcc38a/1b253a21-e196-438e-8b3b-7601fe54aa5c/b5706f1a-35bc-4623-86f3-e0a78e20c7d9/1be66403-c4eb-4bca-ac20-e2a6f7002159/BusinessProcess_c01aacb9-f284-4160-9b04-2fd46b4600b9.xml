@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Customer Bill Inquiry Jeopardy Status "
+    id="c01aacb9-f284-4160-9b04-2fd46b4600b9"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitor the jeopardy status of open customer bill inquiries&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Monitor Customer Bill Inquiry Jeopardy Status process is to monitor the jeop-ardy status of open customer bill inquiries. This process is responsible for keeping close watch over the resolving progress. When customer bill inquiry isn’t handled in time, this process will escalate customer billing inquiry for notification."/>

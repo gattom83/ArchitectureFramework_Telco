@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop  Algorithmic Product Offering Pricing Matrix Specification "
+    id="388a50a1-6f5a-448d-a16d-995cc08bb0e7"
+    documentation="Brief Description&#xA;Define the matrix and its rows and columns and other dimensions.  The rows and columns represent the criteria evaluated to determine the charge/allowance.&#xA;Extended Description&#xA;Develop  Algorithmic Product Offering Pricing Matrix Specification defines (creates, modifies, and removes) the matrix and its rows and columns and other dimensions of a multi-dimensional matrix.  The rows and columns represent the criteria evaluated to determine the charge/allowance.  They represent such things as types of product features/properties, types of product offering prices, algorithmic specific criteria such as type of customer, and so forth.&#xA;&#xA;Note that properties/features are also known as characteristic specifications."/>

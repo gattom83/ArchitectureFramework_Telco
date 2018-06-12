@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Catalog Specification "
+    id="e24e946c-6769-4edf-901a-2ffbcbcc1e44"
+    documentation="Brief Description&#xA;Define, update, and remove the specification for a product offering catalog.&#xA;Extended Description&#xA;Develop Product Offering Catalog Specification defines, updates, and removes the specification for a product catalog. It uses the generalized Develop Catalog Specification process to develop a specific type of catalog specification, in this case a product offering catalog specification."/>

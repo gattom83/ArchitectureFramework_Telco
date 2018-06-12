@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archive Customer Data "
+    id="953ef796-993b-4019-94e0-070f1a37bb6b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Archive the customer data.&#xA;Extended Description&#xA;The purpose of this process is to archive and clean up customer data when it is no longer needed as part of the customer inventory. The information is archived according to the CSP policies and the local regulations. In most cases customer information is not deleted unless this is specifically required by the customer."/>

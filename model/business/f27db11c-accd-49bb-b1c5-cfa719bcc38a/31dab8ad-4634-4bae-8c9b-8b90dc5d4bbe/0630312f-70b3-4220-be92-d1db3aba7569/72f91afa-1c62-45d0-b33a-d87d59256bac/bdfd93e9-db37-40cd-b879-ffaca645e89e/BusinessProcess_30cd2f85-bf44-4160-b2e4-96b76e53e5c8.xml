@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associate Price to Product "
+    id="30cd2f85-bf44-4160-b2e4-96b76e53e5c8"
+    documentation="Brief Description&#xA;Associate a product price to a product. A price may be a single price, a group of prices, or part of the group.&#xA;Extended Description&#xA;Not used for this process element."/>

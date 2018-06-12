@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect QoS Information "
+    id="465eedb6-b976-48f2-b002-18ccf5ab0884"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Collect service and resource performance information analyzed and reported by the Report Service Quality Performance and Report Resource Performance processes.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Collect service and resource performance information analyzed and reported by the Report Service Quality Performance and Report Resource Performance processes."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Product Offering Inventory Data Quality "
+    id="895b85df-e694-4d6a-9996-f15858d85f7f"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensuring the product offering inventory repository accurately captures and records all identified product offering details, through use of automated or manual audits. Monitoring and reporting on the quality of the data maintained in the inventory. The product offering inventory maintains records of all product offerings, their interactions with the enterprise, and any other product offering related- information, required to support CRM and other processes. The product offering inventory is also responsible for maintaining the association between customers and purchased product offering instances, created as a result of the Order Handling processes."/>

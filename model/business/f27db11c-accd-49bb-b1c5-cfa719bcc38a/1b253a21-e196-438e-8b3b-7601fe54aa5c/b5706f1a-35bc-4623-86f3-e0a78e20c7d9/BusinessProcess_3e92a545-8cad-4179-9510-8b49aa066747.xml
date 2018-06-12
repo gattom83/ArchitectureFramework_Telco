@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Customer Bill Inquiry Report "
+    id="3e92a545-8cad-4179-9510-8b49aa066747"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Close a customer bill inquiry report when the bill inquiry/complaint has been resolved.&#xA;Extended Description&#xA;The objective of the Close Customer Bill Inquiry Report processes is to close a customer bill inquiry report when the bill inquiry/complaint has been resolved.&#xA;&#xA;These processes monitor the status of all open customer bill inquiry reports, and recognize that a customer bill inquiry report is ready to be closed when the status is changed to cleared.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use."/>

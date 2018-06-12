@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Customer QoS Report Status "
+    id="387a69dd-afcb-4979-be51-0d6a2e9ac005"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Modify the customer QoS performance degradation report status&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Modify the customer QoS performance degradation report status&#xA;Optional&#xA;Not used for this process element"/>

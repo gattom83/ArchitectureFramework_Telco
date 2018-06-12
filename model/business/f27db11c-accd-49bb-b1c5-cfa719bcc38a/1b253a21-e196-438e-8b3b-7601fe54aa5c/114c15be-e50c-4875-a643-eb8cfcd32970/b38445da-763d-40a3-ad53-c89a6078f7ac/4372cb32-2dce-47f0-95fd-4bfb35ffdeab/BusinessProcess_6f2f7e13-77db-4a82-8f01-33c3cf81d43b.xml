@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Request "
+    id="6f2f7e13-77db-4a82-8f01-33c3cf81d43b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Receives the request and either enables its originator to automatically fulfill it, or identifies and activates the opportune process to accomplish the request&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Handle a request to make changes This could be a request to change  to enable customer/ subscriber, to start or  stop making use of specific products and services&#xA;Mandatory&#xA;receives the request and either enables its originator to automatically fulfill it, or identifies and activates the opportune process to accomplish the request. Determine type of stakeholder request&#xA;"/>

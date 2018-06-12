@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finalize Customer Problem Report "
+    id="d5edbdd2-62e1-44af-9590-ad2e1768b969"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that a problem affecting the customer is solved.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;It is used to close a customer problem report when the problem affecting the customer is solved.&#xA;Mandatory&#xA;Change the customer problem report status to cleared.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Restoration "
+    id="9ecd4fd8-1c4a-4925-8f0b-7576b70afbf8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process attempts to restore the purchased product offerings to a normal operational state as efficiently as possible.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Attempts to restore the purchased product offerings to a normal operational state as efficiently as possible.&#xA;Optional&#xA;Not used for this process element"/>

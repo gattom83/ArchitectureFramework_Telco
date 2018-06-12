@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Pricing "
+    id="72f91afa-1c62-45d0-b33a-d87d59256bac"
+    documentation="Brief Description&#xA;Apply, update, and remove a price associated with a product.&#xA;Extended Description&#xA;Product Pricing applies, updates, and removes a price associated with a product. A price may be applied when a party is browsing an enterprise's catalog (a form of window shopping that is supported by the Product Offering Purchase Lifecycle Management process), when configuring a product, or when purchasing a product offering.&#xA;&#xA;The price may be what is paid when it is purchased or other types of charges due at some point in the future, such as recurring and usage based charges that are determined by a product's price."/>

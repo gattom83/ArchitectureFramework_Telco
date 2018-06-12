@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Customer Record "
+    id="92c0d3f7-89f3-4be5-877c-2409f892dd08"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Create a new customer record in the customer inventory.&#xA;Extended Description&#xA;The purpose of this process is to create a new customer record in the customer inventory. This process follows the processes in Establish Customer Relationship that make sure that a single record is created for each customer, and it persists the customer data in the customer inventory.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;"/>

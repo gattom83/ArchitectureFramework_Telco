@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Offering Associations "
+    id="4f81c6e8-04c2-4f9c-9302-4359fc6c03ba"
+    documentation="Brief Description&#xA;Associate a product offering with other entities, such as ales channels, market segments, and locations.&#xA;Extended Description&#xA;Not used for this process element"/>

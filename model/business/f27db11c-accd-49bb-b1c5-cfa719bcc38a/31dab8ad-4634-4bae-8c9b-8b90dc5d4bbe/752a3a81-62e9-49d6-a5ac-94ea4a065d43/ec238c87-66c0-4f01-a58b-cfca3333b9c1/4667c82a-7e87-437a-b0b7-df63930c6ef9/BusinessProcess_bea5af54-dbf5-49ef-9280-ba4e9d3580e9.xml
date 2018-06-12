@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select External Party "
+    id="bea5af54-dbf5-49ef-9280-ba4e9d3580e9"
+    documentation="Brief Description&#xA;Select the party to whom an outbound product offering purchase in the form of an product offering order will be sent.&#xA;identify the most appropriate external party or parties amongst those with whom an appropriate agreement exists.&#xA;Extended Description&#xA;Select Outbound Purchase Party identifies the most appropriate party parties, to whom a  product offering purchase may be sent. The selection of the party is  based on the particular product, service and/or resource requirements and the feasibility of a party being able to meet the requirements.&#xA;Select External Party identifies the most appropriate external party or parties amongst those with whom an appropriate agreement exists. Based on the particular product, service and/or resource requirements, select the most appropriate party from the range of parties with whom a agreement exists."/>

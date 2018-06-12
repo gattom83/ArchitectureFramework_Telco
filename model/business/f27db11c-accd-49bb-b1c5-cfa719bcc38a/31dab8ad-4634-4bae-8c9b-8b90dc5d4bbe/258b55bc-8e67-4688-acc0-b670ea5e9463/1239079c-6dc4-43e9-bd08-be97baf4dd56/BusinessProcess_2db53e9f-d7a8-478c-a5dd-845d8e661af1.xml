@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Product Specification "
+    id="2db53e9f-d7a8-478c-a5dd-845d8e661af1"
+    documentation="Brief Description&#xA;Remove a product specification, either by deleting it or indicating it is no longer valid.&#xA;Extended Description&#xA;Remove Product Specification removes a product specification, either by deleting it or indicating it is no longer valid.  When all associated Product Offerings have been deemed no longer viable and there are no Product Offerings planned the Product Specification is removed. Notifications are sent to Service Development &amp; Retirement and Resource Development and Retirement processes so that they can determine if the associated service and resource specifications should also be removed.  Additionally a notification may be sent to the Party Offering Development &amp; Retirement process so that it can determine if any on-boarded specifications should also be removed."/>

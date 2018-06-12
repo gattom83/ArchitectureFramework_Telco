@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Product Information "
+    id="826010b0-82eb-43ef-b215-34afdca73b7f"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Establish and management of  external providers and internal  resources for providing product information.&#xA;Extended Description&#xA;Gather Product information processes  focus on establishment  and Management of relationships with external providers of product information, and management of internal resources used for providing product information.&#xA;&#xA;Information may also be gathered by interacting with processes that perform competitive analysis, market research, and market analysis."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Capacity Demand "
+    id="1d54fd43-f45f-4062-8aa0-e9fc51c41784"
+    documentation="Brief Description&#xA;Perform all applicable generalized  capacity management processes associated with product capacity demand.&#xA;Extended Description&#xA;Develop Product Capacity  Demand performs all generalized  capacity management processes associated with product capacity demand, such as capturing capacity demand, consuming available capacity, monitoring capacity demand, and adjusting capacity demand.&#xA;&#xA;Specific to product capacity  demand  is defining its associations with product specifications, product offerings, and products."/>

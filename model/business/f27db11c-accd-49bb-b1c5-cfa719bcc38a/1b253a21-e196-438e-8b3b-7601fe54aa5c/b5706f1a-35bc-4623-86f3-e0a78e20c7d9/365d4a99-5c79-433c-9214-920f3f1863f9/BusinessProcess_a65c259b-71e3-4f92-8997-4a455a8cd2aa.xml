@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Customer Bill Inquiry "
+    id="a65c259b-71e3-4f92-8997-4a455a8cd2aa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Verify whether the information supplied by the customer is correct.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;For examples: verify customer name, validate customer account number, identify the association of customer and billing account.&#xA;Mandatory&#xA;The purpose of Verify Customer Bill Inquiry process is to verify whether the information sup-plied by the customer is correct.&#xA;"/>

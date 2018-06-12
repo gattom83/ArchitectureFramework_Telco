@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorize Transaction Based on Balance "
+    id="a00aefb8-7181-4980-8ba5-1b279e73223c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manages authorization of service/ product requests based on available balances (monetary or non-monetary) and policies.&#xA;Extended Description&#xA;This process may include balance reservation and must be performed online. &#xA;Subsequent balance updates are not required to be done in real-time. In this context a service is provided by the network, e.g. voice call. Product is digital content delivered via the network, e.g. content such as music, games, etc."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Product Provisioning Activity "
+    id="f616ea4a-5e18-4d78-814e-e33ed0855123"
+    documentation="Brief Description&#xA;Request product provisioning activities to prevent anticipated customer/party problems.&#xA;Extended Description&#xA;Request Product Provisioning Activity requests product provisioning activities to prevent anticipated customer/party problems associated with product identified during analysis.&#xA;&#xA;Maintenance is actually performed on the underlying service(s) and/or resource(s) used to realize the product.&#xA;"/>

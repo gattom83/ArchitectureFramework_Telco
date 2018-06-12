@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Time to Restore Service "
+    id="ed149f08-883d-4809-8b6e-0e21a5008acb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Update the time taken to restore a configuration or Service after a failure; measured from the time the service failed until it was fully restored to its normal functionality.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The Update Time to restore Service process will notify the Finalize Customer Problem Report process when the update is completed."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Customer Bill Inquiry Root Cause "
+    id="e21f4097-baf3-4512-8b15-dfe41408462f"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Identify the root cause on customer bill inquiry.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Identify Customer Bill Inquiry Root Cause is to identify the root cause on cus-tomer bill inquiry and make the results available to other processes. Once the root cause is identified, this process will notify Modify Customer Bill Inquiry process to update the customer bill inquiry report.&#xA;"/>

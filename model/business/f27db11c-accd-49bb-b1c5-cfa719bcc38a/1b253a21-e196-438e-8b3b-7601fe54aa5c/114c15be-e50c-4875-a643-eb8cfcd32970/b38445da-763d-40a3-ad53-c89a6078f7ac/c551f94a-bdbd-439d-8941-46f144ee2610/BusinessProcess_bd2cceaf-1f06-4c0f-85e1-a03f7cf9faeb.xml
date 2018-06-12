@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestrate Customer Interactions "
+    id="bd2cceaf-1f06-4c0f-85e1-a03f7cf9faeb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Where required, orchestrates interactions with external parties so that messages and transactions are undertaken with defined and agreed orchestration for message exchange.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Where required, orchestrates interactions with external parties&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;messages and transactions are undertaken with defined and agreed orchestration for message exchange."/>

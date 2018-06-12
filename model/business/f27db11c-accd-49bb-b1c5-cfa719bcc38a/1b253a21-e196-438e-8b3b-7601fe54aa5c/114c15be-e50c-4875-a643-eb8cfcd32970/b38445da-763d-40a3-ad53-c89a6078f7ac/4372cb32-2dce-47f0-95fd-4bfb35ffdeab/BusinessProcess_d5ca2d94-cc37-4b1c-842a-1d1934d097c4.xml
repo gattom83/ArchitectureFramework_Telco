@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Request Status "
+    id="d5ca2d94-cc37-4b1c-842a-1d1934d097c4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manages the status of the request and is able to provide status information at any moment in which the request is active&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;manages the status of the request and is able to provide status information at any moment in which the request is active. Track business events using the request status; each of  which is governed  by  rules, followed by  a set of actions to reach the next status"/>

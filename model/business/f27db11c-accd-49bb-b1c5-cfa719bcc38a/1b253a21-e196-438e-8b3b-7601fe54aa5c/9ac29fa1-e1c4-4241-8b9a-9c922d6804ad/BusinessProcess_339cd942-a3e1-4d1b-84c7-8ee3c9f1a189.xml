@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Rating"
+    id="339cd942-a3e1-4d1b-84c7-8ee3c9f1a189"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Calculating the value of the service/product, before, during or after the rendering of the service.&#xA;Extended Description&#xA;Process responsible for calculating the value of the service/product, before, during or after the rendering of the service, based on parameters of the request (type, quantity, etc.), parameters of the customer/subscriber (tariffs, price plans, accumulated usage, contracts, etc.) and other parameters (time-of-day, taxes, etc.). The same request maybe rated differently for different subscribers based on their purchased offers or service agreements.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use."/>

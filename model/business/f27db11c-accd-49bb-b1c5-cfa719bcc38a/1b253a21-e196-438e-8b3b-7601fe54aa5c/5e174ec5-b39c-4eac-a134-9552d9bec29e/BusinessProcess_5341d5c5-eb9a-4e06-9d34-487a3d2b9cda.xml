@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorize Credit "
+    id="5341d5c5-eb9a-4e06-9d34-487a3d2b9cda"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Assess a customer's credit worthiness in support of managing customer risk and company exposure to bad debt&#xA;Extended Description&#xA;The purpose of the Authorize Credit processes is to assess a customer’s credit worthiness in support of managing customer risk and company exposure to bad debt. This process is responsible for initiating customer credit checks and for authorizing credit and credit terms in accordance with established enterprise risk and policy guidelines&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use."/>

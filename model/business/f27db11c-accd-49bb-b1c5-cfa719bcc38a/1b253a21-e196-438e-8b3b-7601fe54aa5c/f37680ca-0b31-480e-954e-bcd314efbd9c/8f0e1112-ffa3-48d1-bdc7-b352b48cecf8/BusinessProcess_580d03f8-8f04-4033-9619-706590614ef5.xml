@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Billing Event Usage "
+    id="580d03f8-8f04-4033-9619-706590614ef5"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that the event records used in the billing process relate to the correct customer billing account and products.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;A specific event record may be related to multiple customer billing accounts and subscribed products.&#xA;Mandatory&#xA;The purpose of Ensure Event Record Usage process is to ensure that the event records used in the billing process relate to the correct customer billing account and products.&#xA;Optional&#xA;Not used for this process element&#xA;"/>

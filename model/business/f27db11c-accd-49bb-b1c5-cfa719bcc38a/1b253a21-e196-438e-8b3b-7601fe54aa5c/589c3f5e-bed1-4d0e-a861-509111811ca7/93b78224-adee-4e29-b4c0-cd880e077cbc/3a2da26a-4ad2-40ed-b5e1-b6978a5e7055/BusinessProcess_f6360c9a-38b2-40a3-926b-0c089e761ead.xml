@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Metrics Per Touchpoint"
+    id="f6360c9a-38b2-40a3-926b-0c089e761ead"
+    documentation="Brief Description&#xA;Selecting relevant &#xA;metrics per touchpoints.&#xA;Extended Description&#xA;Select Metrics Per Touchpoint involves selecting the relevant metrics that need to be measured at each customer lifecycle touchpoint. This enables a quantifiable value to assess/indicate the customer experience at the touchpoint."/>

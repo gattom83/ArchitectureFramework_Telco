@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide New  Product Offering Business Proposal Notification "
+    id="9cce0a91-ca58-4588-8bdd-b0e1a78bff99"
+    documentation="Brief Description&#xA;Issue a new product offering business proposal to parties involved in the approval of it or to other parties involved in some way with the approval process.&#xA;Extended Description&#xA;Provide New Product Offering Business Proposal Notification issues notifications to  parties involved in the approval of it or to other parties involved in some way with the approval process.  the parties may be those who approve the proposal or those that are informed about it, and so forth.&#xA;&#xA;It also identifies involved parties to whom notifications should be sent.  These parties are specified by the Manage New Product Offering Notification Involved Party process."/>

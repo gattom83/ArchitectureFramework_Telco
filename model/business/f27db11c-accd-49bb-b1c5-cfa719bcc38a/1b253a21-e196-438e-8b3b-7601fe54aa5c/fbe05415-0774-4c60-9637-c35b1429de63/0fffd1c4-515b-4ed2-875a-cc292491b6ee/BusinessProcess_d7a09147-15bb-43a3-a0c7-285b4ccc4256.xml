@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain Billing Events "
+    id="d7a09147-15bb-43a3-a0c7-285b4ccc4256"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Accept billing events that have been collected, translated, correlated, assembled, guided and service rated before determining the information would be applied to the customer’s bill invoice(s).&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;This includes events that have been collected, translated, correlated, assembled, guided and service rated.&#xA;Mandatory&#xA;The purpose of the Obtain Billing Events process is to ensure that all billing events for services delivered to the customer by the Service Provider are available for processing."/>

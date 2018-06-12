@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check for major outage "
+    id="76fc8f8b-ab6f-44ba-ad2d-40baed71a743"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Check if the problem is general or specific.&#xA;Mandatory&#xA;Check if the problem is related to major system/service outage and not only to a specific customer or group of customers.&#xA;Optional&#xA;Not used for this process element"/>

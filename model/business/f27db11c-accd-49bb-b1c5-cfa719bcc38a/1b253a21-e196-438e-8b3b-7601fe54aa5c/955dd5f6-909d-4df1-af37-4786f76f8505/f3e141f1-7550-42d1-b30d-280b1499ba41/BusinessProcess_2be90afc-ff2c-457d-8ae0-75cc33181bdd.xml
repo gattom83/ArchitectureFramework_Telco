@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Unique Customer ID "
+    id="2be90afc-ff2c-457d-8ae0-75cc33181bdd"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure only one customer identity exists across the Enterprise.&#xA;Extended Description&#xA;The purpose of this process is to ensure only one customer identity exists across the Enterprise, which can be referenced across the whole Enterprise and allows the customer to quickly and easily identify himself. Before establishing an identity for a new customer  de-duplication check is performed.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Price Variable "
+    id="3f2006e3-7fb7-4bc4-af90-f9ea7e6710b0"
+    documentation="Brief Description&#xA;Develop a product offering price variable that represents a product offering, product offering price, or product specification type.&#xA;Extended Description&#xA;Develop Product Offering Price Variable develops (creates, updates, and removes)a product offering price variable that represents a product offering, product offering price, or product specification type.&#xA;&#xA;A variable is part of a policy that can be used to form a policy statement. The variable specifies an attribute or concept that should either be matched or in some way compared to a value when a condition is evaluated or set to some value when an action is taken.  For example, &quot;get two of five software packages&quot;.&#xA;&#xA;If some cases the variables value is determined via the use of a derivation algorithm."/>

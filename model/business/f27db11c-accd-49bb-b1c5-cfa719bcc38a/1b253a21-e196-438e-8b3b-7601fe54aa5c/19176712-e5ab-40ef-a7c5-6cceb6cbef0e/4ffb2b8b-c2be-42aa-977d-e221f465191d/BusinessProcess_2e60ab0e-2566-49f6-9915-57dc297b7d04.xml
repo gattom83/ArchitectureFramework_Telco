@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Customer Problem Management Summaries "
+    id="2e60ab0e-2566-49f6-9915-57dc297b7d04"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process issues specialized summaries of the efficiency and effectiveness of the overall Customer Problem resolution process.&#xA;These specialized summaries could be specific reports required  by specific audiences.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Issue specialized summaries of the efficiency and effectiveness of the overall S/P problem resolution process. These specialized summaries could be specific reports required by specific audiences."/>

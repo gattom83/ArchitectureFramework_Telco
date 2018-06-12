@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Customer Problem Report "
+    id="02e8eb16-c45e-4009-9b31-e7b825e0e920"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to Create a new customer problem report including all necessary customer information.&#xA;Mandatory&#xA;Capture all the necessary customer information and related problem details and include them in the new Customer Problem Report.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The Generate Customer Problem Report process will notify the Obtain Configuration Information process when the report creation is complete."/>

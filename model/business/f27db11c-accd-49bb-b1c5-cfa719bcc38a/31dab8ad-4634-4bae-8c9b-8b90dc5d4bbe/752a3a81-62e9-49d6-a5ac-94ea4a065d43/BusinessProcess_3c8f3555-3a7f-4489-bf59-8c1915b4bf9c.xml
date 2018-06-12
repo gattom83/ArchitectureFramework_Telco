@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Product Offering Purchase "
+    id="3c8f3555-3a7f-4489-bf59-8c1915b4bf9c"
+    documentation="Brief Description&#xA;Close a product offering purchase when all offerings it contains have been fulfilled.&#xA;Extended Description&#xA;Close Product Offering Purchase closes a product offering purchase when all offerings it contains have been provisioned, fulfilled, paid for (if payment is required at the time the purchase is made), and delivered. This includes any offerings that may have been backordered."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Product Offering Purchase Cancellation "
+    id="f92a90c2-2e3a-459b-a305-1d9dd5e2fe2c"
+    documentation="Brief Description&#xA;Approve a request to cancel a product offering purchase.&#xA;Extended Description&#xA;Approve Product Offering Purchase Cancellation approves a request to cancel a product offering purchase. The ability to cancel an order may be subject to certain rules, such as it can't be cancelled if it has already in the process of being delivered.&#xA;&#xA;Acknowledgement  Is sent to the purchasing party via email, web, and so forth."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Product Offering Purchase Quantity "
+    id="cf4d925f-5ced-4adb-be58-4a3c1ea91573"
+    documentation="Brief Description&#xA;Specify the quantity of the product offering that is being purchased.&#xA;Extended Description&#xA;Specify Product Offering Purchase Quantity specifies the quantity of the product offering that is being purchased. In the case of a bundled product offering quantities offerings in the bundle may also be chosen if this is an available option."/>

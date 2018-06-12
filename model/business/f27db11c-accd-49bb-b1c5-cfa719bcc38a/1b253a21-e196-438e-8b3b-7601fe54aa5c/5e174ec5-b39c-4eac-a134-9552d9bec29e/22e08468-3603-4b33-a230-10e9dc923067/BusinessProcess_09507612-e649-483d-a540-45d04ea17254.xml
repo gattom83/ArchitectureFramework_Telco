@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Impact Analysis "
+    id="09507612-e649-483d-a540-45d04ea17254"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Analyses the customer order for further impact particularly deals with RFCs (request for change)&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to determine the impact on feasibility of customer orders. After determination on feasibility of customer orders, impact analysis will detect the need of change. It determine the impact on customer solution service components.&#xA;Mandatory&#xA;Analyses the customer order for further impact particularly deals with RFCs (request for change)&#xA;Optional&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Customer Bill Inquiries "
+    id="6c37306d-030a-4954-8dbb-b086a4d46e04"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitor the status of customer bill inquiries continuously.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA; The monitoring starts when a customer bill inquiry is created until it is cancelled or closed.&#xA;Mandatory&#xA;The purpose of Monitor Customer Bill Inquiries process is to continuously monitor the status of all customer bill inquires. The process is responsible for logging all the status changes on customer bill inquiries including creation, modification, cancellation and etc.&#xA;Optional&#xA;Not used for this process element"/>

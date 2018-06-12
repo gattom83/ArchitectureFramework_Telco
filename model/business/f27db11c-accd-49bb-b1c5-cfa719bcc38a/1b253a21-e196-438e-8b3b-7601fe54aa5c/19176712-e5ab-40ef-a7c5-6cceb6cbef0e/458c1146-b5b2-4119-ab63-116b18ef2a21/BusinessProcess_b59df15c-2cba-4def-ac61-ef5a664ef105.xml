@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create customer problem restoration plan "
+    id="b59df15c-2cba-4def-ac61-ef5a664ef105"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Create a plan for restoration&#xA;Mandatory&#xA;The primary aim is to put a plan to restore the ‘normal service’ to the&#xA;customer as quickly as possible. That should include anything that is needed to allow the customer to return to the nomral working , in order to minimize business impact"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Choose Product Offering Purchase Price "
+    id="9aec5656-ceda-4ede-b36c-4d46760db38c"
+    documentation="Brief Description&#xA;Choose a price for the product offering that is being purchased if more than one can be chosen.&#xA;Extended Description&#xA;Choose Product Offering Purchase Price chooses a price for the product offering that is being purchased if more than one can be chosen. If the price is based on one or more configurable features/properties the features/properties selected are provided to the Product Configuration process.&#xA;&#xA;A price associated with a product offering may be overridden by a party with the authority to do so.&#xA;&#xA;The price may  be dependent on a policy or a policy may determine another price to apply to the product  offering or some other product offering.  For example, viewing more than a defined number of videos may result in a free view for a family member. Policies are defined when the product offering is developed."/>

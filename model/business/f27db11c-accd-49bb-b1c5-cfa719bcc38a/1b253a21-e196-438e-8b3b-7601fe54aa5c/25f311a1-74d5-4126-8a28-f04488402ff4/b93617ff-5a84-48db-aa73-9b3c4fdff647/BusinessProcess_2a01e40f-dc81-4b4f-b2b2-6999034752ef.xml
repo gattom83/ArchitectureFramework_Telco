@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Follow-up QoS Violation Action "
+    id="2a01e40f-dc81-4b4f-b2b2-6999034752ef"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Follow up the actions to ensure that the customer is satisfied with the resolution of the problem&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Follow up the actions to ensure that the customer is satisfied with the resolution of the problem&#xA;Optional&#xA;Not used for this process element"/>

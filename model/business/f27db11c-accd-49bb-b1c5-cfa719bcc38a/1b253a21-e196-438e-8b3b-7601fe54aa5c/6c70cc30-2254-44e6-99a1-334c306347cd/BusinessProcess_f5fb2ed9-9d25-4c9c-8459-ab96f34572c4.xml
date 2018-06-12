@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Customer Data "
+    id="f5fb2ed9-9d25-4c9c-8459-ab96f34572c4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Update the customer data in the customer inventory.&#xA;Extended Description&#xA;The purpose of this process is to update the customer data in the customer inventory. This can happen as a result of direct notification from the customer, as a result of information gathered as part of other processes ( such as selling and order handling) or as a result of back office processes (such as customer data cleansing) .&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element.&#xA;Optional&#xA;Not used for this process element."/>

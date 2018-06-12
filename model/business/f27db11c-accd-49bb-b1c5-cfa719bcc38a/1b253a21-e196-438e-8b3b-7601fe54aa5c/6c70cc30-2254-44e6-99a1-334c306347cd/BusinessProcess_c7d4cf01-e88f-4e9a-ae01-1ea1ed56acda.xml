@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Customer Data Change "
+    id="c7d4cf01-e88f-4e9a-ae01-1ea1ed56acda"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Notify other processes that customer data has been changed&#xA;Extended Description&#xA;The purpose of this process is notify other processes that customer data has been changed. Other processes (mostly long-lived processes) might need to know about such changes in order to adapt to such changes. In addition some processes which gather the data for centralized systems (such as Data Warehouse or Master Data Management) should be notified about such changes."/>

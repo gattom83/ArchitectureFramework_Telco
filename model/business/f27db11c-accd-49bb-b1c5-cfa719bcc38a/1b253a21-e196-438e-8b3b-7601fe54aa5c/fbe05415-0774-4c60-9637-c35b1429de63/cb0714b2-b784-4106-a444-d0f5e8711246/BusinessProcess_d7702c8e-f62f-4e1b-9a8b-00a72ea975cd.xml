@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Electronic Invoice "
+    id="d7702c8e-f62f-4e1b-9a8b-00a72ea975cd"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Deliver the electronic copy of an invoice to customers.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;The flow of this process can be viewed as an extension of the company’s e-business strategy. In this case, the Service Provider would render an invoice electronically, via the Internet for example.&#xA;Mandatory&#xA;The purpose of Deliver Electronic Invoice process is to deliver the electronic copy of an invoice to customers.&#xA;Optional&#xA;Not used for this process element&#xA;"/>

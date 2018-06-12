@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Customer Interaction "
+    id="1388ed78-ca90-411f-b32d-bf3a909df9a4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Close the customer interaction.&#xA;Extended Description&#xA;The purpose of this process is to close the customer interaction when both parties agree that the interaction is closed.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element.&#xA;Optional&#xA;Not used for this process element.&#xA;"/>

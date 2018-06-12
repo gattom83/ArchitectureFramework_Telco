@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Customer Bill Inquiry Analysis and Adjustment Activities "
+    id="1b4fb508-ae6c-432b-be42-e1b638c63359"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Assign analysis and specific customer bill inquiry/complaint adjustment activities.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Assign Customer Bill Inquiry Analysis and Adjustment Activities process is to assign analysis and specific customer bill inquiry/complaint adjustment activities. This process is responsible for decomposing an activity to subsequent tasks and appointing other processes to accomplish them.&#xA;Optional&#xA;Not used for this process element&#xA;"/>

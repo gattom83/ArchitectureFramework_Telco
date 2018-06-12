@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Journey Phase "
+    id="7ab8ad36-462a-4cd1-958a-d96c928c51c3"
+    documentation="Brief Description&#xA;Selecting relevant&#xA; journey phases that need to be analyzed&#xA;Extended Description&#xA;Select Journey Phase process involves utilizing the TMForum Experience Lifecycle model to select relevant journey phases per channel to be analyzed for a particular journey.   For example analyzing how a customer &quot;Pays&quot; through different channels such as Website, IVR, Franchisee, etc."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Prototyping "
+    id="a23be6c8-fc86-4501-8114-7fb9fee378bd"
+    documentation="Brief Description&#xA;Iteratively develop a product offering to a state that enables it to be tested in some way.&#xA;Extended Description&#xA;Product Offering Prototyping iteratively develops a product offering.  Product Offering Development &amp; Retirement processes develop each iteration of the offering to a state that enables it to be tested in some way by the Product Offering Development &amp; Retirement’s Conduct Product Offering Acceptance Testing process.  Tests can be conducted internally, in the form of a pilot, or field trial.  Tests are measured against defined acceptance criteria.  Identified improvements/enhancements are made during the next iteration based on test results.  Once the final iteration tests are accepted the offering is rolled out  and launched to the market at large.&#xA;&#xA;Note:  This process is not further decomposed, because the process uses existing Product Offering Development &amp; Retirement processes."/>

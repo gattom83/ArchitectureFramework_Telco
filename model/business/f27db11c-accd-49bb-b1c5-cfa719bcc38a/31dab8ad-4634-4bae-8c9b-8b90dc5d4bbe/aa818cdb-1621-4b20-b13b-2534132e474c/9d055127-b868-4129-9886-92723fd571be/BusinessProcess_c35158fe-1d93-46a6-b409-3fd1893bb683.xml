@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Product Infrastructure Requirements "
+    id="c35158fe-1d93-46a6-b409-3fd1893bb683"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes provide input into the requirements capture processes in the Service and Party Offering Development &amp; Retirement processes, and potentially the Resource domain process groupings.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Customer Information "
+    id="b0ef546d-40be-445a-9bc7-ca9677bf16cb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Makes available Customer Information to any process that needs to access it. This customer information will be used to continually refine the means and style of interaction, and the solution sets and customer experience offered.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

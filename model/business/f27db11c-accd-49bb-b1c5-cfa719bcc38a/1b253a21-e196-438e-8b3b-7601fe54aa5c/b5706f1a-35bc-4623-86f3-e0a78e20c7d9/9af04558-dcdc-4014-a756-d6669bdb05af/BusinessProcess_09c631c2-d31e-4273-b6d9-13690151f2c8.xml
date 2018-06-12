@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Customer Bill Invoice Adjustment "
+    id="09c631c2-d31e-4273-b6d9-13690151f2c8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Record the results of the adjustment if approved into the records relating to the customer’s bill invoice.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Record Customer Bill Invoice Adjustment process is to record the results of the adjustment if approved into the records relating to the customer’s bill invoice. This process is responsible for recording the entire adjustment events including adjustment operator, timestamp and detailed reason, for management purpose.&#xA;Optional&#xA;Not used for this process element"/>

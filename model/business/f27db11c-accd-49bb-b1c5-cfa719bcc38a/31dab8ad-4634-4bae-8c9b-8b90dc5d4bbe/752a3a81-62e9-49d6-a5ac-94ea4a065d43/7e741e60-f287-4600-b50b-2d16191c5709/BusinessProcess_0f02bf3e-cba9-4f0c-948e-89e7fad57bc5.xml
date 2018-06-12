@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finish Product Offering Purchase "
+    id="0f02bf3e-cba9-4f0c-948e-89e7fad57bc5"
+    documentation="Brief Description&#xA;Mark a product offering purchase as completed (finished).&#xA;Extended Description&#xA;Finish Product Offering Purchase marks a product offering purchase as completed (finished) after other processes, such as those that collect payment, billing/invoicing information, and delivery information.&#xA;&#xA;Notify other processes, such as infrastructure configuration (Service/Resource) to fulfill the purchase."/>

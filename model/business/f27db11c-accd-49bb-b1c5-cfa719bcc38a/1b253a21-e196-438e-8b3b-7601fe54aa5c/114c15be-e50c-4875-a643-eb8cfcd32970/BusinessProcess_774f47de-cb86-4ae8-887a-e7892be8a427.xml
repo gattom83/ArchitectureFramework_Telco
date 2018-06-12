@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Customer Interaction "
+    id="774f47de-cb86-4ae8-887a-e7892be8a427"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Create a record that logs the customer interaction.&#xA;Extended Description&#xA;The purpose of this process is to create a record that logs the customer interaction. The customer interaction can be initiated by the customer or by the enterprise.&#xA;"/>

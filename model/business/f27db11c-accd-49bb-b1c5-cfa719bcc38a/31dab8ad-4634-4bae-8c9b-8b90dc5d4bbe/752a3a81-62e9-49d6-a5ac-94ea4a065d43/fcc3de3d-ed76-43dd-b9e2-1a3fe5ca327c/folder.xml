@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Product Offering Purchase "
+    id="fcc3de3d-ed76-43dd-b9e2-1a3fe5ca327c"
+    documentation="Brief Description&#xA;Cancel a product offering purchase, notify any impacted parties, and acknowledge the cancellation.&#xA;Extended Description&#xA;Cancel Product Offering Purchase cancels a product offering purchase, notifies any impacted parties, and acknowledges the cancellation. The ability to cancel an order may be subject to certain rules, such as it can't be cancelled if it has already in the process of being delivered.&#xA;&#xA;Impacted parties may include partners to whom a order may have been sent to fulfill all or part of the product offering purchase. Acknowledgement  Is sent to the purchasing party via email, web, and so forth."/>

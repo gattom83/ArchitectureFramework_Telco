@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Billing Event Related Process "
+    id="779e0795-fc5e-47de-91ef-ab409540c73d"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Support other processes such as customer review of billing events (pre-billing and post-billing).&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA; An example of such a process is customer review of billing events (pre-billing and post-billing).&#xA;Mandatory&#xA;The purpose of the Support Billing Event Related Process process is to support other processes which use or consume billing events.&#xA;Optional&#xA;Not used for this process element"/>

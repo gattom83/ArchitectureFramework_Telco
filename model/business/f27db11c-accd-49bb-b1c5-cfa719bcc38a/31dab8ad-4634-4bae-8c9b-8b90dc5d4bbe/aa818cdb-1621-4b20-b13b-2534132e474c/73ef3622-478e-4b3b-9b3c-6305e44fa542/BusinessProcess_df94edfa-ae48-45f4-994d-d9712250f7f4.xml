@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Product Performance Shortfalls "
+    id="df94edfa-ae48-45f4-994d-d9712250f7f4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes identify specific or imminent product performance shortfalls. These processes take information available from the Customer Relationship Management processes to establish detailed views of anticipated product performance issues.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Customer "
+    id="c3495c3b-1ac4-4f3a-afb9-19cc6cf9262e"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Notify the customer when interesting events happen.&#xA;Extended Description&#xA;The purpose of this process is to notify the customer when events related to existing interactions or to significant customer experience happen. Some notifications can be sent immediately using interactive media( such as SMS, Push to applications, etc.) and other notifications can be sent later using asynchronous  media such as mail.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element."/>

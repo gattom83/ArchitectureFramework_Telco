@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticate User "
+    id="7fea7b80-7ac2-4f56-8c7a-bbefd51b058d"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Authenticate the person involved in the interaction.&#xA;Extended Description&#xA;The purpose of this process is to authenticate the person involved in the interaction from the customer side. In self service channels the user may need to  login in order to authenticate himself, in other channels the user my need to answer identity verification questions.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element.&#xA;"/>

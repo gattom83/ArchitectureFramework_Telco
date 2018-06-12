@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Customer QoS Report with Analysis Results "
+    id="071bb2a3-9684-4e13-b8eb-1e13f4e6bebe"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Add additional information to an open customer QoS performance degradation report based on the first-in and on-going analysis&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Add additional information to an open customer QoS performance degradation report based on the first-in and on-going analysis&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element&#xA;Parent of this process"/>

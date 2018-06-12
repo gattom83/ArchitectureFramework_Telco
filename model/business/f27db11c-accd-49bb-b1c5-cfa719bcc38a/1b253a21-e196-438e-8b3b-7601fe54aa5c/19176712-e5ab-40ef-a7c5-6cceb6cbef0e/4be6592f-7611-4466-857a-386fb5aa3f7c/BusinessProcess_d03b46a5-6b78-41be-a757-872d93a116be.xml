@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prioritize Customer Problem "
+    id="d03b46a5-6b78-41be-a757-872d93a116be"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is responsible for assigning the prioritization to customer problem in order to establish an order for handling it. . Associate Impact and Urgency levels to a problem; to enable focusing on the business critical problems based on the problem prioritization.&#xA;Mandatory&#xA;The prioritization is assigned (usually automatically) according to criteria, such as, categorization, customers affected and SLAs. Record and prioritize the Problem with appropriate diligence, in order to facilitate a swift and effective resolution and avoid ambiguities."/>

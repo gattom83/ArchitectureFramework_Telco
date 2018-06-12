@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Authentication Information "
+    id="d56a097c-15d5-440b-bab7-b021f5ad846c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Gather Authentication Information from the customer.&#xA;Extended Description&#xA;The purpose of this process is to gather information that enables the enterprise to authenticate the customer identity. This information can be documents issued by other authorities (such as ID card or passport) or information that will enable the enterprise to re-authenticate the customer(such as answer to a secret question).&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element.&#xA;"/>
