@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discontinue Product Offering Price "
+    id="811be4f8-88e2-4829-851f-d3007879620c"
+    documentation="Brief Description&#xA;Discontinue a product offering price including a price plan.&#xA;Extended Description&#xA;Discontinue Product Offering Price discontinues a product offering price including a price plan.  Discontinue may remove the price or plan or indicate that the price or plan is no longer valid.&#xA;&#xA;It interacts with the Provide Product Offering Price Notification&#xA;and Obtain Product Offering Price Approval processes to provide notifications of the discontinued price or plan to parties who are responsible for the approval of the discontinuance or have some other level of involvement, obtain approval to discontinue, and discontinue the price or plan. Once discontinued, notifications are sent to all involved parties, such as approvers, those consulted about the discontinuance, and other involved parties."/>

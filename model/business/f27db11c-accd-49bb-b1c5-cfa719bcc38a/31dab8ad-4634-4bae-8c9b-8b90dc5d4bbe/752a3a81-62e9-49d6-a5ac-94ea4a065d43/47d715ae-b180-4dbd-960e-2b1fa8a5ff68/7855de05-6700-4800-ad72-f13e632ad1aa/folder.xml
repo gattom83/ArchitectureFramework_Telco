@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Return Product Offering Purchase "
+    id="7855de05-6700-4800-ad72-f13e632ad1aa"
+    documentation="Brief Description&#xA;Return one or more purchased product offerings after receipt by the purchasing party.&#xA;Extended Description&#xA;Return Product Offering Purchase returns one or more purchased product offerings after receipt by the purchasing party.  Before making a return the purchasing party obtains authorization to make the return.&#xA;&#xA;Once the returned offering(s) are received by the appropriate logistics process it will initiate a credit for the returned offering(s)."/>

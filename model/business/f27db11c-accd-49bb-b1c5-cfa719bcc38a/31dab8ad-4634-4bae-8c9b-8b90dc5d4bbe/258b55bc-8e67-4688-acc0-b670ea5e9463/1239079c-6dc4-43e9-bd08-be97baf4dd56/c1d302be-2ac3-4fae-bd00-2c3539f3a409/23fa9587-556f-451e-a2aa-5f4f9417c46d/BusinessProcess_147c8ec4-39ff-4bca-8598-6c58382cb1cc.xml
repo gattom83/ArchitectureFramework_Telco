@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Specification Features/Properties "
+    id="147c8ec4-39ff-4bca-8598-6c58382cb1cc"
+    documentation="Brief Description&#xA;Define non-configurable features known as characteristics for a product specification.&#xA;Extended Description&#xA;Define Product Specification Features/Properties defines non-configurable features known as characteristics. For example, the title of a movie or the temperature range for a smart thermometer. Note that configurable features/properties are managed by the Product Configuration Management process and that this process uses a generalized set of processes to create the features/properties. This process focuses on associating them with a product specification.&#xA;&#xA;Features/properties can be shared among product specifications and can also be grouped.  For example, a group of environmental properties or a group of technical properties."/>

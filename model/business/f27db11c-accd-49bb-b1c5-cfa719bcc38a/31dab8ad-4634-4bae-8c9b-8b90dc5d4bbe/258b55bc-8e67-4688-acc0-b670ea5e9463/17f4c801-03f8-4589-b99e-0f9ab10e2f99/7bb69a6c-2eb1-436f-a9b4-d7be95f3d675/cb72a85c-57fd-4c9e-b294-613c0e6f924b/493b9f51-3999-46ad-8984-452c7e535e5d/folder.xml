@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Product Offering Price "
+    id="493b9f51-3999-46ad-8984-452c7e535e5d"
+    documentation="Brief Description&#xA;Suggest an update to a product offering price and upon approval make the update.  Other processes provide notifications and approve the updates.&#xA;Extended Description&#xA;Modify Product Offering Price suggests a change to a product offering price plan.&#xA;&#xA;It interacts with the Provide Product Offering Price Notification&#xA;and Obtain Product Offering Price Approval processes to provide notifications of suggested changes to parties who approve changes or have some other level of involvement, obtain approval to make the changes, and make the changes. Once changed, notifications are sent to all involved parties, such as approvers, those consulted about the changes, and other involved parties."/>

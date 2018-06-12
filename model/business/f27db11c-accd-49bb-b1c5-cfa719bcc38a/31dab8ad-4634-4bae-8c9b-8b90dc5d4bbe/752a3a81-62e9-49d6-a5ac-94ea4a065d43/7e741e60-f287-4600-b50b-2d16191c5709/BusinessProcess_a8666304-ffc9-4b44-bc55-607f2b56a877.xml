@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordinate Product Offering Purchase Provisioning "
+    id="a8666304-ffc9-4b44-bc55-607f2b56a877"
+    documentation="Brief Description&#xA;Coordinate any necessary provisioning activities for inbound product offering purchases by generating the service order and resource order creation request(s) to Issue Service Orders and Issue Resource Orders.&#xA;Extended Description&#xA;Not used for this process element."/>

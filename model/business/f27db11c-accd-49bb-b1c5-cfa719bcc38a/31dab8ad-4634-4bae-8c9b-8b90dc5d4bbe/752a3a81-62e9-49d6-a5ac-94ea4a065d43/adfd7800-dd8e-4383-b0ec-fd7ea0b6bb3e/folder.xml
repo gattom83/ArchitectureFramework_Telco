@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Product Offering Purchase "
+    id="adfd7800-dd8e-4383-b0ec-fd7ea0b6bb3e"
+    documentation="Brief Description&#xA;Coordinate provisioning activities for inbound product offering purchases, escalate purchases that are in jeopardy of not meeting due dates, modify the purchase states, add additional information to the purchase, and modify purchase information.&#xA;Extended Description&#xA;Track &amp; Manage Product Offering Purchase monitors the jeopardy status of product offering purchases and escalates purchases that are in jeopardy of not meeting due dates.&#xA;&#xA;Additional information may be added to the product offering purchase and modifications may be made to any purchase information."/>

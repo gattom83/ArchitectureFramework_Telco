@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agree Product Infrastructure Requirements "
+    id="e99e0fc6-ba7b-41a6-8a5e-d3d9a571ce37"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes obtain agreement to  the detailed infrastructure requirements to support the product portfolio and individual product plans. The processes include any cross-enterprise co-ordination and management functions to ensure that the requirements capture the needs of all stakeholders.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

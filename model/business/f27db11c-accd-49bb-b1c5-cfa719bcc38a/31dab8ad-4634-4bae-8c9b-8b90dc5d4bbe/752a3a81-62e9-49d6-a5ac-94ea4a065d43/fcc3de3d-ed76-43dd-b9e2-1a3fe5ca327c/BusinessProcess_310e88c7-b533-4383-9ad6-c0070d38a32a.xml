@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Product Offering Purchase Status to Cancelled "
+    id="310e88c7-b533-4383-9ad6-c0070d38a32a"
+    documentation="Brief Description&#xA;Change the status of a product offering purchase to cancelled.&#xA;Extended Description&#xA;Not used for this process element."/>

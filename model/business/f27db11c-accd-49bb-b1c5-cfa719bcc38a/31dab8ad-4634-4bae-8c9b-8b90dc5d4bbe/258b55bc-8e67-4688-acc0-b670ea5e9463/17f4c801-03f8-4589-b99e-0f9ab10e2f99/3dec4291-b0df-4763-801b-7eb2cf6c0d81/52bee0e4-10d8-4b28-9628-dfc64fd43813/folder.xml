@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Catalog "
+    id="52bee0e4-10d8-4b28-9628-dfc64fd43813"
+    documentation="Brief Description&#xA;Define, update, and remove a product offering catalog.&#xA;Extended Description&#xA;Develop Product Offering Catalog defines, updates, and removes a product offering catalog.  It associates a product offering and applicable product offering prices with a catalog.  The product offering may have been developed by an enterprise or on-boarded from another party.&#xA;Child of this process&#xA;Associate Product Offering with Product Offering Catalog&#xA;Define Product Offering Catalog"/>

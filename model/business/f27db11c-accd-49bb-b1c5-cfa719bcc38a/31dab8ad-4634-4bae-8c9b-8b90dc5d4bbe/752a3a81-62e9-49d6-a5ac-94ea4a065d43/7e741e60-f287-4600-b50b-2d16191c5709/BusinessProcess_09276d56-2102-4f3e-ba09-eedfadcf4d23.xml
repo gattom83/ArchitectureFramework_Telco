@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Additional Product Offering Purchase(s) "
+    id="09276d56-2102-4f3e-ba09-eedfadcf4d23"
+    documentation="Brief Description&#xA;Prepare product offering purchases in the form of product offering orders for each product offering fulfilled by another party.&#xA;Extended Description&#xA;Initiate Additional Product Offering Purchase(s) prepares product offering purchase(s) in the form of product offering orders for each product offering fulfilled by one or more other parties.  The order(s) is/are provided to the Initiate Product Offering Purchase process."/>

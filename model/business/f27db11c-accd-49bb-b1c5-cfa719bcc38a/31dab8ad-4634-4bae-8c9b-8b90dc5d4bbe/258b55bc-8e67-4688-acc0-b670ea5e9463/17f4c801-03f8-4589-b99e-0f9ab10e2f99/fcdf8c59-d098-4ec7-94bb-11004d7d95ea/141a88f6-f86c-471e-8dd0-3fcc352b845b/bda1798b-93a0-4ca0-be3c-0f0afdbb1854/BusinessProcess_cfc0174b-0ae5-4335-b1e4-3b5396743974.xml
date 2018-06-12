@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Offering Features/Properties "
+    id="cfc0174b-0ae5-4335-b1e4-3b5396743974"
+    documentation="Brief Description&#xA;Associate features, known as characteristics, to an offering.&#xA;Extended Description&#xA;Define Product Offering Features/Properties associates features/properties known as characteristics to an offering. These features/properties are defined for the associated product specification and/or product configuration specification. For example, the format of a movie may determine the price for the offering."/>

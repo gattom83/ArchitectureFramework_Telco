@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Party Product Involvement "
+    id="be77a93d-106f-45a4-bd63-395570da4ae6"
+    documentation="Brief Description&#xA;Specify the involvement one or more parties have with a product, the parties' types of involvement, as well as identity specific information for users.&#xA;Extended Description&#xA;Specify Party Product Involvement specifies the involvement one or more parties have with it and the party account that will pay for the product. If the product is paid for when it is purchased and there are no recurring or other types of charges due at some point in the future, then the party account may not be specified. Involved parties type of involvement is also specified, such as user, owner, payer. &#xA;&#xA;Additionally  identity specific information, such as rights and restrictions, are specified for users (parties) of the product.&#xA;&#xA;This process also updates and removes the involvement and identity specific information."/>

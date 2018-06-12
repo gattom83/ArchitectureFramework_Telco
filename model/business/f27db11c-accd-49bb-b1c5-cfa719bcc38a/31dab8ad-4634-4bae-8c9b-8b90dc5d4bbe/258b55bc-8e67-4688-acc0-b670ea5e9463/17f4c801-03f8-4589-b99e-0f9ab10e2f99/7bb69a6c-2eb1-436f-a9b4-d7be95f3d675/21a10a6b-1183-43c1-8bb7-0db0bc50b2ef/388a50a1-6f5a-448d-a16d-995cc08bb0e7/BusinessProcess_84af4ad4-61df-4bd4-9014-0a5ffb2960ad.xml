@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Algorithmic Product Offering Pricing Matrix Specification Structure "
+    id="84af4ad4-61df-4bd4-9014-0a5ffb2960ad"
+    documentation="Brief Description&#xA;Develop the structure of a product offering pricing matrix by defining its rows and columns and other dimensions.&#xA;Extended Description&#xA;Develop Algorithmic Product Offering Pricing Matrix Specification Structure defines  (creates, modifies, and removes) the structure of a product offering pricing matrix including its row(s)/columns and other dimensions of a multi-dimensional matrix as well as their sequence.&#xA;&#xA;The rows and columns represent the criteria evaluated to determine the charge/allowance.  They represent such things as types of product features/properties, types of product offering prices, algorithmic specific criteria such as type of customer, and so forth."/>

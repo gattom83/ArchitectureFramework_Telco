@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Product Offering Purchase "
+    id="ec238c87-66c0-4f01-a58b-cfca3333b9c1"
+    documentation="Brief Description&#xA;Initiate a product offering purchase by selecting an outbound purchase party if applicable and create the product offering purchase. It also initiates an purchase that is made by some party for an enterprise's product offerings.&#xA;Extended Description&#xA;Initiate Product Offering Purchase initiates a product offering purchase by selecting an outbound purchase party if applicable and creates the product offering purchase in the form of a product offering order. It also initiates an purchase that is made by some party for an enterprise's product offerings.&#xA;&#xA;In the case of an outbound product offering purchase when one or more parties may provide the product offering a pre-purchase feasibility assessment may be conducted to determine the party with whom the purchase will be made."/>

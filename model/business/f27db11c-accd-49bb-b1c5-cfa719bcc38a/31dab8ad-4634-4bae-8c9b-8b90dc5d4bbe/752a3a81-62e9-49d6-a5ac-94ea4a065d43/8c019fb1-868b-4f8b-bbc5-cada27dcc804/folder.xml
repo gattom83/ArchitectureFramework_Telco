@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Product Offering Purchase "
+    id="8c019fb1-868b-4f8b-bbc5-cada27dcc804"
+    documentation="Brief Description&#xA;Monitor the status of product offering purchases, provide notifications of any changes, and provide management reports.&#xA;Extended Description&#xA;Report Party processes monitors the status of party orders, provide notifications of any changes, and provide management reports. It is responsible for continuously monitoring the status of product offering purchases and managing notifications to processes and other parties registered to receive notifications of any status changes. Notification lists are managed and maintained by the Product Offering Purchasing Control&#xA;process.&#xA;&#xA;It records, analyzes, and assesses product offering purchase status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Product Offering Purchase Lifecycle Management process. These specialized summaries could be specific reports required by specific audiences."/>

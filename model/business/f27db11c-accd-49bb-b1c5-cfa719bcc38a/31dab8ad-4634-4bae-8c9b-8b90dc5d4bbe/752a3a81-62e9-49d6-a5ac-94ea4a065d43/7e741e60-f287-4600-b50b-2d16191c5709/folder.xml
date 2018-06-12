@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Product Offering Purchase "
+    id="7e741e60-f287-4600-b50b-2d16191c5709"
+    documentation="Brief Description&#xA;Complete a product offering purchase which may trigger other processes, such as ones that accept payment and deliver the purchased offerings.&#xA;Extended Description&#xA;Complete Product Offering Purchase completes a product offering purchase which may trigger other processes, such as ones that accept payment and deliver the purchased offerings.&#xA;&#xA;Other processes that may be triggered include infrastructure configuration (Service/Resource) to fulfill the purchase and interaction with other parties, such as partners, to complete the acquisition of the purchased product offerings. For example, to forward the purchased product offering(s) that they fulfill in the form of a product offering order."/>

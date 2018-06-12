@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Product Capability Delivery "
+    id="3650b38b-6aaf-4704-81d2-7ff33d10ec47"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes ensure the co-coordinated delivery in line with the approved business case of all required product infrastructure capabilities for that business case across the enterprise. It is predominantly a program/project management function, with the detailed management of individual infrastructure component delivery managed through separate processes.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

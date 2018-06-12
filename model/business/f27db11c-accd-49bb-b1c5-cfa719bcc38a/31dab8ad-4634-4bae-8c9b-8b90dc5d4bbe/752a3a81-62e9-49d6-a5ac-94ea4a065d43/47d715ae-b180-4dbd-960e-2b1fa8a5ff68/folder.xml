@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Offering Purchase Selection "
+    id="47d715ae-b180-4dbd-960e-2b1fa8a5ff68"
+    documentation="Brief Description&#xA;Make, change, remove, or return a product offering contained on a product offering purchase.&#xA;Extended Description&#xA;Manage Product Offering Purchase Selection makes, changes, removes, or returns a product offering contained on a product offering purchase.&#xA;&#xA;Selections may be made by specifying a product offering or browsing for an offering. Specifying an offering may be done for inbound purchases, such as those from a customer or for outbound purchases sent to another party.  Browsing may be done on the web or within a store."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Price Value "
+    id="962c715b-f148-4ceb-8a70-a107c877b0f5"
+    documentation="Brief Description&#xA;Develop a product offering price value that represents amount expressed in money or another medium of exchange for a product offering.&#xA;Extended Description&#xA;Develop Product Offering Price Value develops (creates, updates, and removes) a product offering price value that represents amount expressed in money or another medium of exchange for a product offering.&#xA;&#xA;A value is part of a policy that can be used to form a policy statement.  The value specifies an attribute that should either be set or cleared (if used in a policy action) or matched or compared in some way to a value of the policy variable in a policy condition. For example &quot;get the two software packages for free (a zero price)&quot;."/>

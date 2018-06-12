@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relate Product Offering Purchases "
+    id="2d75d322-00c2-45cb-944f-6b2563938412"
+    documentation="Brief Description&#xA;Relate the product offering purchase to other entities. For example, the purchase may also relate to the cancellation of previous purchase, to an initiating sales request, or to an initiating purchase/order if the product offering purchase will be fulfilled in part or whole by another party.&#xA;Extended Description&#xA;Not used for this process element."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Product Capability Delivery Repository "
+    id="bedfcff8-2502-455c-8f73-05330d04d951"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes manage the methodology to be adopted for product capability delivery across the enterprise. These processes may maintain a repository of all activities as a part of the coordination aspects, including approval process or gates to be passed by individual product capability delivery projects.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make Product Offering Purchase Choice "
+    id="72fc0ad8-da20-4c48-83df-7e9575925544"
+    documentation="Brief Description&#xA;Choose a product offering to purchase or create a customized product offering.&#xA;Extended Description&#xA;Make Product Offering Purchase Choice chooses a product offering to purchase or creates a customized product offering. A customized offering may be a bundle and is based on rules defined for creating the customized offering. A price for the customized offering may also be determined (not chosen).&#xA;&#xA;The choice may also include one of the recommended product offerings provided."/>

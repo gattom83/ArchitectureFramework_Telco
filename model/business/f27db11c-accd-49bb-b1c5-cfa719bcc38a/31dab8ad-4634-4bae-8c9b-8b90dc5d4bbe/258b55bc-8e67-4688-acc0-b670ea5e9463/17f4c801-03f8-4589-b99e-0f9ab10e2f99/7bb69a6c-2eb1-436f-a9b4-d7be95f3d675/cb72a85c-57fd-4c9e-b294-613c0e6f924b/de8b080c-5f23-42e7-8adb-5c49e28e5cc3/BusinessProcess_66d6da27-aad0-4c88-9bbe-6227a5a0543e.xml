@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Product Offering Price Plan "
+    id="66d6da27-aad0-4c88-9bbe-6227a5a0543e"
+    documentation="Brief Description&#xA;Modify a group of product offering prices that represent a price plan for a product offering.&#xA;Extended Description&#xA;Modify Product Offering Price Plan modifies a grouping of product offering prices that represent a price plan for a product offering.  Included are the removal and addition of product offering prices to the plan."/>

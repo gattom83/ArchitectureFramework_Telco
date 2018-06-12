@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Product Operational Handover "
+    id="c1b10e84-862c-4877-96a7-7602ff27b4ed"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes co-ordinate the processes involved in handover of deployed product infrastructure to operational control, including the management and coordination of all stakeholders required to gain approval and acceptance of the handover.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

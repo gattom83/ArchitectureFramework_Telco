@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Specification "
+    id="db02a1fa-0236-49e4-9dcf-2be33d8e0f2f"
+    documentation="Brief Description&#xA;Develop product specification and groupings and create version information as needed for a product specification.&#xA;Extended Description&#xA;Define Product Specification develops the product specification, which also includes grouping/bundling of specifications and versioning of the specifications. Groups/bundles may include specifications on-boarded from other parties.  The groups/bundles typically contain product specifications that are always included together and not separately priced.&#xA;&#xA;When necessary version information, such as version number, version date, and a description of the version, are created."/>

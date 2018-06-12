@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Product Offering Inventory Shortcomings "
+    id="bfbf4a73-39e8-4d3d-bf0c-8d940ed642db"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Identifying any technical driven shortcomings of the product offering inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues."/>

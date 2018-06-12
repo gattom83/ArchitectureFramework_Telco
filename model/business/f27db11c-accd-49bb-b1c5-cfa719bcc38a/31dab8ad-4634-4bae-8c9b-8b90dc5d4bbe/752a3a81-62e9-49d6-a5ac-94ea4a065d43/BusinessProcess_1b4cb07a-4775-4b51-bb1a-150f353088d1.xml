@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Product Offering Purchase "
+    id="1b4cb07a-4775-4b51-bb1a-150f353088d1"
+    documentation="Brief Description&#xA;Review a product offering purchase that is in any lifecycle state.&#xA;Extended Description&#xA;Review Product Offering Purchase reviews a product offering purchase that is in any lifecycle state. Lifecycle states include an in-process, completed, or closed product offering purchase.&#xA;&#xA;Information included in the review may include product offerings on the purchase, payment information, and delivery information."/>

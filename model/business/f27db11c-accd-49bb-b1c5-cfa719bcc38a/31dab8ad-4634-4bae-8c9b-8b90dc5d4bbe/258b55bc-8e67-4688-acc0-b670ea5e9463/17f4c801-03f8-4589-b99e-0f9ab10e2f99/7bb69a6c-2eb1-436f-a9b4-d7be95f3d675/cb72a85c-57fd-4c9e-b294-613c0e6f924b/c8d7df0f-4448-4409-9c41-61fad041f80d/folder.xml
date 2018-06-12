@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Product Offering Price Notification "
+    id="c8d7df0f-4448-4409-9c41-61fad041f80d"
+    documentation="Brief Description&#xA;Issue pricing related notifications to involved parties.&#xA;Extended Description&#xA;Provide Product Offering Price Notification issues notifications to involved parties of any new and change and discontinued product offering prices.  Notifications are also made for any creates, changes, deletes made by other pricing related core processes.&#xA;&#xA;It also identifies involved parties to whom notifications should be sent.  These parties have been specified by the Manage Pricing Notification Involved Party process."/>

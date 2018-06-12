@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop  Product Offering Price Condition "
+    id="610b3fb1-ba09-4f0e-8bdb-bb0d19f8f3e9"
+    documentation="Brief Description&#xA;Develop a product offering price condition that represents a single constraint that defines how a policy rule is assessed.&#xA;Extended Description&#xA;Develop  Product Offering Price Condition develops (creates, updates, and removes) a product offering price condition that represents a single constraint that defines how a policy rule is assessment.&#xA;&#xA;A condition is part of a policy rule that is made up of a conditions and actions.  Conditions and actions are defined by policy statements.  For example a statement for a condition may be &quot;If a premium software package is purchased&quot;"/>

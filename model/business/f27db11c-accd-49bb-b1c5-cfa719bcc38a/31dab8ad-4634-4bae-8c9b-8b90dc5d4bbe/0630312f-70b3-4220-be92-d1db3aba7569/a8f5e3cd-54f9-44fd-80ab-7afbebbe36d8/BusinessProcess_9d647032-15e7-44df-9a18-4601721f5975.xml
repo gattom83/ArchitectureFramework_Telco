@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Product "
+    id="9d647032-15e7-44df-9a18-4601721f5975"
+    documentation="Brief Description&#xA;Remove a product and its associated prices.&#xA;Extended Description&#xA;Remove Product removes a product and its associated prices. A product may be physically deleted or logically deleted by changing its status and/or effective date to indicate is  no longer of interest to an enterprise.&#xA;&#xA;A product may be removed by such scenarios as when the primary party cancels its subscription to the product or when a party browsing the catalog discards the product in which interest was expressed."/>
