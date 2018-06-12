@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Balance Policies "
+    id="bb508e90-5246-4359-a2b1-5e32c39a1d55"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Executing policies per balance or balance type.&#xA;Extended Description&#xA;Balance policies are rules that describe how balance affecting  events are to be handled.  This is done  by comparing the value of each event against criteria such as the following:&#xA;- a minimum allowable balance limit (e.g. balance must remain above zero), &#xA;- balance expiration dates, &#xA;- balance thresholds actions and notifications and&#xA;- roll-over &amp; cyclic policies.&#xA;Explanatory&#xA;Reserved for future use."/>

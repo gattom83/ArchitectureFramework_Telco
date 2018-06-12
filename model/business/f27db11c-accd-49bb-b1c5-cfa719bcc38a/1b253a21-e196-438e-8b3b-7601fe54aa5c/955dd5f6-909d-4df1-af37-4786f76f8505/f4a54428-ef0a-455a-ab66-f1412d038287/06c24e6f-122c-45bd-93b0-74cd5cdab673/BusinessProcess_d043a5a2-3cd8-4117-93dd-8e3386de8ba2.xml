@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Solution Predicted/Expected Value "
+    id="d043a5a2-3cd8-4117-93dd-8e3386de8ba2"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Validate that predicted/expected value is delivered by the solution. It validates that the customer is capable of realizing maximum value from the operation or use of the solution and that intense Provider involvement is no longer needed to manage the solution.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Validate that predicted/expected value is delivered by the solution. It validates that the customer is capable of realizing maximum value from the operation or use of the solution and that intense Provider involvement is no longer needed to manage the solution."/>

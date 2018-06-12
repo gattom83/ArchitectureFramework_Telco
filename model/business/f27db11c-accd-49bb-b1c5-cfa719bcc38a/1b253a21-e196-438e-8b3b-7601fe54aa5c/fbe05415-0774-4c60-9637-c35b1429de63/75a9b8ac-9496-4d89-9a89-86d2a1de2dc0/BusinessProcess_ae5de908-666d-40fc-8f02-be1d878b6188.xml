@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Invoice Information "
+    id="ae5de908-666d-40fc-8f02-be1d878b6188"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Deliver the invoice information to the physical production processes.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;The invoice information includes both billing information and insertion information.&#xA;Mandatory&#xA;The purpose of the Deliver Invoice Information process is to ensure that the invoice information can be delivered to invoice physical production process.  This process is also responsible for monitoring the status of information delivery channel and ensuring the channel availability.&#xA;Optional&#xA;Not used for this process element"/>

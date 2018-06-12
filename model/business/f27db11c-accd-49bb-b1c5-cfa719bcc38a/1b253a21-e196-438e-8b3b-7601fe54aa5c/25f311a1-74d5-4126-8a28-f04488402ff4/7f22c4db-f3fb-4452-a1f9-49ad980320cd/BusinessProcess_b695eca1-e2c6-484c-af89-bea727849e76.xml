@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert QoS Information "
+    id="b695eca1-e2c6-484c-af89-bea727849e76"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Convert collected information  it into a form suitable for determining whether the contractual obligations with the customer are being met.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Convert colected informatiom  it into a form suitable for determining whether the contractual obligations with the customer are being met.&#xA;Optional"/>

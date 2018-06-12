@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Render &amp; Format Invoice "
+    id="cdb6b892-25ff-4fb7-a677-9feadcf8f2b3"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Render and format the customer bill invoice.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process provides formatting of invoices in different ways and to achieve different publishing possibilities, and supports the creation of different invoice formats for different publication media. The process is further responsible for splitting and re-arranging invoices for customers (particularly customers with complex account structures) according to agreements made with these customers."/>

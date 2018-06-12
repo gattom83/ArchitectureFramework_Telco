@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Satisfaction of Customer "
+    id="71cfd0db-ade9-44b5-a0e1-857b87184275"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process ensures that the customer is satisfied that the solution that was actually delivered meets original or updated expectations and agreements and that the solution is operable by the customer.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process ensures that the customer is satisfied that the solution that was actually delivered meets original or updated expectations and agreements and that the solution is operable by the customer.&#xA;"/>

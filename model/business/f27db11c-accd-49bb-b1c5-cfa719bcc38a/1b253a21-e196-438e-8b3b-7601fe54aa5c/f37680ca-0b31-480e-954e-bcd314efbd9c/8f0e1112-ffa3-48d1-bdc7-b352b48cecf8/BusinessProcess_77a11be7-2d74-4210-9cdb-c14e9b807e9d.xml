@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Billing Event "
+    id="77a11be7-2d74-4210-9cdb-c14e9b807e9d"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Distribute billing event records to other processes.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;As a typical example, billing events are transferred to Charging process for event/product charging via this process. In general, the billing events are distributed in the specific format, e.g. plain text format, binary format, XML format.&#xA;Mandatory&#xA;The purpose of Distribute Billing Event process is to distribute billing events to other processes which need access to billing events. This process is also responsible for recording distribution logs to avoid duplicated billing event distribution.&#xA;Optional&#xA;Not used for this process element"/>

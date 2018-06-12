@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Customer Charging Hierarchy "
+    id="ccddeca6-b833-4ef2-8bb7-77f73e44bb09"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Managing the charging relationships among subscribers.&#xA;Extended Description&#xA;Customer hierarchies are commonly used for corporate customers, family plans or other type of affinity groups. This process manages the charging relationships among subscribers, e.g. sharing, inheriting or restricting balances, price plans and discounts. Thereby assuring that a charge is added to or subtracted from the correct (sub-)account balance.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

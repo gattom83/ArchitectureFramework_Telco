@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Request (Including Self Service) "
+    id="4372cb32-2dce-47f0-95fd-4bfb35ffdeab"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage all requests (inbound and outbound) made by potential and existing customers&#xA;Extended Description&#xA;The purpose of this process is to manage all requests (inbound and outbound) made by potential and existing customers. It receives the request and either enables its originator to automatically fulfill it, or identifies and activates the opportune process to accomplish the request; it manages the status of the request and is able to provide status information at any moment in which the request is active; it formally closes the request when all related activities have been terminated.&#xA;Explanatory"/>

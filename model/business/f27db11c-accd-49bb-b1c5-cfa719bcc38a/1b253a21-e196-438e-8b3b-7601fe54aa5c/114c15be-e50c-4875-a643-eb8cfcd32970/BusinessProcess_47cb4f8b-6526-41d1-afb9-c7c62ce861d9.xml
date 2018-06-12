@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Log Customer Interaction "
+    id="47cb4f8b-6526-41d1-afb9-c7c62ce861d9"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Record and maintain all information about the customer interaction.&#xA;Extended Description&#xA;The purpose of this process is to record and maintain all information about the customer interaction. This information can be used in future interaction or as input for data analysis processes.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element."/>

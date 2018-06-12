@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate Customer Interactions "
+    id="e4a63321-dfdb-44d9-8c20-577f558ea794"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manages conversion of externally received messages into the required internal enterprise formats, based on the specific transaction type and involved external party.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Manages conversion of externally received messages into the required internal enterprise formats, based on the specific transaction type and involved external party.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Manages conversion between external and internal formats"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De-duplicate Customer Identity "
+    id="447c56dd-c9b9-42d5-a14a-53d14f10d56f"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Merge multiple records from same customer.&#xA;Extended Description&#xA;The purpose of this process is to check that the customer does not already have an Identity with the Enterprise. This process is also used to ‘clean-up’ duplicates of customer identifying information that may exist within the organization.&#xA;Explanatory&#xA;Not used for this process element.&#xA;Mandatory&#xA;Not used for this process element.&#xA;Optional&#xA;Not used for this process element."/>

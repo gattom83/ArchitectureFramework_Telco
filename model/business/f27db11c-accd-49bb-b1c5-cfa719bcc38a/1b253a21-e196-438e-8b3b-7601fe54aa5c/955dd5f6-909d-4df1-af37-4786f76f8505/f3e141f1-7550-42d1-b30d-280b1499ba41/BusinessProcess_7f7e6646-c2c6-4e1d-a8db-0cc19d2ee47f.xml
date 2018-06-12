@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish New Customer Identity "
+    id="7f7e6646-c2c6-4e1d-a8db-0cc19d2ee47f"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Issue a unique Identifier and Authentication information for a new customer without an existing identity.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Issue a unique Identifier and Authentication information for a new customer without an existing identity."/>

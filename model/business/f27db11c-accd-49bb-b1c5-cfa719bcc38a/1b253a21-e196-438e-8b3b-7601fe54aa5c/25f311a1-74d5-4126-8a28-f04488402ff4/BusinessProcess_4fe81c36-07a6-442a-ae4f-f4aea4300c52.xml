@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Customer QoS Performance Degradation Report "
+    id="4fe81c36-07a6-442a-ae4f-f4aea4300c52"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Close a customer QoS performance degradation report when the performance of the customer purchased product offerings has been resolved&#xA;Extended Description&#xA;The objective of the Close Customer QoS Performance Degradation Report processes is to close a customer QoS performance degradation report when the performance of the customer purchased product offerings has been resolved.&#xA;These processes monitor the status of all open customer QoS performance degradation reports, and recognize that a customer QoS performance degradation report is ready to be closed when the status is changed to cleared.&#xA;Explanatory&#xA;Reserved for future use."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Customer Requests &amp; Contacts "
+    id="1d432707-ee31-4450-af48-c4f30d772a71"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Perform all necessary analysis on closed (completed or unfulfilled) requests and on customer contacts&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;perform all necessary analysis on closed (completed or unfulfilled) requests and on customer contacts"/>

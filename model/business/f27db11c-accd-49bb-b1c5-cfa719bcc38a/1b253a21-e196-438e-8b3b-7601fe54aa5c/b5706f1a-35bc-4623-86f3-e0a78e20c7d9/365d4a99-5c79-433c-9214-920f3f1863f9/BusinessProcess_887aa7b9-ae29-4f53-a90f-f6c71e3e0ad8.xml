@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Customer Bill Inquiry Assessment "
+    id="887aa7b9-ae29-4f53-a90f-f6c71e3e0ad8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Complete the assessment when the investigation and assessment is complete.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Complete Customer Bill Inquiry Assessment process is to finish the assessment when the investigation and assessment is complete. This process is responsible for notifying the Track &amp; Manage Bill Inquiry Resolution processes about the completion.&#xA;"/>

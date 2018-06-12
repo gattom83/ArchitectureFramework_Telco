@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze &amp; Report on Customer "
+    id="0732ff4e-df2e-4bfe-87e4-1348eda6a3e4"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Perform all necessary analysis on closed requests and on customer contacts and generate related reports&#xA;Extended Description&#xA;The purpose of this process is to perform all necessary analysis on closed (completed or unfulfilled) requests and on customer contacts and it generates related reports, to be utilized for process improvement activities, proactive problems prevention, up-sell opportunities definition, etc.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional"/>

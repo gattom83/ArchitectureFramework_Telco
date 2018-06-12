@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test &amp; Validate Implemented Solution "
+    id="0a194976-10eb-41db-bf39-a489e897ddeb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to test an implemented temporary solution for the customer problem.&#xA;Mandatory&#xA;Test a temporary solution in paprallel to finding a final fix.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The Test &amp; Validate Implemented Solution process will notify the Manage Product Restoration process when the test is complete."/>

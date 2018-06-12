@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Resolution Feasibility and Justification "
+    id="afbc3a50-1478-4696-8afc-0b87c47c09aa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to check if the efforts put to resolve the problem are adequate to the resolution and also acceptable financially and business wise.&#xA;Mandatory&#xA;Determine whether the problem can be resolved and what will be required. Identify if what is required to solve the problem is adequate to the problem business and financial impacts on the organization.&#xA;Optional&#xA;Not used for this process element"/>

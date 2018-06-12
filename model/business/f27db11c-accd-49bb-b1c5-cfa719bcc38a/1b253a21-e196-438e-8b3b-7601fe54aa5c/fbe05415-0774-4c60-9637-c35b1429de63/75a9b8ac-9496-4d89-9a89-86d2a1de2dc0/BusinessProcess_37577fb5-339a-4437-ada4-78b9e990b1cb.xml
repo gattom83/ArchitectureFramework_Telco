@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Production Run to Create Bill "
+    id="37577fb5-339a-4437-ada4-78b9e990b1cb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Manage the production runs to create the bills, if internal production facilities are used.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Manage Production Run to Create Bill process is to manage the production runs to create the bills, if internal production facilities are used. This process is responsible for producing the physical bill based on the invoice information and, if necessary, wrapping bills into envelopes. The process also is responsible for monitoring that the produced bills are ready to be distributed."/>

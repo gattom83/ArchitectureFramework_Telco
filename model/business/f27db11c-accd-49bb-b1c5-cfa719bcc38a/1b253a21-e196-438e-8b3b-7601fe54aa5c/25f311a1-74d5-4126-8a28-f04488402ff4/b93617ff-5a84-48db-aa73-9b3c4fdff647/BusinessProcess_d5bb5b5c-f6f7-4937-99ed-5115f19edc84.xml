@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inform Customer on QoS Impacts "
+    id="d5bb5b5c-f6f7-4937-99ed-5115f19edc84"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that the customer and the relevant internal processes are informed of service quality degradations and violations. Ensure that the customer is informed of any planned maintenance or other scheduled events likely to impact delivery of the customer's service.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Ensure that the customer and the relevant internal processes are informed of service quality degradations and violations. Ensure that the customer is informed of any planned maintenance or other scheduled events likely to impact delivery of the customer's service."/>

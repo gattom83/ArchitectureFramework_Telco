@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Customer Problem Jeopardy Status "
+    id="95b4af23-6e1b-4a09-b33f-1219334bbc00"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitoring the jeopardy status of open customer problem reports&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Ensure that any open customer problem reports in jeopardy are identified and reporetd&#xA;Optional&#xA;Not used for this process element"/>

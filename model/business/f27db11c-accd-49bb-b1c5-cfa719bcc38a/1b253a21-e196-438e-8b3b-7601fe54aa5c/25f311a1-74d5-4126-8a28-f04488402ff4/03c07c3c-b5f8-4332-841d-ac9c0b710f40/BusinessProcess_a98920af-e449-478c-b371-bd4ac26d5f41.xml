@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clear Customer QoS Report Status "
+    id="a98920af-e449-478c-b371-bd4ac26d5f41"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Inform the Close Customer QoS Performance Degradation Report processes by modifying the customer QoS performance degradation report status to cleared when the specific customer purchased product offering performance quality issues have been resolved.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Inform the Close Customer QoS Performance Degradation Report processes by modifying the customer QoS performance degradation report status to cleared when the specific customer purchased product offering performance quality issues have been resolved.&#xA;"/>

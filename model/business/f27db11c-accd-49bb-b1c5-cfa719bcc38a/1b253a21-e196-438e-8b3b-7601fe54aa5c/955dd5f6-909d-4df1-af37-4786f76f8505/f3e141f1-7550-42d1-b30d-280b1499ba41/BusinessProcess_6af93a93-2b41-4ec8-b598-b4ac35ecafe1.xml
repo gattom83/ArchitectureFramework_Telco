@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Customer "
+    id="6af93a93-2b41-4ec8-b598-b4ac35ecafe1"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Verify that the customer is who they claim they are.&#xA;Extended Description&#xA;The purpose of this process is to verify that the customer is who they claim they are. This can be achieved by examination of an identity certification issued by a trusted body (such as governmental agency or other accepted means.) Certification means can be physical (such as Passport or ID card ) biometrical or other.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Not used for this process element."/>

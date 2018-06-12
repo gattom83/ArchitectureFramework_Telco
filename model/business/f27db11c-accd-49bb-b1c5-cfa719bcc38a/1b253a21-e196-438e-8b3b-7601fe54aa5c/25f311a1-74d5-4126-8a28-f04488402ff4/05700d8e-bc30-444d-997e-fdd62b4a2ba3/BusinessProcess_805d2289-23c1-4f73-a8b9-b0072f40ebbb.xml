@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Cancellation of Customer QoS Report "
+    id="805d2289-23c1-4f73-a8b9-b0072f40ebbb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Request cancellation of existing customer QoS performance degradation reports&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Request cancellation of existing customer QoS performance degradation reports&#xA;Optional&#xA;Not used for this process element&#xA;"/>

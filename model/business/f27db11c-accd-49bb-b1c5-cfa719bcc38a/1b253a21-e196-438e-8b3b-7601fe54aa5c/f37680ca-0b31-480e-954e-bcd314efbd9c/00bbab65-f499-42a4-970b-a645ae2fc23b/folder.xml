@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enrich Billing Events "
+    id="00bbab65-f499-42a4-970b-a645ae2fc23b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Enrich billing event records with additional data.&#xA;Extended Description&#xA;The Enrich Billing Events processes will augment the billing event records by adding data to the records from sources such as customer, product,  or other reference data.&#xA;&#xA;A billing event may be assigned a price without consideration of specific product or customer information.  The assigned price may be used to enrich the billing event record.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use.&#xA;Interactions&#xA;Reserved for future use."/>

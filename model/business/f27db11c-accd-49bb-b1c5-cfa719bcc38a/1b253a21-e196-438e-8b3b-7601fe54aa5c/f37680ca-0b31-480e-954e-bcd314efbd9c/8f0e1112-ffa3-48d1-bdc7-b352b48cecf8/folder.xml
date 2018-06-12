@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guide Billing Events "
+    id="8f0e1112-ffa3-48d1-bdc7-b352b48cecf8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensures that the event records used in the billing processes are related to the correct customer billing account and subscribed products.&#xA;Extended Description&#xA;The Guide Billing Events processes ensure that the event records used in the billing process relate to the correct customer billing account and products.  A specific event record may be related to multiple customer billing accounts and subscribed products. &#xA;  &#xA;Distribution of billing event records to other processes may also occur.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use.&#xA;Interactions&#xA;Reserved for future use."/>

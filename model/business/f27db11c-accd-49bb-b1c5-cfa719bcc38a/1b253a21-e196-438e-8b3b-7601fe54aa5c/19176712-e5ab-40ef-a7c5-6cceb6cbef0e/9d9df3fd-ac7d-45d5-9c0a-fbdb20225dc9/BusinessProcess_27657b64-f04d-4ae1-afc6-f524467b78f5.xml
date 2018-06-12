@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement Customer Problem Workaround "
+    id="27657b64-f04d-4ae1-afc6-f524467b78f5"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To be added&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;This process is used to execute an identified temporary solution for the customer problem.&#xA;Mandatory&#xA;Implement a temporary solution in paprallel to finding a final fix.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;The Implement Customer Problem Workaround process will notify the Test &amp; Validate Implemented Solution process when the implementation is complete."/>

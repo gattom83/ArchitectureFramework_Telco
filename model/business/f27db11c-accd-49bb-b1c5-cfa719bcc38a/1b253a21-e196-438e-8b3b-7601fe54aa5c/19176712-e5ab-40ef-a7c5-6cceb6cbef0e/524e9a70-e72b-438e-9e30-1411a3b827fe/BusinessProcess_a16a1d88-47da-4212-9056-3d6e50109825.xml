@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Customer for Feedback "
+    id="a16a1d88-47da-4212-9056-3d6e50109825"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process is responsible for contacting the customer to inquire about the customer's satisfaction with resolution of the problem.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Contacts the customer (where appropriate) to inquire about the customer's satisfaction with resolution of the problem."/>

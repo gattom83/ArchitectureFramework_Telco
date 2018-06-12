@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schedule Customer Bill Inquiry Analysis and Adjustment Activities "
+    id="ec9a1529-fa3a-4cb5-aa61-7d7b61fad208"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Schedule analysis and specific customer bill inquiry/complaint adjustment activities.&#xA;Extended Description&#xA;Not used for this process element.&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of Schedule Customer Bill Inquiry Analysis and Adjustment Activities process is to schedule analysis and specific customer bill inquiry/complaint adjustment activities. This process is responsible for planning the analysis and adjustment activities in specific order and allotted time.&#xA;Optional&#xA;Not used for this process element"/>

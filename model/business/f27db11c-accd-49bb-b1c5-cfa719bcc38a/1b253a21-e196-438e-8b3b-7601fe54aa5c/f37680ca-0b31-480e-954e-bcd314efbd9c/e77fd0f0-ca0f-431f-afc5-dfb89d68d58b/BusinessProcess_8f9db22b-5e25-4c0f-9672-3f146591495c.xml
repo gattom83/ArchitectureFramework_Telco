@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Billing Event Report "
+    id="8f9db22b-5e25-4c0f-9672-3f146591495c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Generate reports on billing event records based on requests from other processes.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;The purpose of the Generate Billing Event Report process is to generate reports on billing event records. This process produces reports that may identify abnormalities, which may be caused by fraudulent activity or related to customer complaints."/>

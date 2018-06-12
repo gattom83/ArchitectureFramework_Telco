@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Product Restoration Results "
+    id="35cb1c39-beaf-4b6a-bcf5-e037b650ad8e"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process reports successful restoration of normal operation or an unsuccessful attempt at restoration to Track &amp; Manage Customer Problem through updates to the associated Customer Problem Report.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Reports successful restoration of normal operation or an unsuccessful attempt at restoration to Track &amp; Manage Customer Problem through updates to the associated Customer Problem Report.&#xA;Optional&#xA;Not used for this process element"/>
