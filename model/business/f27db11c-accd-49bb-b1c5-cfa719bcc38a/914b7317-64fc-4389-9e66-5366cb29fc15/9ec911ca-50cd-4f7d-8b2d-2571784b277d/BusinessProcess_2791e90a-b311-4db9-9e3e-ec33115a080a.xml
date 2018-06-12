@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Service &amp; Specific Instance Rating "
+    id="2791e90a-b311-4db9-9e3e-ec33115a080a"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Ensure that rating and tariff information is maintained for each service class, for use by Service &amp; Specific Instance Rating&#xA;Extended Description&#xA;The purpose of the Support Service &amp; Specific Instance Rating processes ensure that rating and tariff information is maintained for each service class, for use by Service &amp; Specific Instance Rating. They are also responsible for the processing of this information related to administration of the services&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use."/>

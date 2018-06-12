@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guide Resource Usage Records "
+    id="6a428885-2f85-4cfc-982a-2464edc68d6e"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Relates the usage record to the appropriate service.&#xA;Extended Description&#xA;The Guide Resource Usage Records process converts/relates the record to the appropriate service.&#xA;&#xA;In many cases, this process is performed by a resource such as a network element.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use."/>

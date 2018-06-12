@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Actionable Patterns "
+    id="c1b0e510-de83-4fba-8c57-9163da821be2"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Adopt patterns for auctioning  the plan that will achieve service goals and objectives efficiently . Adopt patterns  for handling change to allow the strategy to adapt and evolve with the organization and its environment.&#xA;Extended Description&#xA;Determine Actionable Patterns processes find efficient and effective patterns of auctioning the plan to achieve goals. These processes also find best patterns for dealing with change in Service Strategy. This allows the Service Strategy to adapt and evolve along with the organization and its environment.&#xA;Explanatory&#xA;Not used for this process element."/>

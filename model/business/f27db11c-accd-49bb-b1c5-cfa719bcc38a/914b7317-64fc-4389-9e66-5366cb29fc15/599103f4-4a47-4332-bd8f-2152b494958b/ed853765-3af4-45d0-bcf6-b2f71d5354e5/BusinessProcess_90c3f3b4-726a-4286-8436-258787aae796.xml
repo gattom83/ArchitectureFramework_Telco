@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Service Order Status "
+    id="90c3f3b4-726a-4286-8436-258787aae796"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA; responsible for continuously monitoring the status of service orders; record, analyze and assess the service order status changes&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA; responsible for continuously monitoring the status of service orders; record, analyze and assess the service order status changes&#xA;Optional&#xA;Not used for this process element&#xA;"/>

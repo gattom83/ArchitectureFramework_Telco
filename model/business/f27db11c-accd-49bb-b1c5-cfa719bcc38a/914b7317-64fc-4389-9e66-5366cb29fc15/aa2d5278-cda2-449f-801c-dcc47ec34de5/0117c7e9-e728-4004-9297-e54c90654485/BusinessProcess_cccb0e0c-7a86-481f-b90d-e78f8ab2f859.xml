@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Service Classes "
+    id="cccb0e0c-7a86-481f-b90d-e78f8ab2f859"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes undertake the necessary analysis to identify potential service classes, compare current service classes with the identified required service classes.&#xA;Extended Description&#xA;Not used for this process element"/>

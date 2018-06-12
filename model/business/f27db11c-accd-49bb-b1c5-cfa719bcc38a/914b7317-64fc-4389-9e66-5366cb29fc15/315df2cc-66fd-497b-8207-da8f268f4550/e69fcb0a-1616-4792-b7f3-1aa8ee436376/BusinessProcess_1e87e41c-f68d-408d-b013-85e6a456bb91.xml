@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Service Information "
+    id="1e87e41c-f68d-408d-b013-85e6a456bb91"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Establish and Management of  external Providers and internal  resources for providing service information&#xA;Extended Description&#xA;Gather Service information processes  focus on establishment  and Management of relationships with external providers of service information, and management of internal resources used for providing service information.&#xA;Explanatory&#xA;Reserved for future use."/>

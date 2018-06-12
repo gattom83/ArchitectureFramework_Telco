@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Service Recovery Proposal Notification "
+    id="736b95fd-fcb3-4933-98ec-57c627f89e3b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Where recovery of services is likely to impact other in-use specific services, this process is responsible for providing appropriate notification of the recovery proposal.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Where recovery of services is likely to impact other in-use specific services,&#xA;Mandatory&#xA;this process is responsible for providing appropriate notification of the recovery proposal.&#xA;"/>

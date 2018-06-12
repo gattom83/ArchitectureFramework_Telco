@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform First in Service Testing "
+    id="bc323fa5-3fab-439a-89f6-a623a55c3fcd"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process initiates first-in testing using automated remote testing capabilities, and adds additional information to an open Service Trouble report based on the first-in testing.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process initiates first-in testing using automated remote testing capabilities, and adds additional information to an open Service Trouble report based on the first-in testing.&#xA;"/>

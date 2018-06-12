@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Service Infrastructure Requirements "
+    id="d7a0cad1-5036-4b35-8ddd-2a1f8237df94"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes provide input into the requirements capture processes in the Resource and Engaged party domains.&#xA;Extended Description&#xA;Not used for this process element&#xA;"/>

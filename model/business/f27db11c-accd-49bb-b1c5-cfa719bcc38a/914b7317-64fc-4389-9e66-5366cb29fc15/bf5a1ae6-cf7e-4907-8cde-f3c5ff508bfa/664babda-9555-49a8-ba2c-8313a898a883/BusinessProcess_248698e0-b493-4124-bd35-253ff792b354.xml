@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Service Problem "
+    id="248698e0-b493-4124-bd35-253ff792b354"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process cancels a Service Trouble report when the specific trouble was related to a false alarm event.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process cancels a Service Trouble report when the specific trouble was related to a false alarm event.&#xA;Optional&#xA;Not used for this process element"/>

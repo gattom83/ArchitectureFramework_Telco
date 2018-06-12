@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Detailed Service Technical Specifications "
+    id="a2f9e8bb-6a9d-498f-bfb5-471bc7c560a8"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes develop and document the required service features for the systems and network infrastructure as agreed through the Develop New Service Business Proposal processes. The processes ensure that all detailed specifications are produced and appropriately documented. Additionally the processes ensure that the documentation is captured in an appropriate enterprise repository.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

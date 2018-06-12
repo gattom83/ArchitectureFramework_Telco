@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Major Service Problem "
+    id="cd3266e2-fb64-4679-9575-cf135f583c87"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;To review the resolution of service problems that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future.&#xA;Extended Description&#xA;To review the resolution of service problems that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;"/>

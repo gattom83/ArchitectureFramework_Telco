@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Service Alarms Events "
+    id="08bcec4e-c1ab-42ab-9f8c-5a28fbe468fc"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process is responsible for collecting and monitoring events and alarms provided by services though systems and monitoring tools.&#xA;Extended Description&#xA;This process is responsible for collecting and monitoring events and alarms provided by services though systems and monitoring tools.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use."/>

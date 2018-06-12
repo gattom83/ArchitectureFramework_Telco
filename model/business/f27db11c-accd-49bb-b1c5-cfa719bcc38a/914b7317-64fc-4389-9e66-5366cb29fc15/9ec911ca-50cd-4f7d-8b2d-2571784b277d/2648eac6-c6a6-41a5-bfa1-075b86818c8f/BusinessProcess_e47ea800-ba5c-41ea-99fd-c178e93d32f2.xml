@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track, Monitor and Manage Service Problem Processes "
+    id="e47ea800-ba5c-41ea-99fd-c178e93d32f2"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Track, monitor and assess the service performance management processes and associated costs and report.&#xA;Extended Description&#xA;• Tracking and monitoring of the Service Problem Management processes and associated costs, and reporting on the capability of the Service Problem Management processes;&#xA;Explanatory&#xA;Reserved for future use."/>

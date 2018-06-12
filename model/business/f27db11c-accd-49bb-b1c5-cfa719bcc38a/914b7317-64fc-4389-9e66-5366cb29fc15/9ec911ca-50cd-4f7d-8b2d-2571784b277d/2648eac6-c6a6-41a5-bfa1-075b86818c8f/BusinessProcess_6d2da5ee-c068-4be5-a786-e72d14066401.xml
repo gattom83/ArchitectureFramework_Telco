@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Service Problem Trends "
+    id="6d2da5ee-c068-4be5-a786-e72d14066401"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Proactively generating reports based on the trend analysis.&#xA;Extended Description&#xA;• Reporting outcomes of trend analysis to Service Development &amp; Management processes to influence new and/or modified service infrastructure development;&#xA;Explanatory&#xA;Reserved for future use."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess and Report Service Quality Management Processes "
+    id="63bac8c0-082d-4400-9ad8-54997ad4cbfd"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Track, monitor and assess the service performance management processes and associated costs and report.&#xA;Extended Description&#xA;• Tracking and monitoring of the Service Quality Management processes and associated costs (including where service infrastructure is deployed and managed by third parties), and reporting on the capability of the Service Quality Management processes;&#xA;Explanatory&#xA;Reserved for future use."/>

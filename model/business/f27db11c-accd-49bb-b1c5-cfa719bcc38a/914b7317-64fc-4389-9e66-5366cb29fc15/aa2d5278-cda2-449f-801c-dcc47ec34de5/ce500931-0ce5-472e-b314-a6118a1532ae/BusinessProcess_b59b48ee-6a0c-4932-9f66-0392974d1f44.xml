@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Required Processes &amp; Procedures for Services "
+    id="b59b48ee-6a0c-4932-9f66-0392974d1f44"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes ensure that all operational processes and procedures, IT systems changes, network changes, channel changes, operational procedures, testing tools and procedures, etc. required to support the new service class/component are identified.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use."/>

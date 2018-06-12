@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Overall Service Design "
+    id="3a84715b-b6f6-422c-acd4-ed5bd8c9b601"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Develop an overall service solution design for a particular customer, including customer premises equipment, operational methods, resource assignments and pre-order feasibility;&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Develop an overall service solution design for a particular customer, including customer premises equipment, operational methods, resource assignments and pre-order feasibility;&#xA;Optional&#xA;Not used for this process element"/>

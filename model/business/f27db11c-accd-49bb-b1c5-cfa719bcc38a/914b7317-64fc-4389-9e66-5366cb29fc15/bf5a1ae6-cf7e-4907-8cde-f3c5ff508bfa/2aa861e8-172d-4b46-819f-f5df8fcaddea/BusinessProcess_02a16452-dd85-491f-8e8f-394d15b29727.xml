@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Service Problem "
+    id="02a16452-dd85-491f-8e8f-394d15b29727"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process creates a new Service Trouble report.&#xA;Extended Description&#xA;Not used for this process element"/>

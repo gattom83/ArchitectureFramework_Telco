@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Service Test Results "
+    id="1f3c76f0-25fe-42fe-b9d9-f02c9335d531"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Capture and store the test results for historical and downstream testing comparison purposes. &#xA;If the tests succeed, the specific services will be marked as in-service which means the specific services are available for use by customers.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;If the tests succeed, the specific services will be marked as in-service which means the specific services are available for use by customers.&#xA;Mandatory&#xA;Capture and store the test results for historical and downstream testing comparison purposes.&#xA;Optional&#xA;Not used for this process element&#xA;"/>
