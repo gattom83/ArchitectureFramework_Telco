@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filter Service Alarm Event Notifications "
+    id="faf39e45-f936-4eb1-bad6-75f334362d9c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process encompasses the correlation of redundant, transient or implied service alarm event notifications with a specific “root cause&quot; service alarm event notification and associated service alarm event record.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process encompasses the correlation of redundant, transient or implied service alarm event notifications with a specific “root cause&quot; service alarm event notification and associated service alarm event record.&#xA;Optional&#xA;Not used for this process element"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Service Test Plans "
+    id="5b78e193-50ca-4c6f-a3f2-b0774b2902aa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Where appropriate test plans are not available this process is responsible for developing appropriate test plans.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Where appropriate test plans are not available&#xA;Mandatory&#xA;this process is responsible for developing appropriate test plans.&#xA;Optional&#xA;Not used for this process element"/>

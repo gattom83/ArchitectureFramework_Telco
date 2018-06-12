@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Service Trouble Report "
+    id="c802a4a9-824b-4676-a8a2-ebe901d05417"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Close a service trouble report when the service problem has been resolved&#xA;Extended Description&#xA;The objective of the Close Service Trouble Report processes is to close a service trouble report when the service problem has been resolved. &#xA;These processes monitor the status of all open service trouble reports, and  recognize that a service trouble report is ready to be closed when the status is changed to cleared.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use.&#xA;Interactions"/>

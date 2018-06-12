@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor, Report and Release Mgmt. of Service Infrastructure and Capacity Utilization "
+    id="e1d2396a-48b2-4f6c-b633-36ca247200d2"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitoring and reporting the capacity utilization of existing infrastructure.&#xA;Extended Description&#xA;• Monitoring capacity utilization of deployed service infrastructure to provide early detection of potential service infrastructure shortfalls;&#xA;• Monitoring of, and reporting on, service infrastructure and resource instance currency and version management;&#xA;Explanatory&#xA;Reserved for future use.&#xA;"/>

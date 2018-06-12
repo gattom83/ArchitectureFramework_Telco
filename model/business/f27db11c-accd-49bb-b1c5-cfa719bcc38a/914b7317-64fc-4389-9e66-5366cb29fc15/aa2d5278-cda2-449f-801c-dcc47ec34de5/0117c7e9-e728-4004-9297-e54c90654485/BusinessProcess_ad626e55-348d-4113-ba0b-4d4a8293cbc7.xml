@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Service Classes "
+    id="ad626e55-348d-4113-ba0b-4d4a8293cbc7"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes develop new service class ideas. The new service class ideas include an analysis of the customer value proposition.&#xA;Extended Description&#xA;Not used for this process element"/>

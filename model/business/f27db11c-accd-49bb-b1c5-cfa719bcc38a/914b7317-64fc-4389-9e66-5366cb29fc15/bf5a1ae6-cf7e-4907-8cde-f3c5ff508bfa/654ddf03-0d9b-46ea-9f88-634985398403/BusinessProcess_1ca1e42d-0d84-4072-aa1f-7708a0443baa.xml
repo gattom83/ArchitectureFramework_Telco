@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Service Configuration "
+    id="1ca1e42d-0d84-4072-aa1f-7708a0443baa"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process verifies whether the service configuration matches the appropriate product features.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process verifies whether the service configuration matches the appropriate product features.&#xA;Optional&#xA;Not used for this process element"/>

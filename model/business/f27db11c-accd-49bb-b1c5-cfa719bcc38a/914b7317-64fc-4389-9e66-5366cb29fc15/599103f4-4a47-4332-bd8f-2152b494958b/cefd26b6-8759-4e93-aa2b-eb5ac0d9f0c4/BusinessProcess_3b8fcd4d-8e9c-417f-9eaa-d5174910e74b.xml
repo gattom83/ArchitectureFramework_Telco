@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track Service Provisioning Activity "
+    id="3b8fcd4d-8e9c-417f-9eaa-d5174910e74b"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Undertake necessary tracking of the execution process.  Monitor the jeopardy status of service orders, and escalating service orders as necessary.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Undertake necessary tracking of the execution process.  Monitor the jeopardy status of service orders, and escalating service orders as necessary.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element&#xA;Parent of this process&#xA;Track &amp; Manage Service Provisioning"/>

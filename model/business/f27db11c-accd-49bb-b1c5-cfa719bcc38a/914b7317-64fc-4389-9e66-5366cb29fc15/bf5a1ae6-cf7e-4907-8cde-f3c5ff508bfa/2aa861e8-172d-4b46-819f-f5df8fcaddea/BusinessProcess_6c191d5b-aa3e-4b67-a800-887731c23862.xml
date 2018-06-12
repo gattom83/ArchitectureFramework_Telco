@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert Report To Service Problem Format "
+    id="6c191d5b-aa3e-4b67-a800-887731c23862"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;If the service trouble report is created as a result of a notification or request from processes other than the Survey &amp; Analyze Service Problem processes, this process is responsible for converting the received information into a form suitable for the Service Problem Management processes, and for requested additional information if required.&#xA;Extended Description&#xA;Not used for this process element"/>

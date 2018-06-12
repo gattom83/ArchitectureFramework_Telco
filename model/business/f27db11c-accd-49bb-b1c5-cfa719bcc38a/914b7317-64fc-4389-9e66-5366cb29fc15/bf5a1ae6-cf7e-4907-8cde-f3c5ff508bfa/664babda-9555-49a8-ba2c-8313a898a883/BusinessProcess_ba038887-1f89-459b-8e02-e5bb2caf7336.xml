@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Service Problem "
+    id="ba038887-1f89-459b-8e02-e5bb2caf7336"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process provides the escalations between support levels and actors when a service problem cannot be solved by the current assigned group. Therefore, the escalation can be carried out between supports levels at SM&amp;O level, or, it can be escalated to others actors, such as, resource provider or other external parties. It is essential the ability to rapidly escalate service problems according to clear and agreed rules.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process monitors the jeopardy status of open Service Trouble reports, and escalates Service Trouble reports as necessary.&#xA;"/>

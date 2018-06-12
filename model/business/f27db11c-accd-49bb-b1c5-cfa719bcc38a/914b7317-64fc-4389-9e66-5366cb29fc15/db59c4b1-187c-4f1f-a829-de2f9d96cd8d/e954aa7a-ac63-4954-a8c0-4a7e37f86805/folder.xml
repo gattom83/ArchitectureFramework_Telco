@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate Service Usage Records "
+    id="e954aa7a-ac63-4954-a8c0-4a7e37f86805"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Validate, normalize, convert and correlate usage records collected from the resource layer&#xA;Extended Description&#xA;The purpose of the Mediate Service Usage Records process is to validate, normalize, convert and correlate usage records collected.  It also removes any duplicate usage records that have already been processed.&#xA;Explanatory&#xA;Reserved for future use.&#xA;Mandatory&#xA;Reserved for future use.&#xA;Optional&#xA;Reserved for future use.&#xA;Interactions&#xA;Reserved for future use.&#xA;Child of this process"/>

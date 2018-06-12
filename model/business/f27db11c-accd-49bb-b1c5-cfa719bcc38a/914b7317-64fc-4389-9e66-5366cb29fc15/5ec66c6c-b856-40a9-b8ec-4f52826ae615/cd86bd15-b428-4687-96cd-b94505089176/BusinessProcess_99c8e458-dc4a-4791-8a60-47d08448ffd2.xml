@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Service Performance Degradation Report "
+    id="99c8e458-dc4a-4791-8a60-47d08448ffd2"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process monitors the jeopardy status of open Service Performance Degradation Reports, and escalates Service Performance Degradation Reports as necessary.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process monitors the jeopardy status of open Service Performance Degradation Reports, and escalates Service Performance Degradation Reports as necessary.&#xA;Optional&#xA;Not used for this process element&#xA;"/>

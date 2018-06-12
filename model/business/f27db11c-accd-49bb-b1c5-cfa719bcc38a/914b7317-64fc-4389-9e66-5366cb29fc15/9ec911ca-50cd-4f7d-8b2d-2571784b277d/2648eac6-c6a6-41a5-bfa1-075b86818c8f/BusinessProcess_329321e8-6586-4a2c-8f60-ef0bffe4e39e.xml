@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Problem  &amp; Performance Data Collection "
+    id="329321e8-6586-4a2c-8f60-ef0bffe4e39e"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Reviewing the trend analysis and undertaking the analysis of trouble and performance report to identify the necessary preventative activities.&#xA;Extended Description&#xA;• Extracting and analyzing, including undertaking trend analysis, historical and current service instance trouble reports and performance reports to identify potential service infrastructure or service instances requiring proactive maintenance and/or replacement;&#xA;Explanatory&#xA;Reserved for future use."/>

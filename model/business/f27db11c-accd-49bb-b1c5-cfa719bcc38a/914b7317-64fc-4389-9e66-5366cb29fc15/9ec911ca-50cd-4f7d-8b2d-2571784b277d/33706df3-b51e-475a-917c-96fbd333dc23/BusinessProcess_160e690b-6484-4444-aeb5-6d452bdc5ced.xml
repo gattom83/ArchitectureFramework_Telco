@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Service Inventory Record "
+    id="160e690b-6484-4444-aeb5-6d452bdc5ced"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Updating the inventory record.&#xA;Extended Description&#xA;• Updating the Service Inventory of any changes to the available service infrastructure capacity.&#xA;Explanatory&#xA;Reserved for future use.&#xA;"/>

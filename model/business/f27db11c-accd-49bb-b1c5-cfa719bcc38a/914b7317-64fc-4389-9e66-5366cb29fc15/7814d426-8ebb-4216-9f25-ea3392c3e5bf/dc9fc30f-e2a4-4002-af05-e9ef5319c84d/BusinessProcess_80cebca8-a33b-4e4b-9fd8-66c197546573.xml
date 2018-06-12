@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Service Capability Delivery "
+    id="80cebca8-a33b-4e4b-9fd8-66c197546573"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes ensure the provision, implementation and roll-out of the new or enhanced service capability and associated operational support processes. These processes are predominantly program/project management process functions, and require the detailed management and co-ordination of the delivery of individual service infrastructure components, and any underlying resource infrastructure capability delivery, to achieve the delivery of the overall service capability.&#xA;Extended Description&#xA;Not used for this process element"/>

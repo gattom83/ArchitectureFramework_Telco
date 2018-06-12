@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Service Recovery Plan "
+    id="52796582-c149-4aa7-94e4-7a071138970a"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Where appropriate recovery plans are not available this process is responsible for developing appropriate recovery plans.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Where appropriate recovery plans are not available&#xA;Mandatory&#xA;this process is responsible for developing appropriate recovery plans.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element"/>

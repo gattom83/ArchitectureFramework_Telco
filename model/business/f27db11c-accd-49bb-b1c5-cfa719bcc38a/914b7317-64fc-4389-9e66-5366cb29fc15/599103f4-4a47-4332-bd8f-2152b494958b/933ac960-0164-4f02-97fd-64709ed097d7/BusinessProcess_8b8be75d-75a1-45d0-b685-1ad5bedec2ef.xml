@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Release Service Parameter "
+    id="8b8be75d-75a1-45d0-b685-1ad5bedec2ef"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Release the reservation when the time period has expired.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;Release the reservation when the time period has expired.&#xA;Optional&#xA;Not used for this process element&#xA;"/>

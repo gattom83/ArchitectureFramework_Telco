@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Service Inventory Issues and Provide Reports and Warnings "
+    id="2dd08e69-85d9-48a7-8700-182c211c3dde"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Managing and Identifying any service Inventory Repository issues and providing warnings.&#xA;Extended Description&#xA;• Identifying any technical driven shortcomings of the service inventory repository, and providing input to Service Development &amp; Management processes to rectify these issues.&#xA;Explanatory&#xA;Reserved for future use."/>

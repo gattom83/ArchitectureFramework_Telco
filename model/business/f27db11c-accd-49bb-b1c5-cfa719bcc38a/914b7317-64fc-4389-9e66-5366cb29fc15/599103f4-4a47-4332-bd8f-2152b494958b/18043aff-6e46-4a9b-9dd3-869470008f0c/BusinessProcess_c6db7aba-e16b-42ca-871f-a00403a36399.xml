@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commence Service Recovery "
+    id="c6db7aba-e16b-42ca-871f-a00403a36399"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;When the recovery activity is about to commence, this processes is responsible for notifying when recovery work is commencing.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;When the recovery activity is about to commence,&#xA;Mandatory&#xA;this processes is responsible for notifying when recovery work is commencing.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions&#xA;Not used for this process element&#xA;Parent of this process"/>

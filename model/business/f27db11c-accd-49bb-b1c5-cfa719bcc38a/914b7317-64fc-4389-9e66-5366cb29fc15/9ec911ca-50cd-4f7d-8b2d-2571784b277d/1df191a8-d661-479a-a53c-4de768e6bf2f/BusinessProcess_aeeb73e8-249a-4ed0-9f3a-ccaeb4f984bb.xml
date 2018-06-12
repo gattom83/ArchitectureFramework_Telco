@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Monitor Service Inventory Capabilities "
+    id="aeeb73e8-249a-4ed0-9f3a-ccaeb4f984bb"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Monitoring and reporting on the usage and access to the service inventory, and the quality of the data maintained in it.&#xA;Extended Description&#xA;• Tracking and monitoring of the usage of, and access to, the service inventory repository and associated costs, and reporting on the findings;"/>

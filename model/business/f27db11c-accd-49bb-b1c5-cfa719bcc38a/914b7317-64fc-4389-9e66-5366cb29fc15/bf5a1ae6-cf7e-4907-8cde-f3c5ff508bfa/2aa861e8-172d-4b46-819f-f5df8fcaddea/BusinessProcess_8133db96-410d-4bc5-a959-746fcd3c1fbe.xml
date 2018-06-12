@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estimate Time For Restoring Service "
+    id="8133db96-410d-4bc5-a959-746fcd3c1fbe"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process estimates the time to restore service which is included in the new Service Trouble report so that other processes can gain access to this information.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process estimates the time to restore service which is included in the new Service Trouble report so that other processes can gain access to this information."/>

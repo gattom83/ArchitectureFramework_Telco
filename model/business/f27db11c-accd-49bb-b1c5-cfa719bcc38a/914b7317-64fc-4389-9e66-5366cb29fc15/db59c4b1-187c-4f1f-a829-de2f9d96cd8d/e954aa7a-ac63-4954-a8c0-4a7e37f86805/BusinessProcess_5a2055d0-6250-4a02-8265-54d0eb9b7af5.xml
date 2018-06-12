@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate Service Usage Record "
+    id="5a2055d0-6250-4a02-8265-54d0eb9b7af5"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;Correlate collected service usage records.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Since the Service Usage Records are collected from different upstream system, sometime more than one Service Usage Records store same service consumption.&#xA;Mandatory&#xA;The purpose of Correlate Service Usage Record process is to correlate collected service usage records. In order to resolve this case, this process is responsible for identifying the correlative Service Usage Records and associating them together for downstream system use.&#xA;"/>

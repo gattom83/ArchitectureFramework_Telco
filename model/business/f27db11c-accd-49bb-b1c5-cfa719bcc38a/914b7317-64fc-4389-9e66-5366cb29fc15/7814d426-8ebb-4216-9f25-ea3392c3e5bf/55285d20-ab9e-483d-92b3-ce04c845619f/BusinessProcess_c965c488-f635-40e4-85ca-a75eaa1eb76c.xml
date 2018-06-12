@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agree Service Infrastructure Requirements "
+    id="c965c488-f635-40e4-85ca-a75eaa1eb76c"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modelled in business process terms, and can be applied (i.e. “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;These processes obtain agreement to  the detailed infrastructure requirements to support the product capabilities required by the enterprise. The processes include any cross-enterprise coordination and management functions to ensure that the demand distributions capture the needs of all stakeholders.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Reserved for future use.&#xA;"/>

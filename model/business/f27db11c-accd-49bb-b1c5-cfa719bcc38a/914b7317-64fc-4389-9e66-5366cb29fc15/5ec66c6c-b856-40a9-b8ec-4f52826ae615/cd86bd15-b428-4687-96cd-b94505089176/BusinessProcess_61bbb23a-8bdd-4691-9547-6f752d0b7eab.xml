@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Service Performance Degradation Report "
+    id="61bbb23a-8bdd-4691-9547-6f752d0b7eab"
+    documentation="Process Context&#xA;This process element represents part of the overall enterprise, modeled in business process terms, and can be applied (ie “instantiated&quot;) with other similar process elements for application within a specific organization or domain.&#xA;Brief Description&#xA;This process cancels a Service Performance Degradation Report when the specific trouble was related to a false service failure event.&#xA;Extended Description&#xA;Not used for this process element&#xA;Explanatory&#xA;Not used for this process element&#xA;Mandatory&#xA;This process cancels a Service Performance Degradation Report when the specific trouble was related to a false service failure event.&#xA;Optional&#xA;Not used for this process element&#xA;Interactions"/>
