@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process Framework View"
-    id="058c332d-1b00-4469-9f50-9406a883c8a4"/>
+    id="058c332d-1b00-4469-9f50-9406a883c8a4">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a7252658-8d8c-4638-a57c-a422047c9e85">
+    <bounds
+        x="228"
+        y="168"
+        width="841"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_11299e1b-f3ed-4e0d-ba5c-93b9eb3d648f.xml#11299e1b-f3ed-4e0d-ba5c-93b9eb3d648f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
