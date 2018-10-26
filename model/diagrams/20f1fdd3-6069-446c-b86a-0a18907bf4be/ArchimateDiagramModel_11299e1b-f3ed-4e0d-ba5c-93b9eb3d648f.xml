@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="01-Order to Payment"
-    id="11299e1b-f3ed-4e0d-ba5c-93b9eb3d648f">
+    id="11299e1b-f3ed-4e0d-ba5c-93b9eb3d648f"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="d8a3eeb7-0f68-4657-9508-861aee29b9d0"
@@ -824,6 +825,10 @@
             startX="192"
             startY="9"
             endY="81"/>
+        <bendpoints
+            startX="192"
+            startY="-15"
+            endY="57"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_869a5b76-6e42-415a-bd3c-7a06fd8fedee.xml#869a5b76-6e42-415a-bd3c-7a06fd8fedee"/>
